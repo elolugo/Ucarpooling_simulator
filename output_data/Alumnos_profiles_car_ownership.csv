@@ -1,0 +1,3081 @@
+UUID;MEANS_TRANSPORTATION
+1;No car
+3;Car
+4;Car
+6;Car
+7;No car
+8;Car
+10;Car
+11;Car
+13;Car
+14;Car
+17;No car
+18;No car
+23;Car
+29;No car
+30;No car
+33;Car
+35;Car
+36;Car
+37;Car
+40;Car
+41;Car
+42;Car
+43;Car
+44;No car
+45;No car
+51;Car
+52;Car
+55;Car
+56;No car
+57;Car
+59;Car
+60;No car
+61;No car
+63;No car
+64;No car
+67;No car
+68;Car
+70;Car
+73;No car
+75;Car
+83;No car
+84;No car
+87;No car
+92;No car
+97;Car
+98;Car
+99;Car
+100;Car
+102;Car
+104;Car
+105;No car
+108;No car
+109;Car
+110;Car
+113;Car
+114;No car
+116;Car
+117;No car
+122;No car
+126;No car
+127;No car
+128;Car
+130;Car
+131;No car
+132;Car
+134;No car
+135;Car
+138;Car
+139;Car
+140;No car
+146;No car
+147;No car
+148;Car
+149;Car
+150;Car
+151;No car
+152;No car
+157;Car
+163;Car
+165;Car
+168;No car
+169;No car
+171;No car
+174;Car
+176;Car
+177;Car
+179;Car
+180;No car
+182;Car
+184;Car
+185;No car
+186;No car
+188;No car
+191;Car
+194;No car
+195;Car
+198;No car
+199;Car
+200;Car
+201;No car
+204;No car
+205;Car
+207;Car
+208;No car
+210;Car
+215;Car
+216;Car
+226;Car
+228;No car
+229;Car
+230;No car
+231;No car
+232;Car
+233;No car
+234;Car
+237;Car
+238;Car
+239;Car
+244;No car
+245;Car
+249;Car
+250;Car
+251;Car
+252;No car
+253;Car
+256;No car
+257;No car
+258;Car
+259;Car
+261;Car
+262;Car
+263;Car
+264;No car
+269;No car
+271;No car
+272;Car
+274;No car
+276;Car
+279;Car
+280;Car
+281;Car
+282;No car
+283;No car
+285;No car
+286;No car
+287;Car
+289;Car
+290;Car
+291;No car
+292;Car
+293;Car
+295;No car
+296;No car
+297;Car
+299;Car
+300;No car
+305;Car
+307;Car
+309;Car
+311;No car
+312;Car
+313;No car
+315;Car
+316;No car
+317;No car
+322;Car
+323;Car
+324;No car
+327;Car
+328;No car
+330;Car
+331;Car
+332;Car
+333;Car
+334;No car
+335;Car
+336;Car
+337;Car
+338;No car
+339;Car
+340;No car
+341;Car
+346;Car
+347;Car
+348;Car
+350;Car
+352;Car
+353;No car
+355;No car
+358;Car
+359;Car
+362;No car
+367;Car
+368;Car
+369;No car
+371;Car
+372;No car
+374;Car
+375;Car
+378;No car
+379;Car
+381;No car
+382;No car
+383;Car
+384;Car
+385;Car
+386;No car
+387;No car
+389;No car
+390;No car
+393;Car
+394;Car
+395;No car
+398;No car
+399;No car
+400;Car
+401;No car
+404;No car
+405;No car
+408;No car
+409;No car
+410;Car
+411;No car
+414;Car
+415;Car
+416;No car
+418;No car
+419;Car
+420;No car
+421;Car
+425;Car
+426;Car
+428;Car
+430;No car
+431;Car
+433;Car
+435;Car
+440;No car
+441;No car
+442;No car
+443;Car
+446;Car
+450;Car
+451;No car
+452;Car
+454;Car
+455;No car
+456;No car
+458;No car
+460;No car
+461;No car
+465;No car
+466;Car
+467;Car
+468;Car
+473;Car
+477;Car
+478;Car
+480;Car
+484;Car
+486;Car
+489;No car
+491;Car
+492;Car
+494;No car
+496;No car
+499;Car
+500;No car
+502;Car
+503;No car
+504;Car
+506;Car
+508;Car
+511;Car
+512;No car
+513;Car
+515;No car
+518;No car
+519;Car
+520;Car
+521;No car
+522;Car
+525;Car
+526;No car
+528;Car
+529;Car
+530;Car
+532;No car
+533;No car
+534;Car
+535;Car
+536;Car
+537;No car
+538;No car
+539;Car
+540;Car
+541;Car
+543;No car
+545;Car
+546;Car
+548;No car
+553;Car
+555;No car
+557;No car
+558;No car
+559;No car
+563;No car
+564;Car
+566;Car
+570;Car
+571;Car
+575;Car
+576;No car
+577;Car
+578;Car
+579;Car
+583;Car
+584;No car
+587;Car
+588;No car
+591;Car
+592;No car
+593;Car
+594;No car
+597;Car
+601;No car
+602;Car
+603;Car
+604;Car
+606;Car
+608;Car
+609;No car
+610;Car
+611;Car
+615;No car
+616;Car
+618;No car
+621;No car
+622;Car
+623;Car
+625;Car
+626;Car
+629;Car
+630;No car
+631;Car
+635;Car
+637;Car
+638;Car
+639;Car
+641;No car
+642;Car
+644;Car
+646;No car
+648;No car
+650;Car
+652;Car
+653;No car
+654;Car
+655;Car
+657;Car
+659;Car
+661;Car
+664;No car
+666;Car
+667;No car
+668;Car
+670;No car
+671;No car
+672;Car
+675;No car
+676;Car
+678;No car
+679;Car
+680;Car
+681;No car
+682;Car
+684;Car
+685;No car
+686;No car
+687;Car
+688;Car
+690;Car
+691;No car
+692;No car
+695;Car
+697;Car
+698;No car
+702;Car
+704;No car
+705;No car
+712;Car
+713;Car
+714;Car
+715;Car
+718;Car
+721;No car
+722;Car
+725;No car
+728;No car
+729;Car
+730;No car
+734;No car
+737;No car
+738;No car
+740;Car
+741;No car
+743;Car
+744;No car
+745;Car
+746;Car
+748;Car
+749;Car
+751;No car
+754;Car
+755;Car
+756;Car
+758;No car
+759;Car
+761;No car
+762;No car
+764;No car
+768;No car
+769;No car
+775;Car
+779;Car
+780;No car
+781;Car
+782;Car
+786;No car
+789;Car
+790;No car
+791;No car
+792;Car
+795;No car
+797;Car
+798;No car
+799;No car
+802;No car
+803;Car
+804;No car
+805;Car
+807;Car
+808;Car
+809;Car
+810;Car
+812;Car
+813;No car
+814;No car
+815;Car
+819;Car
+821;No car
+822;Car
+823;Car
+825;Car
+827;No car
+828;No car
+831;Car
+833;Car
+834;No car
+837;No car
+839;Car
+840;Car
+841;No car
+842;Car
+844;Car
+846;No car
+848;Car
+849;No car
+851;Car
+852;No car
+853;Car
+854;Car
+855;Car
+858;No car
+859;Car
+860;Car
+861;Car
+863;Car
+868;No car
+869;Car
+870;No car
+871;No car
+872;Car
+875;No car
+878;No car
+882;Car
+884;Car
+885;Car
+887;Car
+891;No car
+892;No car
+897;No car
+899;Car
+901;Car
+902;Car
+905;Car
+907;Car
+908;Car
+911;No car
+914;No car
+917;Car
+919;No car
+920;No car
+922;Car
+923;Car
+924;No car
+926;Car
+927;Car
+928;No car
+932;Car
+933;Car
+934;No car
+935;Car
+938;Car
+939;Car
+942;Car
+943;No car
+946;No car
+948;Car
+949;Car
+952;Car
+953;No car
+954;Car
+955;No car
+956;Car
+957;No car
+959;Car
+960;No car
+962;No car
+963;Car
+964;Car
+966;Car
+968;Car
+970;Car
+973;Car
+977;Car
+978;Car
+981;Car
+982;No car
+983;No car
+985;Car
+986;Car
+987;Car
+989;No car
+991;No car
+997;Car
+999;No car
+1003;No car
+1004;No car
+1005;Car
+1007;Car
+1009;Car
+1010;No car
+1011;Car
+1015;Car
+1016;No car
+1018;Car
+1024;No car
+1028;No car
+1030;No car
+1032;Car
+1034;Car
+1037;No car
+1038;Car
+1040;No car
+1042;No car
+1047;Car
+1049;No car
+1050;Car
+1052;No car
+1057;Car
+1058;No car
+1059;Car
+1061;Car
+1063;Car
+1064;Car
+1066;No car
+1067;Car
+1073;Car
+1075;No car
+1076;Car
+1078;Car
+1079;Car
+1080;No car
+1082;Car
+1085;Car
+1086;Car
+1088;Car
+1091;Car
+1094;Car
+1095;Car
+1096;Car
+1097;Car
+1101;No car
+1105;Car
+1106;Car
+1108;Car
+1109;No car
+1110;Car
+1111;Car
+1112;No car
+1113;Car
+1116;No car
+1119;No car
+1121;No car
+1122;Car
+1123;Car
+1124;Car
+1126;Car
+1127;Car
+1129;Car
+1130;No car
+1131;No car
+1132;Car
+1135;No car
+1138;Car
+1140;Car
+1143;Car
+1146;Car
+1149;Car
+1151;No car
+1152;Car
+1153;Car
+1155;No car
+1156;No car
+1158;Car
+1159;Car
+1160;No car
+1164;No car
+1166;No car
+1167;No car
+1169;Car
+1171;Car
+1172;No car
+1174;No car
+1175;Car
+1176;Car
+1177;No car
+1180;No car
+1181;Car
+1182;Car
+1183;Car
+1184;Car
+1188;Car
+1189;No car
+1192;No car
+1193;No car
+1194;No car
+1196;No car
+1198;No car
+1199;Car
+1201;Car
+1208;Car
+1210;Car
+1213;No car
+1218;Car
+1220;Car
+1221;No car
+1222;Car
+1223;No car
+1224;Car
+1225;Car
+1226;Car
+1227;No car
+1228;Car
+1232;Car
+1233;Car
+1235;No car
+1237;Car
+1244;No car
+1245;No car
+1247;Car
+1249;No car
+1250;Car
+1251;No car
+1252;Car
+1255;Car
+1256;No car
+1257;Car
+1259;Car
+1260;No car
+1262;Car
+1263;Car
+1264;No car
+1265;Car
+1266;Car
+1267;Car
+1270;Car
+1271;Car
+1272;Car
+1273;Car
+1275;No car
+1277;Car
+1278;Car
+1279;Car
+1280;Car
+1282;Car
+1283;Car
+1284;Car
+1286;Car
+1287;No car
+1288;Car
+1291;No car
+1293;Car
+1295;Car
+1297;No car
+1298;No car
+1299;Car
+1300;Car
+1305;Car
+1307;Car
+1312;Car
+1316;Car
+1317;Car
+1318;No car
+1319;No car
+1320;Car
+1322;No car
+1323;Car
+1325;Car
+1326;Car
+1327;Car
+1328;No car
+1329;No car
+1330;Car
+1331;Car
+1336;Car
+1338;No car
+1339;Car
+1341;Car
+1344;Car
+1347;Car
+1348;No car
+1349;No car
+1350;Car
+1351;No car
+1352;Car
+1356;Car
+1357;No car
+1358;No car
+1359;Car
+1360;Car
+1361;Car
+1362;Car
+1363;Car
+1364;Car
+1365;No car
+1366;No car
+1367;No car
+1368;Car
+1369;Car
+1370;No car
+1372;Car
+1374;Car
+1375;Car
+1376;No car
+1378;No car
+1379;No car
+1380;Car
+1382;No car
+1384;No car
+1385;Car
+1386;Car
+1392;No car
+1394;Car
+1395;Car
+1400;Car
+1404;No car
+1405;No car
+1406;Car
+1407;Car
+1409;No car
+1410;Car
+1411;No car
+1413;No car
+1414;Car
+1416;Car
+1418;Car
+1420;No car
+1425;Car
+1426;Car
+1427;Car
+1428;Car
+1430;Car
+1434;Car
+1436;No car
+1437;Car
+1439;No car
+1442;Car
+1446;Car
+1448;Car
+1449;Car
+1450;Car
+1452;Car
+1453;No car
+1454;No car
+1455;Car
+1456;Car
+1457;No car
+1459;No car
+1460;Car
+1463;No car
+1465;No car
+1467;No car
+1468;Car
+1470;Car
+1471;Car
+1475;No car
+1476;Car
+1477;No car
+1484;Car
+1485;Car
+1486;No car
+1487;No car
+1489;Car
+1490;No car
+1493;No car
+1499;Car
+1500;Car
+1501;No car
+1504;No car
+1507;Car
+1508;No car
+1509;Car
+1510;Car
+1512;No car
+1513;No car
+1515;No car
+1516;Car
+1517;Car
+1519;Car
+1521;Car
+1526;No car
+1527;No car
+1528;Car
+1529;Car
+1530;Car
+1531;Car
+1532;Car
+1533;Car
+1535;Car
+1536;Car
+1537;Car
+1539;Car
+1541;No car
+1543;No car
+1544;Car
+1549;No car
+1550;Car
+1553;Car
+1555;No car
+1559;Car
+1560;Car
+1561;Car
+1562;Car
+1563;No car
+1564;Car
+1568;Car
+1569;No car
+1570;Car
+1571;Car
+1575;No car
+1578;No car
+1579;Car
+1581;Car
+1584;Car
+1585;Car
+1587;No car
+1594;Car
+1595;Car
+1596;Car
+1598;Car
+1602;Car
+1609;Car
+1611;Car
+1613;No car
+1614;Car
+1616;No car
+1620;Car
+1627;Car
+1630;Car
+1637;No car
+1638;Car
+1639;Car
+1640;No car
+1641;No car
+1642;Car
+1650;No car
+1652;No car
+1653;No car
+1654;No car
+1655;No car
+1659;No car
+1660;Car
+1661;Car
+1662;No car
+1663;Car
+1667;No car
+1668;Car
+1670;No car
+1671;Car
+1673;Car
+1679;Car
+1680;Car
+1682;No car
+1686;No car
+1687;No car
+1688;No car
+1689;Car
+1691;Car
+1694;No car
+1695;Car
+1697;Car
+1698;Car
+1700;Car
+1703;No car
+1704;Car
+1705;Car
+1707;Car
+1708;Car
+1710;Car
+1711;No car
+1712;Car
+1714;No car
+1715;No car
+1716;Car
+1717;Car
+1718;No car
+1720;Car
+1722;Car
+1723;Car
+1725;Car
+1726;No car
+1727;Car
+1728;No car
+1730;Car
+1735;Car
+1737;No car
+1739;Car
+1740;Car
+1742;Car
+1745;Car
+1746;Car
+1747;Car
+1748;Car
+1749;No car
+1751;No car
+1753;No car
+1754;No car
+1757;Car
+1760;Car
+1761;Car
+1764;Car
+1765;No car
+1766;Car
+1768;Car
+1769;Car
+1770;No car
+1771;Car
+1772;No car
+1773;Car
+1774;No car
+1775;Car
+1776;Car
+1777;No car
+1778;Car
+1779;No car
+1780;Car
+1781;Car
+1782;Car
+1783;No car
+1785;No car
+1786;No car
+1787;Car
+1789;No car
+1790;Car
+1793;No car
+1794;Car
+1795;No car
+1796;No car
+1797;Car
+1798;Car
+1799;No car
+1800;Car
+1801;No car
+1803;No car
+1805;Car
+1806;No car
+1808;No car
+1809;Car
+1811;No car
+1813;No car
+1814;Car
+1815;Car
+1817;No car
+1818;No car
+1820;No car
+1821;Car
+1822;No car
+1823;No car
+1824;Car
+1829;Car
+1830;Car
+1832;No car
+1834;Car
+1836;Car
+1837;No car
+1842;No car
+1843;Car
+1844;No car
+1846;Car
+1847;No car
+1849;No car
+1853;No car
+1857;Car
+1859;Car
+1860;No car
+1863;Car
+1864;Car
+1867;Car
+1869;No car
+1870;Car
+1873;Car
+1875;Car
+1876;Car
+1878;No car
+1879;Car
+1880;Car
+1881;No car
+1882;Car
+1883;Car
+1884;Car
+1886;No car
+1888;Car
+1890;Car
+1891;Car
+1892;Car
+1893;Car
+1894;Car
+1895;Car
+1896;No car
+1897;No car
+1898;No car
+1899;No car
+1900;Car
+1901;Car
+1903;No car
+1904;No car
+1905;Car
+1908;Car
+1909;Car
+1910;Car
+1912;No car
+1913;Car
+1917;No car
+1918;Car
+1919;Car
+1921;Car
+1924;Car
+1925;No car
+1926;Car
+1927;Car
+1928;Car
+1929;Car
+1930;Car
+1931;Car
+1933;No car
+1934;No car
+1939;Car
+1942;Car
+1944;Car
+1945;Car
+1946;No car
+1948;No car
+1950;Car
+1951;No car
+1952;No car
+1953;Car
+1954;No car
+1955;Car
+1957;No car
+1960;Car
+1961;Car
+1964;Car
+1965;Car
+1966;Car
+1968;Car
+1972;Car
+1973;No car
+1974;No car
+1976;No car
+1978;No car
+1979;No car
+1981;No car
+1982;No car
+1983;Car
+1984;Car
+1985;No car
+1986;No car
+1987;Car
+1989;No car
+1990;Car
+1993;Car
+1994;No car
+1995;Car
+1996;No car
+1999;Car
+2001;No car
+2002;No car
+2004;No car
+2006;Car
+2009;Car
+2013;No car
+2014;Car
+2015;No car
+2016;Car
+2017;No car
+2018;No car
+2019;No car
+2022;No car
+2024;Car
+2025;No car
+2027;Car
+2029;Car
+2030;No car
+2033;Car
+2036;Car
+2037;No car
+2038;No car
+2044;Car
+2050;Car
+2051;Car
+2054;Car
+2055;No car
+2056;No car
+2057;Car
+2059;Car
+2060;Car
+2061;Car
+2062;Car
+2065;Car
+2071;No car
+2072;No car
+2073;Car
+2075;Car
+2076;Car
+2078;Car
+2081;Car
+2082;Car
+2085;No car
+2088;No car
+2089;Car
+2090;Car
+2092;No car
+2093;Car
+2094;Car
+2095;Car
+2098;No car
+2101;Car
+2103;Car
+2105;Car
+2114;Car
+2119;Car
+2120;No car
+2121;Car
+2125;Car
+2126;Car
+2128;Car
+2131;Car
+2133;Car
+2137;Car
+2142;No car
+2143;Car
+2144;Car
+2146;No car
+2149;Car
+2151;Car
+2153;Car
+2155;Car
+2157;Car
+2163;Car
+2165;No car
+2167;Car
+2172;No car
+2173;Car
+2174;Car
+2175;Car
+2177;No car
+2179;No car
+2182;No car
+2183;No car
+2184;No car
+2188;No car
+2191;Car
+2193;No car
+2194;Car
+2195;No car
+2196;No car
+2198;Car
+2199;Car
+2201;No car
+2205;Car
+2208;No car
+2216;Car
+2217;Car
+2218;No car
+2221;Car
+2222;Car
+2223;No car
+2225;Car
+2234;Car
+2235;Car
+2237;Car
+2238;Car
+2239;No car
+2241;Car
+2243;No car
+2249;Car
+2250;Car
+2251;Car
+2252;No car
+2254;No car
+2257;No car
+2258;No car
+2261;Car
+2262;No car
+2265;Car
+2271;No car
+2273;No car
+2275;Car
+2278;No car
+2280;Car
+2283;No car
+2288;Car
+2289;Car
+2290;Car
+2293;Car
+2294;Car
+2296;No car
+2297;Car
+2301;Car
+2302;Car
+2303;No car
+2305;No car
+2306;Car
+2307;Car
+2312;Car
+2315;No car
+2318;Car
+2322;Car
+2323;Car
+2324;No car
+2332;Car
+2333;No car
+2337;Car
+2338;No car
+2339;Car
+2343;Car
+2344;Car
+2348;Car
+2350;No car
+2351;Car
+2354;Car
+2355;Car
+2356;Car
+2357;No car
+2360;Car
+2361;No car
+2363;No car
+2364;Car
+2365;Car
+2369;Car
+2370;Car
+2371;No car
+2373;Car
+2374;Car
+2375;Car
+2376;No car
+2377;No car
+2384;Car
+2387;No car
+2388;No car
+2389;Car
+2390;Car
+2393;No car
+2396;Car
+2397;Car
+2398;No car
+2399;No car
+2402;Car
+2403;Car
+2408;Car
+2409;No car
+2410;No car
+2413;Car
+2414;Car
+2416;No car
+2418;Car
+2419;Car
+2420;Car
+2421;No car
+2423;Car
+2425;Car
+2426;Car
+2428;No car
+2429;No car
+2430;No car
+2432;Car
+2433;Car
+2434;Car
+2436;Car
+2440;Car
+2441;No car
+2442;Car
+2445;Car
+2446;No car
+2447;Car
+2448;No car
+2450;Car
+2451;Car
+2452;No car
+2453;Car
+2456;Car
+2459;Car
+2461;No car
+2464;Car
+2466;No car
+2467;No car
+2473;Car
+2475;No car
+2482;Car
+2484;Car
+2485;No car
+2486;Car
+2488;Car
+2489;No car
+2490;No car
+2491;Car
+2492;No car
+2498;No car
+2499;Car
+2502;Car
+2505;No car
+2506;Car
+2507;No car
+2508;Car
+2519;No car
+2521;No car
+2522;Car
+2523;Car
+2524;Car
+2525;No car
+2526;Car
+2529;No car
+2530;Car
+2531;Car
+2532;No car
+2535;No car
+2536;No car
+2537;Car
+2538;Car
+2539;No car
+2540;No car
+2542;Car
+2544;Car
+2545;No car
+2549;No car
+2550;No car
+2553;No car
+2556;Car
+2558;Car
+2559;Car
+2560;No car
+2561;No car
+2562;Car
+2564;Car
+2565;Car
+2566;No car
+2568;No car
+2569;Car
+2570;No car
+2571;Car
+2574;Car
+2578;No car
+2580;Car
+2583;Car
+2585;Car
+2590;Car
+2598;Car
+2601;No car
+2606;Car
+2607;Car
+2612;Car
+2614;Car
+2615;No car
+2617;Car
+2618;Car
+2625;Car
+2626;No car
+2632;Car
+2633;Car
+2636;Car
+2638;No car
+2640;Car
+2641;No car
+2645;Car
+2648;No car
+2649;No car
+2651;Car
+2652;No car
+2653;Car
+2655;Car
+2657;Car
+2658;No car
+2659;Car
+2660;No car
+2661;No car
+2662;No car
+2664;Car
+2665;Car
+2668;Car
+2672;Car
+2673;Car
+2674;Car
+2675;No car
+2677;No car
+2680;Car
+2681;Car
+2684;Car
+2688;Car
+2692;No car
+2693;No car
+2695;Car
+2696;Car
+2698;No car
+2701;No car
+2705;Car
+2707;No car
+2708;No car
+2710;Car
+2712;No car
+2714;No car
+2719;Car
+2720;No car
+2722;No car
+2723;Car
+2725;Car
+2726;Car
+2727;Car
+2729;Car
+2733;Car
+2734;No car
+2735;No car
+2738;No car
+2740;Car
+2741;Car
+2743;No car
+2744;Car
+2745;No car
+2747;Car
+2748;Car
+2751;No car
+2754;Car
+2757;Car
+2758;Car
+2759;Car
+2761;Car
+2763;Car
+2764;Car
+2767;No car
+2768;Car
+2769;Car
+2771;Car
+2772;No car
+2773;No car
+2776;No car
+2777;Car
+2778;Car
+2783;Car
+2784;Car
+2785;Car
+2786;Car
+2788;No car
+2789;No car
+2790;No car
+2793;No car
+2797;Car
+2798;Car
+2802;Car
+2803;Car
+2804;No car
+2805;Car
+2806;Car
+2807;Car
+2808;Car
+2812;Car
+2813;No car
+2820;No car
+2825;No car
+2827;No car
+2829;Car
+2832;Car
+2833;Car
+2834;Car
+2837;Car
+2840;No car
+2841;Car
+2846;Car
+2847;Car
+2849;No car
+2850;Car
+2851;Car
+2856;Car
+2857;Car
+2860;Car
+2867;Car
+2869;Car
+2871;Car
+2873;Car
+2874;No car
+2877;No car
+2878;Car
+2879;Car
+2883;No car
+2886;Car
+2887;No car
+2890;No car
+2892;Car
+2894;No car
+2895;Car
+2897;Car
+2899;No car
+2901;Car
+2903;No car
+2904;No car
+2908;No car
+2909;No car
+2912;Car
+2913;Car
+2914;No car
+2916;Car
+2917;Car
+2920;Car
+2923;Car
+2924;Car
+2925;No car
+2927;No car
+2928;Car
+2929;Car
+2931;Car
+2932;Car
+2933;Car
+2934;Car
+2936;No car
+2939;Car
+2940;Car
+2943;Car
+2945;No car
+2948;No car
+2950;Car
+2952;No car
+2953;Car
+2959;Car
+2960;Car
+2961;Car
+2962;Car
+2966;No car
+2967;No car
+2969;No car
+2975;Car
+2976;No car
+2977;No car
+2978;Car
+2981;Car
+2982;Car
+2984;Car
+2985;No car
+2987;Car
+2990;Car
+2993;No car
+2994;Car
+2995;Car
+3005;Car
+3006;Car
+3007;No car
+3008;No car
+3011;Car
+3013;Car
+3016;Car
+3019;Car
+3023;Car
+3024;Car
+3025;Car
+3026;Car
+3028;Car
+3029;Car
+3034;Car
+3035;Car
+3037;Car
+3038;No car
+3042;Car
+3044;Car
+3047;No car
+3048;Car
+3052;Car
+3053;Car
+3054;Car
+3056;No car
+3057;No car
+3059;Car
+3060;No car
+3062;No car
+3064;No car
+3065;No car
+3068;Car
+3069;Car
+3071;Car
+3075;Car
+3076;Car
+3078;Car
+3079;No car
+3080;Car
+3084;Car
+3086;No car
+3088;No car
+3089;No car
+3093;Car
+3095;No car
+3096;No car
+3099;Car
+3103;Car
+3105;No car
+3109;Car
+3110;Car
+3117;Car
+3119;No car
+3120;Car
+3121;Car
+3129;Car
+3130;No car
+3134;Car
+3135;No car
+3137;Car
+3142;Car
+3144;Car
+3148;Car
+3154;Car
+3159;Car
+3160;Car
+3163;No car
+3164;No car
+3166;No car
+3168;Car
+3169;Car
+3170;No car
+3171;Car
+3173;Car
+3174;No car
+3177;Car
+3179;Car
+3180;Car
+3183;Car
+3186;Car
+3187;No car
+3190;Car
+3192;No car
+3194;Car
+3197;No car
+3200;Car
+3201;No car
+3202;Car
+3203;Car
+3204;Car
+3205;Car
+3206;Car
+3207;No car
+3208;Car
+3210;Car
+3212;No car
+3213;No car
+3214;No car
+3216;No car
+3222;Car
+3225;Car
+3228;No car
+3229;Car
+3230;Car
+3233;Car
+3236;No car
+3237;Car
+3238;Car
+3241;Car
+3242;Car
+3245;No car
+3247;Car
+3250;Car
+3252;Car
+3253;Car
+3258;No car
+3264;Car
+3267;No car
+3272;Car
+3277;No car
+3282;Car
+3285;No car
+3293;No car
+3294;No car
+3295;Car
+3296;Car
+3297;No car
+3306;No car
+3307;Car
+3308;No car
+3309;Car
+3310;No car
+3311;No car
+3312;Car
+3313;No car
+3314;Car
+3317;No car
+3318;No car
+3319;No car
+3320;Car
+3321;No car
+3322;No car
+3323;Car
+3324;Car
+3326;Car
+3327;Car
+3331;No car
+3332;Car
+3334;No car
+3335;Car
+3336;Car
+3337;No car
+3338;Car
+3340;Car
+3344;Car
+3348;Car
+3349;No car
+3350;No car
+3351;Car
+3352;No car
+3357;Car
+3358;Car
+3360;Car
+3364;Car
+3368;Car
+3369;Car
+3370;No car
+3371;Car
+3373;No car
+3375;Car
+3377;No car
+3378;Car
+3379;No car
+3380;Car
+3382;No car
+3383;No car
+3388;Car
+3390;Car
+3391;No car
+3392;Car
+3394;No car
+3399;No car
+3400;No car
+3402;Car
+3406;Car
+3408;No car
+3409;No car
+3410;Car
+3412;No car
+3414;No car
+3416;Car
+3421;Car
+3422;Car
+3423;Car
+3424;Car
+3425;No car
+3427;Car
+3430;Car
+3431;Car
+3433;No car
+3436;No car
+3437;No car
+3438;Car
+3439;Car
+3442;No car
+3443;Car
+3444;Car
+3447;Car
+3448;Car
+3451;Car
+3456;Car
+3457;Car
+3458;Car
+3459;Car
+3461;Car
+3462;Car
+3466;Car
+3468;Car
+3469;No car
+3470;No car
+3471;Car
+3472;No car
+3479;Car
+3480;Car
+3481;Car
+3484;Car
+3486;Car
+3488;Car
+3501;Car
+3504;Car
+3506;Car
+3508;Car
+3513;Car
+3514;No car
+3517;Car
+3518;Car
+3519;Car
+3521;Car
+3524;Car
+3525;Car
+3526;Car
+3527;Car
+3530;Car
+3531;Car
+3532;No car
+3533;No car
+3534;Car
+3535;No car
+3536;No car
+3537;No car
+3538;No car
+3541;No car
+3542;Car
+3544;Car
+3545;Car
+3547;Car
+3549;No car
+3550;Car
+3551;No car
+3554;Car
+3555;No car
+3556;Car
+3557;Car
+3559;Car
+3560;No car
+3561;Car
+3562;No car
+3563;No car
+3564;Car
+3571;Car
+3573;Car
+3575;Car
+3576;Car
+3578;No car
+3582;Car
+3583;Car
+3586;No car
+3590;Car
+3594;No car
+3596;Car
+3597;Car
+3599;Car
+3602;Car
+3603;No car
+3605;No car
+3608;Car
+3609;No car
+3611;Car
+3612;Car
+3614;Car
+3615;No car
+3617;Car
+3618;Car
+3619;Car
+3621;No car
+3626;Car
+3629;No car
+3630;Car
+3631;Car
+3632;Car
+3633;Car
+3636;Car
+3637;Car
+3639;Car
+3641;Car
+3642;Car
+3645;No car
+3646;Car
+3647;No car
+3650;Car
+3651;Car
+3653;Car
+3654;No car
+3655;No car
+3656;No car
+3657;No car
+3658;Car
+3659;No car
+3660;No car
+3661;No car
+3662;No car
+3664;Car
+3665;Car
+3666;No car
+3673;Car
+3675;No car
+3676;No car
+3677;No car
+3678;Car
+3680;No car
+3681;Car
+3686;Car
+3687;Car
+3688;Car
+3689;No car
+3690;Car
+3691;No car
+3692;Car
+3693;Car
+3694;No car
+3695;No car
+3700;Car
+3701;No car
+3705;Car
+3706;Car
+3707;Car
+3709;Car
+3710;Car
+3714;Car
+3716;Car
+3718;No car
+3720;No car
+3732;No car
+3733;Car
+3734;No car
+3738;Car
+3741;Car
+3743;No car
+3746;Car
+3747;No car
+3750;No car
+3757;Car
+3759;No car
+3760;Car
+3761;Car
+3764;No car
+3765;Car
+3768;Car
+3772;Car
+3777;Car
+3781;Car
+3782;Car
+3785;Car
+3794;Car
+3796;No car
+3798;Car
+3799;Car
+3800;No car
+3803;Car
+3805;Car
+3812;Car
+3813;No car
+3814;Car
+3817;Car
+3820;No car
+3821;No car
+3825;Car
+3827;Car
+3831;No car
+3836;Car
+3838;Car
+3843;No car
+3844;No car
+3845;Car
+3846;No car
+3850;No car
+3853;Car
+3855;No car
+3858;No car
+3859;Car
+3861;No car
+3862;No car
+3864;No car
+3868;No car
+3869;No car
+3870;No car
+3871;No car
+3872;Car
+3873;No car
+3874;Car
+3875;No car
+3877;Car
+3879;Car
+3880;Car
+3883;Car
+3884;No car
+3886;No car
+3888;Car
+3889;Car
+3891;No car
+3894;Car
+3900;No car
+3901;Car
+3902;No car
+3905;No car
+3906;No car
+3907;No car
+3911;Car
+3913;Car
+3918;Car
+3922;Car
+3928;Car
+3931;Car
+3932;Car
+3934;Car
+3936;No car
+3939;Car
+3941;Car
+3944;Car
+3946;Car
+3947;Car
+3948;No car
+3950;Car
+3952;Car
+3953;No car
+3956;Car
+3958;Car
+3959;No car
+3960;Car
+3962;No car
+3964;Car
+3970;Car
+3974;Car
+3975;Car
+3976;Car
+3979;No car
+3985;No car
+3986;Car
+3988;No car
+3989;No car
+3991;Car
+3992;Car
+3994;No car
+3999;Car
+4000;Car
+4007;No car
+4012;Car
+4018;No car
+4022;Car
+4023;No car
+4026;Car
+4027;Car
+4032;No car
+4034;Car
+4035;Car
+4040;No car
+4041;Car
+4043;Car
+4045;Car
+4050;Car
+4051;Car
+4053;Car
+4058;Car
+4060;Car
+4062;Car
+4064;No car
+4065;Car
+4066;Car
+4079;Car
+4082;Car
+4085;Car
+4086;No car
+4091;No car
+4092;Car
+4093;Car
+4095;No car
+4096;Car
+4097;No car
+4101;No car
+4102;No car
+4103;Car
+4106;Car
+4110;Car
+4112;Car
+4113;Car
+4114;No car
+4118;No car
+4119;Car
+4120;No car
+4125;No car
+4129;Car
+4133;Car
+4135;Car
+4136;No car
+4138;No car
+4139;No car
+4140;No car
+4141;No car
+4143;No car
+4147;Car
+4149;No car
+4150;Car
+4151;Car
+4152;Car
+4154;Car
+4155;Car
+4156;Car
+4158;Car
+4161;Car
+4164;Car
+4165;Car
+4166;Car
+4168;Car
+4169;Car
+4171;Car
+4172;No car
+4173;Car
+4174;Car
+4175;Car
+4176;No car
+4179;No car
+4181;Car
+4182;Car
+4183;No car
+4185;No car
+4186;No car
+4187;Car
+4190;No car
+4195;No car
+4199;Car
+4201;Car
+4206;No car
+4210;Car
+4211;Car
+4213;No car
+4214;Car
+4215;Car
+4219;Car
+4220;Car
+4222;Car
+4224;Car
+4225;No car
+4226;Car
+4227;No car
+4228;No car
+4232;Car
+4233;Car
+4239;Car
+4241;No car
+4242;Car
+4243;Car
+4246;Car
+4247;Car
+4249;Car
+4250;No car
+4253;Car
+4255;Car
+4256;No car
+4259;No car
+4260;Car
+4263;Car
+4264;No car
+4266;Car
+4270;Car
+4273;No car
+4281;Car
+4284;Car
+4285;No car
+4287;No car
+4288;Car
+4289;No car
+4293;No car
+4295;No car
+4298;No car
+4302;Car
+4305;No car
+4307;No car
+4310;No car
+4312;No car
+4314;Car
+4315;No car
+4316;Car
+4317;No car
+4318;Car
+4320;Car
+4321;No car
+4325;Car
+4326;Car
+4327;Car
+4330;No car
+4334;No car
+4340;Car
+4348;Car
+4352;Car
+4358;Car
+4359;No car
+4360;Car
+4365;Car
+4368;Car
+4372;No car
+4375;Car
+4377;Car
+4378;Car
+4379;No car
+4381;Car
+4382;Car
+4383;No car
+4384;No car
+4386;No car
+4390;Car
+4395;Car
+4397;Car
+4399;No car
+4402;Car
+4403;Car
+4404;Car
+4408;Car
+4410;Car
+4413;Car
+4415;Car
+4416;Car
+4418;Car
+4419;Car
+4420;Car
+4421;Car
+4424;Car
+4427;No car
+4428;Car
+4429;No car
+4430;No car
+4431;Car
+4433;Car
+4436;Car
+4437;Car
+4438;No car
+4441;Car
+4442;No car
+4445;Car
+4446;Car
+4447;No car
+4452;Car
+4453;Car
+4458;Car
+4460;No car
+4461;No car
+4467;No car
+4470;Car
+4475;Car
+4482;Car
+4484;Car
+4488;Car
+4489;No car
+4492;Car
+4493;No car
+4494;Car
+4496;No car
+4498;No car
+4499;Car
+4502;Car
+4503;No car
+4504;Car
+4511;No car
+4512;Car
+4513;Car
+4514;No car
+4518;Car
+4520;No car
+4523;Car
+4527;No car
+4528;Car
+4529;Car
+4531;Car
+4532;Car
+4536;Car
+4537;Car
+4540;No car
+4541;Car
+4542;Car
+4547;Car
+4548;Car
+4554;Car
+4558;Car
+4561;Car
+4562;Car
+4564;No car
+4573;Car
+4576;Car
+4580;Car
+4581;No car
+4582;No car
+4584;Car
+4586;No car
+4588;Car
+4594;Car
+4595;No car
+4602;Car
+4603;No car
+4605;Car
+4612;Car
+4613;No car
+4614;Car
+4615;Car
+4618;Car
+4621;Car
+4622;No car
+4624;Car
+4625;Car
+4626;No car
+4628;Car
+4629;Car
+4634;No car
+4644;No car
+4647;No car
+4649;No car
+4651;Car
+4653;No car
+4655;Car
+4661;No car
+4662;Car
+4663;Car
+4664;No car
+4666;No car
+4667;Car
+4668;No car
+4669;Car
+4670;Car
+4674;Car
+4680;Car
+4681;No car
+4683;No car
+4685;Car
+4689;Car
+4690;Car
+4691;No car
+4692;No car
+4694;No car
+4697;Car
+4698;Car
+4709;Car
+4710;Car
+4716;Car
+4717;Car
+4720;No car
+4721;No car
+4722;Car
+4725;No car
+4728;Car
+4730;Car
+4731;Car
+4733;Car
+4739;Car
+4740;Car
+4751;No car
+4753;Car
+4756;Car
+4760;No car
+4762;Car
+4764;Car
+4767;Car
+4772;Car
+4773;Car
+4775;No car
+4776;Car
+4777;Car
+4778;Car
+4780;No car
+4782;Car
+4784;Car
+4786;Car
+4787;Car
+4790;Car
+4791;Car
+4794;Car
+4795;Car
+4796;Car
+4802;Car
+4804;Car
+4805;Car
+4809;Car
+4810;No car
+4813;Car
+4814;Car
+4815;No car
+4820;No car
+4822;Car
+4823;Car
+4830;Car
+4834;Car
+4838;Car
+4840;No car
+4842;No car
+4844;Car
+4845;No car
+4848;Car
+4849;Car
+4852;Car
+4855;Car
+4858;Car
+4859;No car
+4862;Car
+4863;No car
+4864;Car
+4866;No car
+4868;Car
+4869;No car
+4873;Car
+4874;No car
+4877;No car
+4879;Car
+4880;Car
+4881;No car
+4884;No car
+4886;Car
+4887;Car
+4888;Car
+4891;Car
+4892;Car
+4893;Car
+4894;Car
+4900;No car
+4901;No car
+4907;Car
+4912;Car
+4913;No car
+4914;No car
+4916;Car
+4918;No car
+4922;No car
+4924;No car
+4925;Car
+4927;Car
+4930;No car
+4931;No car
+4934;Car
+4935;Car
+4936;Car
+4938;No car
+4940;Car
+4941;No car
+4942;Car
+4945;Car
+4948;Car
+4949;Car
+4953;Car
+4954;Car
+4956;Car
+4957;Car
+4959;Car
+4960;Car
+4961;No car
+4962;Car
+4964;Car
+4965;No car
+4970;Car
+4971;No car
+4972;Car
+4974;Car
+4977;Car
+4979;Car
+4980;Car
+4981;Car
+4982;Car
+4986;Car
+4987;No car
+4988;Car
+4992;Car
+4994;Car
+4995;Car
+4996;No car
+5000;No car
+5001;No car
+5002;Car
+5004;Car
+5007;No car
+5009;No car
+5014;Car
+5015;No car
+5016;Car
+5017;Car
+5018;Car
+5019;No car
+5021;Car
+5023;Car
+5026;Car
+5027;No car
+5028;Car
+5030;No car
+5033;No car
+5035;Car
+5037;Car
+5038;Car
+5039;Car
+5041;Car
+5042;Car
+5043;No car
+5044;Car
+5045;Car
+5046;Car
+5047;Car
+5048;Car
+5050;No car
+5051;No car
+5052;Car
+5053;No car
+5054;No car
+5056;Car
+5057;Car
+5058;No car
+5059;Car
+5060;Car
+5062;No car
+5063;Car
+5064;No car
+5067;Car
+5069;Car
+5071;No car
+5072;Car
+5073;Car
+5074;Car
+5077;Car
+5079;No car
+5080;Car
+5081;Car
+5082;No car
+5083;Car
+5085;Car
+5086;Car
+5088;Car
+5091;Car
+5094;No car
+5095;Car
+5096;Car
+5098;No car
+5099;No car
+5101;Car
+5103;No car
+5105;Car
+5107;Car
+5108;Car
+5109;No car
+5110;No car
+5111;No car
+5112;No car
+5113;No car
+5120;Car
+5121;Car
+5123;Car
+5124;Car
+5143;No car
+5147;No car
+5149;No car
+5150;Car
+5158;Car
+5160;Car
+5162;Car
+5163;Car
+5164;No car
+5165;Car
+5166;Car
+5176;No car
+5179;Car
+5180;Car
+5183;No car
+5184;Car
+5186;No car
+5188;Car
+5190;Car
+5196;Car
+5199;No car
+5205;No car
+5208;Car
+5214;No car
+5216;Car
+5218;Car
+5219;Car
+5223;Car
+5226;No car
+5230;Car
+5233;No car
+5235;Car
+5236;No car
+5237;Car
+5241;Car
+5242;No car
+5244;Car
+5245;Car
+5246;Car
+5247;Car
+5249;Car
+5251;No car
+5257;No car
+5258;Car
+5259;Car
+5263;Car
+5264;No car
+5270;No car
+5276;No car
+5277;No car
+5279;Car
+5281;Car
+5282;No car
+5283;Car
+5284;Car
+5285;No car
+5286;Car
+5287;No car
+5296;Car
+5297;Car
+5303;No car
+5304;Car
+5306;Car
+5309;Car
+5311;Car
+5315;Car
+5316;Car
+5319;No car
+5323;Car
+5326;Car
+5329;Car
+5335;Car
+5337;Car
+5338;No car
+5345;Car
+5347;No car
+5350;Car
+5353;No car
+5363;Car
+5367;Car
+5369;Car
+5372;Car
+5379;Car
+5380;Car
+5381;Car
+5383;No car
+5386;Car
+5388;No car
+5392;Car
+5394;Car
+5395;No car
+5396;No car
+5397;Car
+5404;Car
+5405;Car
+5408;No car
+5413;Car
+5415;No car
+5416;No car
+5419;No car
+5420;Car
+5435;Car
+5438;Car
+5440;No car
+5441;Car
+5445;No car
+5453;No car
+5454;No car
+5456;Car
+5457;No car
+5458;Car
+5463;Car
+5465;Car
+5471;Car
+5472;Car
+5474;No car
+5475;No car
+5476;Car
+5483;No car
+5484;No car
+5485;Car
+5487;Car
+5490;Car
+5500;No car
+5501;Car
+5509;Car
+5510;No car
+5512;No car
+5513;No car
+5514;No car
+5522;Car
+5526;No car
+5528;No car
+5529;No car
+5532;No car
+5535;Car
+5537;Car
+5541;Car
+5542;Car
+5544;Car
+5547;No car
+5549;Car
+5550;Car
+5552;Car
+5556;No car
+5559;Car
+5560;Car
+5564;Car
+5568;No car
+5573;Car
+5582;Car
+5584;Car
+5588;Car
+5591;Car
+5592;Car
+5597;Car
+5598;No car
+5599;No car
+5600;No car
+5601;Car
+5606;No car
+5607;No car
+5609;Car
+5610;Car
+5613;Car
+5614;Car
+5616;No car
+5617;Car
+5618;Car
+5619;Car
+5621;Car
+5622;Car
+5623;Car
+5624;Car
+5625;Car
+5627;Car
+5628;Car
+5629;No car
+5634;Car
+5636;No car
+5638;Car
+5640;No car
+5641;No car
+5647;Car
+5648;No car
+5650;No car
+5651;Car
+5656;Car
+5658;No car
+5660;Car
+5663;No car
+5664;Car
+5667;Car
+5668;Car
+5669;Car
+5671;Car
+5672;No car
+5673;Car
+5674;No car
+5676;Car
+5677;Car
+5679;Car
+5682;Car
+5684;Car
+5690;Car
+5693;Car
+5694;No car
+5695;Car
+5696;Car
+5697;Car
+5700;Car
+5704;Car
+5705;Car
+5706;No car
+5707;Car
+5711;Car
+5712;No car
+5713;Car
+5714;Car
+5716;No car
+5717;No car
+5718;No car
+5719;Car
+5720;Car
+5721;Car
+5722;Car
+5723;No car
+5724;No car
+5726;Car
+5727;No car
+5730;Car
+5731;Car
+5733;Car
+5734;Car
+5736;Car
+5737;Car
+5738;Car
+5742;Car
+5744;No car
+5745;No car
+5746;Car
+5747;Car
+5748;No car
+5749;No car
+5750;No car
+5752;Car
+5753;Car
+5754;Car
+5755;Car
+5756;Car
+5759;No car
+5760;No car
+5761;Car
+5762;No car
+5763;Car
+5764;Car
+5766;Car
+5767;Car
+5769;No car
+5771;No car
+5774;No car
+5775;Car
+5776;No car
+5777;No car
+5778;No car
+5781;No car
+5782;No car
+5784;Car
+5785;Car
+5786;Car
+5788;Car
+5789;No car
+5793;Car
+5797;Car
+5798;Car
+5800;Car
+5802;No car
+5804;No car
+5806;No car
+5807;No car
+5808;No car
+5809;No car
+5810;Car
+5811;Car
+5812;No car
+5817;Car
+5818;Car
+5823;No car
+5825;Car
+5826;Car
+5827;Car
+5828;No car
+5829;No car
+5837;No car
+5846;No car
+5847;Car
+5848;No car
+5849;No car
+5852;Car
+5854;Car
+5855;No car
+5857;Car
+5860;Car
+5861;Car
+5862;Car
+5863;Car
+5867;No car
+5872;Car
+5873;Car
+5875;No car
+5879;Car
+5880;Car
+5882;Car
+5885;Car
+5886;No car
+5887;Car
+5888;No car
+5892;Car
+5893;Car
+5894;Car
+5895;Car
+12;Car
+15;No car
+19;Car
+20;Car
+21;No car
+22;Car
+24;Car
+32;No car
+46;Car
+47;No car
+54;Car
+58;No car
+62;Car
+66;No car
+72;Car
+74;Car
+77;No car
+78;Car
+79;No car
+80;Car
+81;Car
+85;Car
+88;Car
+90;Car
+91;Car
+94;No car
+96;Car
+103;Car
+106;Car
+107;Car
+112;No car
+115;Car
+119;Car
+121;Car
+123;No car
+124;No car
+125;No car
+129;No car
+133;Car
+136;No car
+141;No car
+145;Car
+159;No car
+160;Car
+161;Car
+162;No car
+172;No car
+178;Car
+181;Car
+196;Car
+197;Car
+203;Car
+206;Car
+223;Car
+225;Car
+241;Car
+254;No car
+268;Car
+273;Car
+275;Car
+277;Car
+298;Car
+301;Car
+302;Car
+310;Car
+325;Car
+326;Car
+361;No car
+363;No car
+373;Car
+391;Car
+403;Car
+407;Car
+432;Car
+444;Car
+445;Car
+447;Car
+457;Car
+462;No car
+469;Car
+471;No car
+482;Car
+485;Car
+495;Car
+498;Car
+507;Car
+509;Car
+510;Car
+542;No car
+549;Car
+552;Car
+556;No car
+560;No car
+561;Car
+562;No car
+565;Car
+567;Car
+568;Car
+569;No car
+572;Car
+573;Car
+585;No car
+607;No car
+620;No car
+627;No car
+633;No car
+634;No car
+662;Car
+669;No car
+700;Car
+703;No car
+706;Car
+709;Car
+717;No car
+727;Car
+733;Car
+750;Car
+757;Car
+767;No car
+772;No car
+774;No car
+776;Car
+787;No car
+793;Car
+794;Car
+800;No car
+801;Car
+824;Car
+826;Car
+829;Car
+838;No car
+4818;No car
+4826;No car
+856;No car
+865;Car
+866;No car
+888;Car
+889;Car
+893;Car
+894;Car
+895;Car
+900;No car
+903;Car
+904;Car
+909;No car
+912;No car
+913;Car
+921;No car
+925;Car
+936;Car
+940;No car
+944;No car
+947;No car
+969;No car
+995;Car
+996;Car
+1001;Car
+1002;Car
+1012;No car
+1014;Car
+1019;Car
+1023;No car
+1027;No car
+1029;Car
+1031;Car
+1033;Car
+1036;No car
+1039;No car
+1043;No car
+1044;Car
+1046;Car
+1055;Car
+1062;Car
+1065;Car
+1068;No car
+1070;No car
+1071;Car
+1072;No car
+1074;Car
+1077;Car
+1083;Car
+1087;No car
+1089;No car
+1090;Car
+1093;Car
+1098;No car
+1099;Car
+1100;No car
+1103;No car
+1107;No car
+1115;Car
+1125;Car
+1128;No car
+1133;No car
+1142;Car
+1154;Car
+1157;No car
+1161;Car
+1170;No car
+1191;No car
+1216;Car
+1234;No car
+1239;Car
+1242;Car
+1248;Car
+1253;Car
+1258;No car
+1269;Car
