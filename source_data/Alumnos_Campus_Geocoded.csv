@@ -3079,3 +3079,852 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1253;F;Análisis de Sistema;Geocoded Address;-25.361269;-57.458655
 1258;F;Análisis de Sistema;Geocoded Address;-25.299013;-57.617833
 1269;M;Análisis de Sistema;Geocoded Address;-25.305252;-57.649331
+2342;M;Comercio Internacional;Timbo;-25.3226775;-57.58870229999999
+50;M;Administración de Empresas;Tte Vera 2839;-25.291119;-57.5637857
+95;M;Administración de Empresas;Cpitan Figari 319;-25.2949694;-57.6267974
+137;F;Administración de Empresas;Mayor Pampliega;-25.3196916;-57.62546339999999
+144;M;Administración de Empresas;Aztecas;-25.2941441;-57.5611147
+170;F;Administración de Empresas;Rio Blanco;-25.2950941;-57.6296504
+175;M;Administración de Empresas;Mariscal Lopez;-25.2884231;-57.6014129
+192;M;Administración de Empresas;Avenida Sacramento;-25.2856488;-57.5892035
+209;F;Administración de Empresas;29 De Septiembre;-25.3796407;-57.55619890000001
+212;F;Administración de Empresas;Ingavi;-25.3267424;-57.5302338
+214;F;Administración de Empresas;Guido Spano;-25.3006581;-57.56357019999999
+217;M;Administración de Empresas;San Blas;-25.2938217;-57.5858369
+221;F;Administración de Empresas;Juan Del Castillo;-25.3559627;-57.61666229999999
+227;M;Administración de Empresas;Dr. Benza;-25.310899;-57.61107149999999
+235;F;Administración de Empresas;Brasil;-25.2836641;-57.66298229999999
+247;M;Administración de Empresas;Azara;-25.2860524;-57.6325742
+248;M;Administración de Empresas;Gaspar Zavala;-25.2772538;-57.5575885
+260;F;Administración de Empresas;Sicilia;-25.2868363;-57.5931296
+266;M;Administración de Empresas;Residenta;-25.2890805;-57.6142207
+270;M;Administración de Empresas;Inmaculada Concepción;-25.2938668;-57.6470822
+294;F;Administración de Empresas;Yatayty Corá;-25.3373945;-57.5710341
+303;F;Administración de Empresas;Venezuela;-25.2838764;-57.5825282
+314;F;Administración de Empresas;Avenida Venezuela;-25.2754324;-57.5938256
+319;F;Administración de Empresas;Mayor Arguello;-25.3207158;-57.625195
+365;F;Administración de Empresas;Ecuador;-25.278292;-57.58387329999999
+376;M;Administración de Empresas;Mariscal Lopez;-25.2884231;-57.6014129
+396;M;Administración de Empresas;Dr. Garcete;-25.2788839;-57.653463
+397;F;Administración de Empresas;De La Conquista;-25.3625439;-57.60850050000001
+422;F;Administración de Empresas;Capitán Aranda;-25.2917512;-57.6550761
+423;F;Administración de Empresas;Capitán Aranda;-25.2917512;-57.6550761
+427;M;Administración de Empresas;Defensa Nacional;-25.2935521;-57.6126118
+438;M;Administración de Empresas;Juan Del Castillo;-25.3559627;-57.61666229999999
+448;F;Administración de Empresas;La Candelaria & Hamlet, San Lorenzo;-25.3954427;-57.4873814
+453;M;Administración de Empresas;Holanda;-25.297498;-57.587917
+475;F;Administración de Empresas;Ingavi;-25.3267424;-57.5302338
+479;F;Administración de Empresas;José Berges;-25.291115;-57.613323
+481;M;Administración de Empresas;Dinamarca;-25.2806993;-57.6387258
+487;F;Administración de Empresas;Melo De Portugal;-25.2969425;-57.6614677
+488;M;Administración de Empresas;Batallon 40;-25.3007557;-57.63450479999999
+514;M;Administración de Empresas;Venezuela;-25.2838764;-57.5825282
+517;M;Administración de Empresas;Abente Haedo;-25.2943099;-57.5975256
+524;F;Administración de Empresas;Florida & Avenida Brasilia, Asunción;-25.2763966;-57.59946589999999
+527;F;Administración de Empresas;Manuel Dominguez;-25.2635815;-57.49412219999999
+554;M;Administración de Empresas - Ciencias Contables;General Santos 1080;-25.3095138;-57.6161194
+596;F;Administración de Empresas - Ciencias Contables;Capitan Aranda;-25.2917512;-57.6550761
+605;F;Administración de Empresas - Ciencias Contables;Guido Spano;-25.3006581;-57.56357019999999
+617;M;Administración de Empresas - Ciencias Contables;Defensa Nacional;-25.2935521;-57.6126118
+636;M;Administración de Empresas - Ciencias Contables;Diego Garcia;-25.293185;-57.6170426
+643;M;Administración de Empresas - Ciencias Contables;Manuel Dominguez;-25.2635815;-57.49412219999999
+656;F;Administración de Empresas - Ciencias Contables;Charles De Gaulle;-25.3012861;-57.5842703
+665;M;Administración de Empresas - Ciencias Contables;Montevideo & Roma, Asunción;-25.2902552;-57.6477667
+683;F;Administración de Empresas - Ciencias Contables;San Isidro;-25.3322561;-57.5065764
+689;M;Administración de Empresas - Ciencias Contables;Santisimo Sacramento;-25.2900115;-57.5884914
+699;F;Administración de Empresas - Ciencias Contables;Von Sastrow;-25.3209412;-57.5713433
+701;F;Administración de Empresas - Ciencias Contables;Avda. Colón & La Habana, Asunción;-25.2939191;-57.65231499999999
+711;M;Administración de Empresas - Ciencias Contables;Del Maestro;-25.2914574;-57.6363239
+777;F;Administración de Empresas - Comercio Internacional;Juan Pablo Ii;-25.2605334;-57.5974492
+806;M;Administración de Empresas - Comercio Internacional;Ulrico Shmidel 2051;-25.298034;-57.57342689999999
+816;F;Administración de Empresas - Comercio Internacional;Sargento Cespedes;-25.2551204;-57.5751739
+817;F;Administración de Empresas - Comercio Internacional;El Mesias;-25.3653698;-57.6181355
+832;M;Administración de Empresas - Comercio Internacional;Zorrilla De San Martin;-25.3057986;-57.6193705
+843;F;Administración de Empresas - Comercio Internacional;San Vicente;-25.3150486;-57.6240731
+847;M;Administración de Empresas - Comercio Internacional;Aka Vera;-25.3423906;-57.58508459999999
+850;F;Administración de Empresas - Comercio Internacional;Arecutacua;-25.1243407;-57.3513306
+879;M;Administración de Empresas - Comercio Internacional;Santa Ines;-25.3291353;-57.60516029999999
+880;F;Administración de Empresas - Comercio Internacional;Cptan. Figari;-25.3431579;-57.6085593
+881;F;Administración de Empresas - Comercio Internacional;Ecuador;-25.278292;-57.58387329999999
+890;M;Administración de Empresas - Comercio Internacional - Economía;Republica De Siria;-25.2851345;-57.6055294
+898;F;Administración de Empresas - Comercio Internacional - Marketing;Del Maestro;-25.2914574;-57.6363239
+906;M;Administración de Empresas - Contador Público Nacional;Isla Tayi & Mexico, Asunción;-25.3034104;-57.6433757
+916;M;Administración de Empresas - Economía;Herrera 940;-25.2892589;-57.62889389999999
+930;F;Administración de Empresas - Economía;Holanda;-25.297498;-57.587917
+941;F;Administración de Empresas - Economía;San Martin;-25.285429;-57.5718462
+950;M;Administración de Empresas - Economía;Antonio Maria Claret;-25.3479541;-57.6146736
+951;M;Administración de Empresas - Economía;Primer Presidente;-25.2684197;-57.5570361
+958;F;Administración de Empresas - Economía;Ecuador;-25.278292;-57.58387329999999
+967;M;Administración de Empresas - Economía;Del Maestro;-25.2914574;-57.6363239
+971;F;Administración de Empresas - Economía;Sauce;-25.2571206;-57.57872200000001
+974;F;Administración de Empresas - Economía;Avenida Japon;-25.3185351;-57.6356886
+988;M;Administración de Empresas - Economía;Primer Presidente;-25.2684197;-57.5570361
+1021;M;Análisis de Sistema;Dr. Manuel Dominguez 2985;-25.2635815;-57.49412219999999
+1025;M;Análisis de Sistema;Pascual Toledo 4370;-25.319315;-57.6324746
+1048;M;Análisis de Sistema;25 De Noviembre & villeta;-25.5070168;-57.5589382
+1069;M;Análisis de Sistema;Tokio & Avenida Japón, Asunción;-25.317618;-57.63051119999999
+1084;M;Análisis de Sistema;Nanawa & Caballero, Asunción;-25.2983648;-57.64088889999999
+1117;M;Análisis de Sistema;Paseo Central;-25.2850008;-57.5633466
+1120;F;Análisis de Sistema;4 De Julio;-25.2937288;-57.56797789999999
+1141;M;Análisis de Sistema;Cap Figari Nº 3245;-25.3351312;-57.5726495
+1145;F;Análisis de Sistema;Villa Del Carmen;-25.3761568;-57.58167770000001
+1162;M;Análisis de Sistema;Savedra;-25.2708341;-57.59114769999999
+1200;M;Análisis de Sistema;Herminio Jimenez;-25.512974;-57.3571947
+1217;M;Análisis de Sistema;Las Mercedes;-25.2806632;-57.61274239999999
+1230;M;Análisis de Sistema;Melo De Portugal;-25.2969425;-57.6614677
+1296;F;Arquitectura;Tte. Manuel Pino 440;-25.2636532;-57.5522376
+1315;M;Arquitectura;Independencia Nacional 618;-25.2877486;-57.63718670000001
+1346;M;Arquitectura;Dr. Adriano Irala;-25.3005933;-57.6512675
+1371;F;Arquitectura;Adela Speratti;-25.2884427;-57.60787409999999
+1391;F;Arquitectura;Coeti;-25.2994191;-57.5640276
+1398;M;Arquitectura;Capitan Aranda;-25.2917512;-57.6550761
+1402;F;Arquitectura;Pitiantuta 814;-25.2864906;-57.60497149999999
+1412;M;Arquitectura;Alberto Souza;-25.2997097;-57.58329099999999
+1422;F;Arquitectura;Teniente Jorge Martinez;-25.2739888;-57.554426
+1423;F;Arquitectura;Avenida San Agustin;-25.3115126;-57.58777660000001
+1424;F;Arquitectura;Defensa Nacional;-25.2935521;-57.6126118
+1438;F;Arquitectura;Carumbe & Corrientes, San Lorenzo;-25.309556;-57.5256944
+1440;F;Arquitectura;Moises Bertoni;-25.2967362;-57.5768124
+1441;M;Arquitectura;Coronel Basualdo;-25.2734889;-57.56281249999999
+1444;M;Arquitectura;Mayor Arguello;-25.3207158;-57.625195
+1445;M;Arquitectura;República De Colombia;-25.3000407;-57.61326529999999
+1466;M;Arquitectura;Olegario Victor Andrade;-25.2929712;-57.57793849999999
+1474;F;Arquitectura;Don Luis Guanella;-25.2982908;-57.6191501
+1478;F;Arquitectura;Acosta ñu;-25.4589056;-57.5256854
+1480;F;Arquitectura;Mayor Pampliega;-25.3196916;-57.62546339999999
+1482;F;Arquitectura;Manuel Domínguez;-25.2635815;-57.49412219999999
+1488;M;Arquitectura;Pascual Toledo;-25.319315;-57.6324746
+1491;F;Arquitectura;Luis De Granada;-25.2842964;-57.595713
+1495;F;Arquitectura;José Gómez Brizuela;-25.2640387;-57.55873829999999
+1496;F;Arquitectura;Santa Monica;-25.3003658;-57.5818188
+1498;F;Arquitectura;Manuel Dominguez;-25.2635815;-57.49412219999999
+1502;F;Arquitectura;Avenida España;-25.2874009;-57.5971461
+1506;F;Arquitectura;Tte Primero  Blas Gimenez;-25.2672108;-57.55326839999999
+1511;F;Arquitectura;Zorrilla De San Martín;-25.3057986;-57.6193705
+1522;F;Arquitectura;Abelardo Rojas;-25.3878109;-57.436534
+1523;F;Arquitectura;José P. Guggiari;-25.2889777;-57.635994
+1534;M;Arquitectura;Pilar & Alcides Conzalez, Asunción;-25.3211253;-57.5951475
+1542;F;Arquitectura;Azara;-25.2860524;-57.6325742
+1547;M;Arquitectura;Roque Centurion Miranda;-25.2847494;-57.5724531
+1548;F;Arquitectura;Rafael Barret;-25.3116091;-57.57623150000001
+1557;F;Arquitectura;Sicilia;-25.2868363;-57.5931296
+1572;F;Arquitectura;Atenas;-25.2982191;-57.5518306
+1580;F;Arquitectura;Caracas & Héroes del 70, Lambaré;-25.3549607;-57.60633619999999
+1593;F;Arquitectura;Mecanicos De Aviacion;-25.3157693;-57.56073989999999
+1600;F;Arquitectura;Teniente Segundo & Inca;-25.3170941;-57.5703516
+1607;F;Arquitectura;San Martin;-25.285429;-57.5718462
+1610;F;Arquitectura;Alfredo Seiferheld;-25.3033612;-57.5930054
+1612;M;Arquitectura;Avenida Juan Domingo Perón;-25.3488454;-57.6402302
+1615;F;Arquitectura;Tacuari & 25 De Mayo;-25.2864016;-57.6287741
+1621;F;Arquitectura;Melo De Portugal;-25.2969425;-57.6614677
+1622;F;Arquitectura;Defensa Nacional;-25.2935521;-57.6126118
+1624;F;Arquitectura;Olegario Andrade;-25.3034808;-57.55460230000001
+1626;F;Arquitectura;General Genes & Pachito López;-25.348584;-57.61828149999999
+1629;F;Arquitectura;Jose Tomas Isasi;-25.277535;-57.5611049
+1634;F;Arquitectura;25 De Mayo;-25.2859002;-57.6297954
+1644;F;Arquitectura;Carlos Díaz De Leon;-25.2973643;-57.5592319
+1647;F;Arquitectura;Lillo;-25.2922374;-57.56471939999999
+1649;M;Arquitectura;Augusto Roa Bastos;-25.2781981;-57.6381412
+1651;F;Arquitectura;San Marcos & Avenida Augusto Roa Bastos;-25.3322326;-57.608387
+1657;F;Arquitectura;Julio Fretes;-25.3466226;-57.43956249999999
+1658;F;Arquitectura;Río Blanco;-25.2950941;-57.6296504
+1665;F;Arquitectura;Azara;-25.2860524;-57.6325742
+1674;F;Ciencias Contables;Rca. Argentina 1413;-25.3062293;-57.58377410000001
+1719;M;Ciencias Contables;Palo Santo;-25.2896188;-57.5836185
+1724;F;Ciencias Contables;Avenida Del Pueblo;-25.344717;-57.5964946
+1729;F;Ciencias Contables;Tte. Fariña;-25.2923657;-57.6313227
+1732;M;Ciencias Contables;Atenas;-25.2982191;-57.5518306
+1752;M;Ciencias Contables;Campo Vía;-25.2855447;-57.48252710000001
+1756;F;Ciencias Contables;Isla Tayi & Mexico, Asunción;-25.3034104;-57.6433757
+1763;F;Ciencias Contables;Avenida Juan Domingo Perón;-25.3488454;-57.6402302
+1767;M;Ciencias Contables;Prof Sofía Mendoza;-25.325999;-57.598919
+1788;F;Ciencias Contables;Sebastián El Cano;-25.3075649;-57.6179944
+1802;F;Ciencias Contables;Jaime Bestard;-25.2841184;-57.5583137
+1810;F;Ciencias Contables;Rep. Francesa;-25.2942594;-57.6199409
+1812;M;Ciencias Contables;Juan Max Boettner;-25.2749777;-57.59286170000001
+1816;F;Ciencias Contables;4 De Julio;-25.2937288;-57.56797789999999
+1848;F;Ciencias Contables;Herrera Luis Alberto;-25.2919668;-57.62391470000001
+1854;M;Ciencias Contables;Ita Yvate;-25.296196;-57.521972
+1889;F;Ciencias Contables - Comercio Internacional;Coronel Moreno;-25.2852679;-57.65282610000001
+1911;M;Ciencias Contables - Comercio Internacional;Avenida Sacramento;-25.2856488;-57.5892035
+1915;M;Ciencias Contables - Comercio Internacional;Avenida Japon;-25.3185351;-57.6356886
+1923;F;Ciencias Contables - Comercio Internacional - Contador Público Nacional;Juan Silvano Godoy;-25.348076;-57.51481680000001
+1959;M;Ciencias Contables - Economía;Avenida Del Pueblo;-25.344717;-57.5964946
+1967;M;Ciencias Contables - Economía;Rojas Silva;-25.2966114;-57.6292515
+1969;F;Ciencias Contables - Economía;Sargento Benitez;-25.269086;-57.566227
+1975;M;Ciencias Contables - Economía;Juan José Soler;-25.3426116;-57.5835511
+1991;M;Ciencias Contables - Economía;Regalado Amarrilla;-25.2971554;-57.41404569999999
+2008;M;Ciencias Contables - Economía;Claudio Ovelar;-25.3767251;-57.6103152
+2012;M;Ciencias Contables - Economía;Pettirossi;-25.2984727;-57.6259538
+2020;F;Ciencias Contables - Economía;Diego Garcia;-25.293185;-57.6170426
+2034;M;Ciencias Contables - Economía;Guaraníes;-25.2839519;-57.6352035
+2039;F;Ciencias Contables - Economía;Ovando;-25.3423916;-57.60317479999999
+2040;F;Ciencias Contables - Economía;Santo Domingo & San Isidro;-25.3612068;-57.54576479999999
+2041;M;Ciencias Contables - Economía;Celsa Speratti;-25.2836509;-57.636834
+2042;M;Ciencias Contables - Economía;San Vicente;-25.3150486;-57.6240731
+2047;F;Ciencias Contables - Economía;Santa Fe & Saturio Rios;-25.341625;-57.50612810000001
+2048;F;Ciencias Contables - Economía;Las Mercedes;-25.2806632;-57.61274239999999
+2049;M;Ciencias Contables - Economía;Andres Bello & General  Diaz;-25.360984;-57.59823699999999
+2064;F;Ciencias Contables - Economía;Atanasio González;-25.2972484;-57.5494703
+2067;M;Ciencias Contables - Economía;Universidad Nacional De Asuncion & Mecanicos De Aviacion;-25.3131794;-57.5601458
+2069;M;Ciencias Contables - Economía;De La Conquista & Ysapy;-25.3625439;-57.60850050000001
+2070;M;Ciencias Contables - Economía;Marcialino Perez;-25.2631589;-57.5666655
+2074;M;Ciencias Contables - Economía;Quesada & Nudelman;-25.2983989;-57.5749198
+2080;M;Ciencias Contables - Economía;Avenida Del Pueblo & Rio Carapa;-25.343822;-57.59690620000001
+2087;M;Ciencias Contables - Economía;Lugano;-25.2898263;-57.6422668
+2091;M;Ciencias Contables - Economía;Avenida Del Yacht & Paseo Central;-25.3633342;-57.62892249999999
+2096;M;Ciencias Contables - Economía;Bernabe Gonzalez;-25.3224151;-57.6015166
+2099;F;Ciencias Contables - Economía;Inmaculada Concepcion;-25.2938668;-57.6470822
+2104;F;Ciencias Contables - Economía;Orijuela & Lazaro De Rivera;-25.2940118;-57.6631027
+2107;F;Ciencias Contables - Economía;Dr. Mazzei;-25.2802799;-57.6509108
+2108;F;Ciencias Contables - Economía - Marketing;Mauricio Cardozo Ocampo;-25.2986825;-57.5269323
+2111;F;Ciencias Contables - Marketing;Hernan Cortez & Rca Argentina;-25.32174;-57.5941443
+2117;M;Ciencias Contables - Marketing;Tte. Jara Pastore;-25.2998593;-57.60278659999999
+2118;M;Ciencias Contables - Marketing;Diaz De Guzman;-25.2779896;-57.63780120000001
+2130;F;Ciencias Contables - Marketing;Eligio Ayala;-25.286656;-57.624935
+2134;F;Ciencias Contables - Marketing;Avenida. Del Ayacht & Paseo Galileo;-25.2850008;-57.5633466
+2145;F;Ciencias Contables - Marketing;Herminio Gimenez;-25.512974;-57.3571947
+2150;F;Ciencias Contables - Marketing;25 De Mayo;-25.2859002;-57.6297954
+2154;F;Ciencias Contables - Marketing;Campo Via;-25.2855447;-57.48252710000001
+2159;F;Ciencias Contables - Marketing;Romero Valdovino & Aquidaban;-25.238785;-57.544878
+2162;M;Ciencias Contables - Marketing;San Blas & Santa Fe;-25.2938217;-57.5858369
+2166;F;Ciencias Contables - Medicina;Serrati;-25.2896849;-57.60965539999999
+2168;M;Comercio Internacional;Vista Alegre;-25.3144856;-57.60566129999999
+2192;M;Comercio Internacional;Dr. Angel Florentin Pe?a 1875;-25.2786101;-57.5557003
+2197;F;Comercio Internacional;Tte MiÑo Araujo 784;-25.2636129;-57.58104849999999
+2206;M;Comercio Internacional;Teniente Ross 1062;-25.3222344;-57.5904251
+2209;M;Comercio Internacional;Perú & Teodoro S. Mongelos;-25.2949781;-57.6233207
+2212;F;Comercio Internacional;General Genes;-25.29094;-57.57610299999999
+2215;F;Comercio Internacional;Hacheros & El Trabajador;-25.330382;-57.63106200000001
+2224;M;Comercio Internacional;Paraje Ambay & San Antonio;-25.4144685;-57.5543154
+2228;M;Comercio Internacional;Paseo Del Sauce & Paseo del Yacht y Golf Club;-25.3688565;-57.6328518
+2233;F;Comercio Internacional;Mayor Arguello;-25.3207158;-57.625195
+2236;M;Comercio Internacional;Blas Garay & Estados Unidos;-25.2947755;-57.623744
+2240;M;Comercio Internacional;Cap. Fariña Sanchez & Republica Francesa;-25.3170848;-57.63431370000001
+2259;M;Comercio Internacional;Rivarola Matto;-25.3116091;-57.57623150000001
+2267;F;Comercio Internacional;Avenida De La Victoria & ñeembucu;-25.3327363;-57.588609
+2277;F;Comercio Internacional;Kuarahy;-25.2692675;-57.5673567
+2286;M;Comercio Internacional;Brasil;-25.2836641;-57.66298229999999
+2299;F;Comercio Internacional;29 De Setiembre & Pirizal;-25.318809;-57.61203399999999
+2300;F;Comercio Internacional;Celsa Speratti;-25.2836509;-57.636834
+2310;F;Comercio Internacional;Ingavi & San Francisco;-25.3267424;-57.5302338
+2311;F;Comercio Internacional;Motta;-25.2915065;-57.5721031
+2313;F;Comercio Internacional;Augusto Roa Bastos;-25.2781981;-57.6381412
+2328;F;Comercio Internacional;4 De Julio;-25.2937288;-57.56797789999999
+2330;F;Comercio Internacional;Isabel La Católica;-25.2836665;-57.6572966
+2346;F;Comercio Internacional;Luis De Bolaños;-25.3073139;-57.6010485
+2352;F;Comercio Internacional;Andres Barbero;-25.3245738;-57.52694609999999
+2353;M;Comercio Internacional;Montevideo & Palma;-25.2791325;-57.6400094
+2358;F;Comercio Internacional;Paseo De Las Delcias & Los Laureles;-25.3108656;-57.58017339999999
+2380;F;Comercio Internacional;General Santos;-25.3167472;-57.619846
+2381;M;Comercio Internacional;Avenida Acosta ñu & Mexico;-25.2805644;-57.5988937
+2383;M;Comercio Internacional;Coronel Basualdo;-25.2734889;-57.56281249999999
+2395;F;Comercio Internacional;Avda Santa Teresa;-25.2873566;-57.55696440000001
+2401;M;Comercio Internacional - Economía;San Vicente;-25.3150486;-57.6240731
+2406;M;Comercio Internacional - Economía;Centenario;-25.289169;-57.594935
+2443;F;Comercio Internacional - Marketing;Juan Motta;-25.2930231;-57.57305590000001
+2444;M;Comercio Internacional - Marketing;San Benigno;-25.29459;-57.63149300000001
+2458;F;Diseño Gráfico;Dr. San Martin Nº 622;-25.320253;-57.59339199999999
+2470;M;Diseño Gráfico;Pitiantuta 588;-25.2864906;-57.60497149999999
+2478;F;Diseño Gráfico;Delfin Chamorro & Alberdi;-25.2956534;-57.64558479999999
+2479;F;Diseño Gráfico;Papa Juan XXIII & soldado Desconocido;-25.2784602;-57.5825992
+2480;F;Diseño Gráfico;Bomberos Voluntarios;-25.2976446;-57.5795319
+2487;F;Diseño Gráfico;Avenida Acosta Ñu 1098;-25.3111839;-57.641625
+2496;M;Diseño Gráfico;Yatayty Cora;-25.3373945;-57.5710341
+2497;F;Diseño Gráfico;Carlos Diaz Leon;-25.2973643;-57.5592319
+2500;M;Diseño Gráfico;Teniente Riveros;-25.289743;-57.60040619999999
+2509;F;Diseño Gráfico;Lopéz De Filippis;-25.3140963;-57.6293542
+2515;F;Diseño Gráfico;Molas Lopez;-25.2627029;-57.5791739
+2516;F;Diseño Gráfico;San Benigno;-25.29459;-57.63149300000001
+2518;F;Diseño Gráfico;Jose Moreno Gonzalez;-25.2751462;-57.57202290000001
+2548;F;Diseño Gráfico;Avenida Del Pueblo;-25.344717;-57.5964946
+2552;M;Diseño Gráfico;Tacuari;-25.2891259;-57.63060849999999
+2573;M;Diseño Industrial;Avenida Peron Nº 3640;-25.3451521;-57.6387972
+2575;F;Diseño Industrial;Tte Vera Nº 2437;-25.291119;-57.5637857
+2586;F;Diseño Industrial;Tte Rojas 1090;-25.3351884;-57.5741952
+2599;F;Diseño Industrial;Virgilio Pessolani & roque Saldivar;-25.2708542;-57.5646417
+2602;F;Diseño Industrial;San Roque & Paseo Del Solar;-25.2851962;-57.62801469999999
+2603;M;Diseño Industrial;Baldomero Ruiz & Guapoy;-25.3287645;-57.579931
+2613;F;Diseño Industrial;Juan Max Boettner;-25.2749777;-57.59286170000001
+2635;M;Diseño Industrial;Melvin Jones;-25.2849519;-57.5764981
+2642;F;Diseño Industrial;Narciso Colman;-25.278776;-57.56989950000001
+2643;F;Diseño Industrial;Soldado Paraguayo & Cptan. Acosta;-25.2717891;-57.59498279999999
+2644;F;Diseño Industrial;Sargento. Benitez;-25.269086;-57.566227
+2647;M;Diseño Industrial;Mariscal Lopez;-25.2884231;-57.6014129
+2650;M;Diseño Industrial;Federacion Rusa;-25.2775201;-57.5712719
+2654;F;Diseño Industrial;A Las Paraguayas & Pacheco;-25.3024481;-57.5756208
+2656;F;Diseño Industrial;Fulgencio R Moreno & Camilo Recalde;-25.3067797;-57.57870759999999
+2663;M;Diseño Industrial;Sucre;-25.290893;-57.5736475
+2666;F;Diseño Industrial;Esteban Gorostiaga;-25.3206683;-57.6314316
+2670;F;Diseño Industrial;Avenida Brasilia;-25.2769282;-57.599597
+2671;F;Diseño Industrial;Lillo & General Garay;-25.2873111;-57.5813353
+2676;F;Diseño Industrial;Manuel Domínguez;-25.2635815;-57.49412219999999
+2685;F;Diseño Industrial;Solar Guarani & Isla Pucú;-25.3043141;-57.6051556
+2691;F;Diseño Industrial;Chile;-25.2997953;-57.5755331
+2699;M;Diseño Industrial;La Esperanza & Santa Veronica;-25.3282012;-57.6303442
+2703;F;Diseño Industrial;Alonso;-25.2030941;-57.52436539999999
+2709;F;Diseño Industrial;Estrella & General Santos;-25.3167472;-57.619846
+2711;F;Diseño Industrial;San Lorenzo;-25.3430558;-57.5030939
+2718;F;Diseño Industrial;Herminio Gimenez;-25.512974;-57.3571947
+2732;M;Economía;Tte. Acuna 6283;-25.3065675;-57.57059799999999
+2750;M;Economía;Francisco Zurbaran 880;-25.2827426;-57.59736719999999
+2762;M;Economía;Luis Patri 925;-25.3102651;-57.5981768
+2782;M;Economía;12 De Junio & Nanawa;-25.3262958;-57.6249584
+2799;M;Economía;Rodriguez De Francia;-25.2784466;-57.6467382
+2815;M;Economía;Melo De Portugal;-25.2969425;-57.6614677
+2817;M;Economía;Eligio Ayala;-25.286656;-57.624935
+2819;M;Economía;San Benigno;-25.29459;-57.63149300000001
+2821;F;Economía;San Roque Gonzalez De Santacruz & Paz Del Chaco;-25.2932884;-57.6403358
+2823;M;Economía;Yeruti;-25.3195807;-57.5578078
+2826;M;Economía;Avenida San Isidro & Carlos A. Lopez;-25.2960574;-57.65948950000001
+2830;M;Economía;Maria Felicidad Gonzalez;-25.3562133;-57.5701876
+2836;M;Economía;San Antonio;-25.4144685;-57.5543154
+2848;M;Economía;Centenario;-25.289169;-57.594935
+2853;M;Economía;Victor Riquelme;-25.3229295;-57.5942884
+2854;M;Economía;Republica De Colombia;-25.3000407;-57.61326529999999
+2861;M;Economía;Roque Centurion Miranda;-25.2847494;-57.5724531
+2863;F;Economía;Eduardo San Martin;-25.3188614;-57.57142259999999
+2866;M;Economía;Ingavi;-25.3267424;-57.5302338
+2875;F;Economía;Carlos Antonio Lopez & Paris;-25.2869366;-57.6510244
+2881;F;Economía;Medalla Milagrosa & Cristobal Colon;-25.3368994;-57.60378170000001
+2884;F;Economía;San Blas;-25.2938217;-57.5858369
+2889;F;Economía;Francisco Paredes;-25.3527445;-57.57728700000001
+2902;M;Economía;Ecuador;-25.278292;-57.58387329999999
+2915;M;Economía;Doctor Migone;-25.2822555;-57.5782816
+2921;F;Economía;14 De Mayo & Roma;-25.2800101;-57.6357033
+2930;F;Economía;Heisecke;-25.289442;-57.618673
+2935;M;Economía;Procer J. Leon;-25.2758081;-57.5581286
+2937;M;Economía;Saravi;-25.2973681;-57.5886308
+2944;F;Economía;Centenario;-25.289169;-57.594935
+2949;M;Economía;Juana De Lara;-25.3042109;-57.55083839999999
+2951;M;Economía;Mburucuja & Porvenir;-25.2642904;-57.56743179999999
+2954;F;Economía;Chile;-25.2997953;-57.5755331
+2955;F;Economía;De La Conquista;-25.3625439;-57.60850050000001
+2956;F;Economía;San Alfonso;-25.3034767;-57.6454667
+2957;M;Economía;Ntra Se?ora 2955;-25.2637399;-57.57592599999999
+2963;M;Economía;Profesora Sofia De Mendoza;-25.3273911;-57.5999984
+2964;F;Economía;Luis Maria Argaña & Porvenir;-25.335047;-57.6248669
+2970;M;Economía;Coeti;-25.2994191;-57.5640276
+2973;F;Economía;Fray Luis De León;-25.2850575;-57.60047249999999
+2974;M;Economía;Luis Alberto De Herrera;-25.298374;-57.55610709999999
+2980;M;Economía;Patricios & Coronel Caminos;-25.3460976;-57.60831
+2983;F;Economía;Capitan Aranda;-25.2917512;-57.6550761
+2986;F;Economía;Abente Haedo;-25.2943099;-57.5975256
+2988;F;Economía;Juana Pabla Carrillo;-25.2552369;-57.5768686
+2991;F;Economía;Ecuador;-25.278292;-57.58387329999999
+2996;M;Economía;Alonso;-25.2030941;-57.52436539999999
+2997;M;Economía;Coronel Basualdo;-25.2734889;-57.56281249999999
+2998;M;Economía;Overava;-25.2723784;-57.5516251
+3002;F;Economía;General  Genes;-25.29094;-57.57610299999999
+3004;F;Economía;Avenida España;-25.2874009;-57.5971461
+3009;M;Economía;Sociedad & Tte Jara;-25.2846763;-57.6106432
+3012;M;Economía;Zurbaran;-25.2785119;-57.5966106
+3017;M;Economía;Cesar Medina;-25.29091;-57.60256859999999
+3020;F;Economía;Parapiti;-25.302419;-57.63806989999999
+3021;M;Economía;San Juan & Carretera De Lopez;-25.3679933;-57.61781010000001
+3030;F;Economía;Bernardino Caballero Alvarez;-25.3176533;-57.6259936
+3031;M;Economía;Jordania;-25.2848535;-57.63328130000001
+3032;M;Economía;Manuel Gondra;-25.2848442;-57.63936940000001
+3033;M;Economía;Manuel Gondra;-25.2848442;-57.63936940000001
+3039;M;Economía;Ruiz Diaz De Guzman & Crol Lirio;-25.2925556;-57.665465
+3040;M;Economía;Rio Acaray & Dr. Ernesto De San Martín;-25.3511689;-57.60441449999999
+3045;M;Economía;4 De Julio;-25.2937288;-57.56797789999999
+3046;M;Economía;Emiliano R Fernandez & Rancho Grande;-25.3060045;-57.56717920000001
+3049;F;Economía;Guillermo Arias;-25.2810154;-57.6548392
+3050;M;Economía;Teniente Anastasio Delgado;-25.2711565;-57.5547459
+3051;M;Economía;Kuarahy;-25.2692675;-57.5673567
+3058;M;Economía;Bélgica;-25.3486877;-57.46537259999999
+3063;M;Economía - Marketing;Brasil;-25.2836641;-57.66298229999999
+3066;M;Economía - Marketing;Doctor Bestard;-25.2806177;-57.58444300000001
+3073;F;Economía - Marketing;Tte 2do Alvarenga;-25.2675046;-57.5558908
+3074;F;Economía - Marketing;Del Maestro;-25.2914574;-57.6363239
+3081;M;Economía - Marketing;Nuestra Señora & Ygatimi;-25.2875845;-57.6449083
+3082;M;Economía - Marketing;General Genes;-25.29094;-57.57610299999999
+3083;F;Economía - Marketing;Coronel Gracia;-25.2815543;-57.65268109999999
+3085;M;Economía - Marketing;Tte. Miño Araujo;-25.2636129;-57.58104849999999
+3087;M;Economía - Marketing;Campos Cervera;-25.2965509;-57.58362
+3091;F;Economía - Marketing;Celsa Speratti;-25.2836509;-57.636834
+3092;F;Economía - Marketing;Ignacio A. Pane;-25.2810385;-57.6347853
+3107;F;Fonoaudiología;Dr. Caceres;-25.2891075;-57.5646428
+3114;F;Fonoaudiología;Cnel Romero 488;-25.3463827;-57.5066177
+3115;M;Fonoaudiología;Corro Cora 555;-25.2858593;-57.6310897
+3116;F;Fonoaudiología;Sgto Benitez 1730;-25.2656686;-57.5711328
+3124;F;Fonoaudiología;Humaita & Don Bosco;-25.2813896;-57.64643479999999
+3126;F;Fonoaudiología;Avenida venezuela 870;-25.2848744;-57.59475069999999
+3132;F;Fonoaudiología;Luis A. De Herrera;-25.2995653;-57.6085829
+3133;F;Fonoaudiología;General  Santos;-25.3167472;-57.619846
+3138;F;Fonoaudiología;Mariscal Lopez & Itororo;-25.2884231;-57.6014129
+3140;F;Fonoaudiología;Avenida Del Yacht & Paseo Del Lago;-25.3633342;-57.62892249999999
+3141;F;Fonoaudiología;18 De Julio & General Santos;-25.3167472;-57.619846
+3145;F;Fonoaudiología;Paseo Del Solar;-25.3377435;-57.6129892
+3153;F;Fonoaudiología;14 De Agosto & Rolon Viera;-25.3249107;-57.6055773
+3157;F;Fonoaudiología;Tte. Mendoza & Paseo De Fatima;-25.2593366;-57.5755575
+3162;F;Fonoaudiología;Colinas Del Cerro & Coronel Schweitzer;-25.343608;-57.6411261
+3165;F;Fonoaudiología;Valentin Rojas & Victor Heyn;-25.3086605;-57.5594941
+3178;F;Fonoaudiología;Tte Alcorta 642;-25.3055983;-57.62223119999999
+3185;F;Fonoaudiología;Alonso 1344;-25.2030941;-57.52436539999999
+3189;F;Fonoaudiología;Manfred Stark;-25.2477713;-57.5389802
+3193;F;Fonoaudiología;Agricultor Paraguayo;-25.2631709;-57.56156420000001
+3195;F;Fonoaudiología;Sargento Silva;-25.3507809;-57.5088674
+3198;F;Fonoaudiología;Capitan Figari;-25.3431579;-57.6085593
+3211;F;Fonoaudiología;San Benigno;-25.29459;-57.63149300000001
+3218;F;Fonoaudiología;Juan De Dios Peza;-25.3046917;-57.6516418
+3220;F;Fonoaudiología;Santa Luisa De Marillac;-25.2813049;-57.631338
+3221;F;Fonoaudiología;Ingavi;-25.3267424;-57.5302338
+3223;F;Fonoaudiología;Centernario;-25.289169;-57.594935
+3227;F;Fonoaudiología;Rafael Barret;-25.3116091;-57.57623150000001
+3235;F;Fonoaudiología;Cnel. Romero & Buenos Aires;-25.349248;-57.50393099999999
+3240;F;Fonoaudiología;Tte. Jara Pastore;-25.2998593;-57.60278659999999
+3244;F;Fonoaudiología;Guillermo Leoz & itaipu;-25.2806798;-57.4893258
+3259;F;Fonoaudiología;Enrique De Gandia & General Santos;-25.3251196;-57.6248825
+3261;F;Fonoaudiología;Pedro De Felice;-25.3595925;-57.6399499
+3262;F;Fonoaudiología;Benigno Gonzalez;-25.2653733;-57.48761049999999
+3263;F;Fonoaudiología;Doctor Ernesto San Martin;-25.3494265;-57.6049738
+3268;F;Fonoaudiología;8 De Junio;-25.2550744;-57.58402150000001
+3269;F;Fonoaudiología;Rodríguez De Francia;-25.2784466;-57.6467382
+3270;F;Fonoaudiología - Medicina;San Blas & R. L. Petit;-25.2938217;-57.5858369
+3271;F;Fonoaudiología - Medicina;Mburukuja & Las Selvas;-25.2688224;-57.5641124
+3274;F;Fonoaudiología - Medicina;Avenida Ing. Trovato;-25.3028585;-57.63182039999999
+3276;F;Fonoaudiología - Medicina;Colon & Noruega;-25.2953169;-57.6560527
+3280;F;Fonoaudiología - Medicina;Avenida Acosta Ñu & Rojas Siva;-25.3111839;-57.641625
+3286;M;Ingeniería Ambiental;San Mateo & Maria Auxiliadora;-25.3365071;-57.6085174
+3302;F;Ingeniería Ambiental;Sauce;-25.2571206;-57.57872200000001
+3325;M;Ingeniería Ambiental - Ingeniería Electrónica;Atenas & Independencia Nacional, Asunción;-25.2977156;-57.6438156
+3328;F;Ingeniería Ambiental - Ingeniería Industrial;Doctor Hassler;-25.2989473;-57.57588089999999
+3333;M;Ingeniería Civil;San Lorenzo;-25.3430558;-57.5030939
+3339;M;Ingeniería Civil;De La Conquista 2385;-25.3625439;-57.60850050000001
+3359;F;Ingeniería Civil;Marcelina Insfran Nº  151;-25.3503855;-57.5125326
+3362;F;Ingeniería Civil;Juana De Lara 420;-25.3442632;-57.63379029999999
+3363;M;Ingeniería Civil;Capitan Baldomero Ruiz Nº  1089;-25.3287645;-57.579931
+3365;F;Ingeniería Civil;Tte. Escobar 2961;-25.3155998;-57.63293799999999
+3366;M;Ingeniería Civil;Carlos A. Lopez 1852;-25.2960574;-57.65948950000001
+3413;M;Ingeniería Civil;Campo Jordan & Manuel O. Guer;-25.369401;-57.504225
+3415;M;Ingeniería Civil;Avenida Peron;-25.3488454;-57.6402302
+3419;M;Ingeniería Civil;Central & Santo Domingo;-25.2799598;-57.58300509999999
+3428;F;Ingeniería Civil;Ntra. Sra. Del Carmen;-25.2804018;-57.5782532
+3429;F;Ingeniería Civil;Santa Monica;-25.3003658;-57.5818188
+3432;F;Ingeniería Civil;Celsa Speratti;-25.2836509;-57.636834
+3435;F;Ingeniería Civil;Mecanicos De Aviacion;-25.3157693;-57.56073989999999
+3440;M;Ingeniería Civil;Brasilia & Tte. Mauricio Escobar;-25.2769282;-57.599597
+3452;M;Ingeniería Civil;Primer Presidente;-25.2684197;-57.5570361
+3453;F;Ingeniería Civil;Inmaculada Concepción;-25.2938668;-57.6470822
+3454;M;Ingeniería Civil;Palo Santo;-25.2896188;-57.5836185
+3455;M;Ingeniería Civil;Luis Alberto Herrera & Transchaco;-25.2341381;-57.53890800000001
+3460;M;Ingeniería Civil;Bolivia & Porvenir;-25.3353509;-57.6223723
+3464;F;Ingeniería Civil;Waldino Lovera;-25.3131547;-57.5335134
+3465;M;Ingeniería Civil;Rafael Barret;-25.3116091;-57.57623150000001
+3474;M;Ingeniería Civil;Fulgencio R. Moreno;-25.3091785;-57.59167000000001
+3476;M;Ingeniería Civil;Jose P. Guggiari;-25.2889777;-57.635994
+3482;M;Ingeniería Civil;Bartolome De Las Casas;-25.3122219;-57.60512179999999
+3487;F;Ingeniería Civil;Santo Domingo;-25.2799598;-57.58300509999999
+3493;F;Ingeniería Civil;Cantalupi;-25.3239097;-57.6404501
+3494;F;Ingeniería Civil;Campo Via;-25.2855447;-57.48252710000001
+3503;M;Ingeniería Civil;Avenida Santisima Trinidad;-25.2669754;-57.5675235
+3510;M;Ingeniería Civil;Zorrilla De San Martin;-25.3057986;-57.6193705
+3515;M;Ingeniería Civil;Andres Gelli;-25.2930268;-57.64646140000001
+3522;M;Ingeniería Civil;Zurbaran;-25.2785119;-57.5966106
+3528;M;Ingeniería Civil;Rogelio Santa Cruz;-25.303856;-57.604018
+3546;M;Ingeniería Civil;Avenida Las Palmas;-25.2843986;-57.6260437
+3548;M;Ingeniería Civil;Avda Santa Teresa;-25.2873566;-57.55696440000001
+3558;F;Ingeniería Civil;San Vicente;-25.3150486;-57.6240731
+3565;M;Ingeniería Civil;25 De Mayo;-25.2859002;-57.6297954
+3566;M;Ingeniería Civil;Teniente Segundo Juan Benitez R.;-25.3130975;-57.59439849999999
+3568;F;Ingeniería Civil;Brasil;-25.2836641;-57.66298229999999
+3569;M;Ingeniería Civil;Emliano Gomez;-25.2801972;-57.5658622
+3574;M;Ingeniería Civil;Delfin Chamorro;-25.3161777;-57.64135839999999
+3588;F;Ingeniería Civil;Ejercito Nacional & San Isidro, San Lorenzo;-25.3909414;-57.517159
+3595;M;Ingeniería Civil;Venecia & Pizarro, Asunción;-25.3299911;-57.634935
+3601;M;Ingeniería Civil;Primer Presidente;-25.2684197;-57.5570361
+3610;M;Ingeniería Civil;Luis De Bolaños;-25.3073139;-57.6010485
+3613;M;Ingeniería Civil;Sicilia;-25.2868363;-57.5931296
+3616;M;Ingeniería Civil;Jose Berges;-25.291115;-57.613323
+3634;M;Ingeniería Civil;Epifanio Mendez Fleitas;-25.3211939;-57.57044339999999
+3638;M;Ingeniería Civil;Ipolito Sanchez;-25.3227857;-57.5651127
+3652;M;Ingeniería Civil;Teniente Funes;-25.3165939;-57.6389398
+3667;F;Ingeniería Civil;Bartolome De Las Casas;-25.3122219;-57.60512179999999
+3684;M;Ingeniería Civil;Estados Unidos;-25.2931905;-57.60397389999999
+3696;M;Ingeniería Civil;De La Consquista & Juan León Mallorquín;-25.2922317;-57.6542816
+3698;F;Ingeniería Civil;San Lorenzo & San Ramon;-25.3362561;-57.4816877
+3703;M;Ingeniería Civil;General  Maximo Santos;-25.3167472;-57.619846
+3704;M;Ingeniería Civil;Mariscal Lopez;-25.2884231;-57.6014129
+3722;M;Ingeniería Civil;Miguel Torres;-25.3053404;-57.5856448
+3723;F;Ingeniería Civil;Juana Carrillo;-25.2552369;-57.5768686
+3724;M;Ingeniería Civil;Carlos A. Lopez;-25.2960574;-57.65948950000001
+3737;M;Ingeniería Civil;Lillo;-25.2922374;-57.56471939999999
+3742;M;Ingeniería Civil;Aka Verá;-25.3423906;-57.58508459999999
+3744;M;Ingeniería Civil;Herminio Gimenez;-25.512974;-57.3571947
+3748;M;Ingeniería Civil;Waldino Ramon Lovera;-25.284408;-57.56696019999999
+3751;M;Ingeniería Civil;Heisecke;-25.289442;-57.618673
+3755;F;Ingeniería Civil;San José & Rodriguez De Francia;-25.2784466;-57.6467382
+3763;M;Ingeniería Civil;Mariscal Lopez & Estados Unidos;-25.2931905;-57.60397389999999
+3776;F;Ingeniería Civil;San Roque Gonzalez & Nuñez Balboa;-25.3375233;-57.6090526
+3778;M;Ingeniería Civil;Tatajyba & Jose Maria Morelos;-25.308278;-57.6350491
+3788;M;Ingeniería Civil;Azara;-25.2860524;-57.6325742
+3789;M;Ingeniería Civil;Diego Garcia;-25.293185;-57.6170426
+3790;F;Ingeniería Civil;Jacinto Rera & Avenida 1 De Mayo;-25.2894385;-57.61776030000001
+3792;M;Ingeniería Civil;Doctor Bernardino Caballero;-25.2907029;-57.55638459999999
+3793;M;Ingeniería Civil;Tte. Julian Riquelme & Aztecas;-25.3093403;-57.59884259999999
+3797;M;Ingeniería Civil;Dr. Ernesto San Martin;-25.3494265;-57.6049738
+3808;M;Ingeniería Civil;Rafael Barret;-25.3116091;-57.57623150000001
+3818;M;Ingeniería Civil;Avenida. De La Victoria & Tobati;-25.3279316;-57.5840081
+3822;M;Ingeniería Civil;Del Maestro & San Martín;-25.2929399;-57.5757055
+3830;M;Ingeniería Civil;Dr. Migone;-25.2822555;-57.5782816
+3832;M;Ingeniería Civil;Cacique Sepe & Itaipu;-25.3391736;-57.6256715
+3834;M;Ingeniería Civil;Teniente Villalón & Abdón Palacios;-25.3210719;-57.63527319999999
+3835;M;Ingeniería Civil;Bomberos Voluntarios;-25.2976446;-57.5795319
+3837;M;Ingeniería Civil;Augusto Roa Bastos;-25.2781981;-57.6381412
+3841;M;Ingeniería Civil;Profesor Carlos Dos Santos;-25.2955274;-57.5471126
+3852;M;Ingeniería Civil - Ingeniería Industrial;Molas Lopez;-25.2627029;-57.5791739
+3860;M;Ingeniería Electrónica;Perón;-25.3388233;-57.6350642
+3895;M;Ingeniería Electrónica;Chile;-25.2997953;-57.5755331
+3897;M;Ingeniería Electrónica;Avenida Venezuela;-25.2754324;-57.5938256
+3899;M;Ingeniería Electrónica;Santiviago;-25.2940775;-57.5795796
+3903;M;Ingeniería Electrónica;Centenario;-25.289169;-57.594935
+3904;M;Ingeniería Electrónica;Juan Francisco Recade & Rio Tevicuary;-25.3010856;-57.583007
+3909;M;Ingeniería Electrónica;Avenida La Victoria;-25.3256478;-57.58220159999999
+3916;M;Ingeniería Electrónica;Montevideo & Oliva;-25.2804399;-57.6409362
+3917;M;Ingeniería Electrónica;Itaipu & Porvenir;-25.3352635;-57.62656759999999
+3924;M;Ingeniería Electrónica;Paraiso & Dr. Luis De Gasperi;-25.3281585;-57.5895843
+3925;M;Ingeniería Electrónica;San Roque & San Cayetano;-25.2896146;-57.62793729999999
+3929;M;Ingeniería Electrónica;14 De Mayo & Azara;-25.2800101;-57.6357033
+3930;M;Ingeniería Electrónica;Perpetuo Socorro;-25.2962284;-57.63621089999999
+3938;M;Ingeniería Industrial;Arasa 3570;-25.3245866;-57.58018629999999
+3954;M;Ingeniería Industrial;Caruso Cafe;-25.2938489;-57.57835359999999
+3965;M;Ingeniería Industrial;Santa Luisa De Marillac 255;-25.2813049;-57.631338
+3967;M;Ingeniería Industrial;Independencia Nacional 664;-25.2877486;-57.63718670000001
+3969;M;Ingeniería Industrial;Tte Rojas 1437;-25.3351884;-57.5741952
+3993;F;Ingeniería Industrial;25 De Agosto;-25.3074706;-57.64059229999999
+3996;M;Ingeniería Industrial;Carlos Antonio Lopez & Scavenius;-25.2869366;-57.6510244
+3998;M;Ingeniería Industrial;Rafaela Guanes;-25.320754;-57.63053009999999
+4003;M;Ingeniería Industrial;Del Maestro;-25.2914574;-57.6363239
+4009;F;Ingeniería Industrial;Avenida Bernardino Caballero & Cerro Cora;-25.2979355;-57.60795520000001
+4010;F;Ingeniería Industrial;Alonso;-25.2030941;-57.52436539999999
+4013;M;Ingeniería Industrial;Juan Diaz De Solis & Guillermo Arias;-25.2817607;-57.65876369999999
+4014;F;Ingeniería Industrial;Charles De Gaulle;-25.3012861;-57.5842703
+4016;F;Ingeniería Industrial;Profesor Gonaalez;-25.304491;-57.587644
+4017;M;Ingeniería Industrial;Teniente Julian Riquelme;-25.3093403;-57.59884259999999
+4019;M;Ingeniería Industrial;Dr. Eduardo San Martin & Von Sastrow;-25.3190347;-57.5707275
+4029;M;Ingeniería Industrial;Avenida Del Yacht & Paseo Del Prado;-25.3691854;-57.633246
+4031;M;Ingeniería Industrial;Teniente Ross;-25.3222344;-57.5904251
+4036;F;Ingeniería Industrial;Vicente Ignacio Iturbe;-25.2770584;-57.5524777
+4037;M;Ingeniería Industrial;Inmaculada Concepción;-25.2938668;-57.6470822
+4039;F;Ingeniería Industrial;El Mesias;-25.3653698;-57.6181355
+4052;F;Ingeniería Industrial;Ciencias Veterinarias;-25.3352215;-57.5233422
+4054;M;Ingeniería Industrial;Ecuador;-25.278292;-57.58387329999999
+4055;M;Ingeniería Industrial;Comandante Peralta;-25.2654243;-57.4944767
+4057;M;Ingeniería Industrial;Dr. Eligio Ayala;-25.3255941;-57.5546288
+4063;M;Ingeniería Industrial;Pilar Del Norte;-25.1845153;-57.4945134
+4070;M;Ingeniería Industrial;Willians Richardson & Incas;-25.309737;-57.60608459999999
+4075;M;Ingeniería Industrial;Fray Luis De Leon;-25.2850575;-57.60047249999999
+4076;F;Ingeniería Industrial;Jose Berges;-25.291115;-57.613323
+4077;F;Ingeniería Industrial;Ipolito Sanchez & Padre Miguel R.;-25.3227857;-57.5651127
+4078;F;Ingeniería Industrial;Dr. Ernesto San Martin & Lima;-25.3526047;-57.60396099999999
+4084;F;Ingeniería Industrial;Sargento Benítez;-25.269086;-57.566227
+4087;M;Ingeniería Industrial;Julia Miranda Cueto & España;-25.3449146;-57.50873869999999
+4090;M;Ingeniería Industrial;Emiliano R. Fernandez & Sauce;-25.3060045;-57.56717920000001
+4094;F;Ingeniería Industrial;Atenas;-25.2982191;-57.5518306
+4099;F;Ingeniería Industrial;Capitán Figari;-25.3431579;-57.6085593
+4100;F;Ingeniería Industrial;San Blás;-25.2938217;-57.5858369
+4108;M;Ingeniería Industrial;Sucre;-25.290893;-57.5736475
+4109;M;Ingeniería Industrial;Pablo Pereira Nro 52 & Sargento Silva;-25.3528162;-57.5044437
+4117;M;Ingeniería Industrial;Ingavi & Tte Sanchez Leiten;-25.3132723;-57.6259753
+4142;M;Ingeniería Industrial;Antillas & Bruno Guggiari;-25.3222343;-57.6155744
+4144;F;Ingeniería Industrial;Capitan Figari;-25.3431579;-57.6085593
+4145;M;Ingeniería Industrial;Tte. Rogelio Santacruz;-25.303856;-57.604018
+4159;F;Ingeniería Industrial;San Marcos;-25.2991133;-57.5731589
+4178;M;Ingeniería Informática;Ignacio A. Pane 107;-25.2810385;-57.6347853
+4193;M;Ingeniería Informática;Avenida Perón;-25.3488454;-57.6402302
+4200;M;Ingeniería Informática;Castelar & Benezuela;-25.269296;-57.593422
+4208;M;Ingeniería Informática;Zorrilla De San Martín;-25.3057986;-57.6193705
+4218;M;Ingeniería Informática;Santa Veronica & Pizzarro;-25.3288561;-57.6313311
+4221;M;Ingeniería Informática;Batilana & Santo Domingo;-25.3046591;-57.6286351
+4223;M;Ingeniería Informática;Kuarahy;-25.2692675;-57.5673567
+4230;M;Ingeniería Informática;José Bérges & San Andres;-25.2914161;-57.61309539999999
+4236;F;Ingeniería Informática;Mayor Arguello;-25.3207158;-57.625195
+4238;M;Ingeniería Informática;Mariscal Lopez;-25.2884231;-57.6014129
+4244;F;Ingeniería Informática;Guaranies & Gorostiaga;-25.3120533;-57.5894396
+4254;M;Ingeniería Informática;Austria & Dr. Caballero;-25.2907029;-57.55638459999999
+4257;F;Ingeniería Informática;Fulgencio R Moreno;-25.3091785;-57.59167000000001
+4258;F;Ingeniería Informática;Primer Presidente;-25.2684197;-57.5570361
+4265;M;Ingeniería Informática;Noruega;-25.288181;-57.603577
+4274;F;Marketing;Cmte. Gamarra 465;-25.283159;-57.656402
+4280;F;Marketing;Avenida Peron 3624;-25.3451521;-57.6387972
+4286;F;Marketing;Cruz Del Defenser & monte Alto;-25.2609826;-57.5109514
+4292;M;Marketing;Concepcion Yegros Pizarro 695;-25.3363175;-57.6349018
+4297;F;Marketing;Molas Lopez & Heisecke;-25.2737359;-57.56958849999999
+4304;F;Marketing;Dr. Carlos Centurion 225;-25.3150558;-57.60159769999999
+4311;M;Marketing;Del Maestro 574;-25.289443;-57.58366909999999
+4319;F;Marketing;Narciso Colman;-25.278776;-57.56989950000001
+4324;F;Marketing;Mac Mahon;-25.3015297;-57.58460280000001
+4328;F;Marketing;Capitan Figari;-25.3431579;-57.6085593
+4329;M;Marketing;Julio Correa;-25.2728215;-57.56581929999999
+4332;F;Marketing;Europa;-25.2632635;-57.59619530000001
+4342;F;Marketing;San Antonio & Marcelina Centurion;-25.4144685;-57.5543154
+4343;M;Marketing;Pampliega & Villa Olimpia;-25.3136815;-57.52465509999999
+4347;F;Marketing;Padre Elizeche & Tte Insfran;-25.3192583;-57.6196892
+4349;M;Marketing;Coronel Caminos;-25.347747;-57.505268
+4351;F;Marketing;Venezuela;-25.2838764;-57.5825282
+4354;F;Marketing;Battilana;-25.3046591;-57.6286351
+4355;M;Marketing;2 De Mayo & Coronel Cazal;-25.324631;-57.5316237
+4362;M;Marketing;Guaraníes & Teniente Benítez;-25.3480752;-57.50759839999999
+4364;F;Marketing;Campo Vía & Cassannello;-25.3102362;-57.6248456
+4369;F;Marketing;Dr. Ernesto San Martin;-25.3494265;-57.6049738
+4370;F;Marketing;Valois Rivarola & perú;-25.2803248;-57.6129656
+4373;M;Marketing;Capitan Ortiz & San Pedro;-25.2634769;-57.5776666
+4385;F;Marketing;Leandro Prieto;-25.2964425;-57.59905939999999
+4387;M;Marketing;Julio Correa;-25.2728215;-57.56581929999999
+4388;F;Marketing;Padre Ortigoza;-25.2707161;-57.5776029
+4389;F;Marketing;De La Conquista & Panambi Vera;-25.3625439;-57.60850050000001
+4393;F;Marketing;Mexico & Azara;-25.286569;-57.631698
+4396;F;Marketing;San Leopoldo Mandic;-25.3302251;-57.630883
+4400;M;Marketing;San Benigno;-25.29459;-57.63149300000001
+4405;F;Marketing;Avenida Del Yacht & Paseo Central;-25.3633342;-57.62892249999999
+4412;M;Marketing;Villa Florida 3376 Lambare;-25.3558062;-57.59791669999999
+4414;M;Marketing;Colón & Roma;-25.2893385;-57.6490565
+4422;M;Marketing;Noruega;-25.288181;-57.603577
+4423;F;Marketing;Avenida. Peron;-25.3488454;-57.6402302
+4425;F;Marketing;Ingavi;-25.3267424;-57.5302338
+4426;F;Marketing;El Dorado;-25.2887164;-57.6002922
+4457;M;Marketing;Melo De Portugal & Mayor Martinez;-25.2923861;-57.6631644
+4459;F;Marketing;Belgica;-25.3486877;-57.46537259999999
+4464;F;Marketing;Mariscal Lopez;-25.2884231;-57.6014129
+4466;M;Marketing;Ingavi & Tabare;-25.3267424;-57.5302338
+4471;F;Marketing;Fray Luis De Granada & Venezuela;-25.2843106;-57.5947019
+4477;F;Marketing;Mariscal Lopez;-25.2884231;-57.6014129
+4495;F;Marketing;Sauce & San Vicente;-25.3150486;-57.6240731
+4497;F;Marketing;Capitan Vicente Suarez;-25.2655096;-57.5746154
+4500;M;Medicina;Carlos A.lopez & g.diaz;-25.2960574;-57.65948950000001
+4509;M;Medicina;Zabala Cue 2443;-25.342267;-57.5661488
+4510;F;Medicina;Rio Apa & Arroyo Lambare;-25.3480585;-57.60446049999999
+4530;F;Medicina;Madrid & Lisboa, Asuncion;-25.2911168;-57.6514409
+4538;M;Medicina;Villa Florida Nº  3434, Lambare;-25.3558062;-57.59791669999999
+4539;M;Medicina;Mariscal Lopez 678;-25.2884231;-57.6014129
+4546;F;Medicina;Cuasi Parroquia San Rafael Arcángel, Luque;-25.2988735;-57.4715028
+4549;F;Medicina;Santisimo Sacramento Nº  1350;-25.2900115;-57.5884914
+4550;F;Medicina;Dr. Gabriel Pellon 691;-25.3237656;-57.49950490000001
+4552;F;Medicina;Mayor Bullo 257;-25.0977129;-57.5280917
+4567;F;Medicina;Tte. Benitez & San Juan;-25.3480752;-57.50759839999999
+4570;F;Medicina;Juan De Salazar Nº  540;-25.2887682;-57.6298717
+4579;F;Medicina;Vencedores Del Chaco 322;-25.3348402;-57.60199670000001
+4583;F;Medicina;Hipolito Sanchez;-25.3227857;-57.5651127
+4589;F;Medicina;Palma & 9 De Junio  V.elisa;-25.3823822;-57.5872528
+4591;M;Medicina;Bomberos Voluntarios 865;-25.2976446;-57.5795319
+4592;F;Medicina;Concordia & Guavira;-25.279553;-57.60425290000001
+4597;M;Medicina;Marcelina Insfran Nº  47;-25.3503855;-57.5125326
+4598;M;Medicina;Samudio Corrales & Brasil;-25.3028705;-57.63591270000001
+4601;F;Medicina;La Candelaria;-25.3009377;-57.5815371
+4610;F;Medicina;Virgen Del Rosario & Victor;-25.3855838;-57.5094061
+4620;F;Medicina;Ernesto Baez Casa 9-10 Zeballo;-25.2326898;-57.56743179999999
+4633;M;Medicina;Avenida de La Victoria 2985;-25.3300882;-57.5864713
+4639;M;Medicina;Avenida Venezuela 870;-25.2848744;-57.59475069999999
+4676;F;Medicina;26 De Febrero & Mcl. Lop. 448;-25.2891342;-57.61971939999999
+4687;M;Medicina;Dr. Montero & Dr. Mazci;-25.2793695;-57.65111749999999
+4688;F;Medicina;P. J. C. Felix Bogado;-25.3145356;-57.6305028
+4713;F;Medicina;San Vicente & Aquidaban 11;-25.3150486;-57.6240731
+4746;F;Medicina;San Martin & Tte. Ramirez;-25.2878652;-57.572328
+4748;F;Medicina;Crnel. Cabrera Nº 202;-25.2947884;-57.5597836
+4750;M;Medicina;Del Maestro 635;-25.289443;-57.58366909999999
+4755;M;Medicina;Los Laureles & San Roque G;-25.3108656;-57.58017339999999
+4759;F;Medicina;El Mesias;-25.3653698;-57.6181355
+4781;M;Medicina;La Union Nº 9887, San Lorenzo;-25.3430558;-57.5030939
+4783;F;Medicina;M. Roque Alonso;-25.2050889;-57.5254085
+4789;F;Medicina;Del Maestro 1740 San Martin;-25.2921846;-57.5774027
+4792;M;Medicina;Albino Maciel;-25.2710967;-57.574239
+4801;M;Medicina;General Santos;-25.3167472;-57.619846
+4807;F;Medicina;25 De Mayo & Gaudioso Nu?ez;-25.2997659;-57.5997616
+4824;F;Medicina;Melo De Portugal 1383;-25.2736192;-57.5093244
+4825;M;Medicina;Mbocayapoty Luque & Los Rosales;-25.265465;-57.48463510000001
+4827;M;Medicina;Las Perlas;-25.2993652;-57.58956310000001
+4833;F;Medicina;Virgen Del Carmen;-25.3028913;-57.6105738
+4839;M;Medicina;Central & Avenida Paraguay;-25.4067055;-57.5528194
+4856;M;Medicina;Pedro Escalada 907;-25.2943959;-57.6457247
+4867;F;Medicina;Nstra Sra De Asuncion 1465;-25.2811041;-57.6320527
+4870;F;Medicina;Santa Librada & Mcal Estigarribia;-25.3328304;-57.63321789999999
+4871;F;Medicina;Dr. Gabriel Pellon & rita Surroco;-25.3229438;-57.4986076
+4872;F;Medicina;Luis Leon;-25.294296;-57.584433
+4878;F;Medicina;Tte. Leonidas Escobar 4590;-25.3155998;-57.63293799999999
+4882;M;Medicina;San Roque;-25.28843;-57.6283225
+4885;F;Medicina;Cap Figari 2525;-25.3351312;-57.5726495
+4898;F;Medicina;Sauce & Herrera;-25.2674305;-57.5112761
+4899;F;Medicina;Avenida De La Victoria 62;-25.3256478;-57.58220159999999
+4903;F;Medicina;Dr. Gomez Brizuela 928;-25.2640387;-57.55873829999999
+4905;F;Medicina;Arq. Miguel Angel Alfaro 290;-25.2647052;-57.5647287
+4908;F;Medicina;Campo Jordan & Enzo Doldan;-25.369401;-57.504225
+4920;F;Medicina;La Paz & San Roque;-25.2857456;-57.6525556
+4923;F;Medicina;Herminio Gimenez & San Blas;-25.2831721;-57.5994658
+4926;M;Medicina;Capitan Remigio Cabral;-25.3684666;-57.5342899
+4928;F;Medicina;Bartolome De Las Casas;-25.3122219;-57.60512179999999
+4944;M;Medicina;Dr. Eduardo San Martin;-25.3200519;-57.5669386
+4947;F;Medicina;Manuel Dominguez;-25.2635815;-57.49412219999999
+4967;F;Medicina;Carlos Antonio López & Humaitá, Areguá;-25.3174341;-57.38889659999999
+4969;M;Medicina;Asia;-25.2943963;-57.6220086
+4976;F;Medicina;Campos Cervera;-25.2965509;-57.58362
+4978;M;Medicina;Jacinto Gamarra;-25.3922759;-57.3613063
+4984;F;Medicina;Ingavi;-25.3267424;-57.5302338
+4985;F;Medicina;Mayor Arguello;-25.3207158;-57.625195
+4990;F;Medicina;Doctor Cecilio Baez & Montevideo, Asunción;-25.2967942;-57.6522041
+4991;F;Medicina;Elias Ayala;-25.2708159;-57.56903819999999
+4998;F;Medicina;Inmaculada Concepcion;-25.2938668;-57.6470822
+5005;F;Medicina;General Santos;-25.3167472;-57.619846
+5010;F;Medicina;Avenida España;-25.2874009;-57.5971461
+5013;F;Medicina;Centenario;-25.289169;-57.594935
+5022;M;Medicina;Juan De Dios Peza;-25.3046917;-57.6516418
+5032;F;Medicina;Isabel La Católica;-25.2836665;-57.6572966
+5055;M;Medicina;8 De Diciembre;-25.349753;-57.508076
+5061;M;Medicina;Saavedra;-25.2708341;-57.59114769999999
+5066;F;Medicina;Sargento Martinez;-25.2937664;-57.5965277
+5075;F;Medicina;Avenida Del Maestro;-25.2904524;-57.58139120000001
+5076;M;Medicina;Avenida. Peron;-25.3488454;-57.6402302
+5078;M;Medicina;Ruta Carlos A. López;-25.2960574;-57.65948950000001
+5092;F;Medicina;Boquerón & San Martín, Luque;-25.2718323;-57.50299990000001
+5104;F;Medicina;Del Maestro;-25.2914574;-57.6363239
+5115;F;Medicina;Mariscal Lopez;-25.2884231;-57.6014129
+5118;F;Medicina;Santo Domingo & Mariscal Estigarribia;-25.2799598;-57.58300509999999
+5125;F;Medicina;Alemania;-25.2784879;-57.6399023
+5130;F;Medicina;Diaz De Solis;-25.2918933;-57.6564351
+5131;M;Medicina;Avenida Santisima Trinidad;-25.2669754;-57.5675235
+5134;M;Medicina;Guaraníes;-25.2839519;-57.6352035
+5139;F;Medicina;Feliciano Martinez;-25.2833475;-57.612332
+5140;M;Medicina;Efermera Clarita & musicos Del Paraguay;-25.3308478;-57.63178480000001
+5152;F;Medicina;Serafina Davalos & Ri4 Curupayty;-25.3049766;-57.5690634
+5153;F;Medicina;Cnel. Angel Lopez;-25.310779;-57.56442109999999
+5154;F;Medicina;Rojas Silva;-25.2966114;-57.6292515
+5155;M;Medicina;Leandro Prieto;-25.2964425;-57.59905939999999
+5161;F;Medicina;San Roque & San Agustin;-25.2440476;-57.5461597
+5170;F;Medicina;Coronel Bóveda &  Sargento Florentin;-25.2332671;-57.5721527
+5174;M;Medicina;Tajy Poty & Mbokaja;-25.3965639;-57.4603317
+5175;F;Medicina;Tte. Insfran  & General santos;-25.319684;-57.62153910000001
+5185;F;Medicina;Coeti;-25.2994191;-57.5640276
+5193;F;Medicina;Sandra Rosalia & Malaga;-25.2691917;-57.4679321
+5200;F;Medicina;Pedro Torales & AvenidaSan Antonio;-25.4047605;-57.5719972
+5202;F;Medicina;Jose Rodo;-25.3026349;-57.61208569999999
+5204;F;Medicina;Diego García & Médicos Del Chaco;-25.293185;-57.6170426
+5207;F;Medicina;Ruta 2;-25.3563687;-57.4407399
+5210;M;Medicina;Vice Presidente Sanchez & Herrera;-25.2972308;-57.61474059999999
+5213;M;Medicina;General Andrada;-25.3078598;-57.6098994
+5220;F;Medicina;Rojas Silva;-25.2966114;-57.6292515
+5222;F;Medicina;4 De Julio & Coronel Escurra;-25.2974592;-57.5548477
+5225;F;Medicina;Comuneros & Yegros;-25.2817186;-57.631907
+5228;M;Medicina;Naciones Unidas & Rancho 8;-25.3217375;-57.5334506
+5229;F;Medicina;Lacaranda San Lorenzo;-25.3138718;-57.5173631
+5231;M;Medicina;Ypora;-25.3289275;-57.5814994
+5232;M;Medicina;Doctor Alejandro Davalos;-25.2953081;-57.5952318
+5238;M;Medicina;San Lorenzo;-25.3430558;-57.5030939
+5240;M;Medicina;Batilana & Santo Domingo;-25.3046591;-57.6286351
+5252;F;Medicina;Bruselas & Doctor Caballero;-25.2898998;-57.55617359999999
+5255;F;Medicina;Avenida La Victoria Eq Bernardino Villasboa;-25.3256478;-57.58220159999999
+5260;F;Medicina;Avenida Humaita;-25.2703529;-57.4859308
+5265;M;Medicina;Juan Motta & Sucre;-25.2930231;-57.57305590000001
+5267;M;Medicina;Tte. Cirilo Gill 353;-25.2755134;-57.5606026
+5273;M;Medicina;Ruta Acceso Sur;-25.460086;-57.51357519999999
+5290;F;Medicina;29 De Setiembre & Mbocayaty;-25.3212433;-57.61914700000001
+5291;F;Medicina;Juan Pablo Ii;-25.2605334;-57.5974492
+5292;F;Medicina;General  Diaz  & España;-25.2931452;-57.6368216
+5295;F;Medicina;Capitan Aranda & Isabel De La Católica;-25.2918074;-57.6554732
+5298;M;Medicina;Santa Rosa & San Blas;-25.288042;-57.59189149999999
+5302;F;Medicina;Avenida Toledo Cañada;-25.379775;-57.4188675
+5314;M;Medicina;Panambi Vera & Hernandarias;-25.3322728;-57.5947611
+5318;M;Medicina;Tatajyba & Estados Unidos;-25.3063014;-57.63965639999999
+5327;F;Medicina;Virgen De Fatima;-25.109074;-57.4859004
+5331;F;Medicina;Italia;-25.2981493;-57.5727206
+5339;M;Medicina;Azara;-25.2860524;-57.6325742
+5341;M;Medicina;Cnel. López;-25.3178486;-57.6012463
+5342;F;Medicina;Eligio Ayala;-25.286656;-57.624935
+5351;F;Medicina;Campo Via;-25.2855447;-57.48252710000001
+5358;M;Medicina;Ita Yvate;-25.296196;-57.521972
+5364;F;Medicina;Raul Carmona;-25.2903942;-57.56637709999999
+5365;M;Medicina;Estados Unidos;-25.2931905;-57.60397389999999
+5366;F;Medicina;Parapiti;-25.302419;-57.63806989999999
+5368;F;Medicina;Doctor Candia;-25.2866847;-57.6324239
+5371;F;Medicina;Andres Campos Cervera;-25.2996588;-57.57610820000001
+5375;F;Medicina;Siria;-25.284857;-57.60693759999999
+5378;F;Medicina;España;-25.2842228;-57.6335394
+5382;M;Medicina;Avenida San Antonio;-25.400012;-57.5764338
+5385;F;Medicina;Victor Hugo & Cervantes;-25.2706214;-57.5913748
+5389;M;Medicina;Takeda & Avelino Martinez;-25.3424973;-57.5167197
+5398;F;Medicina;Colón & Eduardo Victor Haedo;-25.2805555;-57.6429828
+5410;F;Medicina;Fray Luis De Leon;-25.2850575;-57.60047249999999
+5411;F;Medicina;Avenida Peron;-25.3488454;-57.6402302
+5414;F;Medicina;Dr. Sosa;-25.2608842;-57.5791648
+5417;M;Medicina;Manuel Del Castillo;-25.2977269;-57.5832077
+5418;F;Medicina;Lillo;-25.2922374;-57.56471939999999
+5422;M;Medicina;Dr. Manuel Perez;-25.2829428;-57.61783440000001
+5423;F;Medicina;Chile;-25.2997953;-57.5755331
+5425;F;Medicina;Rivarola Mato;-25.3137538;-57.56862309999999
+5426;M;Medicina;Brasil & Samuu;-25.3526542;-57.5278178
+5429;M;Medicina;Nicolas Goldschmitd;-25.3073588;-57.5565467
+5430;M;Medicina;Campos Cervera;-25.2965509;-57.58362
+5431;M;Medicina;Olimpo & Pitiantuta;-25.3474286;-57.55815879999999
+5432;M;Medicina;Pirizal & Campo Via;-25.3284604;-57.5294708
+5437;F;Medicina;Carlos Gatti;-25.2852209;-57.62500979999999
+5439;F;Medicina;Marconi;-25.324649;-57.6241175
+5442;F;Medicina;Azara;-25.2860524;-57.6325742
+5444;F;Medicina;Doctor Sosa;-25.2608842;-57.5791648
+5447;M;Medicina;General  Diaz;-25.2931452;-57.6368216
+5460;F;Medicina;Charles De Gaulle;-25.3012861;-57.5842703
+5488;F;Medicina;Arsenio Erico;-25.2983351;-57.6399185
+5489;M;Medicina;Ignacio A Pane & camboriu;-25.2810385;-57.6347853
+5494;F;Medicina;Joel Estigarribia;-25.2959172;-57.54472370000001
+5497;M;Medicina;10 De Agosto & España;-25.3467325;-57.50775889999999
+5499;F;Medicina;Incas;-25.3170941;-57.5703516
+5503;F;Medicina;Mercedes Grau;-25.3671006;-57.62017809999999
+5504;F;Medicina;Teniente Acuña;-25.3068127;-57.56995800000001
+5507;M;Medicina;Jose Marti  & Buena Aventura Zuares;-25.3078421;-57.5883108
+5518;F;Medicina;Thompson;-25.459801;-57.51139800000001
+5521;F;Medicina;Diaz De Guzman;-25.2779896;-57.63780120000001
+5531;M;Medicina;Luis De Leon & Gubetich;-25.2712419;-57.5853318
+5533;M;Medicina;Moises Bertoni;-25.2967362;-57.5768124
+5539;F;Medicina;Prof. Garcete & San Vicente;-25.3150486;-57.6240731
+5545;F;Medicina;La Candelaria;-25.3009377;-57.5815371
+5551;F;Medicina;Campo Jordan & Alihuata;-25.369401;-57.504225
+5554;F;Medicina;Domingo Savio;-25.3333797;-57.53751200000001
+5555;F;Medicina;Don Bosco & Jejui;-25.2841491;-57.6483625
+5558;F;Medicina;Avenida San Antonio;-25.400012;-57.5764338
+5562;M;Medicina;Ramón Elías;-25.3505729;-57.4487711
+5570;F;Medicina;San Roque Gonzalez & Rojas Silva;-25.3379515;-57.5776881
+5571;F;Medicina;San José & Paso De Oro;-25.4402443;-57.4686503
+5580;F;Medicina;29 De Septiembre;-25.3796407;-57.55619890000001
+5585;M;Medicina;Avenida Costa Azul;-25.1655106;-57.49853029999999
+5596;F;Medicina;Edmundo Reyes & General  Caballero;-25.3643031;-57.5030618
+5605;M;Medicina;Parapiti & Novena;-25.302419;-57.63806989999999
+5608;M;Medicina;Enrique Doldán Ibieta & Primero De Marzo;-25.5012675;-57.3617587
+5611;M;Medicina;Inmaculada Concepcion;-25.2938668;-57.6470822
+5644;F;Medicina;Tte. Alcorta & Inca;-25.3055983;-57.62223119999999
+5645;F;Medicina;Cnel. Feliz Cabrera & Andrade;-25.2962086;-57.647702
+5646;F;Medicina;Vicente Suárez;-25.2655096;-57.5746154
+5652;F;Medicina;Coronel Moreno;-25.2852679;-57.65282610000001
+5655;F;Medicina;Capitan Ortiz;-25.2681896;-57.5729682
+5662;M;Medicina;Manuel Dominguez;-25.2635815;-57.49412219999999
+5670;M;Medicina;Alfaro Ramos;-25.3741532;-57.6143635
+5686;M;Medicina;Alejandro Rabiza;-25.3400689;-57.60174989999999
+5692;F;Medicina;San Antonio;-25.4144685;-57.5543154
+5702;F;Medicina;San Roque Gonzalez & José Marti;-25.3073424;-57.5892882
+5709;M;Medicina;14 De Mayo & Teniente Gregorio Benitez;-25.303598;-57.652207
+5728;F;Medicina;San Roque;-25.28843;-57.6283225
+5732;M;Medicina;Doctor Molinas;-25.2655096;-57.567183
+5741;M;Medicina;Avenida Del Pueblo;-25.344717;-57.5964946
+5757;F;Medicina;Cruzada De La Amistad;-25.3335288;-57.5276827
+5770;F;Medicina;Serafina Davalos;-25.3140535;-57.5773819
+5772;F;Medicina;Manuel Del Castillo;-25.2977269;-57.5832077
+5787;M;Medicina;Naciones Unidas;-25.2842164;-57.5670961
+5790;M;Medicina;Avenida Venezuela;-25.2754324;-57.5938256
+5792;F;Medicina;San Vicente De Paul;-25.3271304;-57.6291135
+5794;F;Medicina;Iglesia Evangélica Asamblea de Dios Vida y Plenitud - Cristo Vive, San Lorenzo;-25.3405975;-57.53845210000001
+5795;M;Medicina;Rodriguez De Francia;-25.2784466;-57.6467382
+5796;M;Medicina;Centenario;-25.289169;-57.594935
+5803;M;Medicina;Campo Vía;-25.2855447;-57.48252710000001
+5821;M;Medicina;Inmaculada Concepción;-25.2938668;-57.6470822
+5824;F;Medicina;Villa Aurelia;-25.3102962;-57.5617693
+5836;F;Medicina - Nutrición;Mariscal Lopez;-25.2884231;-57.6014129
+5839;M;Nutrición;San Blas 2083;-25.2938217;-57.5858369
+5841;F;Nutrición;Dr. Gomez Brizuela Nº 1062;-25.2640387;-57.55873829999999
+5856;M;Nutrición;Avenida La Victoria & Fracción La Fortuna;-25.3256478;-57.58220159999999
+5858;M;Nutrición;Pacheco & Ri 6 & Ri3;-25.3020716;-57.5734259
+5866;F;Nutrición;San Leopoldo Mandic;-25.3302251;-57.630883
+5869;F;Nutrición;Jose Falcon & lusio Molinas;-25.3077099;-57.52083529999999
+5870;M;Nutrición;Rio Blanco;-25.2950941;-57.6296504
+5871;F;Nutrición;Olegario Andrade;-25.3034808;-57.55460230000001
+5874;M;Nutrición;Andres Barbero;-25.3245738;-57.52694609999999
+5876;F;Nutrición;Manuel Dominguez;-25.2635815;-57.49412219999999
+5884;M;Nutrición;Santo Domingo & Brasilia;-25.2799598;-57.58300509999999
+5889;F;Nutrición;Bogarin;-25.432932;-57.50699579999999

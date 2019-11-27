@@ -4,63 +4,16 @@ import os
 import random
 
 
-CURRENT_DIRECTORY = os.getcwd()
-CSV_FORMDATA_INPUT_FILE_PATH = "source_data\Formulario.csv"
-CSV_USERDATA_INPUT_FILE_PATH = "source_data\Alumnos_Campus_Geocoded.csv"
-CSV_OUTPUT_FILE_PATH = "output_data\Alumnos_profiles_car_ownership.csv"
-CSV_CLEANED_FILE_PATH = "output_data\Alumnos_Campus_Geocoded_CLEANED.csv"
+PROJECT_DIRECTORY = os.path.dirname(os.getcwd())
 
 
-def clean():
-
-    """ Limpia los archivos de las coordenadas que estan fuera de Asuncion"""
-
-    with open(CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata, \
-         open(CSV_CLEANED_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
-
-        row_reader = csv.DictReader(csv_input_userdata, delimiter=';')
-
-        # preparing the csv file for success geocoding rows
-        fieldnames = ['UUID', 'SEXO', 'CARRERA', 'DIRECCION', 'LATITUD', 'LONGITUD']
-        output_csv_writer = csv.DictWriter(csv_output_file, fieldnames=fieldnames, delimiter=';')
-        output_csv_writer.writeheader()
-
-        nopy = 0
-        py = 0
-
-        for row in row_reader:  # For each row in the original CSV
-
-            alumni_uuid = row['UUID']
-            alumni_sex = row['SEXO']
-            alumni_career = row['CARRERA']
-            alumni_address = row['DIRECCION']
-            alumni_latitude = float(row['LATITUD'])
-            alumni_longitude = float(row['LONGITUD'])
+SOURCE_DIRECTORY = 'source_data'
+OUTPUT_DIRECTORY = 'output_data'
 
 
-            if -25.084644 > alumni_latitude > -25.541974 and -57.325033 > alumni_longitude > -57.680855:
-                print(f'{alumni_uuid} esta en py')
-                py=py+1
-
-                output_csv_writer.writerow(
-                    {
-                    'UUID': alumni_uuid,
-                    'SEXO': alumni_sex,
-                    'CARRERA': alumni_career,
-                    'DIRECCION': alumni_address,
-                    'LATITUD': alumni_latitude,
-                    'LONGITUD': alumni_longitude
-                    }
-                )
-
-            else:
-                print(f'{alumni_uuid} NO esta en py')
-                nopy = nopy + 1
-
-        print(f'En Paraguay estan {py} personas')
-        print(f'No estan en Py {nopy} personas')
-
-
+CSV_FORMDATA_INPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, SOURCE_DIRECTORY, 'Formulario.csv')
+CSV_USERDATA_INPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, SOURCE_DIRECTORY, 'Alumnos_Campus_Geocoded.csv')
+CSV_OUTPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, OUTPUT_DIRECTORY, 'Alumnos_profiles_car_ownership.csv')
 
 
 def distribute_mean_transportation():
@@ -130,7 +83,6 @@ def distribute_mean_transportation():
 
 
 if __name__ == "__main__":
-    #clean()
     distribute_mean_transportation()
 
 
