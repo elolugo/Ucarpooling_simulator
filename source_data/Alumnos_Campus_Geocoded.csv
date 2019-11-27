@@ -174,7 +174,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 332;M;Administración de Empresas;Itapua & Avenida Santísima Trinidad, Asunción;-25.2608104;-57.57690509999999
 333;F;Administración de Empresas;Avenida General Máximo Santos & Mayor Nicolás Argüello, Asunción;-25.3210052;-57.6222947
 334;F;Administración de Empresas;Avenida General Máximo Santos & Mayor Nicolás Argüello, Asunción;-25.3210052;-57.6222947
-335;M;Administración de Empresas;14 de Abril & Guarayos, Asunción;-25.2637399;-57.57592599999999
+335;M;Administración de Empresas;14 de Abril & Guarayos, Asunción;-25.324679;-57.587402
 336;M;Administración de Empresas;Nuestra Señora de la Asunción & Cnel. Juan Centurion, Asunción;-25.2989206;-57.6456828
 337;F;Administración de Empresas;Geocoded Address;-25.306956;-57.597552
 338;M;Administración de Empresas;Avenida Ygatimi & Colón, Asunción;-25.286494;-57.64704889999999
@@ -182,7 +182,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 340;M;Administración de Empresas;Palacio de López & Nazareno, Lambaré;-25.3254534;-57.61368460000001
 341;M;Administración de Empresas;Don Bosco & Jejuí, Asunción;-25.2841491;-57.6483625
 346;M;Administración de Empresas;Obispo Basilio López & Capitán Pedro Fabio Martínez, Asunción;-25.278566;-57.5493309
-347;M;Administración de Empresas;Tte Rojas;-25.2966114;-57.6292515
+347;M;Administración de Empresas;Tte Rojas;-25.335263;-57.574377
 348;M;Administración de Empresas;Geocoded Address;-25.309002;-57.61364
 350;M;Administración de Empresas;Juan De Salazar;-25.2887682;-57.6298717
 352;F;Administración de Empresas;Geocoded Address;-25.331305;-57.636836
@@ -229,7 +229,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 419;M;Administración de Empresas;Austria & Belgica, Asunción;-25.2889788;-57.5669863
 420;M;Administración de Empresas;Geocoded Address;-25.367214;-57.624459
 421;M;Administración de Empresas;Tte Jara;-25.2846763;-57.6106432
-425;F;Administración de Empresas;Nuestra Señora De La Asuncion;-25.2637399;-57.57592599999999
+425;F;Administración de Empresas;Nuestra Señora De La Asuncion;-25.287336;-57.637868
 426;M;Administración de Empresas;Alas Paraguayas;-25.3066765;-57.57733260000001
 428;M;Administración de Empresas;Pasaje Molas & 25 De Mayo, Asunción;-25.2881574;-57.62567929999999
 430;M;Administración de Empresas;Geocoded Address;-25.298593;-57.613571
@@ -251,7 +251,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 460;M;Administración de Empresas;Geocoded Address;-25.29846;-57.572518
 461;M;Administración de Empresas;Chacoré & Obispo Basilio López, Asunción;-25.2791915;-57.5543055
 465;F;Administración de Empresas;Mencia De Sanabria;-25.311953;-57.6138966
-466;F;Administración de Empresas;Tte Rojas;-25.2966114;-57.6292515
+466;F;Administración de Empresas;Tte Rojas;-25.335263;-57.574377
 467;M;Administración de Empresas;22 De Setiembre & Don Luis Guanella, Asunción;-25.2992756;-57.61737910000001
 468;F;Administración de Empresas;Tte Blas Gimenez;-25.2672108;-57.55326839999999
 473;M;Administración de Empresas;Nazareno & Palacio de López, Lambaré;-25.2772267;-57.63724389999999
@@ -278,10 +278,10 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 515;M;Administración de Empresas;Cerro Porteño & Avenida Proceres De Mayo, Asunción;-25.3035577;-57.62018990000001
 518;M;Administración de Empresas;Profesor César Samaniego;-25.2727502;-57.58575459999999
 519;M;Administración de Empresas;Juan Leopardi & 12 de junio;-25.3344279;-57.5414728
-520;M;Administración de Empresas;Asuncion;-25.2637399;-57.57592599999999
+520;M;Administración de Empresas;Asuncion;-25.277425;-57.649939
 521;F;Administración de Empresas;Geocoded Address;-25.354914;-57.628743
 522;M;Administración de Empresas;Quiindy & Luque, Villa Elisa;-25.3723528;-57.59401740000001
-525;M;Administración de Empresas;Asuncion;-25.2637399;-57.57592599999999
+525;M;Administración de Empresas;Asuncion;-25.314197;-57.591364
 526;M;Administración de Empresas;Avenida Primer Presidente;-25.2592554;-57.5656038
 528;F;Administración de Empresas;Geocoded Address;-25.357377;-57.610615
 529;F;Administración de Empresas;Maxima Lugo;-25.2368537;-57.5446392
@@ -289,14 +289,14 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 532;F;Administración de Empresas;Guido Spano 1712;-25.2951241;-57.57545039999999
 533;F;Administración de Empresas;Alferez Silva;-25.2851577;-57.6569761
 534;F;Administración de Empresas;Arasa & Ysapy, Asunción;-25.3245866;-57.58018629999999
-535;F;Administración de Empresas;Asuncion;-25.2637399;-57.57592599999999
+535;F;Administración de Empresas;Asuncion;-25.328573;-57.587119
 536;F;Administración de Empresas;Geocoded Address;-25.314304;-57.641614
 537;F;Administración de Empresas;Geocoded Address;-25.345411;-57.641726
 538;F;Administración de Empresas;Geocoded Address;-25.367623;-57.562211
 539;M;Administración de Empresas;Geocoded Address;-25.328794;-57.530321
 540;M;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.327411;-57.630582
 541;M;Administración de Empresas - Ciencias Contables;Lomas Valentinas & Juan Leopardi, San Lorenzo;-25.3367756;-57.5430629
-543;M;Administración de Empresas - Ciencias Contables;Tte. Rivera Nº 31 - Asuncion;-25.2637399;-57.57592599999999
+543;M;Administración de Empresas - Ciencias Contables;Tte. Rivera Nº 31, Asuncion;-25.318966;-57.593211
 545;M;Administración de Empresas - Ciencias Contables;Teniente Benitez & Avenida Avelino Martínez, San Lorenzo;-25.3566695;-57.54548
 546;M;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.291118;-57.667872
 548;F;Administración de Empresas - Ciencias Contables;Fulgencio Yegros & Rio Confuso, Lambaré;-25.3477829;-57.5995603
@@ -361,7 +361,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 657;F;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.319703;-57.625498
 659;F;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.26133;-57.56198
 661;F;Administración de Empresas - Ciencias Contables;Dra Inés Enciso Velloso & Del Rosario, Asunción;-25.3281542;-57.6296609
-664;M;Administración de Empresas - Ciencias Contables;Juan Andres Gelly & Chile, Asunción;-25.2637399;-57.57592599999999
+664;M;Administración de Empresas - Ciencias Contables;Juan Andres Gelly & Chile, Asunción;-25.294603;-57.643596
 666;M;Administración de Empresas - Ciencias Contables;Salon de Belleza AnaGaby, Lambaré;-25.3361285;-57.619952
 667;F;Administración de Empresas - Ciencias Contables;Arecutacua & Juan Sebastián Elcano, Asunción;-25.3089994;-57.61864019999999
 668;F;Administración de Empresas - Ciencias Contables;Ramón de las Llanas;-25.287478;-57.66052910000001
@@ -394,7 +394,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 714;M;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.345371;-57.620211
 715;M;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.356124;-57.630665
 718;M;Administración de Empresas - Ciencias Contables;Geocoded Address;-25.348309;-57.638968
-721;M;Administración de Empresas - Ciencias Contables;Caballero & Tuyutí, Asunción;-25.2637399;-57.57592599999999
+721;M;Administración de Empresas - Ciencias Contables;Caballero & Tuyutí, Asunción;-25.300684;-57.642567
 722;F;Administración de Empresas - Ciencias Contables;Guirnalda & Nazareno, Lambaré;-25.3274188;-57.6134149
 725;F;Administración de Empresas - Ciencias Contables;Koeti & Comendador Nicolás Bo, Lambaré;-25.3323768;-57.61628700000001
 728;F;Administración de Empresas - Ciencias Contables;Leocadio Leguizamon;-25.2859592;-57.4692312
@@ -666,7 +666,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1228;F;Análisis de Sistema;Geocoded Address;-25.322085;-57.645754
 1232;F;Análisis de Sistema;25 De Agosto & Jose Maria Morelos, Asunción;-25.3101925;-57.6356075
 1233;M;Análisis de Sistema;Geocoded Address;-25.315989;-57.564234
-1235;M;Análisis de Sistema;Pitiantuta;-25.3471551;-57.5617693
+1235;M;Análisis de Sistema;Pitiantuta;-25.276531;-57.607548
 1237;M;Análisis de Sistema;Músicos De Paraguay;-25.2898265;-57.60731579999999
 1244;M;Análisis de Sistema;Avenue Luis María Argaña & Las Mercedes, Lambaré;-25.334577;-57.6253063
 1245;M;Análisis de Sistema;Las Palomas & 12 de Enero, Villa Elisa;-25.3621746;-57.5949167
@@ -714,7 +714,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1316;M;Arquitectura;Rca. De Colombia 431;-25.2917254;-57.6351879
 1317;M;Arquitectura;Agustin Yegros 209;-25.3248172;-57.62598729999999
 1318;M;Arquitectura;Profesor Mario Mariotti & Santísimo Sacramento, Asunción;-25.2739996;-57.5848938
-1319;F;Arquitectura;Caballero & Blas Garay, Asunción;-25.2637399;-57.57592599999999
+1319;F;Arquitectura;Caballero & Blas Garay, Asunción;-25.295323;-57.638861
 1320;F;Arquitectura;Pedro J Carles 261, San Lorenzo;-25.3478875;-57.5008365
 1322;M;Arquitectura;Juez Enrique Oino 2290;-25.2823533;-57.5485174
 1323;F;Arquitectura;Mariscal José Félix Estigarribia 3470, Capiatá;-25.3646222;-57.4250737
@@ -731,7 +731,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1341;F;Arquitectura;Ntra. Sra. de la Asunción 1189, Asunción;-25.2907529;-57.6401681
 1344;F;Arquitectura;Indio Francisco;-25.3083562;-57.60692400000001
 1347;M;Arquitectura;De Las Palmeras & Guillermo Saraví, Asunción;-25.3010287;-57.5901388
-1348;F;Arquitectura;A Sanchez & Aztecas, Asunción;-25.2637399;-57.57592599999999
+1348;F;Arquitectura;A Sanchez & Aztecas, Asunción;-25.309937;-57.608756
 1349;F;Arquitectura;Pedro J. Caballero & Avenida Cacique Lambare, Lambaré;-25.3406366;-57.5999659
 1350;M;Arquitectura;Avenida General José Gervasio Artigas & Avenida España, Asunción;-25.2849801;-57.6225885
 1351;F;Arquitectura;Río Ñacunday & Antonio Tomás Yegros, Lambaré;-25.3420556;-57.5961855
@@ -777,7 +777,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1414;F;Arquitectura;Capitan Domingo Ortiz;-25.2752499;-57.5662093
 1416;F;Arquitectura;General Delgado & Ypané, Lambaré, Lambare;-25.3502136;-57.6142777
 1418;F;Arquitectura;Leonismo Luqueño;-25.277626;-57.5188643
-1420;F;Arquitectura;Tte Rojas;-25.2966114;-57.6292515
+1420;F;Arquitectura;Tte Rojas;-25.335263;-57.574377
 1425;F;Arquitectura;Rigoberto Caballero;-25.2928986;-57.6030503
 1426;M;Arquitectura;Sportivo Luqueño & Moises Bertoni, Luque;-25.2724801;-57.4883561
 1427;F;Arquitectura;Geocoded Address;-25.304372;-57.631942
@@ -887,9 +887,9 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1641;F;Arquitectura;Tte. Florencio Fernandez;-25.272157;-57.5573436
 1642;M;Arquitectura;Arq. Miguel Alfaro & Teniente Rivas;-25.2665858;-57.56514019999999
 1650;F;Arquitectura;Presbitero Francisco Javier Bogarin & Alberdi;-25.2974818;-57.64680910000001
-1652;M;Arquitectura;Asuncion;-25.2637399;-57.57592599999999
-1653;F;Arquitectura;Asuncion;-25.2637399;-57.57592599999999
-1654;F;Arquitectura;Asuncion;-25.2637399;-57.57592599999999
+1652;M;Arquitectura;Asuncion;-25.294549;-57.590493
+1653;F;Arquitectura;Asuncion;-25.294139;-57.614792
+1654;F;Arquitectura;Asuncion;-25.308605;-57.574396
 1655;M;Arquitectura;Teniente Quiñonez;-25.264912;-57.5741598
 1659;F;Arquitectura;R.i.1 2 De Mayo;-25.3125489;-57.57514029999999
 1660;F;Arquitectura;Ri6 Boqueron;-25.3104554;-57.57728040000001
@@ -925,7 +925,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1714;F;Ciencias Contables;Aca Yuasa;-25.3248941;-57.5344406
 1715;M;Ciencias Contables;Tte. Pratt Gill & Constitución Nacional, Lambaré;-25.3412224;-57.63389950000001
 1716;F;Ciencias Contables;Acahay & Paraguari, Villa Elisa;-25.3704308;-57.58959269999999
-1717;F;Ciencias Contables;Suecia & Finlandia, Asunción;-25.2637399;-57.57592599999999
+1717;F;Ciencias Contables;Suecia & Finlandia, Asunción;-25.307495;-57.616380
 1718;M;Ciencias Contables;Nanawa & Avenida José Felix Bogado, Asunción;-25.3020249;-57.6325192
 1720;F;Ciencias Contables;Geocoded Address;-25.323896;-57.562472
 1722;F;Ciencias Contables;Geocoded Address;-25.32075;-57.534813
@@ -1002,7 +1002,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1824;F;Ciencias Contables;Geocoded Address;-25.3418;-57.54226
 1829;F;Ciencias Contables;Constitución Nacional & San Joaquín, Lambaré;-25.3403884;-57.6292969
 1830;F;Ciencias Contables;Geocoded Address;-25.296438;-57.6461
-1832;F;Ciencias Contables;Juan A. Samudio & Chile, Asunción;-25.2637399;-57.57592599999999
+1832;F;Ciencias Contables;Juan A. Samudio & Chile, Asunción;-25.297431;-57.645538
 1834;F;Ciencias Contables;Geocoded Address;-25.349231;-57.496204
 1836;F;Ciencias Contables;Carretera de López & Tobati, Lambaré;-25.3651537;-57.61935829999999
 1837;F;Ciencias Contables;Geocoded Address;-25.304343;-57.650158
@@ -1118,7 +1118,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2017;M;Ciencias Contables - Economía;Capitan Rivas;-25.3266857;-57.5317302
 2018;M;Ciencias Contables - Economía;Geocoded Address;-25.363991;-57.62242
 2019;M;Ciencias Contables - Economía;Los Olivos & La Pachal 1;-25.2735171;-57.47740270000001
-2022;F;Ciencias Contables - Economía;Pitiantuta;-25.3471551;-57.5617693
+2022;F;Ciencias Contables - Economía;Pitiantuta;-25.276531;-57.607548
 2024;F;Ciencias Contables - Economía;Los Alpes & Alfaro Ramos;-25.3741532;-57.6143635
 2025;F;Ciencias Contables - Economía;Consejal Vargas;-25.2961203;-57.5573095
 2027;M;Ciencias Contables - Economía;Geocoded Address;-25.307199;-57.632767
@@ -1137,7 +1137,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2057;M;Ciencias Contables - Economía;Ricardo Brugada;-25.2781694;-57.6240731
 2059;M;Ciencias Contables - Economía;Poeta Carlos Gimenez & Teniente Zotti;-25.3035502;-57.5879734
 2060;M;Ciencias Contables - Economía;Diego Garcia & Medicos Del Chaco;-25.3318942;-57.6077026
-2061;M;Ciencias Contables - Economía;Pitiantuta;-25.3471551;-57.5617693
+2061;M;Ciencias Contables - Economía;Pitiantuta;-25.331355;-57.555776
 2062;F;Ciencias Contables - Economía;Luis De Gasperi;-25.3281585;-57.5895843
 2065;M;Ciencias Contables - Economía;Ayolas & Juan Adres Gelly;-25.2921746;-57.6480354
 2071;F;Ciencias Contables - Economía;Elias Ayala & Roque Saldivar;-25.2715744;-57.56773079999999
@@ -1154,7 +1154,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2090;M;Ciencias Contables - Economía;Domingo Balluelos & Teniente Molinas;-25.2636004;-57.5830147
 2092;F;Ciencias Contables - Economía;Geocoded Address;-25.189108;-57.498103
 2093;M;Ciencias Contables - Economía;Geocoded Address;-25.260117;-57.572015
-2094;F;Ciencias Contables - Economía;Pitiantuta;-25.3471551;-57.5617693
+2094;F;Ciencias Contables - Economía;Pitiantuta;-25.331355;-57.555776
 2095;M;Ciencias Contables - Economía;Mayor Gardel;-25.313535;-57.6255751
 2098;F;Ciencias Contables - Economía;Sandra Rosalia & Capitan Insfran;-25.2826275;-57.4979581
 2101;F;Ciencias Contables - Economía;Geocoded Address;-25.327414;-57.595811
@@ -1260,7 +1260,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2344;M;Comercio Internacional;Cañada Zárate Isla;-25.2298832;-57.502332
 2348;F;Comercio Internacional;Medicos Del Chaco;-25.3256295;-57.6023302
 2350;M;Comercio Internacional;Mariscal Estigarribia & Brasil;-25.2881427;-57.62429889999999
-2351;F;Comercio Internacional;Nuestra Señora De La Asuncion;-25.2637399;-57.57592599999999
+2351;F;Comercio Internacional;Nuestra Señora De La Asuncion;-25.295897;-57.643649
 2354;M;Comercio Internacional;Coronel Del Valle 1920;-25.2978884;-57.6642333
 2355;M;Comercio Internacional;Paseo Del Solar & Guabira;-25.3377435;-57.6129892
 2356;F;Comercio Internacional;1ra Junta Municipal & Constitucion Nacional;-25.3409527;-57.6319332
@@ -1283,7 +1283,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2388;F;Comercio Internacional;Geocoded Address;-25.311344;-57.516963
 2389;M;Comercio Internacional;José Segundo Decoud & Heroes Del 70;-25.3483958;-57.6061865
 2390;M;Comercio Internacional;Arquitecto Miguel Alfaro & Rufino Cañete;-25.2626624;-57.5642604
-2393;F;Comercio Internacional;Asuncion;-25.2637399;-57.57592599999999
+2393;F;Comercio Internacional;Asuncion;-25.269674;-57.559555
 2396;F;Comercio Internacional;Arsenales & Teniente Rodi, San Lorenzo;-25.3441944;-57.5355024
 2397;M;Comercio Internacional - Economía;Geocoded Address;-25.294359;-57.648494
 2398;M;Comercio Internacional - Economía;Ri6 Boqueron 443;-25.3104554;-57.57728040000001
@@ -1406,7 +1406,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2641;F;Diseño Industrial;Avambare & Las Palmas;-25.3316116;-57.6188304
 2645;M;Diseño Industrial;Avenida Artigas & General Santos;-25.275053;-57.61005100000001
 2648;F;Diseño Industrial;Ramon Zubizarreta;-25.2672966;-57.57027469999999
-2649;F;Diseño Industrial;Mcal Lopez;-25.2884231;-57.6014129
+2649;F;Diseño Industrial;Mcal Lopez;-25.291587;-57.615708
 2651;M;Diseño Industrial;14 De Mayo & Silvio Pettirossi;-25.2415129;-57.51418139999999
 2652;F;Diseño Industrial;Jose Papalardo & Cazenave;-25.2883389;-57.5456238
 2653;F;Diseño Industrial;Geocoded Address;-25.285375;-57.642241
@@ -1425,7 +1425,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2674;F;Diseño Industrial;Teniente Solís;-25.3072338;-57.5924613
 2675;M;Diseño Industrial;Tte Prats & Cap Gwynn;-25.290678;-57.659795
 2677;F;Diseño Industrial;Geocoded Address;-25.310153;-57.619244
-2680;F;Diseño Industrial;Tte Rojas Silva;-25.2966114;-57.6292515
+2680;F;Diseño Industrial;Tte Rojas Silva;-25.340981;-57.581517
 2681;F;Diseño Industrial;Capitan Gwynn & Isabel La Catolica;-25.2900403;-57.65585950000001
 2684;F;Diseño Industrial;Ramón de las Llanas 1353;-25.2913043;-57.6596361
 2688;F;Diseño Industrial;Geocoded Address;-25.391677;-57.547182
@@ -1526,14 +1526,14 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2886;F;Economía;Geocoded Address;-25.284398;-57.537261
 2887;M;Economía;Geocoded Address;-25.258791;-57.578289
 2890;M;Economía;Isaac Kostianovsky;-25.3096608;-57.5769562
-2892;M;Economía;Mariscal Lopez & Ytororo;-25.2884231;-57.6014129
+2892;M;Economía;Mariscal Lopez & Ytororo;-25.300876;-57.565380
 2894;M;Economía;Pai Perez & Ana Díaz;-25.2988205;-57.6279281
 2895;M;Economía;Hipólito Carron;-25.2739272;-57.5654985
 2897;M;Economía;Amador De Montoya & Ybyrayu;-25.3271896;-57.5872079
 2899;M;Economía;Avenida Las Residentas;-25.2843032;-57.464654
 2901;M;Economía;Arsenales & Gabino Mendoza, Lambaré;-25.3651853;-57.6253487
 2903;F;Economía;Avenida Perú & Teniente Primero Blás Manuel Garay, Asunción;-25.3085275;-57.62988739999999
-2904;M;Economía;Asuncion;-25.2637399;-57.57592599999999
+2904;M;Economía;Asuncion;-25.309380;-57.623393
 2908;M;Economía;Guarambare & Oscar Carreras Saguier, Asunción;-25.3182712;-57.6030152
 2909;M;Economía;3 de Febrero & Igualdad, Asunción;-25.30911;-57.6132674
 2912;M;Economía;Geocoded Address;-25.292893;-57.644941
@@ -1556,7 +1556,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2939;F;Economía;Inmaculada Concepción & Santa Teresa, Villa Elisa;-25.3765752;-57.6030945
 2940;M;Economía;Geocoded Address;-25.30841;-57.63152
 2943;F;Economía;La Lomita & Avenue Manuel Ortiz Guerrero, Ñemby;-25.393563;-57.5277905
-2945;M;Economía;Nuestra Señora De La Asunción;-25.2637399;-57.57592599999999
+2945;M;Economía;Nuestra Señora De La Asunción;-25.298571;-57.645487
 2948;F;Economía;Nazareno & Guirnalda, Lambaré;-25.3274188;-57.6134149
 2950;M;Economía;Geocoded Address;-25.313291;-57.601126
 2952;F;Economía;Avenida Médicos del Chaco & Ecuador, Asunción;-25.3254712;-57.60206840000001
@@ -1595,8 +1595,8 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3026;M;Economía;Camilo Recalde & Jose De La Cruz Ayala;-25.3058004;-57.5783016
 3028;M;Economía;Pastor Filartiga;-25.2766538;-57.5714959
 3029;F;Economía;Celsa Speratti & Cnel. Aguiar;-25.2982485;-57.61418599999999
-3034;M;Economía;Asuncion;-25.2637399;-57.57592599999999
-3035;F;Economía;Asuncion;-25.2637399;-57.57592599999999
+3034;M;Economía;Asuncion;-25.307902;-57.590317
+3035;F;Economía;Asuncion;-25.307902;-57.590317
 3037;F;Economía;Cecilio Avila;-25.2946822;-57.5964371
 3038;M;Economía;Melvin Jones & Roque Centurion;-25.2843744;-57.5764867
 3042;M;Economía;San Vicente & Aquidabán, Lambaré;-25.3497516;-57.62251060000001
@@ -1653,7 +1653,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3166;F;Fonoaudiología;Concejal Vargas;-25.2961203;-57.5573095
 3168;F;Fonoaudiología;Samudio Corrales  & Caballero;-25.3014264;-57.63847010000001
 3169;F;Fonoaudiología;Avenida Del Yacth & Pedro Gracia;-25.3624827;-57.62864959999999
-3170;F;Fonoaudiología;Asuncion;-25.2637399;-57.57592599999999
+3170;F;Fonoaudiología;Asuncion;-25.279474;-57.596745
 3171;F;Fonoaudiología;Doctor Andres Barbero;-25.3245738;-57.52694609999999
 3173;F;Fonoaudiología;Celsa Speratti & tte Arce Rojas;-25.3033715;-57.5989616
 3174;F;Fonoaudiología;Geocoded Address;-25.276583;-57.606518
@@ -1697,7 +1697,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3250;F;Fonoaudiología;Geocoded Address;-25.268327;-57.49533
 3252;F;Fonoaudiología;Pampa Grande & Monte Alto;-25.2616583;-57.5111023
 3253;F;Fonoaudiología;Teniente Vera & Denis Roa;-25.2916516;-57.55983500000001
-3258;F;Fonoaudiología;Asuncion;-25.2637399;-57.57592599999999
+3258;F;Fonoaudiología;Asuncion;-25.299349;-57.558727
 3264;F;Fonoaudiología;Abdon Caballero;-25.2843984;-57.53723979999999
 3267;F;Fonoaudiología;Samudio Corrales;-25.3014264;-57.63847010000001
 3272;F;Fonoaudiología - Medicina;Geocoded Address;-25.370727;-57.479415
@@ -1762,13 +1762,12 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3390;M;Ingeniería Civil;Le Chateau des Miroirs, Av Primer Presidente, Asunción;-25.258545;-57.565847
 3391;M;Ingeniería Civil;Avenida General Máximo Santos & Tte. Delicio Insfrán, Asunción;-25.319684;-57.62153910000001
 3392;M;Ingeniería Civil;Medicos Del Chaco;-25.3256295;-57.6023302
-3394;M;Ingeniería Civil;Pitiantuta 1275;-25.3471551;-57.5617693
+3394;M;Ingeniería Civil;Pitiantuta 1275;-25.276538;-57.607511
 3399;F;Ingeniería Civil;Santiago & Cmdte. José Dolores Molas, Asunción;-25.2740452;-57.6007444
 3400;F;Ingeniería Civil;Avenida Cacique Lambare 1450;-25.3439887;-57.61497849999999
 3402;M;Ingeniería Civil;Defensores Del Chaco;-25.2920837;-57.65740330000001
 3406;M;Ingeniería Civil;Campos Cervera 5739;-25.2994935;-57.5767505
 3408;M;Ingeniería Civil;Leonismo Luqueño 47;-25.277626;-57.5188643
-3409;M;Ingeniería Civil;Asuncion & Mario Fatecha 1465;-25.2637399;-57.57592599999999
 3410;F;Ingeniería Civil;Geocoded Address;-25.264206;-57.59105
 3412;F;Ingeniería Civil;Geocoded Address;-25.320573;-57.522967
 3414;M;Ingeniería Civil;Comandante Peralta & Maestro Felix;-25.2585891;-57.4924103
@@ -1942,7 +1941,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3743;M;Ingeniería Civil;Geocoded Address;-25.339656;-57.569055
 3746;M;Ingeniería Civil;Geocoded Address;-25.344136;-57.639784
 3747;F;Ingeniería Civil;Juan Manuel Frutos & Mcal Lopez;-25.2920073;-57.614767
-3750;M;Ingeniería Civil;Mariscal López;-25.2884231;-57.6014129
+3750;M;Ingeniería Civil;Mariscal López;-25.304678;-57.558317
 3757;M;Ingeniería Civil;Jose Berges & San Jose;-25.2869047;-57.6198428
 3759;M;Ingeniería Civil;Geocoded Address;-25.341538;-57.505223
 3760;M;Ingeniería Civil;Teniente Primero Blás Manuel Garay & Padre Juan N. Casanello;-25.3083885;-57.6315628
@@ -1991,7 +1990,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3871;M;Ingeniería Electrónica;Timoteo Aguirre 1240;-25.3145159;-57.5575093
 3872;M;Ingeniería Electrónica;Pozo Favorito Nº  1534;-25.3040394;-57.62408409999999
 3873;M;Ingeniería Electrónica;Bruno Guggiari Nº 525;-25.3088572;-57.6094696
-3874;M;Ingeniería Electrónica;Fray Bola?os & Mariscal Lopez;-25.2884231;-57.6014129
+3874;M;Ingeniería Electrónica;Fray Bola?os & Mariscal Lopez;-25.304131;-57.408939
 3875;M;Ingeniería Electrónica;Geocoded Address;-25.333991;-57.631306
 3877;M;Ingeniería Electrónica;Geocoded Address;-25.273292;-57.604192
 3879;M;Ingeniería Electrónica;Geocoded Address;-25.388435;-57.353399
@@ -2002,7 +2001,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3888;M;Ingeniería Electrónica;Geocoded Address;-25.316413;-57.637813
 3889;M;Ingeniería Electrónica;Geocoded Address;-25.348191;-57.643077
 3891;M;Ingeniería Electrónica;Geocoded Address;-25.296828;-57.663492
-3894;M;Ingeniería Electrónica;25 De Agosto & Adolfo Rojas Silva;-25.2966114;-57.6292515
+3894;M;Ingeniería Electrónica;25 De Agosto & Adolfo Rojas Silva;-25.308465;-57.638708
 3900;M;Ingeniería Electrónica;Alejandro Ravizza;-25.3400689;-57.60174989999999
 3901;M;Ingeniería Electrónica;Geocoded Address;-25.306716;-57.579862
 3902;M;Ingeniería Electrónica;Andres Barbero & Elsa De Escalante;-25.339984;-57.55992250000001
@@ -2052,7 +2051,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4018;F;Ingeniería Industrial;Leon Fragnaud;-25.2956981;-57.5910403
 4022;M;Ingeniería Industrial;Coronel Lirio;-25.2961174;-57.66465459999999
 4023;F;Ingeniería Industrial;Rocío & La Esperanza, Capiatá;-25.3666304;-57.42267750000001
-4026;M;Ingeniería Industrial;Pitiantuta;-25.3471551;-57.5617693
+4026;M;Ingeniería Industrial;Pitiantuta;-25.338348;-57.555310
 4027;M;Ingeniería Industrial;Hernandarias & Manduvira;-25.2835935;-57.64668160000001
 4032;F;Ingeniería Industrial;Geocoded Address;-25.329675;-57.631359
 4034;M;Ingeniería Industrial;Marietta Carnevalle;-25.2910239;-57.5640209
@@ -2079,7 +2078,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4093;M;Ingeniería Industrial;Alberto Nino Schenoni & Silvano Mosqueira;-25.3317714;-57.5080403
 4095;M;Ingeniería Industrial;Coronel Tito Bogado;-25.2838767;-57.55402149999999
 4096;M;Ingeniería Industrial;Aca Yuasa;-25.3248941;-57.5344406
-4097;M;Ingeniería Industrial;Nuestra Señora De La Asunción;-25.2637399;-57.57592599999999
+4097;M;Ingeniería Industrial;Nuestra Señora De La Asunción;-25.295174;-57.643142
 4101;M;Ingeniería Industrial;Gaudioso Nuñez 1139;-25.3033449;-57.60105679999999
 4102;M;Ingeniería Industrial;Geocoded Address;-25.26187;-57.5841
 4103;M;Ingeniería Industrial;Atenas & Ayolas;-25.2948035;-57.64980800000001
@@ -2119,7 +2118,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4171;M;Ingeniería Informática;Matias Delgado & p.loma, Luque;-25.2747073;-57.5117862
 4172;M;Ingeniería Informática;Capitan pedro Carpinelli;-25.2963332;-57.59513140000001
 4173;M;Ingeniería Informática;Avenida Eusebio Ayala 340;-25.3008407;-57.6192059
-4174;F;Ingeniería Informática;Tte. Rojas Silva 213;-25.2966114;-57.6292515
+4174;F;Ingeniería Informática;Tte. Rojas Silva 213;-25.294254;-57.627535
 4175;M;Ingeniería Informática;Geocoded Address;-25.267112;-57.568544
 4176;M;Ingeniería Informática;Geocoded Address;-25.19048;-57.52142
 4179;M;Ingeniería Informática;Madrina Del Chaco 2942;-25.3173106;-57.6294421
@@ -2205,7 +2204,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4375;M;Marketing;De La Conquista & Benito Lopez;-25.3685857;-57.6066312
 4377;F;Marketing;Boggiani;-25.2975261;-57.578254
 4378;M;Marketing;Geocoded Address;-25.26677;-57.51317
-4379;F;Marketing;Pitiantuta & Dr. Molinas;-25.3471551;-57.5617693
+4379;F;Marketing;Pitiantuta & Dr. Molinas;-25.263091;-57.571043
 4381;F;Marketing;Geocoded Address;-25.34603;-57.625389
 4382;M;Marketing;Padre Casanello & Ingavi;-25.3124715;-57.62532239999999
 4383;F;Marketing;Geocoded Address;-25.261553;-57.570137
@@ -2255,7 +2254,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4488;F;Marketing;Jose Moreno Gonzalez Molas Lopez;-25.2731501;-57.57020239999999
 4489;F;Marketing;Doctor Cesar Lopez Moreira & Narciso R Colman;-25.2792001;-57.56876270000001
 4492;F;Marketing;Geocoded Address;-25.359574;-57.585326
-4493;M;Marketing;Asuncion;-25.2637399;-57.57592599999999
+4493;M;Marketing;Asuncion;-25.285065;-57.662579
 4494;F;Marketing;Geocoded Address;-25.260205;-57.507613
 4496;M;Marketing;Kostianovsky & Alas Paraguayas;-25.3091841;-57.57837740000001
 4498;F;Medicina;Guaraníes & Charrúas, Limpio;-25.1622965;-57.4756831
@@ -2264,7 +2263,6 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4503;F;Medicina;Geocoded Address;-25.388851;-57.349045
 4504;F;Medicina;Geocoded Address;-25.346811;-57.463064
 4511;F;Medicina;Juan Leopardi 415;-25.3439064;-57.54756569999999
-4512;M;Medicina;29 De Setiembre & Mariscal Lopez;-25.2884231;-57.6014129
 4513;M;Medicina;Ntra Sra De La Asunci?n 313;-25.2904982;-57.6399985
 4514;F;Medicina;Geocoded Address;-25.288384;-57.626965
 4518;M;Medicina;Geocoded Address;-25.326244;-57.501201
@@ -2307,7 +2305,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4618;M;Medicina;Geocoded Address;-25.298658;-57.558975
 4621;F;Medicina;Geocoded Address;-25.428991;-57.394915
 4622;F;Medicina;Geocoded Address;-25.233182;-57.47869
-4624;M;Medicina;Asuncion;-25.2637399;-57.57592599999999
+4624;M;Medicina;Asuncion;-25.309329;-57.574561
 4625;M;Medicina;Moleon Andreu & tte.lopez 752;-25.3272369;-57.63207910000001
 4626;F;Medicina;Geocoded Address;-25.363142;-57.433114
 4628;F;Medicina;Tte Rivarola 2640;-25.3387291;-57.57262129999999
@@ -2338,7 +2336,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4691;F;Medicina;Tte. Pino Gonzalez 443;-25.2636532;-57.5522376
 4692;F;Medicina;Amapolas & Defensores Del Chaco;-25.2920837;-57.65740330000001
 4694;F;Medicina;Geocoded Address;-25.298694;-57.56065
-4697;F;Medicina;Tte Rojas Silva;-25.2966114;-57.6292515
+4697;F;Medicina;Tte Rojas Silva;-25.340981;-57.581517
 4698;M;Medicina;Geocoded Address;-25.265857;-57.578469
 4709;F;Medicina;Senador Flecha & Pitiantuta;-25.2582136;-57.50326739999999
 4710;M;Medicina;Pai Perez 761;-25.2973204;-57.626546
@@ -2405,7 +2403,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4863;M;Medicina;Geocoded Address;-25.262896;-57.589114
 4864;F;Medicina;Villa Hayes;-25.0913166;-57.527801
 4866;M;Medicina;Pirizal & Bruno Guggiari 1552;-25.3181233;-57.6137676
-4868;M;Medicina;Tte Rojas Silva 1011;-25.2966114;-57.6292515
+4868;M;Medicina;Tte Rojas Silva 1011;-25.335589;-57.574819
 4869;F;Medicina;Reducto San Lorenzo;-25.3816633;-57.4881852
 4873;M;Medicina;Avenida Del Agronomo 102;-25.3451782;-57.51590229999999
 4874;F;Medicina;Aca Caraya 550;-25.2927498;-57.5998978
@@ -2421,7 +2419,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4892;M;Medicina;Geocoded Address;-25.275244;-57.605934
 4893;M;Medicina;Geocoded Address;-25.314195;-57.540186
 4894;M;Medicina;Geocoded Address;-25.313014;-57.592489
-4900;M;Medicina;Juan Andres Gelly & Chile, Asunción;-25.2637399;-57.57592599999999
+4900;M;Medicina;Juan Andres Gelly & Chile, Asunción;-25.294597;-57.643582
 4901;F;Medicina;Hipolito Carron 871;-25.2733351;-57.56650209999999
 4907;F;Medicina;Geocoded Address;-25.20794;-57.51251
 4912;M;Medicina;Geocoded Address;-25.369346;-57.578607
@@ -2502,10 +2500,10 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5046;F;Medicina;4 De Julio & Coronel Juan Antonio Escurra, Asunción;-25.3004758;-57.5558334
 5047;M;Medicina;Colombia & Jamaica, Villa Elisa, República del Paraguay;-25.3650422;-57.58380279999999
 5048;M;Medicina;Isla Tayi;-25.3048487;-57.6408472
-5050;M;Medicina;Pitiantuta;-25.3471551;-57.5617693
+5050;M;Medicina;Pitiantuta;-25.301450;-57.528114
 5051;F;Medicina;Martin de Barua & Tte Esteban Martínez, Itauguá;-25.3922708;-57.35689
 5052;F;Medicina;Monte Alto & Cruz del Defensor, Luque;-25.2609826;-57.5109514
-5053;F;Medicina;Mcal Lopez;-25.2884231;-57.6014129
+5053;F;Medicina;Mcal Lopez;-25.326258;-57.519749
 5054;F;Medicina;Geocoded Address;-25.339312;-57.564026
 5056;M;Medicina;5 De Junio & Ytororó, Lambaré;-25.3500609;-57.6282201
 5057;M;Medicina;5 De Junio & Ytororó, Lambaré;-25.3500609;-57.6282201
@@ -2548,7 +2546,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5113;F;Medicina;Asuncion & Curupayty;-25.2907955;-57.623179
 5120;F;Medicina;Alejandro Audibert & 15 De Agosto;-25.301106;-57.6516676
 5121;F;Medicina;Presbitero Leon/ Dr. Diaz Perez;-25.2727502;-57.58575459999999
-5123;M;Medicina;Pitiantuta;-25.3471551;-57.5617693
+5123;M;Medicina;Pitiantuta;-25.278206;-57.606836
 5124;F;Medicina;Acá Yuasa & Capitán Rivas;-25.325328;-57.5316858
 5143;M;Medicina;Ybapobo & Ybyrayu, Asunción;-25.328287;-57.5864336
 5147;F;Medicina;Koeti & República Argentina;-25.3351652;-57.61624149999999
@@ -2659,7 +2657,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5453;M;Medicina;Geocoded Address;-25.235401;-57.5495
 5454;M;Medicina;Profesor Viriato Diaz Perez;-25.2743728;-57.5872405
 5456;M;Medicina;Geocoded Address;-25.314573;-57.536135
-5457;M;Medicina;Tte Rojas Silva;-25.2966114;-57.6292515
+5457;M;Medicina;Tte Rojas Silva;-25.335589;-57.574819
 5458;M;Medicina;Geocoded Address;-25.352165;-57.615386
 5463;F;Medicina;Geocoded Address;-25.27845;-57.63426
 5465;F;Medicina;Geocoded Address;-25.284279;-57.641522
@@ -2668,7 +2666,6 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5474;M;Medicina;Capitán Bado & Tte Escobar;-25.3155998;-57.63293799999999
 5475;F;Medicina;Geocoded Address;-25.281241;-57.604593
 5476;F;Medicina;Amancio Gonzalez;-25.3102299;-57.60779710000001
-5483;F;Medicina;Asunción & Kunito Miyasaka;-25.2637399;-57.57592599999999
 5484;F;Medicina;Felix Bogado & El Escobar;-25.3145356;-57.6305028
 5485;F;Medicina;General Miranda & Tuyuti;-25.3049757;-57.6333403
 5487;F;Medicina;Geocoded Address;-25.31972;-57.538212
@@ -2680,7 +2677,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5512;F;Medicina;Sargento Penayo & Sanchez Benitez;-25.3328299;-57.4841297
 5513;F;Medicina;Avenida Isla Poi & Abelino Martinez;-25.3497904;-57.5529288
 5514;F;Medicina;Geocoded Address;-25.4273;-57.542867
-5522;F;Medicina;Tte. Rojas Silva & Artilleria;-25.2966114;-57.6292515
+5522;F;Medicina;Tte. Rojas Silva & Artilleria;-25.346813;-57.572975
 5526;F;Medicina;Mayor Vera & Tte. Maschio;-25.355244;-57.5172846
 5528;F;Medicina;Geocoded Address;-25.329019;-57.507858
 5529;F;Medicina;Emilio Hassler & San Miguel, San Lorenzo;-25.3047619;-57.5270931
@@ -2712,7 +2709,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5601;F;Medicina;Capitan Pedro Martinez;-25.2788671;-57.54938500000001
 5606;F;Medicina;Asuncion Abdala Villa Policial;-25.3560015;-57.62126329999999
 5607;F;Medicina;Asuncion Abdala;-25.2770104;-57.5697657
-5609;F;Medicina;Nuestra Señora De La Asunción;-25.2637399;-57.57592599999999
+5609;F;Medicina;Nuestra Señora De La Asunción;-25.285346;-57.636592
 5610;F;Medicina;Dr. Hassler & Cruz Del Chaco;-25.2969223;-57.5804351
 5613;F;Medicina;Las Residentas;-25.2754644;-57.47930479999999
 5614;M;Medicina;Geocoded Address;-25.261749;-57.548903
@@ -2851,14 +2848,14 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5852;F;Nutrición;Geocoded Address;-25.299743;-57.634873
 5854;F;Nutrición;San Benigno & Torres Villanueva;-25.2778695;-57.57043040000001
 5855;F;Nutrición;Capitán Gwynn & Melo De Portugal;-25.2911927;-57.66274079999999
-5857;F;Nutrición;Tte Rojas;-25.2966114;-57.6292515
+5857;F;Nutrición;Tte Rojas;-25.350330;-57.585026
 5860;F;Nutrición;Avenida Mcal Lopez & Don Bosco;-25.3140433;-57.52848479999999
 5861;M;Nutrición;Avenida Proceres De Mayo & Europa;-25.305416;-57.6193696
 5862;F;Nutrición;Profesor Manuel Amarilla;-25.276125;-57.55777119999999
 5863;F;Nutrición;Ingavi & Arecutacua;-25.3079967;-57.62173
 5867;F;Nutrición;Tte. 2do. Juan Benitez & Dr. Goiburu;-25.3147395;-57.5955971
 5872;F;Nutrición;Cruz Del Chaco;-25.3016946;-57.5833948
-5873;M;Nutrición;Pitiantuta 1042;-25.3471551;-57.5617693
+5873;M;Nutrición;Pitiantuta 1042;-25.276531;-57.607548
 5875;F;Nutrición;Geocoded Address;-25.3249;-57.54449
 5879;F;Nutrición;Geocoded Address;-25.298917;-57.581674
 5880;F;Nutrición;Avenida Eusebio Ayala & 12 De Octubre;-25.3035845;-57.6119892
@@ -3085,7 +3082,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 137;F;Administración de Empresas;Mayor Pampliega;-25.3196916;-57.62546339999999
 144;M;Administración de Empresas;Aztecas;-25.2941441;-57.5611147
 170;F;Administración de Empresas;Rio Blanco;-25.2950941;-57.6296504
-175;M;Administración de Empresas;Mariscal Lopez;-25.2884231;-57.6014129
+175;M;Administración de Empresas;Mariscal Lopez;-25.306240;-57.534400
 192;M;Administración de Empresas;Avenida Sacramento;-25.2856488;-57.5892035
 209;F;Administración de Empresas;29 De Septiembre;-25.3796407;-57.55619890000001
 212;F;Administración de Empresas;Ingavi;-25.3267424;-57.5302338
@@ -3104,7 +3101,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 314;F;Administración de Empresas;Avenida Venezuela;-25.2754324;-57.5938256
 319;F;Administración de Empresas;Mayor Arguello;-25.3207158;-57.625195
 365;F;Administración de Empresas;Ecuador;-25.278292;-57.58387329999999
-376;M;Administración de Empresas;Mariscal Lopez;-25.2884231;-57.6014129
+376;M;Administración de Empresas;Mariscal Lopez;-25.301806;-57.539764
 396;M;Administración de Empresas;Dr. Garcete;-25.2788839;-57.653463
 397;F;Administración de Empresas;De La Conquista;-25.3625439;-57.60850050000001
 422;F;Administración de Empresas;Capitán Aranda;-25.2917512;-57.6550761
@@ -3250,7 +3247,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 1915;M;Ciencias Contables - Comercio Internacional;Avenida Japon;-25.3185351;-57.6356886
 1923;F;Ciencias Contables - Comercio Internacional - Contador Público Nacional;Juan Silvano Godoy;-25.348076;-57.51481680000001
 1959;M;Ciencias Contables - Economía;Avenida Del Pueblo;-25.344717;-57.5964946
-1967;M;Ciencias Contables - Economía;Rojas Silva;-25.2966114;-57.6292515
+1967;M;Ciencias Contables - Economía;Rojas Silva;-25.350330;-57.585026
 1969;F;Ciencias Contables - Economía;Sargento Benitez;-25.269086;-57.566227
 1975;M;Ciencias Contables - Economía;Juan José Soler;-25.3426116;-57.5835511
 1991;M;Ciencias Contables - Economía;Regalado Amarrilla;-25.2971554;-57.41404569999999
@@ -3350,7 +3347,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2642;F;Diseño Industrial;Narciso Colman;-25.278776;-57.56989950000001
 2643;F;Diseño Industrial;Soldado Paraguayo & Cptan. Acosta;-25.2717891;-57.59498279999999
 2644;F;Diseño Industrial;Sargento. Benitez;-25.269086;-57.566227
-2647;M;Diseño Industrial;Mariscal Lopez;-25.2884231;-57.6014129
+2647;M;Diseño Industrial;Mariscal Lopez;-25.335116;-57.513862
 2650;M;Diseño Industrial;Federacion Rusa;-25.2775201;-57.5712719
 2654;F;Diseño Industrial;A Las Paraguayas & Pacheco;-25.3024481;-57.5756208
 2656;F;Diseño Industrial;Fulgencio R Moreno & Camilo Recalde;-25.3067797;-57.57870759999999
@@ -3401,7 +3398,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 2954;F;Economía;Chile;-25.2997953;-57.5755331
 2955;F;Economía;De La Conquista;-25.3625439;-57.60850050000001
 2956;F;Economía;San Alfonso;-25.3034767;-57.6454667
-2957;M;Economía;Ntra Se?ora 2955;-25.2637399;-57.57592599999999
+2957;M;Economía;Ntra Se?ora 2955;-25.294513;-57.642813
 2963;M;Economía;Profesora Sofia De Mendoza;-25.3273911;-57.5999984
 2964;F;Economía;Luis Maria Argaña & Porvenir;-25.335047;-57.6248669
 2970;M;Economía;Coeti;-25.2994191;-57.5640276
@@ -3453,7 +3450,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3126;F;Fonoaudiología;Avenida venezuela 870;-25.2848744;-57.59475069999999
 3132;F;Fonoaudiología;Luis A. De Herrera;-25.2995653;-57.6085829
 3133;F;Fonoaudiología;General  Santos;-25.3167472;-57.619846
-3138;F;Fonoaudiología;Mariscal Lopez & Itororo;-25.2884231;-57.6014129
+3138;F;Fonoaudiología;Mariscal Lopez & Itororo;-25.349778;-57.629446
 3140;F;Fonoaudiología;Avenida Del Yacht & Paseo Del Lago;-25.3633342;-57.62892249999999
 3141;F;Fonoaudiología;18 De Julio & General Santos;-25.3167472;-57.619846
 3145;F;Fonoaudiología;Paseo Del Solar;-25.3377435;-57.6129892
@@ -3546,7 +3543,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 3696;M;Ingeniería Civil;De La Consquista & Juan León Mallorquín;-25.2922317;-57.6542816
 3698;F;Ingeniería Civil;San Lorenzo & San Ramon;-25.3362561;-57.4816877
 3703;M;Ingeniería Civil;General  Maximo Santos;-25.3167472;-57.619846
-3704;M;Ingeniería Civil;Mariscal Lopez;-25.2884231;-57.6014129
+3704;M;Ingeniería Civil;Mariscal Lopez;-25.346132;-57.628380
 3722;M;Ingeniería Civil;Miguel Torres;-25.3053404;-57.5856448
 3723;F;Ingeniería Civil;Juana Carrillo;-25.2552369;-57.5768686
 3724;M;Ingeniería Civil;Carlos A. Lopez;-25.2960574;-57.65948950000001
@@ -3641,7 +3638,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4223;M;Ingeniería Informática;Kuarahy;-25.2692675;-57.5673567
 4230;M;Ingeniería Informática;José Bérges & San Andres;-25.2914161;-57.61309539999999
 4236;F;Ingeniería Informática;Mayor Arguello;-25.3207158;-57.625195
-4238;M;Ingeniería Informática;Mariscal Lopez;-25.2884231;-57.6014129
+4238;M;Ingeniería Informática;Mariscal Lopez;-25.345120;-57.628064
 4244;F;Ingeniería Informática;Guaranies & Gorostiaga;-25.3120533;-57.5894396
 4254;M;Ingeniería Informática;Austria & Dr. Caballero;-25.2907029;-57.55638459999999
 4257;F;Ingeniería Informática;Fulgencio R Moreno;-25.3091785;-57.59167000000001
@@ -3687,10 +3684,10 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4426;F;Marketing;El Dorado;-25.2887164;-57.6002922
 4457;M;Marketing;Melo De Portugal & Mayor Martinez;-25.2923861;-57.6631644
 4459;F;Marketing;Belgica;-25.3486877;-57.46537259999999
-4464;F;Marketing;Mariscal Lopez;-25.2884231;-57.6014129
+4464;F;Marketing;Mariscal Lopez;-25.345353;-57.628128
 4466;M;Marketing;Ingavi & Tabare;-25.3267424;-57.5302338
 4471;F;Marketing;Fray Luis De Granada & Venezuela;-25.2843106;-57.5947019
-4477;F;Marketing;Mariscal Lopez;-25.2884231;-57.6014129
+4477;F;Marketing;Mariscal Lopez;-25.345353;-57.628128
 4495;F;Marketing;Sauce & San Vicente;-25.3150486;-57.6240731
 4497;F;Marketing;Capitan Vicente Suarez;-25.2655096;-57.5746154
 4500;M;Medicina;Carlos A.lopez & g.diaz;-25.2960574;-57.65948950000001
@@ -3698,7 +3695,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 4510;F;Medicina;Rio Apa & Arroyo Lambare;-25.3480585;-57.60446049999999
 4530;F;Medicina;Madrid & Lisboa, Asuncion;-25.2911168;-57.6514409
 4538;M;Medicina;Villa Florida Nº  3434, Lambare;-25.3558062;-57.59791669999999
-4539;M;Medicina;Mariscal Lopez 678;-25.2884231;-57.6014129
+4539;M;Medicina;Mariscal Lopez 678;-25.343569;-57.627602
 4546;F;Medicina;Cuasi Parroquia San Rafael Arcángel, Luque;-25.2988735;-57.4715028
 4549;F;Medicina;Santisimo Sacramento Nº  1350;-25.2900115;-57.5884914
 4550;F;Medicina;Dr. Gabriel Pellon 691;-25.3237656;-57.49950490000001
@@ -3778,7 +3775,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5078;M;Medicina;Ruta Carlos A. López;-25.2960574;-57.65948950000001
 5092;F;Medicina;Boquerón & San Martín, Luque;-25.2718323;-57.50299990000001
 5104;F;Medicina;Del Maestro;-25.2914574;-57.6363239
-5115;F;Medicina;Mariscal Lopez;-25.2884231;-57.6014129
+5115;F;Medicina;Mariscal Lopez;-25.343569;-57.627602
 5118;F;Medicina;Santo Domingo & Mariscal Estigarribia;-25.2799598;-57.58300509999999
 5125;F;Medicina;Alemania;-25.2784879;-57.6399023
 5130;F;Medicina;Diaz De Solis;-25.2918933;-57.6564351
@@ -3788,7 +3785,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5140;M;Medicina;Efermera Clarita & musicos Del Paraguay;-25.3308478;-57.63178480000001
 5152;F;Medicina;Serafina Davalos & Ri4 Curupayty;-25.3049766;-57.5690634
 5153;F;Medicina;Cnel. Angel Lopez;-25.310779;-57.56442109999999
-5154;F;Medicina;Rojas Silva;-25.2966114;-57.6292515
+5154;F;Medicina;Rojas Silva;-25.347271;-57.588424
 5155;M;Medicina;Leandro Prieto;-25.2964425;-57.59905939999999
 5161;F;Medicina;San Roque & San Agustin;-25.2440476;-57.5461597
 5170;F;Medicina;Coronel Bóveda &  Sargento Florentin;-25.2332671;-57.5721527
@@ -3802,7 +3799,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5207;F;Medicina;Ruta 2;-25.3563687;-57.4407399
 5210;M;Medicina;Vice Presidente Sanchez & Herrera;-25.2972308;-57.61474059999999
 5213;M;Medicina;General Andrada;-25.3078598;-57.6098994
-5220;F;Medicina;Rojas Silva;-25.2966114;-57.6292515
+5220;F;Medicina;Rojas Silva;-25.347271;-57.588424
 5222;F;Medicina;4 De Julio & Coronel Escurra;-25.2974592;-57.5548477
 5225;F;Medicina;Comuneros & Yegros;-25.2817186;-57.631907
 5228;M;Medicina;Naciones Unidas & Rancho 8;-25.3217375;-57.5334506
@@ -3915,7 +3912,7 @@ UUID;SEXO;CARRERA;DIRECCION;LATITUD;LONGITUD
 5803;M;Medicina;Campo Vía;-25.2855447;-57.48252710000001
 5821;M;Medicina;Inmaculada Concepción;-25.2938668;-57.6470822
 5824;F;Medicina;Villa Aurelia;-25.3102962;-57.5617693
-5836;F;Medicina - Nutrición;Mariscal Lopez;-25.2884231;-57.6014129
+5836;F;Medicina - Nutrición;Mariscal Lopez;-25.293282;-57.607486
 5839;M;Nutrición;San Blas 2083;-25.2938217;-57.5858369
 5841;F;Nutrición;Dr. Gomez Brizuela Nº 1062;-25.2640387;-57.55873829999999
 5856;M;Nutrición;Avenida La Victoria & Fracción La Fortuna;-25.3256478;-57.58220159999999

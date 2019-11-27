@@ -11,6 +11,15 @@ SOURCE_DIRECTORY = 'source_data'
 CSV_USERDATA_INPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, SOURCE_DIRECTORY, 'Alumnos_Campus_Geocoded.csv')
 
 
+def check_fields_null(alumni):
+    """Check if any field is null"""
+
+    if not alumni['latitude'] or not alumni['longitude']:
+        return True
+    else:
+        return False
+
+
 def check_repeated_row(uuid, uuid_rows):
     """Check if there are any repeated record in the source file"""
 
@@ -53,6 +62,11 @@ def check_file():
                 'latitude': float(row['LATITUD']),
                 'longitude': float(row['LONGITUD']),
             }
+
+            if (check_fields_null(alumni) == True):
+                file_integrated = False
+
+                print(str(alumni['uuid']) + " has null fields")
 
             if (check_bounds(alumni['latitude'], alumni['longitude']) == False):
 
