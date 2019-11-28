@@ -1,25 +1,13 @@
 import csv
-import sys
-import os
 import random
 
-
-PROJECT_DIRECTORY = os.path.dirname(os.getcwd())
-
-
-SOURCE_DIRECTORY = 'source_data'
-OUTPUT_DIRECTORY = 'output_data'
-
-
-CSV_FORMDATA_INPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, SOURCE_DIRECTORY, 'Formulario.csv')
-CSV_USERDATA_INPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, SOURCE_DIRECTORY, 'Alumnos_Campus_Geocoded.csv')
-CSV_OUTPUT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, OUTPUT_DIRECTORY, 'Alumnos_profiles_car_ownership.csv')
+from scripts import settings
 
 
 def distribute_mean_transportation():
 
     """Count how many cars and the percentage of the total"""
-    with open(CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding='ascii', errors='ignore') as csv_input_formdata:
+    with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding='ascii', errors='ignore') as csv_input_formdata:
 
         row_reader = csv.DictReader(csv_input_formdata, delimiter=';')
 
@@ -42,7 +30,7 @@ def distribute_mean_transportation():
         print(f'Hay {not_car_count} personas que no tienen auto contando con el {not_car_ownership_percentage*100}%')
 
     """Count how many rows are to be assigned"""
-    with open(CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata:
+    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=';')
 
@@ -51,8 +39,8 @@ def distribute_mean_transportation():
             total_rows = total_rows + 1
 
     """Distribute the car and not car ownership"""
-    with open(CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata, \
-         open(CSV_OUTPUT_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
+    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata, \
+         open(settings.CSV_OUTPUT_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=';')
 
