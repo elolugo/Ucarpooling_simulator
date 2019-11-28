@@ -1,549 +1,625 @@
-UID;CARRERA;HORA_ENTRADA;HORA_SALIDA;SEXO;FUMADOR;NIVEL_ELOCUENCIA;IMPORTANCIA_FUMADOR;IMPORTANCIA_ELOCUENCIA;IMPORTANCIA_MUSICA;IMPORTANCIA_SEXO;MODO_TRANSPORTE;GUSTO_MUSICAL;CARPOOLING_AUTO;CARPOOLING_BUS
-1;Ingeniería Informática;9:30:00 a. m.;8:00:00 p. m.;Hombre;No;Entre el medio de los 2;3;3;1;1;Autobús;Prefiero ir en silencio;;Si
-2;Ingeniería Informática;8:00:00 a. m.;7:00:00 p. m.;Hombre;Si;Introvertido/a - Tímido/a - Retraído;1;6;8;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-3;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Hombre;Si;Entre el medio de los 2;9;5;7;1;Autobús;Metal;;Si
-3;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2;1;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-4;Ingeniería Informática;9:00:00 a. m.;10:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;6;5;5;5;Autobús;Prefiero ir en silencio;;Si
-5;Ingeniería Informática;9:00:00 a. m.;12:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;5;7;1;Manejo en auto;Rock, Rap/Hip-Hop;Si;
-6;Medicina;7:30:00 a. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-7;Ingeniería Informática;1:00:00 p. m.;6:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;1;1;Manejo en auto;Rock;Si;
-8;Ingeniería Informática;1:00:00 p. m.;6:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;10;6;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-9;Medicina;7:30:00 a. m.;1:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;5;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-10;Ingeniería Industrial;7:30:00 a. m.;4:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;Pop;;Si
-11;Arquitectura;8:00:00 a. m.;12:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Exclusivamente a pie;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-12;Medicina;7:00:00 a. m.;2:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-13;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-14;Medicina;7:30:00 a. m.;3:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-15;Medicina;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;5;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-16;Medicina;7:30:00 a. m.;1:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;4;4;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-17;Ingeniería Informática;9:00:00 a. m.;6:35:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Autobús;Pop, Rock;;Si
-18;Medicina;7:30:00 a. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-19;Análisis de Sistemas Informáticos;6:00:00 p. m.;9:45:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;3;1;1;Me traen en auto;Pop, Electrónica, Rap/Hip-Hop, Reggaeton, Trap;Si;
-20;Medicina;7:15:00 a. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;2;5;3;Autobús;Pop;;Si
-21;Marketing;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;6;7;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-22;No está en la lista;8:00:00 a. m.;4:45:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;5;4;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-22;Medicina;7:30:00 a. m.;5:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;8;1;Manejo en auto;Pop, Electrónica, Rock, Reggaeton, Funk brasileño;Si;
-23;Ingeniería Civil;9:00:00 a. m.;6:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;6;4;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-24;Medicina;7:00:00 a. m.;5:45:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;6;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-25;Medicina;8:00:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;1;1;Manejo en auto;Pop, Rock, Cumbia, Reggaeton, Funk brasileño;Si;
-26;Medicina;7:00:00 a. m.;1:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-27;Ingeniería Informática;7:30:00 a. m.;3:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;5;5;Manejo en auto;Pop;Si;
-28;Ingeniería Electrónica;1:45:00 p. m.;7:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;10;1;Autobús;Rock;;Si
-29;Medicina;7:30:00 a. m.;12:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-30;Medicina;7:30:00 a. m.;11:00:00 a. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;2;3;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-31;Administración de Empresas;7:00:00 p. m.;9:50:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;5;3;Manejo en auto;Pop, Reggaeton;Si;
-32;Medicina;7:30:00 a. m.;5:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-33;Ingeniería Informática;8:30:00 a. m.;5:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;8;2;2;Manejo una moto;Prefiero ir en silencio;Si;
-34;Comercio Internacional;6:30:00 p. m.;10:10:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;Pop, Rock, Metal, Reggae;;Si
-35;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Me traen en auto;Pop, Techno;Si;
-36;Ingeniería Informática;9:00:00 a. m.;3:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-37;Ingeniería Civil;1:00:00 p. m.;5:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;1;1;Autobús;Pop, Electrónica, Rock, Reggae, Cumbia, Reggaeton, Trap;;Si
-38;Ingeniería Civil;7:30:00 a. m.;2:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;6;6;1;Manejo en auto;Reggaeton;Si;
-39;Ingeniería Civil;1:00:00 p. m.;5:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-40;Ingeniería Civil;10:50:00 a. m.;7:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-41;Ingeniería Civil;1:00:00 a. m.;5:00:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-42;Ingeniería Civil;12:00:00 p. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;5;1;Autobús;Rock;;No
-43;Medicina;9:00:00 a. m.;3:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;3;6;1;Manejo en auto;Rock;Si;
-43;Ingeniería Civil;9:00:00 a. m.;7:00:00 a. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-44;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-45;Diseño Industrial;12:40:00 a. m.;5:00:00 a. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;6;5;10;9;Manejo en auto;Pop;Si;
-46;Arquitectura;9:00:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-47;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-48;Arquitectura;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;6;2;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-49;Análisis de Sistemas Informáticos;6:15:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-50;Administración de Empresas;7:00:00 p. m.;10:00:00 a. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-51;Arquitectura;1:00:00 p. m.;6:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;10;1;Autobús;Rock;;Si
-52;Ingeniería Industrial;7:30:00 a. m.;6:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-53;Arquitectura;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;5;2;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Techno, Electrónica, Rap/Hip-Hop;Si;
-54;Arquitectura;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-55;Administración de Empresas;6:55:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;6;5;1;Manejo en auto;Rock, Cumbia, Reggaeton;Si;
-56;Ciencias Contables;6:30:00 p. m.;10:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-57;Comercio Internacional;6:30:00 p. m.;10:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Autobús;Reggaeton;;Si
-58;Ingeniería Industrial;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;3;8;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-59;Ciencias Contables;6:20:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;4;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-60;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;4;7;1;Manejo en auto;Pop, Rock, Metal, Rap/Hip-Hop, Reggaeton;Si;
-61;Fonoaudiología;8:00:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop;Si;
-62;Ingeniería Electrónica;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;8;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-63;Ingeniería Civil;9:00:00 a. m.;6:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-63;Ingeniería Informática;9:00:00 a. m.;3:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;3;6;3;Manejo en auto;Pop, Rock, Metal;Si;
-64;Ingeniería Civil;1:00:00 p. m.;5:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;6;2;3;1;Manejo en auto;Techno, Cumbia, Reggaeton;Si;
-65;Ciencias Contables;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;3;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-66;Filosofía;6:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;3;1;2;Exclusivamente a pie;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-67;Medicina;7:00:00 a. m.;2:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;5;1;Manejo en auto;Rock;Si;
-68;Ingeniería Industrial;1:00:00 p. m.;8:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop;;Si
-69;Ingeniería Electrónica;1:00:00 p. m.;7:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;5;1;Manejo en auto;Pop, Rock, Metal;Si;
-70;Administración de Empresas;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;3;5;1;Manejo en auto;Electrónica, Reggaeton;Si;
-71;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;2;1;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-72;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-73;Marketing;7:00:00 p. m.;9:30:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;4;7;6;3;Manejo en auto;Pop, Techno, Electrónica, Cumbia, Reggaeton, Trap, Funk brasileño;Si;
-74;No está en la lista;3:00:00 p. m.;6:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;5;6;9;Bicicleta;Techno, Rock, Metal;;Si
-75;Teología;7:05:00 a. m.;12:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-76;Arquitectura;7:11:00 p. m.;8:11:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;3;1;Bicicleta;Rock, Rap/Hip-Hop;;Si
-77;Derecho;5:30:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-78;Ingeniería Electrónica;9:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;4;3;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-79;Administración de Empresas;6:30:00 p. m.;9:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;4;1;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-80;Ciencias Contables;6:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;Cumbia;;Si
-81;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-82;Arquitectura;8:00:00 a. m.;6:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Reggae, Reggaeton, Trap, Funk brasileño;Si;
-83;Arquitectura;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;6;8;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-84;Ingeniería Civil;9:00:00 a. m.;6:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;7;5;3;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-84;Ingeniería Industrial;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;3;2;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-85;Ingeniería Civil;9:00:00 a. m.;2:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;2;8;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-86;Análisis de Sistemas Informáticos;6:00:00 p. m.;9:45:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;3;1;Manejo en auto;Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap;Si;
-87;Ingeniería Ambiental;9:00:00 a. m.;4:00:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;6;1;1;Autobús;Pop, Techno, Electrónica, Reggae, Reggaeton;;Si
-88;Ciencias Contables;6:30:00 a. m.;9:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;8;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-89;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;8;2;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-90;Economía;6:30:00 p. m.;9:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;7;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-91;Ingeniería Industrial;10:40:00 a. m.;4:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;10;10;10;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-92;Economía;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-93;Nutrición;12:30:00 p. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;2;Autobús;Pop;;Si
-94;Nutrición;12:30:00 p. m.;4:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap;;Si
-95;Ciencias Contables;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Manejo en auto;Pop;No;
-96;Ingeniería Civil;1:00:00 p. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;2;2;2;Autobús;Rock, Rap/Hip-Hop, Trap;;Si
-97;Ingeniería Industrial;10:30:00 a. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;3;1;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-98;Diseño Industrial;6:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-99;Arquitectura;8:00:00 a. m.;5:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-100;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;6;6;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-101;Ingeniería Civil;1:00:00 p. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Autobús;Reggaeton, Trap;;Si
-102;Ingeniería Civil;9:00:00 a. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;3;1;1;Autobús;Pop, Rock, Reggaeton;;Si
-103;Arquitectura;9:00:00 a. m.;6:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;5;1;4;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-104;Ingeniería Civil;9:00:00 a. m.;5:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;3;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-104;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;4;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-105;Ingeniería Industrial;7:30:00 a. m.;3:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;9;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-106;Economía;6:30:00 p. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;9;5;5;Manejo en auto;Pop;No;
-107;Ingeniería Electrónica;8:00:00 a. m.;4:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-108;Ingeniería Civil;7:30:00 a. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;6;5;4;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-109;Arquitectura;1:00:00 p. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;2;2;2;Manejo en auto;Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggaeton;Si;
-110;Ingeniería Civil;8:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;6;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-111;Análisis de Sistemas Informáticos;6:15:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-112;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-113;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-114;Ingeniería Civil;1:00:00 p. m.;5:45:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-115;Diseño Gráfico;5:40:00 p. m.;10:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;2;6;6;6;Manejo en auto;Pop, Techno, Electrónica, Rap/Hip-Hop, Reggaeton, Trap;No;
-116;Arquitectura;3:00:00 p. m.;7:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;7;1;1;Autobús;Pop, Techno, Electrónica, Rock;;Si
-117;Arquitectura;9:00:00 a. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;3;4;Manejo en auto;Pop, Rap/Hip-Hop, Reggaeton, Trap;Si;
-118;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-119;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;6;1;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rap/Hip-Hop, Reggae;Si;
-120;Nutrición;11:00:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;8;8;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-121;Ciencias Contables;6:30:00 p. m.;10:10:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-122;Ingeniería Civil;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-123;Ingeniería Civil;1:30:00 p. m.;6:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;5;6;Manejo en auto;Rock, Reggae, Reggaeton, Trap;Si;
-124;Administración de Empresas;7:00:00 p. m.;10:15:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-125;Ingeniería Civil;7:30:00 a. m.;9:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;2;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-125;Arquitectura;1:00:00 p. m.;6:30:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;4;3;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-126;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;7;9;Manejo en auto;Pop;Si;
-127;Comercio Internacional;7:00:00 p. m.;10:00:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;4;2;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Techno, Electrónica, Reggaeton;Si;
-128;Ingeniería Civil;2:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;6;5;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-129;Ingeniería Civil;7:30:00 a. m.;4:45:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-130;Medicina;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-131;Ciencias Contables;6:40:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-132;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-133;Ingeniería Industrial;9:00:00 a. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;1;1;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-134;Ingeniería Industrial;8:00:00 a. m.;8:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;4;9;10;1;Autobús;Pop, Rock, Reggaeton;;Si
-135;Marketing;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-136;Economía;6:20:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;5;5;1;Manejo en auto;Reggaeton, Trap, Prefiero ir en silencio;Si;
-137;Ingeniería Civil;8:00:00 a. m.;2:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;6;2;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-138;Economía;6:50:00 p. m.;9:50:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;4;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-139;Ingeniería Electrónica;1:00:00 a. m.;7:00:00 a. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;3;5;6;2;Me traen en auto;Pop, Techno, Electrónica, Rock, Reggae;No;
-140;Economía;8:00:00 a. m.;12:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;5;2;1;Manejo en auto;Prefiero ir en silencio;No;
-141;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;9;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Reggaeton;Si;
-142;Ingeniería Civil;10:45:00 a. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;7;10;1;Me traen en auto;Reggaeton;Si;
-143;Ingeniería Informática;1:00:00 p. m.;2:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-144;Ingeniería Civil;9:00:00 a. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;7;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-145;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;7;4;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-146;Comercio Internacional;6:30:00 p. m.;10:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;3;1;Me traen en auto;Pop, Electrónica, Reggaeton;Si;
-146;Ingeniería Civil;2:00:00 p. m.;6:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-147;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;3;1;4;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-148;Arquitectura;1:00:00 p. m.;1:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;5;1;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-149;Ingeniería Industrial;7:40:00 a. m.;12:15:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;Rock;;Si
-150;Ingeniería Electrónica;7:30:00 a. m.;4:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;3;1;1;Exclusivamente a pie;Prefiero ir en silencio;;Si
-151;Marketing;6:00:00 p. m.;10:15:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;8;1;Manejo en auto;Pop, Reggaeton;Si;
-152;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;1;1;Autobús;Pop;;Si
-153;Fonoaudiología;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-154;Medicina;7:30:00 a. m.;3:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;3;1;1;Manejo en auto;Pop, Techno, Electrónica, Rock, Reggae;Si;
-155;Ingeniería Civil;1:00:00 p. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-156;Análisis de Sistemas Informáticos;5:50:00 p. m.;10:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;1;1;1;1;Autobús;Pop;;Si
-157;Fonoaudiología;7:30:00 a. m.;11:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;10;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-158;Administración de Empresas;6:00:00 p. m.;9:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;7;3;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-159;Ciencias Contables;7:00:00 p. m.;10:10:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-160;Medicina;3:08:00 p. m.;9:25:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;9;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-161;Arquitectura;7:15:00 a. m.;6:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;6;6;2;Autobús;Rap/Hip-Hop, Reggaeton;;No
-162;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;4;6;8;Autobús;Prefiero ir en silencio;;No
-163;Medicina;7:30:00 a. m.;5:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;7;3;5;Autobús;Pop;;Si
-164;Ingeniería Civil;7:00:00 a. m.;1:50:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-165;Marketing;6:30:00 p. m.;10:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;10;6;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-166;Medicina;7:30:00 a. m.;12:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;5;5;Manejo en auto;Pop, Rock, Reggae;Si;
-166;Administración de Empresas;7:00:00 p. m.;10:00:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-167;Marketing;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;8;3;1;Autobús;Pop;;Si
-168;Arquitectura;8:00:00 a. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;10;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-169;Arquitectura;8:30:00 a. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;5;5;Autobús;Pop, Reggaeton;;Si
-170;Ingeniería Civil;7:30:00 a. m.;2:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-171;Arquitectura;8:00:00 a. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;7;8;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-172;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-173;Comercio Internacional;7:00:00 p. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;2;1;1;Autobús;Rock;;Si
-174;Ingeniería Industrial;7:30:00 a. m.;6:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-175;Fonoaudiología;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-176;Fonoaudiología;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-177;Fonoaudiología;7:30:00 a. m.;10:40:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;4;2;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-178;Ingeniería Civil;7:03:00 a. m.;5:45:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-179;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Autobús;Pop, Rock, Reggaeton;;Si
-180;Fonoaudiología;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-181;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-182;Ingeniería Civil;2:30:00 p. m.;2:15:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;1;5;6;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-183;Fonoaudiología;7:30:00 a. m.;11:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-184;Ingeniería Civil;9:00:00 a. m.;4:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;10;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-185;Ingeniería Industrial;9:00:00 a. m.;1:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;10;1;Manejo en auto;Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop;Si;
-186;Análisis de Sistemas Informáticos;6:15:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock;;Si
-187;Economía;6:30:00 p. m.;9:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;1;1;1;Autobús;Rock, Rap/Hip-Hop, Reggae, Trap;;Si
-187;Ingeniería Civil;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-188;Ciencias Contables;6:20:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;3;2;4;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-189;Administración de Empresas;7:00:00 p. m.;9:45:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;1;1;Manejo en auto;Pop, Electrónica, Reggaeton;Si;
-190;Ingeniería Civil;10:45:00 a. m.;5:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;6;5;1;Manejo en auto;Pop, Techno, Rap/Hip-Hop, Reggae, Trap;Si;
-191;Administración de Empresas;6:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;4;3;1;Manejo en auto;Rock;No;
-192;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;6;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-193;Fonoaudiología;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;4;7;Autobús;Pop;;Si
-194;Arquitectura;1:00:00 p. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-195;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-196;Ingeniería Civil;9:00:00 a. m.;6:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;2;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-197;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;5;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Reggaeton, Trap;Si;
-198;Ciencias Contables;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;7;8;5;Manejo en auto;Pop, Electrónica, Reggaeton;Si;
-199;Arquitectura;1:00:00 p. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;6;3;3;Manejo en auto;Pop, Electrónica, Rap/Hip-Hop, Reggae, Reggaeton;Si;
-200;Fonoaudiología;7:30:00 a. m.;6:40:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-201;Administración de Empresas;7:00:00 p. m.;10:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-202;Administración de Empresas;7:00:00 p. m.;10:30:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;7;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-203;Administración de Empresas;6:30:00 p. m.;9:45:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;5;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-204;Medicina;7:30:00 a. m.;5:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-205;Fonoaudiología;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-206;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;10;7;1;Manejo en auto;Pop, Electrónica, Rock, Metal, Rap/Hip-Hop;Si;
-207;Economía;6:00:00 p. m.;10:10:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-207;Administración de Empresas;6:30:00 p. m.;10:15:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;5;2;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-208;Ingeniería Ambiental;8:00:00 a. m.;8:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;7;5;2;Manejo en auto;Pop, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Reggaeton, Trap;Si;
-209;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Prefiero ir en silencio;Si;
-210;Ingeniería Industrial;7:00:00 a. m.;4:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;10;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Cumbia, Reggaeton, Prefiero ir en silencio;;Si
-211;Ingeniería Industrial;3:00:00 p. m.;9:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-212;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;6;7;1;Manejo en auto;Pop;Si;
-213;Medicina;7:30:00 a. m.;12:50:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;8;1;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-214;Medicina;9:30:00 a. m.;8:50:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-215;Comercio Internacional;6:15:00 p. m.;10:15:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;5;2;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock, Rap/Hip-Hop, Cumbia, Reggaeton;Si;
-216;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-217;Fonoaudiología;8:00:00 a. m.;11:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-218;Economía;6:20:00 p. m.;5:50:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;4;1;Manejo en auto;Pop, Rock, Cumbia, Reggaeton;Si;
-219;Ingeniería Informática;7:00:00 a. m.;4:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-220;Ingeniería Civil;8:00:00 a. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;2;2;1;Exclusivamente a pie;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-221;Medicina;7:30:00 a. m.;2:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;5;7;Autobús;Pop;;Si
-222;Medicina;7:30:00 a. m.;3:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-223;Diseño Gráfico;6:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;1;1;1;Autobús;Pop, Electrónica, Rock, Metal, Reggaeton, Trap;;Si
-224;Ciencias Contables;7:00:00 p. m.;10:15:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;10;4;1;Manejo en auto;Trap;Si;
-225;Medicina;7:30:00 a. m.;6:30:00 a. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;7;1;1;Manejo en auto;Rock;Si;
-226;Ciencias Contables;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;5;5;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-227;Medicina;7:30:00 a. m.;12:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;7;3;3;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop;;Si
-228;Ingeniería Civil;7:30:00 a. m.;12:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;4;6;1;Autobús;Pop;;Si
-228;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;3;1;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-229;Comercio Internacional;6:30:00 p. m.;9:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-230;Ciencias Políticas;7:00:00 a. m.;4:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;2;1;2;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-231;Medicina;11:00:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;8;9;5;Manejo en auto;Reggaeton;Si;
-232;Medicina;7:30:00 a. m.;5:30:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-233;Medicina;7:30:00 a. m.;12:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;4;1;1;Autobús;Pop, Electrónica, Reggaeton;;Si
-234;Ingeniería Civil;7:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-235;Ingeniería Civil;7:30:00 a. m.;6:00:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-236;Medicina;8:00:00 a. m.;6:30:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;5;1;Autobús;Techno;;Si
-237;Fonoaudiología;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;10;10;10;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-238;Marketing;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-239;Análisis de Sistemas Informáticos;6:00:00 p. m.;10:10:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;10;1;Me traen en auto;Pop, Rock, Metal;No;
-240;Ingeniería Civil;1:00:00 p. m.;6:00:00 a. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;8;10;1;Manejo en auto;Rock;Si;
-241;Fonoaudiología;7:30:00 a. m.;12:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;10;10;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-242;Administración de Empresas;6:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-243;Análisis de Sistemas Informáticos;6:15:00 p. m.;10:15:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;8;1;Manejo en auto;Techno;Si;
-244;Medicina;8:00:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-245;Ingeniería Civil;1:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;5;5;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-246;Medicina;7:30:00 a. m.;5:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-247;Ingeniería Civil;9:15:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-248;Administración de Empresas;6:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;2;3;4;1;Manejo en auto;Reggaeton;Si;
-248;Medicina;7:30:00 a. m.;8:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;6;5;1;Autobús;Reggaeton;;Si
-249;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;6;1;8;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-250;Arquitectura;7:00:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-251;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;3;2;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-252;Ciencias Contables;6:30:00 p. m.;10:10:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;1;5;1;Me traen en auto;Rock;Si;
-253;Medicina;7:30:00 a. m.;12:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;9;1;10;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-254;Ingeniería Civil;1:00:00 p. m.;12:50:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-255;Medicina;7:30:00 a. m.;12:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-256;Ingeniería Civil;1:00:00 p. m.;6:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-257;Ingeniería Civil;9:00:00 a. m.;5:45:00 a. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;4;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-258;Ingeniería Industrial;10:00:00 a. m.;4:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;5;Autobús;Pop;;Si
-259;Arquitectura;8:00:00 a. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;3;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-260;Ingeniería Informática;9:00:00 a. m.;4:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;1;5;1;Manejo en auto;Pop, Metal, Reggae;Si;
-261;Medicina;7:30:00 a. m.;2:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;9;10;10;Manejo en auto;Pop, Reggae, Cumbia, Reggaeton, Trap;Si;
-262;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-263;Medicina;7:30:00 a. m.;4:00:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-264;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;Pop, Electrónica, Rock, Metal, Reggae, Reggaeton, Funk brasileño;Si;
-265;Ingeniería Industrial;7:30:00 a. m.;6:20:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;2;2;Autobús;Pop, Electrónica, Rock, Reggaeton;;Si
-266;Comercio Internacional;5:30:00 p. m.;10:00:00 a. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;3;7;3;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-267;Medicina;7:30:00 a. m.;12:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-268;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;10;10;1;1;Autobús;Prefiero ir en silencio;;Si
-269;Medicina;10:00:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;4;4;8;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-269;Arquitectura;8:30:00 a. m.;5:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;3;5;3;Me traen en auto;Pop;Si;
-270;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;5;7;5;Manejo en auto;Pop, Rock, Cumbia, Reggaeton;Si;
-271;Ingeniería Civil;7:30:00 a. m.;5:45:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-272;Ingeniería Informática;1:00:00 p. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-273;Medicina;10:00:00 a. m.;4:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;7;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-274;Ingeniería Industrial;9:30:00 a. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-275;Comercio Internacional;6:30:00 p. m.;10:30:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-276;Marketing;7:00:00 p. m.;10:00:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;1;3;4;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Reggaeton, Trap, Funk brasileño;Si;
-277;Ingeniería Civil;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;No
-278;Medicina;7:00:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;7;7;9;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-279;Marketing;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;5;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-280;Fonoaudiología;7:30:00 a. m.;1:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;4;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-281;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;4;4;8;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-282;Ingeniería Civil;9:00:00 a. m.;5:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;7;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-283;Análisis de Sistemas Informáticos;5:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;4;3;3;Autobús;Pop, Rock;;No
-284;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;7;5;5;Manejo en auto;Reggaeton, Trap;Si;
-285;Análisis de Sistemas Informáticos;6:45:00 p. m.;9:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;7;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-286;Fonoaudiología;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;3;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-287;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Autobús;Reggaeton;;Si
-288;Ingeniería Civil;9:00:00 a. m.;6:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-289;No está en la lista;7:30:00 a. m.;1:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;5;5;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-289;Medicina;8:00:00 a. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;10;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-290;Medicina;7:30:00 a. m.;2:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;4;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-291;Marketing;6:30:00 p. m.;9:50:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;7;1;1;Manejo en auto;Pop, Prefiero ir en silencio;Si;
-292;Economía;6:30:00 p. m.;10:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;8;1;2;Me traen en auto;Pop;Si;
-293;Marketing;6:20:00 p. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-294;Medicina;1:00:00 p. m.;6:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;4;6;Manejo en auto;Reggaeton;Si;
-295;Medicina;7:30:00 a. m.;12:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;Reggaeton;;Si
-296;Ingeniería Civil;8:00:00 a. m.;7:30:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-297;Ingeniería Industrial;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-298;Ingeniería Civil;1:00:00 p. m.;6:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;2;1;Manejo en auto;Pop, Rap/Hip-Hop, Reggae;Si;
-299;Ingeniería Civil;1:00:00 p. m.;6:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;7;5;1;Autobús;Pop, Rap/Hip-Hop, Reggae, Reggaeton, Funk brasileño;;Si
-300;Ingeniería Civil;9:00:00 a. m.;4:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;4;7;7;2;Manejo en auto;Reggaeton;Si;
-301;Medicina;7:30:00 a. m.;4:45:00 a. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;5;1;1;1;Autobús;Pop;;Si
-302;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;9;1;1;1;Autobús;Pop, Techno, Electrónica, Rock;;Si
-303;Comercio Internacional;7:00:00 a. m.;1:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Reggaeton, Trap;Si;
-304;Arquitectura;1:00:00 p. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;1;5;Manejo en auto;Pop, Rock, Reggaeton;Si;
-305;Medicina;7:15:00 a. m.;6:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;2;2;5;3;Manejo en auto;Pop, Techno, Electrónica, Rock, Reggae, Cumbia, Reggaeton;Si;
-306;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;Electrónica, Reggae, Reggaeton;Si;
-307;Medicina;8:00:00 a. m.;5:00:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;7;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-308;Marketing;6:00:00 a. m.;10:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;6;10;10;Manejo en auto;Pop, Techno, Reggaeton;Si;
-309;Medicina;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;7;2;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño;;Si
-310;Medicina;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;2;2;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-310;Ciencias Contables;8:00:00 a. m.;12:10:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;3;2;2;Autobús;Electrónica, Reggaeton;;Si
-311;Medicina;7:30:00 a. m.;12:00:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;1;1;1;Autobús;Pop;;Si
-312;Administración de Empresas;7:00:00 p. m.;9:50:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;4;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Electrónica;Si;
-313;Economía;6:00:00 p. m.;10:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;Pop;;Si
-314;Ciencias Contables;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;8;5;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-315;Medicina;7:30:00 a. m.;1:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;4;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Reggaeton;Si;
-316;Ingeniería Civil;10:00:00 a. m.;5:00:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;6;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-317;Ingeniería Civil;1:00:00 p. m.;7:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;3;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-318;Medicina;7:30:00 a. m.;3:00:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;2;1;3;Manejo en auto;Pop;Si;
-319;Ingeniería Civil;7:30:00 a. m.;3:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;4;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-320;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;2;1;8;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock;Si;
-321;Fonoaudiología;7:30:00 a. m.;12:40:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-322;Ingeniería Civil;9:00:00 a. m.;5:45:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-323;Comercio Internacional;8:30:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-324;Medicina;8:00:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;8;1;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-325;Medicina;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;8;3;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Electrónica, Rock, Metal, Reggaeton;Si;
-326;Medicina;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-327;Medicina;10:00:00 a. m.;5:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;8;1;1;4;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock, Rap/Hip-Hop;Si;
-328;Marketing;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;3;5;Manejo en auto;Pop, Reggaeton, Trap, Funk brasileño;Si;
-329;Administración de Empresas;7:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;3;7;4;4;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-330;Medicina;9:00:00 a. m.;4:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;5;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-330;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-331;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;4;1;Exclusivamente a pie;Pop, Techno, Electrónica;;Si
-332;Diseño Industrial;6:30:00 a. m.;9:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;9;8;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-333;Ingeniería Industrial;2:30:00 p. m.;7:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;9;2;2;Manejo en auto;Reggaeton;Si;
-334;Ingeniería Ambiental;6:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;7;5;5;Manejo en auto;Reggaeton;Si;
-335;Diseño Industrial;8:00:00 a. m.;11:00:00 a. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-336;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;7;1;Autobús;Pop, Rock, Rap/Hip-Hop, Reggae;;Si
-337;Ingeniería Civil;1:15:00 p. m.;6:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;10;10;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-338;Ingeniería Civil;7:30:00 a. m.;6:30:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Manejo en auto;Rock;Si;
-339;Psicología;7:20:00 a. m.;1:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;5;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-340;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;5;5;5;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-341;Economía;6:30:00 p. m.;10:15:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;7;8;7;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Reggaeton;Si;
-342;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-343;Economía;9:00:00 a. m.;4:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;9;1;1;Autobús;Reggaeton;;Si
-344;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-345;Ingeniería Civil;7:00:00 a. m.;5:00:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;1;8;Autobús;Electrónica;;Si
-346;Administración de Empresas;6:30:00 p. m.;9:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;6;6;8;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-347;Medicina;12:00:00 p. m.;4:00:00 a. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-348;Ingeniería Ambiental;8:30:00 a. m.;7:15:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;1;5;1;1;Autobús;Pop, Electrónica, Rap/Hip-Hop;;Si
-349;Economía;6:30:00 p. m.;9:30:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;6;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-350;Ciencias Contables;7:00:00 p. m.;10:15:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;3;3;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-351;Medicina;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;Pop;;Si
-351;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;10;1;1;Bicicleta;Electrónica;;Si
-352;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-353;Medicina;7:30:00 a. m.;5:30:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-354;Ingeniería Civil;10:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-355;Medicina;7:30:00 a. m.;6:30:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-356;Marketing;5:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;10;1;Manejo en auto;Pop;No;
-357;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;7;3;3;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-358;Ingeniería Civil;9:00:00 a. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;5;1;2;Manejo en auto;Reggaeton;Si;
-359;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;8;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-360;Administración de Empresas;7:30:00 a. m.;12:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;10;1;Autobús;Cumbia, Reggaeton, Trap, Prefiero ir en silencio;;Si
-361;Administración de Empresas;7:00:00 p. m.;9:55:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-362;Comercio Internacional;6:30:00 p. m.;10:05:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;3;1;4;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-363;Marketing;6:00:00 p. m.;10:15:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;8;3;8;1;Manejo en auto;Rock, Cumbia, Reggaeton, Trap;Si;
-364;Ingeniería Industrial;2:30:00 p. m.;6:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;Pop, Techno, Electrónica, Rock, Reggaeton;Si;
-365;Ingeniería Informática;2:30:00 p. m.;5:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;10;1;Manejo en auto;Rock, Metal, Prefiero ir en silencio;Si;
-366;Administración de Empresas;6:50:00 p. m.;10:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;5;4;1;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-367;Análisis de Sistemas Informáticos;7:00:00 p. m.;9:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-368;Economía;6:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;4;7;1;Manejo en auto;Techno, Rap/Hip-Hop, Reggaeton, Trap;Si;
-369;Fonoaudiología;7:30:00 a. m.;6:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;10;7;1;Manejo en auto;Pop, Electrónica, Reggaeton, Trap, Funk brasileño;Si;
-370;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;3;3;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-371;Ciencias Contables;7:00:00 p. m.;10:15:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Reggaeton;Si;
-371;Ingeniería Informática;1:00:00 p. m.;6:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;8;1;Autobús;Pop, Rock, Prefiero ir en silencio;;Si
-372;Ingeniería Informática;2:00:00 p. m.;7:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;3;10;9;Autobús;Rock, Metal;;Si
-373;Diseño Industrial;6:00:00 p. m.;5:47:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;3;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-374;Economía;6:30:00 p. m.;10:10:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;1;1;1;Autobús;Prefiero ir en silencio;;Si
-375;Marketing;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;8;1;1;Manejo en auto;Reggaeton;Si;
-376;Administración de Empresas;7:00:00 p. m.;9:50:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;10;7;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Reggae;Si;
-377;Ciencias Contables;6:30:00 p. m.;10:20:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;4;3;2;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-378;Marketing;6:50:00 p. m.;9:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;3;3;4;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-379;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;1;1;Manejo en auto;Pop, Electrónica, Rap/Hip-Hop, Cumbia, Reggaeton, Trap, Funk brasileño, Prefiero ir en silencio;No;
-380;Marketing;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;9;8;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock, Rap/Hip-Hop, Reggaeton;Si;
-381;Ciencias Contables;7:00:00 p. m.;10:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;9;10;6;2;Manejo en auto;Pop, Reggaeton, Funk brasileño;Si;
-382;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;10;1;Manejo en auto;Reggaeton, Trap;No;
-383;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-384;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;6;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-385;Fonoaudiología;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-386;Marketing;7:00:00 p. m.;10:00:00 a. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;3;3;6;1;Autobús;Techno, Rap/Hip-Hop, Reggae, Trap;;Si
-387;Medicina;7:30:00 a. m.;4:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;6;3;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Rock;Si;
-388;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-389;Medicina;7:30:00 a. m.;1:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;5;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-390;Medicina;7:15:00 a. m.;4:15:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;3;1;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-391;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;7;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-392;Ciencias Contables;7:00:00 a. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;4;1;Me traen en auto;Rock;Si;
-392;Medicina;7:00:00 a. m.;1:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;1;Manejo en auto;Pop;Si;
-393;Ciencias Contables;6:30:00 a. m.;10:00:00 a. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;2;8;6;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-394;Comercio Internacional;6:35:00 p. m.;10:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;3;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-395;Medicina;7:30:00 a. m.;1:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;7;1;1;6;Autobús;Prefiero ir en silencio;;Si
-396;Medicina;10:00:00 p. m.;10:30:00 p. m.;Hombre;Si;Introvertido/a - Tímido/a - Retraído;10;10;10;8;Manejo en auto;Trap;No;
-397;Medicina;7:30:00 a. m.;1:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Manejo en auto;Pop, Rock, Metal, Rap/Hip-Hop;Si;
-398;Administración de Empresas;7:00:00 a. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;6;1;2;Manejo en auto;Reggaeton;Si;
-399;Ingeniería Industrial;9:00:00 a. m.;6:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;1;1;1;Bicicleta;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Prefiero ir en silencio;;Si
-400;Medicina;7:30:00 a. m.;12:30:00 p. m.;Mujer;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;7;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-401;Ingeniería Industrial;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;4;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-402;Medicina;7:30:00 a. m.;12:30:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo una moto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-403;Comercio Internacional;6:30:00 p. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-404;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;4;2;Manejo en auto;Techno, Electrónica, Reggaeton, Trap;Si;
-405;Ciencias Contables;6:00:00 p. m.;9:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;1;2;2;1;Manejo en auto;Cumbia, Reggaeton;Si;
-406;Ingeniería Electrónica;7:30:00 a. m.;12:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-407;Marketing;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;4;3;1;Autobús;Pop, Electrónica, Rock;;Si
-408;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;7;5;1;Manejo en auto;Pop, Rock, Metal, Rap/Hip-Hop, Reggae, Trap;Si;
-409;Economía;8:00:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-410;Economía;6:40:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;3;1;1;Autobús;Pop, Techno, Electrónica, Rock, Reggae, Cumbia, Reggaeton;;Si
-411;Comercio Internacional;7:30:00 p. m.;11:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;2;10;2;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-412;Administración de Empresas;6:30:00 a. m.;10:30:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-412;Economía;6:30:00 p. m.;9:30:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-413;Ciencias Contables;6:00:00 p. m.;10:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-414;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;8;1;1;Manejo en auto;Pop, Techno, Electrónica, Rock, Rap/Hip-Hop, Reggaeton, Trap;No;
-415;Economía;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae;Si;
-416;Medicina;7:30:00 a. m.;1:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Manejo en auto;Rock, Metal;Si;
-417;Medicina;7:00:00 a. m.;2:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;4;4;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-418;Comercio Internacional;7:00:00 p. m.;10:00:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;5;1;Me traen en auto;Rap/Hip-Hop, Reggaeton, Trap, Funk brasileño;Si;
-419;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;Pop;Si;
-420;Marketing;6:30:00 p. m.;10:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-421;Diseño Industrial;6:15:00 p. m.;10:15:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;2;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Reggaeton;Si;
-422;Economía;6:20:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;3;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-423;Ingeniería Civil;7:30:00 a. m.;6:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-424;Medicina;7:00:00 a. m.;4:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;7;10;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-425;Ingeniería Electrónica;9:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;3;2;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-426;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;3;1;1;Manejo en auto;Rock;Si;
-427;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;Pop, Rock, Reggaeton;Si;
-428;Marketing;6:50:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-429;Economía;6:15:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;7;1;1;1;Manejo en auto;Pop, Electrónica, Reggaeton, Funk brasileño;Si;
-430;Comercio Internacional;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;1;1;1;Autobús;Techno, Electrónica, Rock;;Si
-431;Marketing;7:00:00 p. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;2;2;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-432;Administración de Empresas;7:00:00 a. m.;10:00:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;4;4;1;Manejo una moto;Pop, Techno, Electrónica, Reggaeton;Si;
-433;Administración de Empresas;6:40:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;10;2;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-433;Comercio Internacional;6:30:00 p. m.;9:30:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;1;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-434;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock;Si;
-435;Marketing;6:45:00 p. m.;10:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;1;1;Manejo en auto;Pop, Reggaeton, Trap;Si;
-436;Comercio Internacional;6:30:00 p. m.;9:45:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;4;6;1;Manejo en auto;Pop, Rap/Hip-Hop, Reggaeton;Si;
-437;Marketing;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-438;Economía;6:30:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;8;1;1;Manejo en auto;Pop;Si;
-439;Economía;6:15:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-440;Ingeniería Industrial;2:30:00 p. m.;8:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;3;4;3;Manejo en auto;Reggaeton;Si;
-441;Economía;6:30:00 p. m.;10:00:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;Pop, Rock, Reggae, Reggaeton;Si;
-442;No está en la lista;2:00:00 p. m.;7:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-443;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;6;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-444;Ciencias Contables;7:00:00 p. m.;9:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;No;
-445;Medicina;8:00:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;6;2;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-446;Ciencias Contables;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-447;Fonoaudiología;7:00:00 a. m.;4:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;5;5;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-448;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;3;3;3;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-449;Administración de Empresas;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;4;4;4;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-450;Diseño Industrial;6:15:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;4;3;5;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-451;Ciencias Políticas;5:00:00 p. m.;9:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;6;5;5;1;Manejo en auto;Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño;Si;
-452;Economía;6:30:00 p. m.;10:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;5;2;Autobús;Rock;;Si
-453;Economía;6:30:00 p. m.;10:15:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;8;5;4;2;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Techno, Electrónica, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño, Prefiero ir en silencio;Si;
-454;Administración de Empresas;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;5;5;5;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-454;Análisis de Sistemas Informáticos;6:20:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;2;1;1;Autobús;Prefiero ir en silencio;;Si
-455;Medicina;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;4;1;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-456;Arquitectura;1:00:00 p. m.;2:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;1;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-457;Economía;6:30:00 p. m.;9:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;3;3;3;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Electrónica, Reggaeton, Funk brasileño;;Si
-458;Fonoaudiología;7:30:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;6;5;6;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-459;Medicina;6:30:00 a. m.;7:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;7;7;7;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-460;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-461;Medicina;8:00:00 a. m.;3:00:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;5;2;3;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Pop, Rock, Reggaeton;Si;
-462;Ingeniería Informática;1:30:00 p. m.;5:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-463;Ingeniería Electrónica;9:10:00 a. m.;4:00:00 p. m.;Hombre;Si;Extrovertido/a - Abierto - Hago amigos fácilmente;5;10;10;1;Manejo en auto;Techno, Electrónica, Rock, Rap/Hip-Hop;Si;
-464;Medicina;7:30:00 a. m.;6:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;4;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-465;Medicina;8:30:00 a. m.;7:50:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-466;Economía;6:30:00 a. m.;10:00:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;1;9;1;Manejo en auto;Pop, Electrónica, Rock, Metal, Rap/Hip-Hop, Trap;Si;
-467;Medicina;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-468;Medicina;7:00:00 a. m.;1:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;5;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-469;Medicina;7:20:00 a. m.;12:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;9;4;6;6;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-470;Ingeniería Informática;7:30:00 a. m.;5:00:00 p. m.;Hombre;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-471;Fonoaudiología;8:00:00 a. m.;12:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;Pop;Si;
-472;Arquitectura;1:30:00 p. m.;5:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;3;3;8;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-473;Medicina;7:30:00 a. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;5;8;10;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;No
-474;Economía;6:30:00 p. m.;9:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;7;1;1;Manejo en auto;Pop, Rock, Prefiero ir en silencio;Si;
-474;Economía;6:30:00 p. m.;12:15:00 a. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;8;2;1;Autobús;Reggaeton, Trap, Funk brasileño;;Si
-475;Medicina;7:30:00 a. m.;1:00:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;1;4;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-476;Ingeniería Ambiental;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;9;1;1;4;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-477;Ingeniería Ambiental;8:20:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;1;1;1;Autobús;Pop, Electrónica;;Si
-478;Medicina;1:00:00 a. m.;6:20:00 a. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-479;Ingeniería Civil;10:00:00 a. m.;7:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;1;6;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-480;Ingeniería Informática;9:00:00 a. m.;2:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;4;1;Manejo en auto;Pop, Techno, Electrónica, Rock, Metal, Reggae;Si;
-481;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;3;9;3;Me traen en auto;Rock;Si;
-482;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;4;1;4;1;Manejo en auto;Pop, Electrónica, Rock;Si;
-483;Medicina;8:00:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;9;3;3;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-484;Medicina;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;1;1;Autobús;Pop;;Si
-485;Economía;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-486;Medicina;7:30:00 a. m.;5:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Trap;;Si
-487;Medicina;7:30:00 a. m.;3:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-488;Marketing;7:00:00 p. m.;10:20:00 p. m.;Mujer;Si;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;1;7;1;Manejo en auto;Pop, Techno, Rap/Hip-Hop, Reggaeton, Trap, Funk brasileño;Si;
-489;Diseño Gráfico;6:00:00 p. m.;5:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;5;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-490;Psicología;1:30:00 p. m.;7:40:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;3;10;1;Me traen en auto;Prefiero ir en silencio;Si;
-491;Economía;6:30:00 p. m.;9:45:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;4;5;6;Manejo en auto;Pop;Si;
-492;Ingeniería Civil;10:30:00 a. m.;7:15:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;4;7;5;4;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-493;Administración de Empresas;6:00:00 p. m.;10:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;7;8;1;Manejo en auto;Rock;Si;
-494;Medicina;7:30:00 a. m.;4:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Autobús;Pop, Electrónica, Reggaeton;;Si
-495;Ciencias Contables;6:30:00 p. m.;5:15:00 p. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;10;1;3;8;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-495;Análisis de Sistemas Informáticos;6:00:00 p. m.;9:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;7;5;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-496;Medicina;7:30:00 a. m.;4:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;6;5;3;Autobús;Prefiero ir en silencio;;No
-497;Marketing;7:00:00 p. m.;10:30:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-498;Marketing;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;5;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-499;Ciencias Contables;6:00:00 p. m.;10:15:00 p. m.;Mujer;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;10;5;10;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-500;Ingeniería Industrial;9:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;4;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-501;Medicina;7:30:00 a. m.;4:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;5;3;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-502;Economía;6:00:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-503;Medicina;6:15:00 a. m.;6:50:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;1;1;Manejo en auto;Pop, Rock, Metal;Si;
-504;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;1;1;1;Manejo en auto;Metal;Si;
-505;Ingeniería Civil;7:30:00 a. m.;5:30:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;1;3;6;3;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio, Rock;Si;
-506;Ingeniería Civil;1:00:00 p. m.;8:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;1;5;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-507;Administración de Empresas;6:30:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;8;7;7;Manejo en auto;Pop, Rock;Si;
-508;Medicina;2:00:00 p. m.;6:00:00 a. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;1;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-509;Fonoaudiología;7:30:00 a. m.;12:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;9;1;Autobús;Pop;;Si
-510;Diseño Gráfico;7:00:00 p. m.;10:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;5;3;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-511;Comercio Internacional;7:00:00 p. m.;10:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;6;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-512;Ciencias Contables;8:00:00 a. m.;5:00:00 p. m.;Hombre;No;Extrovertido/a - Abierto - Hago amigos fácilmente;10;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-513;Medicina;7:30:00 a. m.;4:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;5;10;4;Me traen en auto;Pop, Rap/Hip-Hop, Reggaeton;Si;
-514;Comercio Internacional;6:00:00 p. m.;10:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;8;4;5;7;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;No
-515;Ingeniería Electrónica;1:00:00 p. m.;6:30:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;10;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
-515;Medicina;7:30:00 a. m.;4:30:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;8;1;1;Me traen en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-516;Ciencias Contables;6:15:00 p. m.;10:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;5;5;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-517;No está en la lista;7:30:00 a. m.;3:00:00 a. m.;Mujer;No;Introvertido/a - Tímido/a - Retraído;10;10;10;6;Manejo en auto;Rock;No;
-518;Análisis de Sistemas Informáticos;6:20:00 p. m.;10:00:00 p. m.;Hombre;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;7;5;2;1;Autobús;Rock;;Si
-519;Ingeniería Electrónica;8:15:00 a. m.;1:00:00 p. m.;Hombre;No;Introvertido/a - Tímido/a - Retraído;8;1;10;1;Autobús;Rock, Metal;;Si
-520;Análisis de Sistemas Informáticos;6:15:00 p. m.;9:50:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Manejo en auto;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;Si;
-521;Medicina;8:00:00 a. m.;12:00:00 p. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;1;5;4;1;Autobús;Reggaeton;;Si
-522;Fonoaudiología;7:30:00 a. m.;11:00:00 a. m.;Mujer;No;Entre el medio de los 2 - No tengo problema para hablar con mis amigos pero me cuesta hablar con extraños;3;1;1;1;Autobús;No tengo preferencia/ me da igual/ escucho lo que hay en la radio;;Si
+UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IMPORTANCE_SMOKER,IMPORTANCE_ELOQUENCE,IMPORTANCE_MUSIC,IMPORTANCE_SEX,TRANSPORT,MUSIC,CARPOOL,CARPOOL_CAR,CARPOOL_NO_CAR
+1,IngenierÃ­a InformÃ¡tica,9:30:00,20:00:00,Hombre,No,Medio,3,3,1,1,No Car,Prefiero ir en silencio,Si,,Si
+2,IngenierÃ­a InformÃ¡tica,8:00:00,19:00:00,Hombre,Si,Introvertido,1,6,8,1,Car,No preferencia,Si,Si,
+4,IngenierÃ­a Civil,13:00:00,19:00:00,Hombre,Si,Medio,9,5,7,1,No Car,Metal,Si,,Si
+5,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Hombre,Si,Medio,1,4,1,1,Car,No preferencia,Si,Si,
+6,IngenierÃ­a InformÃ¡tica,9:00:00,22:00:00,Hombre,No,Introvertido,6,5,5,5,No Car,Prefiero ir en silencio,Si,,Si
+7,IngenierÃ­a InformÃ¡tica,9:00:00,12:30:00,Hombre,No,Medio,8,5,7,1,Car,"Rock, Rap/Hip-Hop",Si,Si,
+8,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,No,No,
+9,IngenierÃ­a InformÃ¡tica,13:00:00,18:00:00,Hombre,No,Medio,10,5,1,1,Car,Rock,Si,Si,
+10,IngenierÃ­a InformÃ¡tica,9:00:00,18:00:00,Hombre,No,Medio,1,3,1,1,Car,"Rock, Rap/Hip-Hop, Reggae, Trap, Otro",Si,Si,
+11,IngenierÃ­a InformÃ¡tica,13:00:00,18:00:00,Hombre,No,Extrovertido,1,10,6,1,Car,No preferencia,Si,Si,
+12,Medicina,7:30:00,13:00:00,Mujer,No,Medio,1,1,5,5,No Car,No preferencia,Si,,Si
+13,IngenierÃ­a Industrial,7:30:00,16:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,Pop,Si,,Si
+14,Arquitectura,8:00:00,12:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,No preferencia,Si,,Si
+15,Medicina,7:00:00,14:00:00,Mujer,No,Extrovertido,5,3,1,1,Car,No preferencia,Si,Si,
+16,Medicina,7:30:00,15:00:00,Mujer,Si,Medio,3,3,1,1,No Car,No preferencia,Si,,Si
+17,Medicina,7:30:00,15:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+18,IngenierÃ­a InformÃ¡tica,9:00:00,17:00:00,Hombre,No,Medio,4,4,5,1,No Car,"Pop, ElectrÃ³nica, Rock, Otro",Si,,Si
+19,Medicina,7:30:00,16:00:00,Mujer,No,Extrovertido,1,5,5,1,No Car,No preferencia,Si,,Si
+20,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,10,7,3,5,Car,Otro,Si,Si,
+21,Medicina,7:30:00,13:00:00,Mujer,No,Medio,10,3,6,2,Car,"No preferencia, Pop, Reggae, Otro",Si,Si,
+22,Medicina,7:30:00,13:00:00,Mujer,No,Medio,10,4,4,1,Car,No preferencia,Si,Si,
+23,IngenierÃ­a InformÃ¡tica,9:00:00,18:35:00,Hombre,No,Medio,10,1,1,1,No Car,"Pop, Rock",Si,,Si
+24,IngenierÃ­a InformÃ¡tica,9:00:00,14:00:00,Hombre,No,Medio,1,2,1,1,Car,"Rock, Otro",Si,Si,
+25,Arquitectura,9:00:00,17:30:00,Mujer,No,Medio,1,1,8,1,Car,"Techno, Rock, Reggae, Otro",Si,Si,
+26,IngenierÃ­a ElectrÃ³nica,7:30:00,17:00:00,Hombre,No,Medio,8,5,5,1,Car,"Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Otro, Prefiero ir en silencio",Si,Si,
+27,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
+28,IngenierÃ­a Civil,13:00:00,18:30:00,Mujer,No,Medio,3,1,3,1,No Car,"Pop, Rock, Metal, Reggae, Otro",Si,,Si
+29,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:00:00,21:45:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, ElectrÃ³nica, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
+30,Medicina,7:15:00,18:00:00,Mujer,No,Medio,5,2,5,3,No Car,Pop,Si,,Si
+31,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,10,6,7,1,Car,No preferencia,Si,Si,
+32,Medicina,8:00:00,16:45:00,Mujer,No,Extrovertido,7,5,4,1,Car,No preferencia,No,No,
+33,Medicina,7:30:00,17:30:00,Hombre,No,Medio,5,5,8,1,Car,"Pop, ElectrÃ³nica, Rock, Reggaeton, Funk brasileÃ±o",Si,Si,
+34,IngenierÃ­a Civil,9:00:00,18:00:00,Hombre,Si,Medio,2,6,4,1,No Car,No preferencia,Si,,Si
+35,IngenierÃ­a ElectrÃ³nica,9:10:00,12:10:00,Hombre,No,Medio,4,1,1,1,Car,"ElectrÃ³nica, Rock, Rap/Hip-Hop, Reggaeton, Trap, Otro",Si,Si,
+36,Medicina,7:00:00,17:45:00,Mujer,No,Medio,8,6,1,1,Car,No preferencia,Si,Si,
+37,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,5,1,1,Car,"Pop, Rock, Cumbia, Reggaeton, Funk brasileÃ±o",Si,Si,
+38,Medicina,7:30:00,12:00:00,Mujer,No,Medio,9,10,10,1,No Car,"Pop, Reggaeton, Otro",Si,,Si
+39,Medicina,7:00:00,13:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
+40,IngenierÃ­a InformÃ¡tica,7:30:00,15:30:00,Mujer,No,Medio,10,1,5,5,Car,Pop,Si,Si,
+41,IngenierÃ­a ElectrÃ³nica,13:45:00,19:00:00,Hombre,No,Medio,5,5,10,1,No Car,Rock,Si,,Si
+42,Medicina,7:30:00,12:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,No preferencia,Si,,Si
+43,Medicina,7:30:00,11:00:00,Hombre,Si,Medio,4,2,3,1,Car,No preferencia,Si,Si,
+44,AdministraciÃ³n de Empresas,19:00:00,21:50:00,Mujer,No,Medio,10,1,5,3,Car,"Pop, Reggaeton",Si,Si,
+45,Medicina,7:30:00,17:30:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+46,IngenierÃ­a InformÃ¡tica,8:30:00,17:30:00,Hombre,No,Extrovertido,10,8,2,2,No Car,Prefiero ir en silencio,Si,Si,
+47,Comercio Internacional,18:30:00,22:10:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, Rock, Metal, Reggae",Si,,Si
+48,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,No,Extrovertido,7,1,1,1,Car,"No preferencia, Pop, ElectrÃ³nica, Reggaeton, Trap",No,No,
+49,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,"Pop, Techno",Si,Si,
+50,AdministraciÃ³n de Empresas,19:00:00,21:00:00,Mujer,No,Extrovertido,6,8,5,4,Car,"Pop, Rock, Otro",No,No,
+52,IngenierÃ­a InformÃ¡tica,9:00:00,15:00:00,Hombre,No,Medio,7,4,1,1,Car,No preferencia,Si,Si,
+53,IngenierÃ­a Industrial,13:20:00,17:45:00,Hombre,No,Medio,5,8,3,1,No Car,"No preferencia, Techno, ElectrÃ³nica, Otro",Si,,Si
+54,Ciencias Contables,18:30:00,22:10:00,Mujer,No,Medio,1,1,1,1,Car,"Trap, Otro",Si,Si,
+55,IngenierÃ­a Civil,7:15:00,11:00:00,Mujer,No,Medio,3,1,1,2,Car,"Pop, Otro",Si,Si,
+56,IngenierÃ­a Civil,13:00:00,17:30:00,Mujer,No,Extrovertido,1,5,1,1,No Car,"Pop, ElectrÃ³nica, Rock, Reggae, Cumbia, Reggaeton, Trap",Si,,Si
+57,IngenierÃ­a Civil,7:30:00,14:00:00,Mujer,No,Extrovertido,10,6,6,1,Car,Reggaeton,Si,Si,
+58,IngenierÃ­a Civil,13:00:00,17:30:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+59,IngenierÃ­a Civil,10:50:00,19:30:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+60,IngenierÃ­a Civil,13:00:00,17:00:00,Hombre,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+61,IngenierÃ­a Civil,12:00:00,17:00:00,Mujer,No,Medio,10,1,5,1,No Car,Rock,No,,No
+62,Medicina,9:00:00,15:00:00,Hombre,No,Medio,5,3,6,1,Car,Rock,Si,Si,
+63,IngenierÃ­a Civil,9:00:00,19:00:00,Hombre,Si,Extrovertido,1,5,1,1,Car,No preferencia,No,No,
+64,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+65,DiseÃ±o Industrial,17:40:00,22:00:00,Mujer,No,Introvertido,6,5,10,9,Car,Pop,Si,Si,
+67,Arquitectura,9:00:00,17:00:00,Mujer,No,Medio,9,1,1,1,Car,No preferencia,Si,Si,
+68,IngenierÃ­a Civil,13:00:00,19:00:00,Hombre,Si,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+69,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,6,6,2,5,Car,No preferencia,Si,Si,
+70,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:15:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+71,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
+72,Arquitectura,13:00:00,18:30:00,Mujer,No,Medio,1,1,10,1,No Car,Rock,Si,,Si
+74,IngenierÃ­a Industrial,7:30:00,18:30:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
+75,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,4,5,2,5,Car,"No preferencia, Pop, Techno, ElectrÃ³nica, Rap/Hip-Hop",Si,Si,
+76,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,8,1,1,1,No Car,No preferencia,Si,,Si
+77,AdministraciÃ³n de Empresas,18:55:00,22:00:00,Hombre,No,Extrovertido,7,6,5,1,Car,"Rock, Cumbia, Reggaeton",Si,Si,
+78,Ciencias Contables,18:30:00,22:30:00,Mujer,No,Medio,3,1,1,2,No Car,No preferencia,Si,,Si
+79,Comercio Internacional,18:30:00,22:15:00,Mujer,No,Extrovertido,10,1,1,1,No Car,Reggaeton,Si,,Si
+80,IngenierÃ­a Industrial,7:30:00,16:00:00,Mujer,No,Medio,1,5,3,8,Car,No preferencia,Si,Si,
+81,Ciencias Contables,18:20:00,22:00:00,Mujer,No,Medio,7,4,1,1,Car,No preferencia,Si,Si,
+82,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,3,4,7,1,Car,"Pop, Rock, Metal, Rap/Hip-Hop, Reggaeton",Si,Si,
+83,FonoaudiologÃ­a,8:00:00,12:00:00,Mujer,No,Medio,8,1,1,1,Car,"No preferencia, Pop",Si,Si,
+85,IngenierÃ­a ElectrÃ³nica,13:00:00,18:00:00,Mujer,No,Extrovertido,3,8,1,1,No Car,No preferencia,Si,,Si
+86,IngenierÃ­a Civil,9:00:00,18:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+87,IngenierÃ­a InformÃ¡tica,9:00:00,15:30:00,Hombre,No,Medio,8,3,6,3,Car,"Pop, Rock, Metal",Si,Si,
+88,IngenierÃ­a Civil,13:00:00,17:00:00,Hombre,No,Introvertido,6,2,3,1,Car,"Techno, Cumbia, Reggaeton",Si,Si,
+89,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,3,1,Car,No preferencia,Si,Si,
+90,FilosofÃ­a,18:00:00,22:00:00,Mujer,No,Extrovertido,3,3,1,2,No Car,No preferencia,Si,,Si
+91,Medicina,7:00:00,14:00:00,Hombre,No,Extrovertido,10,10,5,1,Car,Rock,Si,Si,
+93,IngenierÃ­a Civil,9:00:00,17:00:00,Hombre,No,Medio,3,1,1,1,Car,"Pop, Techno, ElectrÃ³nica, Rock, Rap/Hip-Hop, Reggae, Cumbia, Trap, Otro",Si,Si,
+94,IngenierÃ­a Civil,9:00:00,16:00:00,Hombre,Si,Extrovertido,1,8,9,1,Car,"Rock, Metal, Reggae, Otro",Si,Si,
+95,IngenierÃ­a Industrial,13:00:00,20:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop",Si,,Si
+96,IngenierÃ­a ElectrÃ³nica,13:00:00,19:00:00,Hombre,No,Extrovertido,10,1,5,1,Car,"Pop, Rock, Metal",Si,Si,
+97,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Hombre,No,Medio,10,3,5,1,Car,"ElectrÃ³nica, Reggaeton",Si,Si,
+98,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,2,2,1,2,No Car,No preferencia,Si,,Si
+99,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
+100,Marketing,19:00:00,21:30:00,Hombre,Si,Extrovertido,4,7,6,3,Car,"Pop, Techno, ElectrÃ³nica, Cumbia, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+103,EconomÃ­a,18:30:00,22:30:00,Hombre,No,Medio,1,10,1,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap, Otro",Si,Si,
+104,IngenierÃ­a Civil,15:00:00,18:30:00,Mujer,No,Extrovertido,7,5,6,9,No Car,"Techno, Rock, Metal",Si,,Si
+105,TeologÃ­a,7:05:00,12:00:00,Hombre,No,Extrovertido,8,1,1,1,Car,No preferencia,Si,Si,
+106,Arquitectura,19:11:00,20:11:00,Hombre,No,Medio,3,3,3,1,No Car,"Rock, Rap/Hip-Hop",Si,,Si
+107,Derecho,17:30:00,22:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+110,IngenierÃ­a ElectrÃ³nica,9:00:00,17:00:00,Hombre,No,Extrovertido,1,5,4,3,No Car,No preferencia,Si,,Si
+112,AdministraciÃ³n de Empresas,18:30:00,21:30:00,Mujer,No,Medio,10,4,1,6,No Car,No preferencia,Si,,Si
+113,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,"Pop, Reggaeton, Otro",Si,Si,
+114,Ciencias Contables,18:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,Cumbia,Si,,Si
+115,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+116,Arquitectura,8:00:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"No preferencia, Reggae, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+117,Arquitectura,7:30:00,16:00:00,Mujer,No,Extrovertido,7,6,8,1,Car,No preferencia,Si,Si,
+118,IngenierÃ­a Civil,9:00:00,18:30:00,Hombre,No,Extrovertido,5,7,5,3,No Car,No preferencia,Si,,Si
+120,IngenierÃ­a Industrial,7:30:00,11:00:00,Mujer,No,Medio,2,3,2,2,No Car,No preferencia,Si,,Si
+121,IngenierÃ­a Civil,9:00:00,14:00:00,Mujer,No,Extrovertido,1,1,2,8,No Car,No preferencia,Si,,Si
+122,IngenierÃ­a Ambiental,9:10:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Otro",Si,Si,
+123,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:00:00,21:45:00,Hombre,No,Medio,1,1,3,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
+124,IngenierÃ­a Ambiental,9:00:00,16:00:00,Mujer,Si,Medio,1,6,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Reggae, Reggaeton",Si,,Si
+125,Ciencias Contables,18:30:00,21:30:00,Mujer,No,Medio,10,5,5,8,Car,No preferencia,Si,Si,
+126,EconomÃ­a,18:30:00,22:00:00,Hombre,Si,Medio,1,8,2,1,Car,No preferencia,Si,Si,
+127,EconomÃ­a,18:30:00,21:30:00,Mujer,No,Medio,5,5,7,5,No Car,No preferencia,Si,,Si
+128,IngenierÃ­a Industrial,10:40:00,16:00:00,Hombre,No,Medio,10,10,10,10,No Car,No preferencia,Si,,Si
+132,NutriciÃ³n,12:30:00,17:00:00,Mujer,No,Medio,5,5,1,1,No Car,"Pop, Reggaeton, Trap, Otro",Si,,Si
+133,EconomÃ­a,19:00:00,22:00:00,Hombre,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
+134,NutriciÃ³n,12:30:00,17:00:00,Mujer,No,Medio,10,5,5,2,No Car,Pop,Si,,Si
+135,NutriciÃ³n,12:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap",Si,,Si
+137,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Medio,3,1,1,1,Car,Pop,No,No,
+138,IngenierÃ­a Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,5,2,2,2,No Car,"Rock, Rap/Hip-Hop, Trap",Si,,Si
+139,IngenierÃ­a Industrial,10:30:00,22:00:00,Mujer,No,Medio,4,3,1,2,No Car,No preferencia,Si,,Si
+140,DiseÃ±o Industrial,18:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,Car,No preferencia,Si,Si,
+141,Arquitectura,8:00:00,17:30:00,Mujer,No,Extrovertido,8,1,1,1,Car,No preferencia,Si,Si,
+142,IngenierÃ­a Civil,13:00:00,19:00:00,Mujer,No,Medio,5,6,6,1,Car,No preferencia,Si,Si,
+143,IngenierÃ­a Civil,13:00:00,17:00:00,Mujer,No,Medio,3,1,1,1,No Car,"Reggaeton, Trap",Si,,Si
+144,IngenierÃ­a Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,4,3,1,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
+145,Arquitectura,9:00:00,18:00:00,Mujer,No,Extrovertido,8,5,1,4,Car,No preferencia,Si,Si,
+146,IngenierÃ­a Civil,9:00:00,17:00:00,Hombre,Si,Medio,1,3,1,1,No Car,No preferencia,Si,,Si
+147,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:00:00,21:30:00,Hombre,No,Medio,1,3,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggae, Trap, Otro",Si,,Si
+148,IngenierÃ­a Civil,10:00:00,18:00:00,Mujer,No,Medio,10,5,4,5,Car,"No preferencia, Otro",Si,Si,
+149,IngenierÃ­a Civil,13:00:00,19:00:00,Mujer,No,Medio,1,4,1,1,No Car,No preferencia,Si,,Si
+150,IngenierÃ­a Industrial,7:30:00,15:00:00,Hombre,No,Extrovertido,6,9,1,1,Car,No preferencia,Si,Si,
+152,IngenierÃ­a ElectrÃ³nica,8:00:00,16:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+153,IngenierÃ­a Civil,7:30:00,19:00:00,Mujer,No,Medio,10,6,5,4,Car,No preferencia,No,No,
+155,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,10,2,2,2,Car,"Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggaeton",Si,Si,
+156,IngenierÃ­a Civil,8:00:00,17:00:00,Hombre,No,Extrovertido,10,6,1,1,No Car,No preferencia,Si,,Si
+157,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:15:00,22:00:00,Hombre,No,Medio,8,5,1,1,Car,No preferencia,Si,Si,
+158,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,No,Medio,5,1,1,6,No Car,No preferencia,Si,,Si
+159,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+160,IngenierÃ­a Civil,13:00:00,17:45:00,Hombre,No,Medio,8,4,1,1,Car,No preferencia,Si,Si,
+161,DiseÃ±o GrÃ¡fico,17:40:00,22:00:00,Hombre,Si,Extrovertido,2,6,6,6,Car,"Pop, Techno, ElectrÃ³nica, Rap/Hip-Hop, Reggaeton, Trap",No,No,
+162,IngenierÃ­a Ambiental,10:45:00,18:00:00,Mujer,No,Medio,10,5,6,9,Car,"Pop, Rock, Reggae, Cumbia, Reggaeton, Trap, Otro",Si,Si,
+163,Arquitectura,15:00:00,19:00:00,Mujer,No,Extrovertido,5,7,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Rock",Si,,Si
+164,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,1,5,3,4,Car,"Pop, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
+165,IngenierÃ­a Civil,13:00:00,19:00:00,Mujer,No,Extrovertido,8,1,1,1,No Car,No preferencia,Si,,Si
+166,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,No,Medio,10,6,1,3,Car,"No preferencia, Pop, Rap/Hip-Hop, Reggae",Si,Si,
+167,NutriciÃ³n,11:00:00,17:00:00,Mujer,No,Medio,10,8,8,10,Car,No preferencia,Si,Si,
+168,Ciencias Contables,18:30:00,22:10:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+169,IngenierÃ­a Civil,7:30:00,16:00:00,Mujer,No,Medio,1,5,1,1,Car,No preferencia,Si,Si,
+170,Arquitectura,8:00:00,17:00:00,Mujer,No,Medio,3,5,5,1,Car,"Pop, ElectrÃ³nica, Reggaeton, Trap, Otro",Si,Si,
+171,IngenierÃ­a Civil,13:30:00,18:00:00,Hombre,No,Medio,1,5,5,6,Car,"Rock, Reggae, Reggaeton, Trap",Si,Si,
+172,AdministraciÃ³n de Empresas,19:00:00,22:15:00,Mujer,No,Medio,2,1,1,1,Car,No preferencia,Si,Si,
+174,IngenierÃ­a Civil,7:30:00,21:00:00,Mujer,No,Extrovertido,3,2,1,1,No Car,No preferencia,Si,,Si
+175,Arquitectura,13:00:00,18:30:00,Hombre,Si,Medio,3,4,3,3,Car,No preferencia,Si,Si,
+176,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,8,1,7,9,Car,Pop,Si,Si,
+178,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,4,4,2,1,Car,"No preferencia, Techno, ElectrÃ³nica, Reggaeton",Si,Si,
+179,IngenierÃ­a Civil,14:00:00,18:00:00,Mujer,No,Medio,9,6,5,2,Car,No preferencia,Si,Si,
+180,IngenierÃ­a Civil,7:30:00,16:45:00,Mujer,No,Medio,3,1,1,1,No Car,No preferencia,Si,,Si
+181,Medicina,7:30:00,17:00:00,Mujer,No,Medio,7,5,1,1,Car,No preferencia,No,No,
+182,Ciencias Contables,18:40:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+183,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,No preferencia,Si,,Si
+185,IngenierÃ­a Industrial,9:00:00,18:00:00,Mujer,No,Medio,7,1,1,2,No Car,No preferencia,Si,,Si
+187,IngenierÃ­a Industrial,10:40:00,18:00:00,Hombre,No,Medio,1,1,3,1,No Car,Otro,Si,,Si
+188,IngenierÃ­a Industrial,8:00:00,20:00:00,Mujer,Si,Extrovertido,4,9,10,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
+189,Marketing,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+191,Medicina,7:30:00,12:30:00,Mujer,Si,Extrovertido,1,5,1,7,No Car,Otro,Si,,Si
+192,AdministraciÃ³n de Empresas,19:00:00,21:50:00,Hombre,Si,Medio,1,5,4,1,Car,"No preferencia, Pop, Reggaeton, Otro",Si,Si,
+193,Medicina,7:30:00,14:00:00,Mujer,No,Extrovertido,3,7,6,2,Car,"Pop, Rock, Otro",Si,Si,
+194,EconomÃ­a,18:20:00,22:00:00,Hombre,No,Extrovertido,3,5,5,1,Car,"Reggaeton, Trap, Prefiero ir en silencio",Si,Si,
+195,IngenierÃ­a Civil,8:00:00,14:00:00,Hombre,No,Extrovertido,4,6,2,1,Car,No preferencia,Si,Si,
+196,EconomÃ­a,18:50:00,21:50:00,Hombre,No,Medio,1,1,4,1,No Car,No preferencia,Si,,Si
+197,IngenierÃ­a ElectrÃ³nica,13:00:00,19:00:00,Mujer,No,Introvertido,3,5,6,2,Car,"Pop, Techno, ElectrÃ³nica, Rock, Reggae",No,No,
+199,EconomÃ­a,8:00:00,12:00:00,Hombre,No,Medio,3,5,2,1,Car,Prefiero ir en silencio,No,No,
+200,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Hombre,No,Extrovertido,10,10,9,10,Car,"No preferencia, Reggaeton",Si,Si,
+201,IngenierÃ­a Civil,10:45:00,17:00:00,Mujer,No,Extrovertido,5,7,10,1,Car,Reggaeton,Si,Si,
+202,IngenierÃ­a InformÃ¡tica,13:00:00,14:30:00,Hombre,No,Extrovertido,8,1,1,1,Car,No preferencia,Si,Si,
+203,IngenierÃ­a ElectrÃ³nica,13:00:00,17:00:00,Mujer,No,Medio,6,1,1,1,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap, Otro",Si,Si,
+205,IngenierÃ­a Civil,9:00:00,19:00:00,Mujer,No,Medio,5,7,1,1,No Car,No preferencia,Si,,Si
+206,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Extrovertido,5,7,4,6,No Car,No preferencia,Si,,Si
+207,Comercio Internacional,18:30:00,22:15:00,Mujer,No,Extrovertido,5,3,3,1,Car,"Pop, ElectrÃ³nica, Reggaeton",Si,Si,
+208,IngenierÃ­a Civil,14:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+209,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,5,3,1,4,No Car,No preferencia,Si,,Si
+211,Arquitectura,13:00:00,13:30:00,Mujer,No,Medio,9,5,1,2,Car,No preferencia,Si,Si,
+213,Marketing,18:30:00,21:40:00,Mujer,No,Medio,10,1,6,1,Car,"Pop, Rock, Rap/Hip-Hop, Otro",Si,Si,
+215,IngenierÃ­a Industrial,7:40:00,12:15:00,Hombre,No,Medio,1,1,1,1,No Car,Rock,Si,,Si
+218,IngenierÃ­a ElectrÃ³nica,7:30:00,16:00:00,Hombre,No,Medio,1,3,1,1,No Car,Prefiero ir en silencio,Si,,Si
+220,IngenierÃ­a Civil,7:30:00,16:00:00,Hombre,Si,Extrovertido,1,8,1,1,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap, Otro",Si,Si,
+221,Marketing,18:00:00,22:15:00,Mujer,Si,Extrovertido,1,5,8,1,Car,"Pop, Reggaeton",Si,Si,
+223,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,5,1,1,No Car,Pop,Si,,Si
+224,FonoaudiologÃ­a,7:30:00,12:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
+225,Medicina,7:30:00,15:00:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, Techno, ElectrÃ³nica, Rock, Reggae",Si,Si,
+227,IngenierÃ­a Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+228,AnÃ¡lisis de Sistemas InformÃ¡ticos,17:50:00,22:00:00,Mujer,No,Introvertido,1,1,1,1,No Car,Pop,Si,,Si
+229,FonoaudiologÃ­a,7:30:00,11:30:00,Mujer,No,Medio,10,10,1,1,Car,No preferencia,No,No,
+231,AdministraciÃ³n de Empresas,18:00:00,21:30:00,Hombre,No,Medio,5,7,3,1,No Car,No preferencia,Si,,Si
+232,Ciencias Contables,19:00:00,22:10:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+233,Medicina,15:08:00,21:25:00,Hombre,No,Extrovertido,10,9,1,1,Car,No preferencia,No,No,
+235,Arquitectura,7:15:00,18:30:00,Mujer,No,Medio,1,6,6,2,No Car,"Rap/Hip-Hop, Reggaeton",No,,No
+236,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,No,Medio,8,4,6,8,No Car,Prefiero ir en silencio,No,,No
+239,Medicina,7:30:00,17:30:00,Mujer,No,Medio,7,7,3,5,No Car,Pop,Si,,Si
+240,IngenierÃ­a Civil,7:00:00,13:50:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+241,Marketing,18:30:00,22:00:00,Mujer,Si,Extrovertido,10,10,10,6,Car,No preferencia,Si,Si,
+242,Medicina,7:30:00,12:00:00,Hombre,No,Extrovertido,10,1,5,5,Car,"Pop, Rock, Reggae",Si,Si,
+243,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,1,5,5,1,Car,No preferencia,Si,Si,
+244,Marketing,18:30:00,22:00:00,Mujer,No,Medio,4,8,3,1,No Car,Pop,Si,,Si
+245,Arquitectura,8:00:00,17:00:00,Mujer,No,Extrovertido,6,10,1,1,Car,No preferencia,Si,Si,
+246,Arquitectura,8:30:00,17:00:00,Mujer,No,Extrovertido,10,5,5,5,No Car,"Pop, Reggaeton",Si,,Si
+247,IngenierÃ­a Civil,7:30:00,14:30:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,No,No,
+248,FonoaudiologÃ­a,7:30:00,18:30:00,Mujer,No,Medio,10,10,10,1,No Car,"Reggaeton, Funk brasileÃ±o, Otro",No,,No
+249,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,10,2,5,8,Car,Otro,Si,Si,
+250,Arquitectura,8:00:00,17:00:00,Hombre,No,Medio,10,7,8,1,Car,No preferencia,Si,Si,
+251,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+252,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,2,2,1,1,No Car,Rock,Si,,Si
+253,IngenierÃ­a Industrial,7:30:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
+254,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+255,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
+256,FonoaudiologÃ­a,7:30:00,10:40:00,Mujer,No,Medio,5,4,2,6,No Car,No preferencia,Si,,Si
+257,IngenierÃ­a Civil,7:03:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,No Car,No preferencia,Si,,Si
+258,IngenierÃ­a Civil,13:00:00,19:00:00,Hombre,No,Medio,3,1,1,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
+259,FonoaudiologÃ­a,7:30:00,12:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+260,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+262,FonoaudiologÃ­a,7:30:00,11:30:00,Mujer,No,Medio,3,4,1,1,Car,No preferencia,Si,Si,
+263,IngenierÃ­a Civil,9:00:00,16:00:00,Hombre,Si,Medio,1,5,10,1,Car,No preferencia,Si,Si,
+264,IngenierÃ­a Industrial,9:00:00,13:00:00,Hombre,Si,Medio,1,1,10,1,Car,"Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop",Si,Si,
+265,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:15:00,22:00:00,Hombre,No,Medio,1,5,1,1,No Car,"No preferencia, Pop, Rock",Si,,Si
+268,Arquitectura,8:00:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"Pop, ElectrÃ³nica, Reggaeton, Trap, Funk brasileÃ±o, Otro",Si,,Si
+269,EconomÃ­a,18:30:00,21:00:00,Hombre,No,Extrovertido,4,1,1,1,No Car,"Rock, Rap/Hip-Hop, Reggae, Trap",Si,,Si
+270,IngenierÃ­a Civil,7:30:00,17:00:00,Mujer,No,Medio,3,1,1,5,Car,No preferencia,Si,Si,
+272,Ciencias Contables,18:20:00,22:00:00,Mujer,No,Extrovertido,3,3,2,4,Car,No preferencia,Si,Si,
+273,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,Otro,Si,Si,
+274,AdministraciÃ³n de Empresas,19:00:00,21:45:00,Mujer,No,Extrovertido,5,3,1,1,Car,"Pop, ElectrÃ³nica, Reggaeton",Si,Si,
+275,IngenierÃ­a Civil,10:45:00,17:00:00,Mujer,Si,Extrovertido,1,6,5,1,Car,"Pop, Techno, Rap/Hip-Hop, Reggae, Trap",Si,Si,
+277,AdministraciÃ³n de Empresas,18:00:00,22:00:00,Hombre,Si,Medio,1,4,3,1,Car,Rock,No,No,
+278,EconomÃ­a,18:30:00,22:00:00,Hombre,Si,Medio,1,6,1,1,Car,No preferencia,Si,Si,
+279,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,10,5,4,7,No Car,Pop,Si,,Si
+280,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+281,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,5,5,1,1,Car,No preferencia,No,No,
+282,IngenierÃ­a Civil,9:00:00,18:00:00,Mujer,No,Extrovertido,2,1,1,1,No Car,No preferencia,Si,,Si
+283,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,10,5,5,10,Car,"No preferencia, Pop, Reggaeton, Trap",Si,Si,
+284,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,6,7,8,5,Car,"Pop, ElectrÃ³nica, Reggaeton",Si,Si,
+285,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,8,6,3,3,Car,"Pop, ElectrÃ³nica, Rap/Hip-Hop, Reggae, Reggaeton",Si,Si,
+287,FonoaudiologÃ­a,7:30:00,18:40:00,Mujer,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
+288,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Mujer,Si,Extrovertido,1,5,1,1,No Car,No preferencia,Si,,Si
+289,AdministraciÃ³n de Empresas,19:00:00,22:30:00,Hombre,No,Extrovertido,10,7,1,1,Car,No preferencia,Si,Si,
+290,AdministraciÃ³n de Empresas,18:30:00,21:45:00,Mujer,No,Medio,6,1,5,5,Car,No preferencia,Si,Si,
+291,Medicina,7:30:00,17:00:00,Hombre,Si,Extrovertido,1,5,1,1,No Car,No preferencia,Si,,Si
+292,FonoaudiologÃ­a,7:30:00,12:00:00,Mujer,No,Medio,7,1,1,1,Car,No preferencia,Si,Si,
+293,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,7,10,7,1,Car,"Pop, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop",Si,Si,
+294,EconomÃ­a,18:00:00,22:10:00,Hombre,No,Extrovertido,5,5,1,1,No Car,No preferencia,Si,,Si
+295,AdministraciÃ³n de Empresas,18:30:00,22:15:00,Mujer,Si,Medio,3,5,2,1,No Car,No preferencia,Si,,Si
+296,IngenierÃ­a Ambiental,8:00:00,20:00:00,Hombre,No,Medio,9,7,5,2,Car,"Pop, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggae, Reggaeton, Trap",Si,Si,
+298,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Medio,10,5,1,1,Car,"No preferencia, Prefiero ir en silencio",Si,Si,
+299,IngenierÃ­a Industrial,7:00:00,16:00:00,Mujer,No,Extrovertido,5,1,10,1,No Car,"No preferencia, Pop, Cumbia, Reggaeton, Prefiero ir en silencio",Si,,Si
+300,IngenierÃ­a Industrial,15:00:00,21:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+301,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,10,6,7,1,Car,Pop,Si,Si,
+302,Medicina,7:30:00,12:50:00,Mujer,No,Extrovertido,8,8,1,5,No Car,No preferencia,Si,,Si
+303,Medicina,9:30:00,20:50:00,Hombre,No,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
+306,Comercio Internacional,18:15:00,22:15:00,Mujer,No,Medio,3,5,2,2,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Cumbia, Reggaeton",Si,Si,
+307,EconomÃ­a,18:30:00,22:00:00,Hombre,Si,Extrovertido,1,5,1,1,Car,No preferencia,Si,Si,
+308,FonoaudiologÃ­a,8:00:00,11:30:00,Mujer,No,Medio,10,1,1,1,No Car,No preferencia,Si,,Si
+310,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Medio,8,3,6,1,Car,"Rock, Otro",Si,Si,
+311,IngenierÃ­a InformÃ¡tica,7:00:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+312,IngenierÃ­a Civil,8:00:00,18:00:00,Mujer,No,Medio,9,2,2,1,No Car,No preferencia,Si,,Si
+313,Medicina,7:30:00,14:00:00,Mujer,No,Extrovertido,1,5,5,7,No Car,Pop,Si,,Si
+314,Medicina,7:30:00,15:00:00,Hombre,No,Medio,4,1,1,1,Car,No preferencia,Si,Si,
+315,DiseÃ±o GrÃ¡fico,18:00:00,22:00:00,Mujer,No,Extrovertido,6,1,1,1,No Car,"Pop, ElectrÃ³nica, Rock, Metal, Reggaeton, Trap",Si,,Si
+316,Ciencias Contables,19:00:00,22:15:00,Hombre,No,Extrovertido,4,10,4,1,Car,Trap,Si,Si,
+317,Medicina,7:30:00,18:30:00,Mujer,Si,Medio,1,7,1,1,Car,Rock,Si,Si,
+318,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Medio,7,5,5,1,No Car,No preferencia,Si,,Si
+320,IngenierÃ­a Civil,7:30:00,12:00:00,Mujer,Si,Extrovertido,1,4,6,1,No Car,Pop,Si,,Si
+321,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,Si,Extrovertido,1,3,1,6,No Car,No preferencia,Si,,Si
+322,Comercio Internacional,18:30:00,21:30:00,Mujer,No,Extrovertido,10,5,1,1,No Car,No preferencia,Si,,Si
+323,Ciencias PolÃ­ticas,7:00:00,16:00:00,Mujer,Si,Extrovertido,2,1,2,1,No Car,No preferencia,Si,,Si
+324,Medicina,11:00:00,16:00:00,Mujer,No,Medio,8,8,9,5,Car,Reggaeton,Si,Si,
+326,Medicina,7:30:00,17:30:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+328,IngenierÃ­a Civil,7:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+330,IngenierÃ­a Civil,7:30:00,18:00:00,Mujer,Si,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+331,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,Techno,Si,,Si
+334,FonoaudiologÃ­a,7:30:00,12:00:00,Mujer,No,Medio,10,10,10,10,No Car,No preferencia,Si,,Si
+336,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
+337,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:00:00,22:10:00,Hombre,No,Medio,1,1,10,1,Car,"Pop, Rock, Metal",No,No,
+340,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,Si,Medio,1,8,10,1,Car,Rock,Si,Si,
+341,FonoaudiologÃ­a,7:30:00,12:15:00,Mujer,No,Extrovertido,10,10,10,10,No Car,No preferencia,Si,,Si
+342,AdministraciÃ³n de Empresas,18:00:00,22:00:00,Hombre,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
+343,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:15:00,22:15:00,Hombre,Si,Medio,1,1,8,1,Car,Techno,Si,Si,
+344,Medicina,8:00:00,12:00:00,Mujer,No,Medio,5,5,5,5,Car,No preferencia,No,No,
+346,IngenierÃ­a Civil,13:00:00,22:00:00,Mujer,No,Medio,9,5,5,5,Car,No preferencia,No,No,
+347,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+348,IngenierÃ­a Civil,9:15:00,17:00:00,Mujer,No,Medio,3,4,1,1,Car,No preferencia,Si,Si,
+350,AdministraciÃ³n de Empresas,18:00:00,22:00:00,Hombre,Si,Extrovertido,2,3,4,1,Car,Reggaeton,Si,Si,
+351,Medicina,7:30:00,20:00:00,Mujer,No,Extrovertido,7,6,5,1,No Car,Reggaeton,Si,,Si
+352,DiseÃ±o GrÃ¡fico,17:30:00,21:20:00,Mujer,No,Medio,7,10,10,4,Car,"Pop, ElectrÃ³nica, Rock, Rap/Hip-Hop, Otro",No,No,
+353,Medicina,7:30:00,12:00:00,Mujer,No,Medio,4,6,1,8,Car,No preferencia,Si,Si,
+354,Medicina,8:00:00,18:00:00,Hombre,No,Introvertido,10,5,6,1,Car,Otro,Si,Si,
+355,Arquitectura,7:00:00,17:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+357,IngenierÃ­a Civil,13:00:00,18:00:00,Hombre,No,Medio,5,3,2,1,Car,No preferencia,Si,Si,
+358,Ciencias Contables,18:30:00,22:10:00,Hombre,No,Extrovertido,8,1,5,1,Car,Rock,Si,Si,
+359,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,9,1,10,No Car,No preferencia,Si,,Si
+361,Marketing,18:30:00,22:00:00,Hombre,No,Medio,9,3,3,1,Car,"Pop, ElectrÃ³nica, Rock, Reggaeton, Trap, Otro",Si,Si,
+362,Medicina,7:30:00,12:30:00,Hombre,No,Extrovertido,10,1,1,1,No Car,No preferencia,Si,,Si
+363,IngenierÃ­a Civil,13:00:00,18:30:00,Mujer,No,Medio,5,1,1,1,No Car,No preferencia,Si,,Si
+364,IngenierÃ­a Civil,9:00:00,17:45:00,Hombre,Si,Extrovertido,1,1,4,1,Car,No preferencia,Si,Si,
+365,IngenierÃ­a Industrial,10:00:00,16:00:00,Hombre,No,Medio,10,5,5,5,No Car,Pop,Si,,Si
+366,Arquitectura,8:00:00,18:00:00,Mujer,No,Medio,1,3,1,1,Car,No preferencia,Si,Si,
+367,IngenierÃ­a InformÃ¡tica,9:00:00,16:00:00,Hombre,No,Extrovertido,8,1,5,1,Car,"Pop, Metal, Reggae",Si,Si,
+368,Medicina,7:30:00,14:00:00,Mujer,No,Medio,7,9,10,10,Car,"Pop, Reggae, Cumbia, Reggaeton, Trap",Si,Si,
+370,Medicina,7:30:00,15:00:00,Mujer,No,Medio,8,5,1,1,No Car,No preferencia,Si,,Si
+374,Medicina,7:30:00,16:00:00,Hombre,No,Medio,10,1,5,1,Car,No preferencia,Si,Si,
+377,IngenierÃ­a Civil,13:00:00,18:00:00,Mujer,No,Medio,10,1,1,1,Car,Otro,Si,Si,
+378,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,1,1,1,Car,"Pop, ElectrÃ³nica, Rock, Metal, Reggae, Reggaeton, Funk brasileÃ±o",Si,Si,
+379,IngenierÃ­a Industrial,7:30:00,18:20:00,Mujer,No,Medio,5,5,2,2,No Car,"Pop, ElectrÃ³nica, Rock, Reggaeton",Si,,Si
+380,Comercio Internacional,17:30:00,22:00:00,Hombre,Si,Extrovertido,3,7,3,1,No Car,No preferencia,Si,,Si
+381,Medicina,7:30:00,12:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,No preferencia,Si,Si,
+382,FonoaudiologÃ­a,7:30:00,14:15:00,Mujer,Si,Extrovertido,1,5,1,5,Car,"No preferencia, Pop, Rock, Reggaeton, Otro",Si,Si,
+383,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Introvertido,10,10,1,1,No Car,Prefiero ir en silencio,Si,,Si
+386,Medicina,10:00:00,17:00:00,Mujer,No,Medio,10,4,4,8,Car,No preferencia,Si,Si,
+387,Arquitectura,8:30:00,17:30:00,Mujer,No,Medio,7,3,5,3,Car,Pop,Si,Si,
+389,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Extrovertido,7,5,7,5,Car,"Pop, Rock, Cumbia, Reggaeton",Si,Si,
+390,IngenierÃ­a Civil,7:30:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,No Car,No preferencia,Si,,Si
+391,IngenierÃ­a InformÃ¡tica,13:00:00,17:00:00,Hombre,No,Medio,10,5,5,1,Car,No preferencia,Si,Si,
+392,Medicina,10:00:00,16:30:00,Hombre,No,Extrovertido,3,7,1,1,Car,No preferencia,Si,Si,
+393,IngenierÃ­a Industrial,9:30:00,17:00:00,Hombre,No,Medio,3,3,1,1,No Car,No preferencia,Si,,Si
+394,Comercio Internacional,18:30:00,22:30:00,Mujer,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+395,Marketing,19:00:00,22:00:00,Mujer,No,Extrovertido,7,1,3,4,Car,"No preferencia, Pop, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+396,IngenierÃ­a Civil,7:30:00,17:00:00,Mujer,No,Medio,5,5,5,1,No Car,No preferencia,No,,No
+399,Medicina,7:00:00,12:00:00,Mujer,No,Medio,7,7,7,9,Car,No preferencia,Si,Si,
+400,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,5,10,Car,No preferencia,Si,Si,
+401,FonoaudiologÃ­a,7:30:00,13:30:00,Mujer,No,Medio,5,4,1,1,No Car,No preferencia,Si,,Si
+403,Ciencias Contables,19:00:00,22:00:00,Mujer,Si,Medio,3,4,4,8,Car,No preferencia,Si,Si,
+404,IngenierÃ­a Civil,9:00:00,17:00:00,Hombre,Si,Extrovertido,1,7,1,1,Car,No preferencia,Si,Si,
+405,AnÃ¡lisis de Sistemas InformÃ¡ticos,17:30:00,22:00:00,Mujer,No,Medio,9,4,3,3,No Car,"Pop, Rock",No,,No
+406,IngenierÃ­a Civil,13:00:00,19:00:00,Hombre,No,Medio,7,7,5,5,Car,"Reggaeton, Trap",Si,Si,
+408,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,6,2,1,3,Car,Otro,Si,Si,
+409,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:45:00,21:30:00,Hombre,No,Medio,10,5,7,5,Car,No preferencia,Si,Si,
+410,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,3,3,3,2,Car,No preferencia,No,No,
+411,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,Reggaeton,Si,,Si
+412,IngenierÃ­a Civil,9:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+413,Medicina,7:30:00,13:30:00,Mujer,No,Extrovertido,8,5,5,6,No Car,No preferencia,Si,,Si
+415,Medicina,8:00:00,19:00:00,Mujer,No,Medio,8,10,1,1,Car,No preferencia,Si,Si,
+418,Medicina,7:30:00,14:00:00,Mujer,No,Medio,10,1,4,1,No Car,No preferencia,Si,,Si
+419,Marketing,18:30:00,21:50:00,Mujer,No,Medio,1,7,1,1,Car,"Pop, Prefiero ir en silencio",Si,Si,
+420,EconomÃ­a,18:30:00,22:30:00,Mujer,No,Medio,5,8,1,2,Car,Pop,Si,Si,
+421,Medicina,7:30:00,12:00:00,Hombre,No,Medio,5,7,1,1,No Car,Otro,Si,,Si
+422,Medicina,7:30:00,15:00:00,Mujer,No,Extrovertido,1,7,5,1,Car,"No preferencia, Pop, ElectrÃ³nica, Cumbia, Reggaeton, Otro",Si,Si,
+425,Marketing,18:20:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+426,Medicina,13:00:00,18:30:00,Mujer,No,Medio,6,1,4,6,Car,Reggaeton,Si,Si,
+427,Medicina,7:30:00,12:15:00,Mujer,No,Extrovertido,1,1,1,1,No Car,Reggaeton,Si,,Si
+428,IngenierÃ­a Civil,8:00:00,19:30:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+429,IngenierÃ­a Industrial,7:30:00,16:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+430,IngenierÃ­a Civil,13:00:00,18:00:00,Hombre,No,Medio,5,1,2,1,Car,"Pop, Rap/Hip-Hop, Reggae",Si,Si,
+431,IngenierÃ­a Civil,13:00:00,18:30:00,Mujer,No,Medio,9,7,5,1,No Car,"Pop, Rap/Hip-Hop, Reggae, Reggaeton, Funk brasileÃ±o",Si,,Si
+432,Medicina,7:30:00,12:30:00,Mujer,No,Medio,6,5,9,1,No Car,Otro,Si,,Si
+433,IngenierÃ­a Civil,9:00:00,16:00:00,Mujer,No,Introvertido,4,7,7,2,Car,Reggaeton,Si,Si,
+434,Medicina,7:30:00,16:45:00,Mujer,No,Introvertido,5,1,1,1,No Car,Pop,Si,,Si
+435,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,8,10,8,6,Car,"Pop, Otro",Si,Si,
+436,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,9,1,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Rock",Si,,Si
+437,Comercio Internacional,7:00:00,13:00:00,Hombre,No,Medio,7,1,1,1,Car,"No preferencia, Reggaeton, Trap",Si,Si,
+439,Arquitectura,13:00:00,17:00:00,Mujer,No,Medio,8,1,1,5,Car,"Pop, Rock, Reggaeton",Si,Si,
+440,Medicina,7:15:00,18:00:00,Mujer,No,Medio,2,2,5,3,Car,"Pop, Techno, ElectrÃ³nica, Rock, Reggae, Cumbia, Reggaeton",Si,Si,
+441,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,1,1,1,Car,"ElectrÃ³nica, Reggae, Reggaeton",Si,Si,
+443,Medicina,8:00:00,17:00:00,Hombre,No,Medio,1,7,1,1,No Car,No preferencia,Si,,Si
+444,Marketing,18:00:00,22:30:00,Mujer,No,Extrovertido,10,6,10,10,Car,"Pop, Techno, Reggaeton",Si,Si,
+445,IngenierÃ­a Civil,7:30:00,19:15:00,Hombre,No,Medio,6,5,1,1,No Car,Otro,Si,,Si
+446,Medicina,7:00:00,18:00:00,Hombre,No,Medio,5,1,1,1,No Car,"Pop, ElectrÃ³nica, Rock, Metal, Otro",Si,,Si
+448,Medicina,7:30:00,17:00:00,Mujer,No,Extrovertido,5,7,2,2,No Car,"No preferencia, Pop, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileÃ±o",Si,,Si
+449,Medicina,7:30:00,17:00:00,Mujer,No,Medio,5,5,2,2,No Car,No preferencia,Si,,Si
+450,Ciencias Contables,8:00:00,12:10:00,Mujer,No,Extrovertido,4,3,2,2,No Car,"ElectrÃ³nica, Reggaeton",Si,,Si
+452,Medicina,7:30:00,13:00:00,Mujer,No,Extrovertido,10,5,4,3,Car,"Pop, Otro",Si,Si,
+455,AdministraciÃ³n de Empresas,19:00:00,21:50:00,Hombre,No,Extrovertido,10,5,4,1,Car,"No preferencia, Pop, ElectrÃ³nica",Si,Si,
+457,EconomÃ­a,18:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,Pop,Si,,Si
+462,Medicina,7:00:00,12:00:00,Mujer,No,Medio,3,1,1,1,Car,"Rock, Metal, Otro",No,No,
+463,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,3,8,5,2,Car,No preferencia,Si,Si,
+464,Medicina,7:30:00,13:00:00,Mujer,No,Extrovertido,1,1,4,1,Car,"No preferencia, Pop, Reggaeton",Si,Si,
+465,IngenierÃ­a Civil,10:00:00,17:00:00,Hombre,No,Medio,7,6,1,1,Car,No preferencia,Si,Si,
+466,IngenierÃ­a Civil,13:00:00,19:00:00,Hombre,No,Extrovertido,1,3,1,1,No Car,No preferencia,Si,,Si
+467,Medicina,7:30:00,15:00:00,Mujer,No,Extrovertido,7,2,1,3,Car,Pop,Si,Si,
+469,IngenierÃ­a Civil,7:30:00,15:00:00,Hombre,No,Extrovertido,6,4,1,1,No Car,No preferencia,Si,,Si
+470,Medicina,7:30:00,15:00:00,Mujer,No,Medio,9,2,1,8,Car,"No preferencia, Pop, Rock",Si,Si,
+471,FonoaudiologÃ­a,7:30:00,12:40:00,Mujer,No,Medio,5,1,1,1,No Car,No preferencia,Si,,Si
+473,IngenierÃ­a Civil,9:00:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,Car,No preferencia,Si,Si,
+474,Medicina,7:30:00,13:00:00,Mujer,No,Medio,1,1,6,1,No Car,"Pop, Rock, Otro",Si,,Si
+475,Comercio Internacional,20:30:00,22:00:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+476,Medicina,8:00:00,17:00:00,Mujer,No,Medio,10,8,1,5,No Car,No preferencia,Si,,Si
+478,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,8,3,1,Car,"No preferencia, Pop, ElectrÃ³nica, Rock, Metal, Reggaeton",Si,Si,
+479,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,5,1,1,No Car,No preferencia,Si,,Si
+480,Medicina,10:00:00,17:00:00,Mujer,No,Introvertido,8,1,1,4,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop",Si,Si,
+483,Marketing,19:00:00,22:00:00,Mujer,No,Medio,10,5,3,5,Car,"Pop, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+484,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,3,7,4,4,Car,No preferencia,Si,Si,
+485,Medicina,9:00:00,16:00:00,Hombre,No,Extrovertido,10,1,5,1,Car,No preferencia,Si,Si,
+486,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,6,1,1,1,No Car,No preferencia,Si,,Si
+487,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,4,1,No Car,"Pop, Techno, ElectrÃ³nica",Si,,Si
+488,DiseÃ±o Industrial,18:30:00,21:30:00,Mujer,No,Extrovertido,9,8,1,1,No Car,No preferencia,Si,,Si
+489,IngenierÃ­a Industrial,14:30:00,19:00:00,Hombre,No,Extrovertido,7,9,2,2,Car,Reggaeton,Si,Si,
+491,IngenierÃ­a Ambiental,18:00:00,22:00:00,Hombre,Si,Medio,5,7,5,5,Car,Reggaeton,Si,Si,
+492,IngenierÃ­a Civil,7:30:00,21:00:00,Hombre,No,Extrovertido,1,5,1,1,No Car,"Pop, ElectrÃ³nica, Cumbia, Reggaeton, Trap, Otro",Si,,Si
+493,DiseÃ±o Industrial,8:00:00,11:00:00,Hombre,Si,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
+494,Medicina,7:30:00,15:00:00,Mujer,No,Medio,8,1,7,1,No Car,"Pop, Rock, Rap/Hip-Hop, Reggae",Si,,Si
+495,IngenierÃ­a Civil,13:15:00,18:30:00,Hombre,No,Medio,10,10,10,10,Car,No preferencia,Si,Si,
+496,IngenierÃ­a Civil,7:30:00,18:30:00,Hombre,Si,Extrovertido,5,1,1,1,Car,Rock,Si,Si,
+497,PsicologÃ­a,7:20:00,13:00:00,Mujer,No,Medio,1,1,5,5,Car,No preferencia,Si,Si,
+500,Ciencias Contables,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,5,5,1,No Car,No preferencia,Si,,Si
+501,EconomÃ­a,18:30:00,22:15:00,Hombre,No,Extrovertido,4,7,8,7,Car,"No preferencia, Reggaeton",Si,Si,
+503,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+505,EconomÃ­a,9:00:00,16:00:00,Hombre,No,Extrovertido,7,9,1,1,No Car,Reggaeton,Si,,Si
+506,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+507,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,4,5,5,6,Car,"No preferencia, Otro",Si,Si,
+508,IngenierÃ­a Civil,7:00:00,17:00:00,Mujer,No,Extrovertido,10,5,1,8,No Car,ElectrÃ³nica,Si,,Si
+509,AdministraciÃ³n de Empresas,18:30:00,21:30:00,Mujer,No,Medio,5,6,6,8,Car,No preferencia,Si,Si,
+513,Medicina,12:00:00,16:00:00,Hombre,Si,Medio,4,5,1,1,Car,No preferencia,Si,Si,
+514,IngenierÃ­a Ambiental,8:30:00,19:15:00,Hombre,No,Introvertido,1,5,1,1,No Car,"Pop, ElectrÃ³nica, Rap/Hip-Hop",Si,,Si
+515,EconomÃ­a,18:30:00,21:30:00,Mujer,Si,Extrovertido,1,6,1,1,Car,No preferencia,Si,Si,
+516,Ciencias Contables,19:00:00,22:15:00,Hombre,No,Medio,1,3,3,1,Car,No preferencia,Si,Si,
+517,Medicina,7:30:00,12:00:00,Mujer,No,Medio,1,1,1,1,No Car,Pop,Si,,Si
+518,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,8,10,1,1,No Car,ElectrÃ³nica,Si,,Si
+519,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+520,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,3,1,1,1,Car,No preferencia,Si,Si,
+521,IngenierÃ­a Civil,10:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+523,Medicina,7:30:00,18:30:00,Hombre,No,Extrovertido,10,1,1,5,Car,No preferencia,Si,Si,
+525,Ciencias Contables,8:00:00,12:00:00,Mujer,No,Medio,1,5,8,1,No Car,Otro,No,,No
+526,Marketing,17:00:00,22:00:00,Mujer,No,Extrovertido,10,10,10,1,Car,Pop,No,No,
+529,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,No,Medio,3,7,3,3,No Car,No preferencia,Si,,Si
+530,IngenierÃ­a Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,3,5,1,2,Car,Reggaeton,Si,Si,
+531,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,No,Medio,10,5,5,8,Car,No preferencia,No,No,
+532,AdministraciÃ³n de Empresas,7:30:00,12:00:00,Hombre,No,Medio,10,5,10,1,No Car,"Cumbia, Reggaeton, Trap, Prefiero ir en silencio",Si,,Si
+533,AdministraciÃ³n de Empresas,19:00:00,21:55:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+534,Comercio Internacional,18:30:00,22:05:00,Mujer,No,Extrovertido,1,3,1,4,Car,No preferencia,Si,Si,
+536,Marketing,18:00:00,22:15:00,Hombre,Si,Extrovertido,8,3,8,1,Car,"Rock, Cumbia, Reggaeton, Trap",Si,Si,
+537,IngenierÃ­a Industrial,14:30:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"Pop, Techno, ElectrÃ³nica, Rock, Reggaeton",Si,Si,
+538,Ciencias Contables,19:30:00,21:40:00,Mujer,No,Medio,6,1,3,1,No Car,"Pop, Rock, Reggae, Otro",Si,,Si
+539,IngenierÃ­a InformÃ¡tica,14:30:00,17:00:00,Mujer,No,Extrovertido,10,5,10,1,Car,"Rock, Metal, Prefiero ir en silencio",Si,Si,
+540,AdministraciÃ³n de Empresas,18:50:00,22:00:00,Mujer,No,Introvertido,5,4,1,10,Car,No preferencia,Si,Si,
+541,AnÃ¡lisis de Sistemas InformÃ¡ticos,19:00:00,21:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+543,EconomÃ­a,18:00:00,22:00:00,Hombre,Si,Medio,3,4,7,1,Car,"Techno, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
+544,FonoaudiologÃ­a,7:30:00,18:00:00,Mujer,No,Medio,6,10,7,1,Car,"Pop, ElectrÃ³nica, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+545,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Medio,9,3,3,3,Car,No preferencia,Si,Si,
+546,Ciencias Contables,19:00:00,22:15:00,Mujer,No,Extrovertido,5,1,1,1,Car,"No preferencia, Pop, Reggaeton",Si,Si,
+547,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,"Reggae, Otro",Si,,Si
+549,IngenierÃ­a InformÃ¡tica,13:00:00,18:00:00,Hombre,No,Medio,3,3,8,1,No Car,"Pop, Rock, Prefiero ir en silencio",Si,,Si
+550,IngenierÃ­a InformÃ¡tica,14:00:00,19:00:00,Hombre,No,Medio,10,3,10,9,No Car,"Rock, Metal",Si,,Si
+552,EconomÃ­a,18:30:00,22:10:00,Hombre,No,Extrovertido,4,1,1,1,No Car,Prefiero ir en silencio,Si,,Si
+553,Marketing,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,Reggaeton,Si,Si,
+554,AdministraciÃ³n de Empresas,19:00:00,21:50:00,Mujer,No,Extrovertido,1,10,7,10,Car,"No preferencia, Pop, Reggae",Si,Si,
+555,Ciencias Contables,18:30:00,22:20:00,Mujer,No,Medio,6,4,3,2,Car,No preferencia,Si,Si,
+556,Comercio Internacional,19:15:00,21:50:00,Mujer,No,Medio,1,6,7,1,Car,"Pop, ElectrÃ³nica, Cumbia, Reggaeton, Trap, Otro",Si,Si,
+557,Marketing,18:50:00,21:00:00,Mujer,No,Extrovertido,7,3,3,4,Car,No preferencia,Si,Si,
+558,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,No,Medio,1,5,1,1,Car,"Pop, ElectrÃ³nica, Rap/Hip-Hop, Cumbia, Reggaeton, Trap, Funk brasileÃ±o, Prefiero ir en silencio",No,No,
+559,Marketing,19:00:00,22:00:00,Mujer,No,Medio,4,9,8,1,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggaeton",Si,Si,
+560,Ciencias Contables,19:00:00,22:15:00,Mujer,No,Extrovertido,9,10,6,2,Car,"Pop, Reggaeton, Funk brasileÃ±o",Si,Si,
+561,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,No,Medio,1,1,10,1,Car,"Reggaeton, Trap",No,No,
+562,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,1,1,Car,No preferencia,Si,Si,
+563,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,7,6,1,1,Car,No preferencia,Si,Si,
+565,Medicina,7:00:00,17:00:00,Hombre,No,Extrovertido,6,1,1,1,No Car,"Rock, Reggaeton, Funk brasileÃ±o, Otro",Si,,Si
+566,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,4,1,1,1,Car,No preferencia,Si,Si,
+567,Marketing,19:00:00,22:00:00,Hombre,Si,Extrovertido,3,3,6,1,No Car,"Techno, Rap/Hip-Hop, Reggae, Trap",Si,,Si
+568,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,10,5,3,4,Car,Otro,No,No,
+569,Medicina,7:30:00,16:30:00,Mujer,No,Medio,9,6,3,5,Car,"No preferencia, Rock",Si,Si,
+570,Medicina,7:30:00,15:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
+571,Medicina,7:30:00,13:30:00,Mujer,No,Extrovertido,10,5,1,1,No Car,No preferencia,Si,,Si
+572,Medicina,7:15:00,16:15:00,Mujer,No,Medio,1,3,1,5,Car,No preferencia,Si,Si,
+573,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,7,7,1,1,Car,No preferencia,Si,Si,
+574,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,5,1,4,1,Car,Rock,Si,Si,
+575,Medicina,7:00:00,13:00:00,Mujer,No,Medio,10,5,5,1,Car,Pop,Si,Si,
+576,Ciencias Contables,18:30:00,22:00:00,Hombre,Si,Extrovertido,2,8,6,1,Car,No preferencia,Si,Si,
+577,Comercio Internacional,18:35:00,22:15:00,Mujer,No,Extrovertido,6,3,1,1,No Car,No preferencia,Si,,Si
+578,Medicina,7:30:00,13:00:00,Mujer,No,Introvertido,7,1,1,6,No Car,Prefiero ir en silencio,Si,,Si
+580,Medicina,7:30:00,20:00:00,Mujer,No,Medio,10,1,5,1,Car,Otro,Si,Si,
+581,Medicina,22:00:00,22:30:00,Hombre,Si,Introvertido,10,10,10,8,Car,Trap,No,No,
+582,Medicina,7:30:00,13:00:00,Mujer,No,Medio,3,1,1,1,Car,"Pop, Rock, Metal, Rap/Hip-Hop",Si,Si,
+584,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Mujer,No,Medio,1,6,1,2,Car,Reggaeton,Si,Si,
+586,Medicina,8:00:00,17:00:00,Mujer,No,Medio,1,1,1,4,No Car,"No preferencia, Otro, Prefiero ir en silencio",Si,,Si
+587,IngenierÃ­a Industrial,9:00:00,18:00:00,Hombre,No,Extrovertido,7,1,1,1,No Car,"No preferencia, Prefiero ir en silencio",Si,,Si
+588,Medicina,7:30:00,12:30:00,Mujer,Si,Extrovertido,1,1,1,7,No Car,No preferencia,Si,,Si
+589,IngenierÃ­a Industrial,7:30:00,17:00:00,Mujer,No,Medio,4,4,5,1,Car,No preferencia,Si,Si,
+591,Medicina,7:30:00,12:30:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,Si,
+592,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
+593,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,4,2,Car,"Techno, ElectrÃ³nica, Reggaeton, Trap",Si,Si,
+595,Ciencias Contables,18:00:00,21:00:00,Mujer,No,Introvertido,1,2,2,1,Car,"Cumbia, Reggaeton",Si,Si,
+599,IngenierÃ­a ElectrÃ³nica,7:30:00,12:00:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+601,Marketing,19:00:00,22:10:00,Mujer,No,Medio,10,10,5,9,Car,"Pop, Reggaeton, Otro, Prefiero ir en silencio",Si,Si,
+602,Marketing,19:00:00,22:00:00,Hombre,No,Medio,1,4,3,1,No Car,"Pop, ElectrÃ³nica, Rock",Si,,Si
+603,Comercio Internacional,19:00:00,22:00:00,Hombre,Si,Medio,1,7,5,1,Car,"Pop, Rock, Metal, Rap/Hip-Hop, Reggae, Trap",Si,Si,
+604,EconomÃ­a,8:00:00,12:00:00,Mujer,No,Medio,6,1,1,1,Car,No preferencia,Si,Si,
+605,EconomÃ­a,18:40:00,22:00:00,Mujer,No,Medio,1,3,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Rock, Reggae, Cumbia, Reggaeton",Si,,Si
+606,Comercio Internacional,19:30:00,23:00:00,Mujer,No,Extrovertido,2,10,2,1,Car,No preferencia,Si,Si,
+607,AdministraciÃ³n de Empresas,18:30:00,22:30:00,Hombre,Si,Medio,1,5,1,1,Car,No preferencia,Si,Si,
+608,EconomÃ­a,18:30:00,21:30:00,Mujer,Si,Medio,1,5,1,1,Car,No preferencia,Si,Si,
+609,Ciencias Contables,18:00:00,22:30:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+610,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,"Pop, Techno, ElectrÃ³nica, Rock, Rap/Hip-Hop, Reggaeton, Trap",No,No,
+611,EconomÃ­a,19:00:00,22:00:00,Hombre,No,Medio,3,3,1,1,Car,"No preferencia, Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggae",Si,Si,
+612,Medicina,7:30:00,13:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,"Rock, Metal",Si,Si,
+614,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,10,4,4,7,Car,"No preferencia, Otro",Si,Si,
+615,Medicina,7:00:00,14:00:00,Hombre,No,Extrovertido,1,4,4,1,Car,No preferencia,Si,Si,
+616,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Extrovertido,1,1,5,1,Car,"Rap/Hip-Hop, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+617,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,Pop,Si,Si,
+618,Marketing,18:30:00,22:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+620,DiseÃ±o Industrial,18:15:00,22:15:00,Mujer,No,Medio,1,2,1,1,Car,"No preferencia, Reggaeton",Si,Si,
+621,EconomÃ­a,18:20:00,22:00:00,Mujer,No,Medio,3,3,3,1,Car,No preferencia,Si,Si,
+622,IngenierÃ­a Civil,7:30:00,18:00:00,Mujer,No,Medio,5,5,5,1,No Car,No preferencia,Si,,Si
+623,Medicina,7:00:00,17:30:00,Mujer,No,Introvertido,8,6,7,7,No Car,"Pop, Otro, Prefiero ir en silencio",No,,No
+624,Medicina,7:00:00,16:00:00,Hombre,No,Extrovertido,10,7,10,10,Car,No preferencia,Si,Si,
+625,IngenierÃ­a ElectrÃ³nica,9:00:00,17:00:00,Hombre,No,Extrovertido,7,3,2,1,Car,No preferencia,Si,Si,
+627,IngenierÃ­a ElectrÃ³nica,7:30:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"No preferencia, Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileÃ±o, Otro, Prefiero ir en silencio",No,No,
+629,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,10,3,1,1,Car,Rock,Si,Si,
+630,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"Pop, Rock, Reggaeton",Si,Si,
+631,Marketing,18:50:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+632,AdministraciÃ³n de Empresas,18:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,Otro,Si,Si,
+633,EconomÃ­a,18:15:00,22:00:00,Mujer,No,Extrovertido,7,1,1,1,Car,"Pop, ElectrÃ³nica, Reggaeton, Funk brasileÃ±o",Si,Si,
+634,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Medio,4,1,1,1,No Car,"Techno, ElectrÃ³nica, Rock",Si,,Si
+635,Marketing,19:00:00,22:00:00,Mujer,No,Medio,8,2,2,5,Car,No preferencia,No,No,
+636,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,10,4,4,1,No Car,"Pop, Techno, ElectrÃ³nica, Reggaeton",Si,Si,
+637,AdministraciÃ³n de Empresas,18:40:00,22:00:00,Mujer,No,Medio,5,10,2,1,No Car,No preferencia,Si,,Si
+638,Comercio Internacional,18:30:00,21:30:00,Hombre,Si,Extrovertido,1,4,1,1,Car,No preferencia,Si,Si,
+639,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,5,1,1,1,Car,"No preferencia, Pop, Rock",Si,Si,
+640,Marketing,18:45:00,22:30:00,Mujer,No,Extrovertido,10,10,1,1,Car,"Pop, Reggaeton, Trap",Si,Si,
+643,Comercio Internacional,18:30:00,21:45:00,Mujer,Si,Medio,1,4,6,1,Car,"Pop, Rap/Hip-Hop, Reggaeton",Si,Si,
+644,Marketing,19:00:00,22:00:00,Mujer,No,Extrovertido,3,1,1,1,Car,No preferencia,No,No,
+645,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,Pop,Si,Si,
+646,EconomÃ­a,18:15:00,22:00:00,Mujer,No,Medio,7,5,1,1,Car,No preferencia,No,No,
+647,IngenierÃ­a Industrial,14:30:00,20:00:00,Mujer,No,Extrovertido,3,3,4,3,Car,Reggaeton,Si,Si,
+650,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"Pop, Rock, Reggae, Reggaeton",Si,Si,
+653,DiseÃ±o GrÃ¡fico,18:00:00,20:00:00,Mujer,Si,Medio,4,7,1,1,Car,Otro,Si,Si,
+655,IngenierÃ­a Civil,14:00:00,19:00:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
+657,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,5,5,6,3,Car,No preferencia,Si,Si,
+658,Ciencias Contables,19:00:00,21:30:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,No,No,
+659,Medicina,8:00:00,17:00:00,Mujer,No,Medio,9,6,2,2,Car,No preferencia,Si,Si,
+660,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+661,FonoaudiologÃ­a,7:00:00,16:00:00,Mujer,No,Extrovertido,5,5,5,5,No Car,No preferencia,Si,,Si
+662,Medicina,7:30:00,12:30:00,Mujer,No,Extrovertido,10,6,5,1,No Car,"Pop, Reggae, Reggaeton, Otro, Prefiero ir en silencio",Si,Si,
+663,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,3,3,3,3,No Car,No preferencia,Si,,Si
+664,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,6,4,4,4,Car,No preferencia,Si,Si,
+665,DiseÃ±o Industrial,18:15:00,22:00:00,Mujer,No,Extrovertido,8,4,3,5,Car,No preferencia,Si,Si,
+666,Ciencias PolÃ­ticas,17:00:00,21:00:00,Hombre,No,Extrovertido,6,5,5,1,Car,"Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+667,EconomÃ­a,18:30:00,22:30:00,Mujer,No,Medio,10,1,5,2,No Car,Rock,Si,,Si
+669,EconomÃ­a,18:30:00,22:15:00,Hombre,No,Extrovertido,8,5,4,2,Car,"No preferencia, Pop, Techno, ElectrÃ³nica, Reggae, Cumbia, Reggaeton, Trap, Funk brasileÃ±o, Prefiero ir en silencio",Si,Si,
+670,AdministraciÃ³n de Empresas,19:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
+671,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,6,8,6,No Car,"No preferencia, Pop, Reggae, Cumbia, Reggaeton, Otro",Si,,Si
+673,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:20:00,22:00:00,Mujer,No,Medio,1,2,1,1,No Car,Prefiero ir en silencio,Si,,Si
+674,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,4,1,3,Car,No preferencia,Si,Si,
+676,Arquitectura,13:00:00,14:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,No preferencia,Si,,Si
+677,EconomÃ­a,18:30:00,21:00:00,Mujer,No,Extrovertido,3,3,3,1,No Car,"No preferencia, Pop, ElectrÃ³nica, Reggaeton, Funk brasileÃ±o",Si,,Si
+678,FonoaudiologÃ­a,7:30:00,12:00:00,Mujer,No,Medio,10,6,5,6,No Car,No preferencia,Si,,Si
+680,Medicina,7:30:00,17:00:00,Hombre,No,Medio,9,7,1,1,Car,Otro,No,No,
+681,Medicina,6:30:00,19:30:00,Mujer,No,Extrovertido,10,7,7,7,Car,No preferencia,Si,Si,
+682,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+684,Medicina,8:00:00,15:00:00,Mujer,Si,Medio,4,5,2,3,Car,"No preferencia, Pop, Rock, Reggaeton",Si,Si,
+685,IngenierÃ­a InformÃ¡tica,13:30:00,17:30:00,Hombre,No,Medio,5,1,1,1,No Car,No preferencia,Si,,Si
+686,IngenierÃ­a InformÃ¡tica,13:00:00,19:00:00,Mujer,No,Medio,7,1,3,1,Car,"No preferencia, Rock, Otro",Si,Si,
+687,DiseÃ±o Industrial,18:30:00,21:00:00,Hombre,No,Medio,10,3,10,1,No Car,"Pop, Rock, Otro",Si,,Si
+688,IngenierÃ­a ElectrÃ³nica,9:10:00,16:00:00,Hombre,Si,Extrovertido,5,10,10,1,Car,"Techno, ElectrÃ³nica, Rock, Rap/Hip-Hop",Si,Si,
+690,Medicina,7:30:00,18:30:00,Mujer,No,Medio,7,4,1,1,No Car,No preferencia,Si,,Si
+691,Medicina,8:30:00,19:50:00,Hombre,No,Extrovertido,5,3,1,1,Car,No preferencia,Si,Si,
+692,EconomÃ­a,18:30:00,22:00:00,Hombre,No,Extrovertido,4,1,9,1,Car,"Pop, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Trap",Si,Si,
+694,Medicina,7:30:00,17:00:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
+695,Medicina,7:30:00,17:00:00,Hombre,No,Medio,1,1,1,1,Car,"No preferencia, Pop, Techno, ElectrÃ³nica, Rock, Metal, Trap, Otro",Si,Si,
+696,Medicina,7:00:00,13:00:00,Hombre,No,Introvertido,5,1,1,1,Car,No preferencia,Si,Si,
+697,Medicina,7:20:00,12:00:00,Mujer,No,Extrovertido,9,4,6,6,Car,No preferencia,Si,Si,
+699,IngenierÃ­a InformÃ¡tica,7:30:00,17:00:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+700,FonoaudiologÃ­a,8:00:00,12:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,Pop,Si,Si,
+701,Arquitectura,13:30:00,17:00:00,Hombre,No,Introvertido,3,3,8,3,Car,No preferencia,Si,Si,
+702,Medicina,7:30:00,17:00:00,Mujer,No,Medio,4,5,8,10,No Car,No preferencia,No,,No
+703,Medicina,7:30:00,12:00:00,Mujer,No,Medio,7,1,1,1,Car,"Pop, Otro",Si,Si,
+704,EconomÃ­a,18:30:00,21:30:00,Mujer,No,Medio,7,7,1,1,Car,"Pop, Rock, Prefiero ir en silencio",Si,Si,
+705,EconomÃ­a,18:30:00,22:15:00,Hombre,No,Extrovertido,1,8,2,1,No Car,"Reggaeton, Trap, Funk brasileÃ±o",Si,,Si
+706,Medicina,7:30:00,13:00:00,Mujer,No,Introvertido,1,4,1,1,Car,No preferencia,Si,Si,
+707,IngenierÃ­a Ambiental,7:30:00,16:00:00,Mujer,No,Extrovertido,9,1,1,4,Car,No preferencia,Si,Si,
+708,IngenierÃ­a Ambiental,8:20:00,12:00:00,Mujer,No,Medio,9,1,1,1,No Car,"Pop, ElectrÃ³nica",Si,,Si
+709,Medicina,13:00:00,18:20:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+710,IngenierÃ­a Civil,10:00:00,19:30:00,Mujer,No,Medio,6,1,1,6,Car,No preferencia,Si,Si,
+713,IngenierÃ­a InformÃ¡tica,9:00:00,14:00:00,Hombre,No,Medio,10,5,4,1,Car,"Pop, Techno, ElectrÃ³nica, Rock, Metal, Reggae",Si,Si,
+714,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,7,3,9,3,Car,Rock,Si,Si,
+715,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,1,1,Car,Otro,Si,Si,
+716,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Extrovertido,4,1,4,1,Car,"Pop, ElectrÃ³nica, Rock",Si,Si,
+717,Medicina,13:00:00,17:30:00,Mujer,No,Medio,10,1,1,1,No Car,No preferencia,Si,,Si
+719,Medicina,8:00:00,15:00:00,Mujer,No,Medio,9,3,3,3,Car,No preferencia,Si,Si,
+720,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,1,1,1,No Car,Pop,Si,,Si
+721,EconomÃ­a,18:30:00,22:00:00,Mujer,No,Medio,10,5,5,1,Car,No preferencia,Si,Si,
+722,Medicina,7:30:00,17:00:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Trap",Si,,Si
+723,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
+725,Marketing,19:00:00,22:20:00,Mujer,Si,Medio,5,1,7,1,Car,"Pop, Techno, Rap/Hip-Hop, Reggaeton, Trap, Funk brasileÃ±o",Si,Si,
+726,DiseÃ±o GrÃ¡fico,18:00:00,21:00:00,Mujer,No,Medio,10,5,1,1,Car,No preferencia,Si,Si,
+727,PsicologÃ­a,13:30:00,19:40:00,Mujer,No,Medio,10,3,10,1,Car,Prefiero ir en silencio,Si,Si,
+728,EconomÃ­a,18:30:00,21:45:00,Mujer,No,Medio,5,4,5,6,Car,Pop,Si,Si,
+729,IngenierÃ­a Civil,10:30:00,19:15:00,Mujer,No,Medio,4,7,5,4,Car,No preferencia,Si,Si,
+730,AdministraciÃ³n de Empresas,18:00:00,22:30:00,Mujer,No,Medio,10,7,8,1,Car,Rock,Si,Si,
+733,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,2,1,7,No Car,"Pop, Otro",Si,,Si
+734,IngenierÃ­a InformÃ¡tica,9:10:00,18:30:00,Hombre,No,Medio,3,3,1,1,Car,"Pop, Otro",No,No,
+736,Medicina,7:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, ElectrÃ³nica, Reggaeton",Si,,Si
+738,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:00:00,21:30:00,Hombre,No,Extrovertido,1,7,5,1,No Car,No preferencia,Si,,Si
+739,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,6,5,3,No Car,Prefiero ir en silencio,No,,No
+740,Marketing,19:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
+741,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,5,1,Car,No preferencia,Si,Si,
+742,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Extrovertido,2,6,6,5,Car,Otro,Si,Si,
+744,Ciencias Contables,18:00:00,22:15:00,Mujer,No,Extrovertido,10,10,5,10,Car,No preferencia,Si,Si,
+745,IngenierÃ­a Industrial,9:00:00,17:00:00,Hombre,No,Extrovertido,5,3,4,1,Car,No preferencia,Si,Si,
+747,AdministraciÃ³n de Empresas,8:00:00,12:00:00,Hombre,No,Medio,10,10,1,1,No Car,Otro,Si,Si,
+748,Medicina,7:30:00,16:30:00,Hombre,No,Medio,5,3,1,1,Car,No preferencia,Si,Si,
+749,EconomÃ­a,18:00:00,22:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
+750,Medicina,6:15:00,18:50:00,Hombre,No,Extrovertido,5,3,1,1,Car,"Pop, Rock, Metal",Si,Si,
+751,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,Metal,Si,Si,
+752,IngenierÃ­a Civil,7:30:00,17:30:00,Hombre,No,Extrovertido,1,3,6,3,Car,"No preferencia, Rock",Si,Si,
+754,IngenierÃ­a Civil,13:00:00,20:00:00,Mujer,No,Medio,6,1,1,5,Car,No preferencia,Si,Si,
+755,AdministraciÃ³n de Empresas,18:30:00,22:00:00,Mujer,No,Medio,10,8,7,7,Car,"Pop, Rock",Si,Si,
+756,Medicina,6:00:00,14:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+760,DiseÃ±o GrÃ¡fico,19:00:00,22:00:00,Hombre,No,Extrovertido,5,3,1,1,No Car,No preferencia,Si,,Si
+761,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,6,1,1,1,No Car,No preferencia,Si,,Si
+764,Medicina,7:30:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"No preferencia, Pop, ElectrÃ³nica, Rock, Reggaeton, Trap, Otro",Si,,Si
+765,EconomÃ­a,18:30:00,22:30:00,Mujer,No,Medio,9,6,10,1,Car,"No preferencia, Pop, Reggaeton, Otro",Si,Si,
+766,Ciencias Contables,8:00:00,17:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,No preferencia,Si,Si,
+767,Medicina,7:30:00,16:00:00,Mujer,No,Medio,3,5,10,4,Car,"Pop, Rap/Hip-Hop, Reggaeton",Si,Si,
+768,Comercio Internacional,18:00:00,22:30:00,Mujer,No,Medio,8,4,5,7,No Car,No preferencia,No,,No
+769,IngenierÃ­a ElectrÃ³nica,13:00:00,18:30:00,Hombre,No,Medio,10,1,1,1,No Car,No preferencia,Si,,Si
+770,IngenierÃ­a InformÃ¡tica,8:00:00,18:00:00,Mujer,No,Medio,7,4,4,1,Car,"Pop, Otro",Si,Si,
+771,Medicina,7:30:00,16:30:00,Mujer,No,Medio,1,8,1,1,Car,No preferencia,Si,Si,
+773,Ciencias Contables,18:15:00,22:00:00,Mujer,No,Medio,7,5,5,1,Car,No preferencia,Si,Si,
+774,No estÃ¡ en la lista,7:30:00,15:00:00,Mujer,No,Introvertido,10,10,10,6,Car,Rock,No,No,
+775,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:20:00,22:00:00,Hombre,No,Medio,7,5,2,1,No Car,Rock,Si,,Si
+776,IngenierÃ­a ElectrÃ³nica,8:15:00,13:00:00,Hombre,No,Introvertido,8,1,10,1,No Car,"Rock, Metal",Si,,Si
+777,AnÃ¡lisis de Sistemas InformÃ¡ticos,18:15:00,21:50:00,Mujer,No,Medio,3,1,1,1,Car,No preferencia,Si,Si,
+779,Medicina,8:00:00,12:00:00,Mujer,No,Medio,1,5,4,1,No Car,Reggaeton,Si,,Si
+780,IngenierÃ­a Civil,7:30:00,18:00:00,Hombre,Si,Medio,1,1,1,1,Car,"No preferencia, Pop, Techno, ElectrÃ³nica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileÃ±o, Otro, Prefiero ir en silencio",Si,Si,
+781,FonoaudiologÃ­a,7:30:00,11:00:00,Mujer,No,Medio,3,1,1,1,No Car,No preferencia,Si,,Si
+782,IngenierÃ­a Civil,7:30:00,18:00:00,Hombre,No,Extrovertido,5,2,1,1,Car,"No preferencia, Otro, Prefiero ir en silencio",Si,Si,
