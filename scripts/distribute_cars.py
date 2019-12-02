@@ -17,7 +17,7 @@ def distribute_mean_transportation():
     helper.calculate_range_distribution(car_distribution)
 
     """Distribute the car and not car ownership"""
-    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata, \
+    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8',  errors='ignore') as csv_input_userdata, \
          open(settings.CSV_OUTPUT_TRANSPORT_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.OUTPUT_FILES_DELIMITER)
