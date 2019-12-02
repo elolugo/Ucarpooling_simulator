@@ -26,7 +26,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 26,Ingeniería Electrónica,7:30:00,17:00:00,Hombre,No,Medio,8,5,5,1,Car,"Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Otro, Prefiero ir en silencio",Si,Si,
 27,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
 28,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,3,1,3,1,No Car,"Pop, Rock, Metal, Reggae, Otro",Si,,Si
-29,Análisis de Sistemas,18:00:00,21:45:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, Electrónica, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
+29,Análisis de Sistema,18:00:00,21:45:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, Electrónica, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
 30,Medicina,7:15:00,18:00:00,Mujer,No,Medio,5,2,5,3,No Car,Pop,Si,,Si
 31,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,10,6,7,1,Car,No preferencia,Si,Si,
 32,Medicina,8:00:00,16:45:00,Mujer,No,Extrovertido,7,5,4,1,Car,No preferencia,No,No,
@@ -65,7 +65,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 67,Arquitectura,9:00:00,17:00:00,Mujer,No,Medio,9,1,1,1,Car,No preferencia,Si,Si,
 68,Ingeniería Civil,13:00:00,19:00:00,Hombre,Si,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
 69,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,6,6,2,5,Car,No preferencia,Si,Si,
-70,Análisis de Sistemas,18:15:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
+70,Análisis de Sistema,18:15:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
 71,Administración de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
 72,Arquitectura,13:00:00,18:30:00,Mujer,No,Medio,1,1,10,1,No Car,Rock,Si,,Si
 74,Ingeniería Industrial,7:30:00,18:30:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
@@ -106,7 +106,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 120,Ingeniería Industrial,7:30:00,11:00:00,Mujer,No,Medio,2,3,2,2,No Car,No preferencia,Si,,Si
 121,Ingeniería Civil,9:00:00,14:00:00,Mujer,No,Extrovertido,1,1,2,8,No Car,No preferencia,Si,,Si
 122,Ingeniería Ambiental,9:10:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Otro",Si,Si,
-123,Análisis de Sistemas,18:00:00,21:45:00,Hombre,No,Medio,1,1,3,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
+123,Análisis de Sistema,18:00:00,21:45:00,Hombre,No,Medio,1,1,3,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
 124,Ingeniería Ambiental,9:00:00,16:00:00,Mujer,Si,Medio,1,6,1,1,No Car,"Pop, Techno, Electrónica, Reggae, Reggaeton",Si,,Si
 125,Ciencias Contables,18:30:00,21:30:00,Mujer,No,Medio,10,5,5,8,Car,No preferencia,Si,Si,
 126,Economía,18:30:00,22:00:00,Hombre,Si,Medio,1,8,2,1,Car,No preferencia,Si,Si,
@@ -126,7 +126,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 144,Ingeniería Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,4,3,1,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
 145,Arquitectura,9:00:00,18:00:00,Mujer,No,Extrovertido,8,5,1,4,Car,No preferencia,Si,Si,
 146,Ingeniería Civil,9:00:00,17:00:00,Hombre,Si,Medio,1,3,1,1,No Car,No preferencia,Si,,Si
-147,Análisis de Sistemas,18:00:00,21:30:00,Hombre,No,Medio,1,3,1,1,No Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Trap, Otro",Si,,Si
+147,Análisis de Sistema,18:00:00,21:30:00,Hombre,No,Medio,1,3,1,1,No Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Trap, Otro",Si,,Si
 148,Ingeniería Civil,10:00:00,18:00:00,Mujer,No,Medio,10,5,4,5,Car,"No preferencia, Otro",Si,Si,
 149,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Medio,1,4,1,1,No Car,No preferencia,Si,,Si
 150,Ingeniería Industrial,7:30:00,15:00:00,Hombre,No,Extrovertido,6,9,1,1,Car,No preferencia,Si,Si,
@@ -134,11 +134,11 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 153,Ingeniería Civil,7:30:00,19:00:00,Mujer,No,Medio,10,6,5,4,Car,No preferencia,No,No,
 155,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,10,2,2,2,Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggaeton",Si,Si,
 156,Ingeniería Civil,8:00:00,17:00:00,Hombre,No,Extrovertido,10,6,1,1,No Car,No preferencia,Si,,Si
-157,Análisis de Sistemas,18:15:00,22:00:00,Hombre,No,Medio,8,5,1,1,Car,No preferencia,Si,Si,
+157,Análisis de Sistema,18:15:00,22:00:00,Hombre,No,Medio,8,5,1,1,Car,No preferencia,Si,Si,
 158,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,5,1,1,6,No Car,No preferencia,Si,,Si
 159,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
 160,Ingeniería Civil,13:00:00,17:45:00,Hombre,No,Medio,8,4,1,1,Car,No preferencia,Si,Si,
-161,Diseño Gráfico,17:40:00,22:00:00,Hombre,Si,Extrovertido,2,6,6,6,Car,"Pop, Techno, Electrónica, Rap/Hip-Hop, Reggaeton, Trap",No,No,
+161,Diseño Gráfico,17:30:00,22:00:00,Hombre,Si,Extrovertido,2,6,6,6,Car,"Pop, Techno, Electrónica, Rap/Hip-Hop, Reggaeton, Trap",No,No,
 162,Ingeniería Ambiental,10:45:00,18:00:00,Mujer,No,Medio,10,5,6,9,Car,"Pop, Rock, Reggae, Cumbia, Reggaeton, Trap, Otro",Si,Si,
 163,Arquitectura,15:00:00,19:00:00,Mujer,No,Extrovertido,5,7,1,1,No Car,"Pop, Techno, Electrónica, Rock",Si,,Si
 164,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,1,5,3,4,Car,"Pop, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
@@ -190,7 +190,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 224,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
 225,Medicina,7:30:00,15:00:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, Techno, Electrónica, Rock, Reggae",Si,Si,
 227,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-228,Análisis de Sistemas,17:50:00,22:00:00,Mujer,No,Introvertido,1,1,1,1,No Car,Pop,Si,,Si
+228,Análisis de Sistema,17:50:00,22:00:00,Mujer,No,Introvertido,1,1,1,1,No Car,Pop,Si,,Si
 229,Fonoaudiología,7:30:00,11:30:00,Mujer,No,Medio,10,10,1,1,Car,No preferencia,No,No,
 231,Administración de Empresas,18:00:00,21:30:00,Hombre,No,Medio,5,7,3,1,No Car,No preferencia,Si,,Si
 232,Ciencias Contables,19:00:00,22:10:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
@@ -222,7 +222,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 262,Fonoaudiología,7:30:00,11:30:00,Mujer,No,Medio,3,4,1,1,Car,No preferencia,Si,Si,
 263,Ingeniería Civil,9:00:00,16:00:00,Hombre,Si,Medio,1,5,10,1,Car,No preferencia,Si,Si,
 264,Ingeniería Industrial,9:00:00,13:00:00,Hombre,Si,Medio,1,1,10,1,Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop",Si,Si,
-265,Análisis de Sistemas,18:15:00,22:00:00,Hombre,No,Medio,1,5,1,1,No Car,"No preferencia, Pop, Rock",Si,,Si
+265,Análisis de Sistema,18:15:00,22:00:00,Hombre,No,Medio,1,5,1,1,No Car,"No preferencia, Pop, Rock",Si,,Si
 268,Arquitectura,8:00:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"Pop, Electrónica, Reggaeton, Trap, Funk brasileño, Otro",Si,,Si
 269,Economía,18:30:00,21:00:00,Hombre,No,Extrovertido,4,1,1,1,No Car,"Rock, Rap/Hip-Hop, Reggae, Trap",Si,,Si
 270,Ingeniería Civil,7:30:00,17:00:00,Mujer,No,Medio,3,1,1,5,Car,No preferencia,Si,Si,
@@ -277,11 +277,11 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 331,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,Techno,Si,,Si
 334,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,10,10,10,10,No Car,No preferencia,Si,,Si
 336,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
-337,Análisis de Sistemas,18:00:00,22:10:00,Hombre,No,Medio,1,1,10,1,Car,"Pop, Rock, Metal",No,No,
+337,Análisis de Sistema,18:00:00,22:10:00,Hombre,No,Medio,1,1,10,1,Car,"Pop, Rock, Metal",No,No,
 340,Ingeniería Civil,13:00:00,18:00:00,Mujer,Si,Medio,1,8,10,1,Car,Rock,Si,Si,
 341,Fonoaudiología,7:30:00,12:15:00,Mujer,No,Extrovertido,10,10,10,10,No Car,No preferencia,Si,,Si
 342,Administración de Empresas,18:00:00,22:00:00,Hombre,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
-343,Análisis de Sistemas,18:15:00,22:15:00,Hombre,Si,Medio,1,1,8,1,Car,Techno,Si,Si,
+343,Análisis de Sistema,18:15:00,22:15:00,Hombre,Si,Medio,1,1,8,1,Car,Techno,Si,Si,
 344,Medicina,8:00:00,12:00:00,Mujer,No,Medio,5,5,5,5,Car,No preferencia,No,No,
 346,Ingeniería Civil,13:00:00,22:00:00,Mujer,No,Medio,9,5,5,5,Car,No preferencia,No,No,
 347,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
@@ -327,10 +327,10 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 401,Fonoaudiología,7:30:00,13:30:00,Mujer,No,Medio,5,4,1,1,No Car,No preferencia,Si,,Si
 403,Ciencias Contables,19:00:00,22:00:00,Mujer,Si,Medio,3,4,4,8,Car,No preferencia,Si,Si,
 404,Ingeniería Civil,9:00:00,17:00:00,Hombre,Si,Extrovertido,1,7,1,1,Car,No preferencia,Si,Si,
-405,Análisis de Sistemas,17:30:00,22:00:00,Mujer,No,Medio,9,4,3,3,No Car,"Pop, Rock",No,,No
+405,Análisis de Sistema,17:30:00,22:00:00,Mujer,No,Medio,9,4,3,3,No Car,"Pop, Rock",No,,No
 406,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Medio,7,7,5,5,Car,"Reggaeton, Trap",Si,Si,
 408,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,6,2,1,3,Car,Otro,Si,Si,
-409,Análisis de Sistemas,18:45:00,21:30:00,Hombre,No,Medio,10,5,7,5,Car,No preferencia,Si,Si,
+409,Análisis de Sistema,18:45:00,21:30:00,Hombre,No,Medio,10,5,7,5,Car,No preferencia,Si,Si,
 410,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,3,3,3,2,Car,No preferencia,No,No,
 411,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,Reggaeton,Si,,Si
 412,Ingeniería Civil,9:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
@@ -427,7 +427,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 538,Ciencias Contables,19:30:00,21:40:00,Mujer,No,Medio,6,1,3,1,No Car,"Pop, Rock, Reggae, Otro",Si,,Si
 539,Ingeniería Informática,14:30:00,17:00:00,Mujer,No,Extrovertido,10,5,10,1,Car,"Rock, Metal, Prefiero ir en silencio",Si,Si,
 540,Administración de Empresas,18:50:00,22:00:00,Mujer,No,Introvertido,5,4,1,10,Car,No preferencia,Si,Si,
-541,Análisis de Sistemas,19:00:00,21:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
+541,Análisis de Sistema,19:00:00,21:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
 543,Economía,18:00:00,22:00:00,Hombre,Si,Medio,3,4,7,1,Car,"Techno, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
 544,Fonoaudiología,7:30:00,18:00:00,Mujer,No,Medio,6,10,7,1,Car,"Pop, Electrónica, Reggaeton, Trap, Funk brasileño",Si,Si,
 545,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Medio,9,3,3,3,Car,No preferencia,Si,Si,
@@ -531,7 +531,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 669,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,8,5,4,2,Car,"No preferencia, Pop, Techno, Electrónica, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño, Prefiero ir en silencio",Si,Si,
 670,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
 671,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,6,8,6,No Car,"No preferencia, Pop, Reggae, Cumbia, Reggaeton, Otro",Si,,Si
-673,Análisis de Sistemas,18:20:00,22:00:00,Mujer,No,Medio,1,2,1,1,No Car,Prefiero ir en silencio,Si,,Si
+673,Análisis de Sistema,18:20:00,22:00:00,Mujer,No,Medio,1,2,1,1,No Car,Prefiero ir en silencio,Si,,Si
 674,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,4,1,3,Car,No preferencia,Si,Si,
 676,Arquitectura,13:00:00,14:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,No preferencia,Si,,Si
 677,Economía,18:30:00,21:00:00,Mujer,No,Extrovertido,3,3,3,1,No Car,"No preferencia, Pop, Electrónica, Reggaeton, Funk brasileño",Si,,Si
@@ -581,7 +581,7 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 733,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,2,1,7,No Car,"Pop, Otro",Si,,Si
 734,Ingeniería Informática,9:10:00,18:30:00,Hombre,No,Medio,3,3,1,1,Car,"Pop, Otro",No,No,
 736,Medicina,7:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, Electrónica, Reggaeton",Si,,Si
-738,Análisis de Sistemas,18:00:00,21:30:00,Hombre,No,Extrovertido,1,7,5,1,No Car,No preferencia,Si,,Si
+738,Análisis de Sistema,18:00:00,21:30:00,Hombre,No,Extrovertido,1,7,5,1,No Car,No preferencia,Si,,Si
 739,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,6,5,3,No Car,Prefiero ir en silencio,No,,No
 740,Marketing,19:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
 741,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,5,1,Car,No preferencia,Si,Si,
@@ -608,9 +608,9 @@ UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IM
 770,Ingeniería Informática,8:00:00,18:00:00,Mujer,No,Medio,7,4,4,1,Car,"Pop, Otro",Si,Si,
 771,Medicina,7:30:00,16:30:00,Mujer,No,Medio,1,8,1,1,Car,No preferencia,Si,Si,
 773,Ciencias Contables,18:15:00,22:00:00,Mujer,No,Medio,7,5,5,1,Car,No preferencia,Si,Si,
-775,Análisis de Sistemas,18:20:00,22:00:00,Hombre,No,Medio,7,5,2,1,No Car,Rock,Si,,Si
+775,Análisis de Sistema,18:20:00,22:00:00,Hombre,No,Medio,7,5,2,1,No Car,Rock,Si,,Si
 776,Ingeniería Electrónica,8:15:00,13:00:00,Hombre,No,Introvertido,8,1,10,1,No Car,"Rock, Metal",Si,,Si
-777,Análisis de Sistemas,18:15:00,21:50:00,Mujer,No,Medio,3,1,1,1,Car,No preferencia,Si,Si,
+777,Análisis de Sistema,18:15:00,21:50:00,Mujer,No,Medio,3,1,1,1,Car,No preferencia,Si,Si,
 779,Medicina,8:00:00,12:00:00,Mujer,No,Medio,1,5,4,1,No Car,Reggaeton,Si,,Si
 780,Ingeniería Civil,7:30:00,18:00:00,Hombre,Si,Medio,1,1,1,1,Car,"No preferencia, Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño, Otro, Prefiero ir en silencio",Si,Si,
 781,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,3,1,1,1,No Car,No preferencia,Si,,Si

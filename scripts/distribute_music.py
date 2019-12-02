@@ -3,7 +3,7 @@ import csv
 from scripts import settings
 from scripts import helper
 
-def distribute_eloquence():
+def distribute_music_taste():
 
     print('=========================DISTRIBUTING MUSIC TASTE=========================')
 
@@ -39,4 +39,4 @@ def distribute_eloquence():
 
 
 if __name__ == "__main__":
-    distribute_eloquence()
+    distribute_music_taste()
