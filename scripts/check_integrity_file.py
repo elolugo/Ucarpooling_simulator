@@ -52,7 +52,7 @@ def check_sapientia_file():
 
     file_integrated = True
 
-    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8') as csv_input_userdata:
+    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8', errors='ignore') as csv_input_userdata:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=';')
 
