@@ -13,7 +13,7 @@ def get_alumni_sapientia(row):
         settings.FIELDNAME_UUID: row['UUID'],
         'SEXO': row['SEXO'],
         'CARRERA': row['CARRERA'],
-        'DIRECCION': row['DIRECCION'],
+        # 'DIRECCION': row['DIRECCION'],
         settings.FIELDNAME_LATITUDE: float(row['LATITUD']),
         settings.FIELDNAME_LONGITUDE: float(row['LONGITUD']),
     }
