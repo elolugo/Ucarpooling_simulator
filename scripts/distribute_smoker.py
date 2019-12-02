@@ -5,6 +5,8 @@ from scripts import helper
 
 def distribute_smoker():
 
+    print('=========================DISTRIBUTING SMOKERS=========================')
+
     """Count how many cars and the percentage of the total"""
     with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding='ascii', errors='ignore') as csv_input_formdata:
 

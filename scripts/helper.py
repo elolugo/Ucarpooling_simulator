@@ -64,7 +64,7 @@ def count_distribution(column_to_count, row_reader):
             distribution[record_value] = 1
 
     # Printing the results
-    print("==============================================================================")
+    print("-------------------------------------------------------------------------")
     print(f'total records in form data: {total_records}')
     for key in distribution:
 
@@ -75,7 +75,7 @@ def count_distribution(column_to_count, row_reader):
         }
 
         print(
-            f'Total of {key} in the form is: {distribution[key]["count"]}  ------ percentage: {distribution[key]["percentage"]}%')
+            f'Total of {key} in the form is: {distribution[key]["count"]}  ------ percentage: {(distribution[key]["percentage"])*100}%')
 
     return total_records, distribution
 
@@ -132,8 +132,8 @@ def assign_distribution_to_alumni_data(row_reader, csv_writer, distribution, col
                 break
 
     """Printing all the results"""
-    print("==============================================================================")
+    print("-------------------------------------------------------------------------")
     print(f'Total records assigned to the sapientia data: {total_records}')
 
     for means_tranport in distribution:
-        print(f'{means_tranport} assigned: {distribution[means_tranport]["total_distributed"]} accounting for: {distribution[means_tranport]["total_distributed"] / total_records}%')
+        print(f'{means_tranport} assigned: {distribution[means_tranport]["total_distributed"]} accounting for: {(distribution[means_tranport]["total_distributed"] / total_records)*100}%')

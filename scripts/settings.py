@@ -15,6 +15,7 @@ SAPIENTIA_DELIMITER = ';'
 
 CSV_OUTPUT_TRANSPORT_FILE_PATH = os.path.join(PROJECT_DIRECTORY, OUTPUT_DIRECTORY, 'Alumnos_profiles_car_ownership.csv')
 CSV_OUTPUT_SMOKER_FILE_PATH = os.path.join(PROJECT_DIRECTORY, OUTPUT_DIRECTORY, 'Alumnos_profiles_smoker.csv')
+CSV_OUTPUT_ELOQUENCE_FILE_PATH = os.path.join(PROJECT_DIRECTORY, OUTPUT_DIRECTORY, 'Alumnos_profiles_eloquence.csv')
 OUTPUT_FILES_DELIMITER = ';'
 
 """Field names"""
