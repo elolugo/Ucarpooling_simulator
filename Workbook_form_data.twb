@@ -292,7 +292,7 @@
           <groupfilter function='level-members' level='[none:UUID_FORM:nk]' />
         </groupfilter>
       </group>
-      <layout dim-ordering='alphabetic' dim-percentage='0.593199' measure-ordering='alphabetic' measure-percentage='0.406801' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.594458' measure-ordering='alphabetic' measure-percentage='0.405542' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;Paraguay&quot;' />
       </semantic-values>
@@ -438,6 +438,9 @@
               <calculation class='tableau' formula='1' />
             </column>
             <column-instance column='[MUSIC]' derivation='None' name='[none:MUSIC:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of Records]' derivation='Sum' name='[pcto:sum:Number of Records:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
             <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <shelf-sorts>
@@ -452,6 +455,9 @@
               <breakdown value='auto' />
             </view>
             <mark class='Automatic' />
+            <encodings>
+              <lod column='[federated.1q25uky1iz3slj19wra8m06umjrw].[pcto:sum:Number of Records:qk]' />
+            </encodings>
           </pane>
         </panes>
         <rows>[federated.1q25uky1iz3slj19wra8m06umjrw].[sum:Number of Records:qk]</rows>
@@ -562,7 +568,7 @@
       </viewpoint>
       <simple-id uuid='{E0312477-E724-4F44-AC5F-65579BC6AA0C}' />
     </window>
-    <window class='worksheet' name='Music distribution'>
+    <window class='worksheet' maximized='true' name='Music distribution'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -623,7 +629,7 @@
       </viewpoint>
       <simple-id uuid='{AE45E688-1135-4786-A380-0DC95E8F33C5}' />
     </window>
-    <window class='worksheet' maximized='true' name='Eloquence distribution'>
+    <window class='worksheet' name='Eloquence distribution'>
       <cards>
         <edge name='left'>
           <strip size='160'>

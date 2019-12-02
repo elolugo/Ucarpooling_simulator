@@ -114,18 +114,18 @@ def assign_distribution_to_alumni_data(row_reader, csv_writer, distribution, col
         # Generating random value from 0 to 1
         random_value = random.random()
 
-        for means_tranport in distribution:
+        for option in distribution:
 
-            if distribution[means_tranport]['min'] < random_value <= distribution[means_tranport]['max']:
+            if distribution[option]['min'] < random_value <= distribution[option]['max']:
 
-                alumni[column] = means_tranport
+                alumni[column] = option
 
                 csv_writer.writerow(alumni)
 
-                if 'total_distributed' in distribution[means_tranport]:
-                    distribution[means_tranport]['total_distributed'] += 1
+                if 'total_distributed' in distribution[option]:
+                    distribution[option]['total_distributed'] += 1
                 else:
-                    distribution[means_tranport]['total_distributed'] = 1
+                    distribution[option]['total_distributed'] = 1
 
                 total_records += 1
 
@@ -135,5 +135,5 @@ def assign_distribution_to_alumni_data(row_reader, csv_writer, distribution, col
     print("-------------------------------------------------------------------------")
     print(f'Total records assigned to the sapientia data: {total_records}')
 
-    for means_tranport in distribution:
-        print(f'{means_tranport} assigned: {distribution[means_tranport]["total_distributed"]} accounting for: {(distribution[means_tranport]["total_distributed"] / total_records)*100}%')
+    for option in distribution:
+        print(f'{option} assigned: {distribution[option]["total_distributed"]} accounting for: {(distribution[option]["total_distributed"] / total_records)*100}%')
