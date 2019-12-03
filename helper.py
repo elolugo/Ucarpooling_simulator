@@ -7,6 +7,8 @@ import settings
 import random
 
 
+
+
 def get_alumni_sapientia(row):
 
     alumni = {

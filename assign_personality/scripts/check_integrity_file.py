@@ -54,7 +54,7 @@ def check_sapientia_file():
 
     with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding=settings.SAPIENTIA_FILE_ENCODING, errors='ignore') as csv_input_userdata:
 
-        row_reader = csv.DictReader(csv_input_userdata, delimiter=';')
+        row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.SAPIENTIA_DELIMITER)
 
         for row in row_reader:
 
@@ -96,7 +96,7 @@ def check_form_file():
 
     with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding=settings.FORM_FILE_ENCODING) as csv_input_userdata:
 
-        row_reader = csv.DictReader(csv_input_userdata, delimiter=',')
+        row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.FORM_DELIMITER)
 
         for row in row_reader:
 

@@ -20,14 +20,14 @@ def distribute_smoker():
 
     """Distribute the car and not car ownership"""
     with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding=settings.SAPIENTIA_FILE_ENCODING) as csv_input_userdata, \
-         open(settings.CSV_OUTPUT_SMOKER_FILE_PATH, 'w', newline='', encoding=settings.OUTPUT_FILES_ENCODING) as csv_output_file:
+         open(settings.CSV_ASSIGNED_SMOKER_FILE_PATH, 'w', newline='', encoding=settings.ASSIGNED_FILES_ENCODING) as csv_output_file:
 
-        row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.OUTPUT_FILES_DELIMITER)
+        row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.ASSIGNED_FILES_DELIMITER)
 
         """Writing the headers of the output file"""
         output_csv_fieldnames = row_reader.fieldnames
         output_csv_fieldnames.append(settings.FIELDNAME_SMOKER)
-        output_csv_writer = csv.DictWriter(csv_output_file, fieldnames=output_csv_fieldnames, delimiter=';')
+        output_csv_writer = csv.DictWriter(csv_output_file, fieldnames=output_csv_fieldnames, delimiter=settings.ASSIGNED_FILES_DELIMITER)
         output_csv_writer.writeheader()
 
         """Actually apply the calculated distribution to the data"""
