@@ -1,8 +1,8 @@
 import csv
 import random
 
-from scripts import settings
-from scripts import helper
+import settings
+import helper
 
 
 def distribute_itinerary():
@@ -16,7 +16,7 @@ def distribute_itinerary():
     careers = {}
 
     """Count the different careers"""
-    with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding='utf-8',
+    with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding=settings.FORM_FILE_ENCODING,
               errors='ignore') as csv_input_formdata:
 
         row_reader = csv.DictReader(csv_input_formdata, delimiter=settings.FORM_DELIMITER)
@@ -40,7 +40,7 @@ def distribute_itinerary():
 
     for career in careers:  # For each career
 
-        with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding='utf-8',
+        with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding=settings.FORM_FILE_ENCODING,
                   errors='ignore') as csv_input_formdata:
 
             row_reader = csv.DictReader(csv_input_formdata, delimiter=settings.FORM_DELIMITER)
@@ -96,8 +96,15 @@ def distribute_itinerary():
 
     """Applying the distribution to the sapientia data"""
 
-    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8-sig', errors='ignore') as csv_input_userdata, \
-            open(settings.CSV_OUTPUT_ITINERARY_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
+    with open(
+            settings.CSV_USERDATA_INPUT_FILE_PATH,
+            newline='',
+            encoding=settings.SAPIENTIA_FILE_ENCODING,
+            errors='ignore') as csv_input_userdata, \
+            open(
+                settings.CSV_OUTPUT_ITINERARY_FILE_PATH,
+                'w', newline='',
+                encoding=settings.OUTPUT_FILES_ENCODING) as csv_output_file:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.OUTPUT_FILES_DELIMITER)
 

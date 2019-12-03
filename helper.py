@@ -3,7 +3,7 @@ Helper functions that are used throughout all files on the project
 """
 
 import datetime
-from scripts import settings
+import settings
 import random
 
 

@@ -1,13 +1,14 @@
 import csv
 
-from scripts import settings
-from scripts import helper
+import settings
+import helper
+
 
 def distribute_mean_transportation():
     print('=========================DISTRIBUTING CARS=========================')
 
     """Count how many cars and the percentage of the total"""
-    with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding='ascii', errors='ignore') as csv_input_formdata:
+    with open(settings.CSV_FORMDATA_INPUT_FILE_PATH, newline='', encoding=settings.FORM_FILE_ENCODING, errors='ignore') as csv_input_formdata:
 
         row_reader = csv.DictReader(csv_input_formdata, delimiter=settings.FORM_DELIMITER)
 
@@ -17,8 +18,8 @@ def distribute_mean_transportation():
     helper.calculate_range_distribution(car_distribution)
 
     """Distribute the car and not car ownership"""
-    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding='utf-8',  errors='ignore') as csv_input_userdata, \
-         open(settings.CSV_OUTPUT_TRANSPORT_FILE_PATH, 'w', newline='', encoding='utf-8') as csv_output_file:
+    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='', encoding=settings.SAPIENTIA_FILE_ENCODING, errors='ignore') as csv_input_userdata, \
+         open(settings.CSV_OUTPUT_TRANSPORT_FILE_PATH, 'w', newline='', encoding=settings.OUTPUT_FILES_ENCODING) as csv_output_file:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.OUTPUT_FILES_DELIMITER)
 
