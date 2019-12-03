@@ -137,5 +137,12 @@ def assign_distribution_to_alumni_data(row_reader, csv_writer, distribution, col
     print("-------------------------------------------------------------------------")
     print(f'Total records assigned to the sapientia data: {total_records}')
 
-    for option in distribution:
-        print(f'{option} assigned: {distribution[option]["total_distributed"]} accounting for: {(distribution[option]["total_distributed"] / total_records)*100}%')
+    try:
+
+        for option in distribution:
+            print(f'{option} assigned: {distribution[option]["total_distributed"]} accounting for: {(distribution[option]["total_distributed"] / total_records)*100}%')
+
+    except Exception:
+
+        print(option + " was not assigned to anyone")
+

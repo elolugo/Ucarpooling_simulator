@@ -3,6 +3,7 @@ import csv
 import settings
 import helper
 
+from termcolor import colored
 
 def distribute_eloquence():
 
@@ -39,5 +40,45 @@ def distribute_eloquence():
         )
 
 
+def populate_eloquence_database():
+
+    import sqlite3
+    from sqlite3 import Error
+
+    print(colored("Populating Database " + settings.DATABASE_TABLE_ELOQUENCE, "yellow"))
+
+    try:
+
+        con = sqlite3.connect(settings.DATABASE)
+
+        cursorObj = con.cursor()
+
+        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_ELOQUENCE)
+        cursorObj.execute(
+            "CREATE TABLE " + settings.DATABASE_TABLE_ELOQUENCE + "(uuid integer PRIMARY KEY, eloquence_level text)")
+
+        con.commit()
+
+    except Error:
+
+        print(Error)
+
+
+    with open(settings.CSV_ASSIGNED_ELOQUENCE_FILE_PATH, 'r', newline='', encoding=settings.ASSIGNED_FILES_ENCODING) as csv_output_file:
+
+        row_reader = csv.DictReader(csv_output_file, delimiter=settings.ASSIGNED_FILES_DELIMITER)
+
+        for alumni in row_reader:
+            query_string = "INSERT INTO " + settings.DATABASE_TABLE_ELOQUENCE + \
+                           " VALUES (" + alumni[settings.FIELDNAME_UUID] + ", '" \
+                           + alumni[settings.FIELDNAME_ELOQUENCE] + "')"
+
+            cursorObj.execute(query_string)
+
+    con.commit()
+
+    print(colored("Database " + settings.DATABASE_TABLE_ELOQUENCE + " populated", "green"))
+
 if __name__ == "__main__":
     distribute_eloquence()
+    populate_eloquence_database()

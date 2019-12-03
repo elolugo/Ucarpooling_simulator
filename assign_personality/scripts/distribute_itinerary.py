@@ -4,6 +4,7 @@ import random
 import settings
 import helper
 
+from termcolor import colored
 
 def distribute_itinerary():
     """
@@ -96,15 +97,10 @@ def distribute_itinerary():
 
     """Applying the distribution to the sapientia data"""
 
-    with open(
-            settings.CSV_USERDATA_INPUT_FILE_PATH,
-            newline='',
-            encoding=settings.SAPIENTIA_FILE_ENCODING,
-            errors='ignore') as csv_input_userdata, \
-            open(
-                settings.CSV_ASSIGNED_ITINERARY_FILE_PATH,
-                'w', newline='',
-                encoding=settings.ASSIGNED_FILES_ENCODING) as csv_output_file:
+    with open(settings.CSV_USERDATA_INPUT_FILE_PATH, newline='',
+              encoding=settings.SAPIENTIA_FILE_ENCODING) as csv_input_userdata, \
+        open(settings.CSV_ASSIGNED_ITINERARY_FILE_PATH, 'w', newline='',
+             encoding=settings.ASSIGNED_FILES_ENCODING) as csv_output_file:
 
         row_reader = csv.DictReader(csv_input_userdata, delimiter=settings.ASSIGNED_FILES_DELIMITER)
 
@@ -112,7 +108,8 @@ def distribute_itinerary():
         output_csv_fieldnames = row_reader.fieldnames
         output_csv_fieldnames.append(settings.FIELDNAME_TOA)
         output_csv_fieldnames.append(settings.FIELDNAME_TOD)
-        output_csv_writer = csv.DictWriter(csv_output_file, fieldnames=output_csv_fieldnames, delimiter=settings.ASSIGNED_FILES_DELIMITER)
+        output_csv_writer = csv.DictWriter(csv_output_file, fieldnames=output_csv_fieldnames,
+                                           delimiter=settings.ASSIGNED_FILES_DELIMITER)
         output_csv_writer.writeheader()
 
         for row in row_reader:  # For each row in the original CSV
@@ -130,10 +127,6 @@ def distribute_itinerary():
 
                 if career_itineraries[option]['min'] < random_value <= career_itineraries[option]['max']:
 
-                    alumni[settings.FIELDNAME_TOA] = option[0].time().strftime('%H:%M:%S')
-                    alumni[settings.FIELDNAME_TOD] = option[1].time().strftime('%H:%M:%S')
-
-                    output_csv_writer.writerow(alumni)
                     break
 
             # If it didnt enter in the if clause
@@ -145,5 +138,51 @@ def distribute_itinerary():
     print("=================================================")
     print("Finished distributing itineraries")
 
+
+def populate_itinerary_database():
+
+    import sqlite3
+    from sqlite3 import Error
+
+    print(colored("Populating Database " + settings.DATABASE_TABLE_ITINERARY, "yellow"))
+
+    try:
+
+        con = sqlite3.connect(settings.DATABASE)
+
+        cursorObj = con.cursor()
+
+        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_ITINERARY)
+        cursorObj.execute(
+            "CREATE TABLE " + settings.DATABASE_TABLE_ITINERARY + "(uuid integer PRIMARY KEY, "
+                                                                  "latitude real, "
+                                                                  "longitude real, "
+                                                                  "time_of_arrival text, "
+                                                                  "time_of_departure text)")
+
+        con.commit()
+
+    except Error:
+
+        print(Error)
+
+
+    with open(settings.CSV_ASSIGNED_ITINERARY_FILE_PATH, 'r', newline='', encoding=settings.ASSIGNED_FILES_ENCODING) as csv_output_file:
+
+        row_reader = csv.DictReader(csv_output_file, delimiter=settings.ASSIGNED_FILES_DELIMITER)
+
+        for alumni in row_reader:
+            query_string = "INSERT INTO " + settings.DATABASE_TABLE_ITINERARY + \
+                           " VALUES (" + alumni[settings.FIELDNAME_UUID] + ", " + alumni[settings.FIELDNAME_LATITUDE] + ", " \
+                           + alumni[settings.FIELDNAME_LONGITUDE] + ", '" + alumni[settings.FIELDNAME_TOA] + "', '" + alumni[settings.FIELDNAME_TOD] + "')"
+
+            cursorObj.execute(query_string)
+
+    con.commit()
+
+    print(colored("Database " + settings.DATABASE_TABLE_ITINERARY + " populated", "green"))
+
 if __name__ == "__main__":
     distribute_itinerary()
+
+    populate_itinerary_database()

@@ -83,3 +83,11 @@ DATABASE = os.path.join(
     PROJECT_DIRECTORY,
     DATABASE_NAME
 )
+
+"""Table names for database"""
+DATABASE_TABLE_ALUMNI = 'alumni'
+DATABASE_TABLE_CARS = 'alumni_cars'
+DATABASE_TABLE_ELOQUENCE = 'alumni_eloquence'
+DATABASE_TABLE_SMOKER = 'alumni_smoker'
+DATABASE_TABLE_MUSIC = 'alumni_music'
+DATABASE_TABLE_ITINERARY = 'alumni_itinerary'
