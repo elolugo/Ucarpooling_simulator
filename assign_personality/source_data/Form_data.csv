@@ -1,617 +1,617 @@
 UUID_FORM,CAREER,TIME_OF_ARRIVAL,TIME_OF_DEPARTURE,SEX,SMOKER,ELOQUENCE_LEVEL,IMPORTANCE_SMOKER,IMPORTANCE_ELOQUENCE,IMPORTANCE_MUSIC,IMPORTANCE_SEX,TRANSPORT,MUSIC,CARPOOL,CARPOOL_CAR,CARPOOL_NO_CAR
-1,Ingeniería Informática,9:30:00,20:00:00,Hombre,No,Medio,3,3,1,1,No Car,Prefiero ir en silencio,Si,,Si
-2,Ingeniería Informática,8:00:00,19:00:00,Hombre,Si,Introvertido,1,6,8,1,Car,No preferencia,Si,Si,
-4,Ingeniería Civil,13:00:00,19:00:00,Hombre,Si,Medio,9,5,7,1,No Car,Metal,Si,,Si
-5,Administración de Empresas,18:30:00,22:00:00,Hombre,Si,Medio,1,4,1,1,Car,No preferencia,Si,Si,
-6,Ingeniería Informática,9:00:00,22:00:00,Hombre,No,Introvertido,6,5,5,5,No Car,Prefiero ir en silencio,Si,,Si
-7,Ingeniería Informática,9:00:00,12:30:00,Hombre,No,Medio,8,5,7,1,Car,"Rock, Rap/Hip-Hop",Si,Si,
-8,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,No,No,
-9,Ingeniería Informática,13:00:00,18:00:00,Hombre,No,Medio,10,5,1,1,Car,Rock,Si,Si,
-10,Ingeniería Informática,9:00:00,18:00:00,Hombre,No,Medio,1,3,1,1,Car,"Rock, Rap/Hip-Hop, Reggae, Trap, Otro",Si,Si,
-11,Ingeniería Informática,13:00:00,18:00:00,Hombre,No,Extrovertido,1,10,6,1,Car,No preferencia,Si,Si,
-12,Medicina,7:30:00,13:00:00,Mujer,No,Medio,1,1,5,5,No Car,No preferencia,Si,,Si
-13,Ingeniería Industrial,7:30:00,16:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,Pop,Si,,Si
-14,Arquitectura,8:00:00,12:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,No preferencia,Si,,Si
-15,Medicina,7:00:00,14:00:00,Mujer,No,Extrovertido,5,3,1,1,Car,No preferencia,Si,Si,
-16,Medicina,7:30:00,15:00:00,Mujer,Si,Medio,3,3,1,1,No Car,No preferencia,Si,,Si
-17,Medicina,7:30:00,15:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-18,Ingeniería Informática,9:00:00,17:00:00,Hombre,No,Medio,4,4,5,1,No Car,"Pop, Electrónica, Rock, Otro",Si,,Si
-19,Medicina,7:30:00,16:00:00,Mujer,No,Extrovertido,1,5,5,1,No Car,No preferencia,Si,,Si
-20,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,7,3,5,Car,Otro,Si,Si,
-21,Medicina,7:30:00,13:00:00,Mujer,No,Medio,10,3,6,2,Car,"No preferencia, Pop, Reggae, Otro",Si,Si,
-22,Medicina,7:30:00,13:00:00,Mujer,No,Medio,10,4,4,1,Car,No preferencia,Si,Si,
-23,Ingeniería Informática,9:00:00,18:35:00,Hombre,No,Medio,10,1,1,1,No Car,"Pop, Rock",Si,,Si
-24,Ingeniería Informática,9:00:00,14:00:00,Hombre,No,Medio,1,2,1,1,Car,"Rock, Otro",Si,Si,
-25,Arquitectura,9:00:00,17:30:00,Mujer,No,Medio,1,1,8,1,Car,"Techno, Rock, Reggae, Otro",Si,Si,
-26,Ingeniería Electrónica,7:30:00,17:00:00,Hombre,No,Medio,8,5,5,1,Car,"Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Otro, Prefiero ir en silencio",Si,Si,
-27,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
-28,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,3,1,3,1,No Car,"Pop, Rock, Metal, Reggae, Otro",Si,,Si
-29,Análisis de Sistema,18:00:00,21:45:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, Electrónica, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
-30,Medicina,7:15:00,18:00:00,Mujer,No,Medio,5,2,5,3,No Car,Pop,Si,,Si
-31,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,10,6,7,1,Car,No preferencia,Si,Si,
-32,Medicina,8:00:00,16:45:00,Mujer,No,Extrovertido,7,5,4,1,Car,No preferencia,No,No,
-33,Medicina,7:30:00,17:30:00,Hombre,No,Medio,5,5,8,1,Car,"Pop, Electrónica, Rock, Reggaeton, Funk brasileño",Si,Si,
-34,Ingeniería Civil,9:00:00,18:00:00,Hombre,Si,Medio,2,6,4,1,No Car,No preferencia,Si,,Si
-35,Ingeniería Electrónica,9:10:00,12:10:00,Hombre,No,Medio,4,1,1,1,Car,"Electrónica, Rock, Rap/Hip-Hop, Reggaeton, Trap, Otro",Si,Si,
-36,Medicina,7:00:00,17:45:00,Mujer,No,Medio,8,6,1,1,Car,No preferencia,Si,Si,
-37,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,5,1,1,Car,"Pop, Rock, Cumbia, Reggaeton, Funk brasileño",Si,Si,
-38,Medicina,7:30:00,12:00:00,Mujer,No,Medio,9,10,10,1,No Car,"Pop, Reggaeton, Otro",Si,,Si
-39,Medicina,7:00:00,13:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
-40,Ingeniería Informática,7:30:00,15:30:00,Mujer,No,Medio,10,1,5,5,Car,Pop,Si,Si,
-41,Ingeniería Electrónica,13:45:00,19:00:00,Hombre,No,Medio,5,5,10,1,No Car,Rock,Si,,Si
-42,Medicina,7:30:00,12:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,No preferencia,Si,,Si
-43,Medicina,7:30:00,11:00:00,Hombre,Si,Medio,4,2,3,1,Car,No preferencia,Si,Si,
-44,Administración de Empresas,19:00:00,21:50:00,Mujer,No,Medio,10,1,5,3,Car,"Pop, Reggaeton",Si,Si,
-45,Medicina,7:30:00,17:30:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-46,Ingeniería Informática,8:30:00,17:30:00,Hombre,No,Extrovertido,10,8,2,2,No Car,Prefiero ir en silencio,Si,Si,
-47,Comercio Internacional,18:30:00,22:10:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, Rock, Metal, Reggae",Si,,Si
-48,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Extrovertido,7,1,1,1,Car,"No preferencia, Pop, Electrónica, Reggaeton, Trap",No,No,
-49,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,"Pop, Techno",Si,Si,
-50,Administración de Empresas,19:00:00,21:00:00,Mujer,No,Extrovertido,6,8,5,4,Car,"Pop, Rock, Otro",No,No,
-52,Ingeniería Informática,9:00:00,15:00:00,Hombre,No,Medio,7,4,1,1,Car,No preferencia,Si,Si,
-53,Ingeniería Industrial,13:20:00,17:45:00,Hombre,No,Medio,5,8,3,1,No Car,"No preferencia, Techno, Electrónica, Otro",Si,,Si
-54,Ciencias Contables,18:30:00,22:10:00,Mujer,No,Medio,1,1,1,1,Car,"Trap, Otro",Si,Si,
-55,Ingeniería Civil,7:15:00,11:00:00,Mujer,No,Medio,3,1,1,2,Car,"Pop, Otro",Si,Si,
-56,Ingeniería Civil,13:00:00,17:30:00,Mujer,No,Extrovertido,1,5,1,1,No Car,"Pop, Electrónica, Rock, Reggae, Cumbia, Reggaeton, Trap",Si,,Si
-57,Ingeniería Civil,7:30:00,14:00:00,Mujer,No,Extrovertido,10,6,6,1,Car,Reggaeton,Si,Si,
-58,Ingeniería Civil,13:00:00,17:30:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-59,Ingeniería Civil,10:50:00,19:30:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-60,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-61,Ingeniería Civil,12:00:00,17:00:00,Mujer,No,Medio,10,1,5,1,No Car,Rock,No,,No
-62,Medicina,9:00:00,15:00:00,Hombre,No,Medio,5,3,6,1,Car,Rock,Si,Si,
-63,Ingeniería Civil,9:00:00,19:00:00,Hombre,Si,Extrovertido,1,5,1,1,Car,No preferencia,No,No,
-64,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-65,Diseño Industrial,17:40:00,22:00:00,Mujer,No,Introvertido,6,5,10,9,Car,Pop,Si,Si,
-67,Arquitectura,9:00:00,17:00:00,Mujer,No,Medio,9,1,1,1,Car,No preferencia,Si,Si,
-68,Ingeniería Civil,13:00:00,19:00:00,Hombre,Si,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-69,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,6,6,2,5,Car,No preferencia,Si,Si,
-70,Análisis de Sistema,18:15:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-71,Administración de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
-72,Arquitectura,13:00:00,18:30:00,Mujer,No,Medio,1,1,10,1,No Car,Rock,Si,,Si
-74,Ingeniería Industrial,7:30:00,18:30:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
-75,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,4,5,2,5,Car,"No preferencia, Pop, Techno, Electrónica, Rap/Hip-Hop",Si,Si,
-76,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,8,1,1,1,No Car,No preferencia,Si,,Si
-77,Administración de Empresas,18:55:00,22:00:00,Hombre,No,Extrovertido,7,6,5,1,Car,"Rock, Cumbia, Reggaeton",Si,Si,
-78,Ciencias Contables,18:30:00,22:30:00,Mujer,No,Medio,3,1,1,2,No Car,No preferencia,Si,,Si
-79,Comercio Internacional,18:30:00,22:15:00,Mujer,No,Extrovertido,10,1,1,1,No Car,Reggaeton,Si,,Si
-80,Ingeniería Industrial,7:30:00,16:00:00,Mujer,No,Medio,1,5,3,8,Car,No preferencia,Si,Si,
-81,Ciencias Contables,18:20:00,22:00:00,Mujer,No,Medio,7,4,1,1,Car,No preferencia,Si,Si,
-82,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,3,4,7,1,Car,"Pop, Rock, Metal, Rap/Hip-Hop, Reggaeton",Si,Si,
-83,Fonoaudiología,8:00:00,12:00:00,Mujer,No,Medio,8,1,1,1,Car,"No preferencia, Pop",Si,Si,
-85,Ingeniería Electrónica,13:00:00,18:00:00,Mujer,No,Extrovertido,3,8,1,1,No Car,No preferencia,Si,,Si
-86,Ingeniería Civil,9:00:00,18:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-87,Ingeniería Informática,9:00:00,15:30:00,Hombre,No,Medio,8,3,6,3,Car,"Pop, Rock, Metal",Si,Si,
-88,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Introvertido,6,2,3,1,Car,"Techno, Cumbia, Reggaeton",Si,Si,
-89,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,3,1,Car,No preferencia,Si,Si,
-91,Medicina,7:00:00,14:00:00,Hombre,No,Extrovertido,10,10,5,1,Car,Rock,Si,Si,
-93,Ingeniería Civil,9:00:00,17:00:00,Hombre,No,Medio,3,1,1,1,Car,"Pop, Techno, Electrónica, Rock, Rap/Hip-Hop, Reggae, Cumbia, Trap, Otro",Si,Si,
-94,Ingeniería Civil,9:00:00,16:00:00,Hombre,Si,Extrovertido,1,8,9,1,Car,"Rock, Metal, Reggae, Otro",Si,Si,
-95,Ingeniería Industrial,13:00:00,20:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop",Si,,Si
-96,Ingeniería Electrónica,13:00:00,19:00:00,Hombre,No,Extrovertido,10,1,5,1,Car,"Pop, Rock, Metal",Si,Si,
-97,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Medio,10,3,5,1,Car,"Electrónica, Reggaeton",Si,Si,
-98,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,2,2,1,2,No Car,No preferencia,Si,,Si
-99,Economía,18:30:00,22:00:00,Hombre,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
-100,Marketing,19:00:00,21:30:00,Hombre,Si,Extrovertido,4,7,6,3,Car,"Pop, Techno, Electrónica, Cumbia, Reggaeton, Trap, Funk brasileño",Si,Si,
-103,Economía,18:30:00,22:30:00,Hombre,No,Medio,1,10,1,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap, Otro",Si,Si,
-104,Ingeniería Civil,15:00:00,18:30:00,Mujer,No,Extrovertido,7,5,6,9,No Car,"Techno, Rock, Metal",Si,,Si
-106,Arquitectura,19:11:00,20:11:00,Hombre,No,Medio,3,3,3,1,No Car,"Rock, Rap/Hip-Hop",Si,,Si
-110,Ingeniería Electrónica,9:00:00,17:00:00,Hombre,No,Extrovertido,1,5,4,3,No Car,No preferencia,Si,,Si
-112,Administración de Empresas,18:30:00,21:30:00,Mujer,No,Medio,10,4,1,6,No Car,No preferencia,Si,,Si
-113,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,"Pop, Reggaeton, Otro",Si,Si,
+1,Ingeniería Informática,9:30:00,20:00:00,Hombre,No,Medio,3,3,1,1,No Car,SILENCE,Si,,Si
+2,Ingeniería Informática,8:00:00,19:00:00,Hombre,Si,Introvertido,1,6,8,1,Car,NO_PREF,Si,Si,
+4,Ingeniería Civil,13:00:00,19:00:00,Hombre,Si,Medio,9,5,7,1,No Car,METAL,Si,,Si
+5,Administración de Empresas,18:30:00,22:00:00,Hombre,Si,Medio,1,4,1,1,Car,NO_PREF,Si,Si,
+6,Ingeniería Informática,9:00:00,22:00:00,Hombre,No,Introvertido,6,5,5,5,No Car,SILENCE,Si,,Si
+7,Ingeniería Informática,9:00:00,12:30:00,Hombre,No,Medio,8,5,7,1,Car,"ROCK, RAP",Si,Si,
+8,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,NO_PREF,No,No,
+9,Ingeniería Informática,13:00:00,18:00:00,Hombre,No,Medio,10,5,1,1,Car,ROCK,Si,Si,
+10,Ingeniería Informática,9:00:00,18:00:00,Hombre,No,Medio,1,3,1,1,Car,"ROCK, RAP, REGGAE, TRAP",Si,Si,
+11,Ingeniería Informática,13:00:00,18:00:00,Hombre,No,Extrovertido,1,10,6,1,Car,NO_PREF,Si,Si,
+12,Medicina,7:30:00,13:00:00,Mujer,No,Medio,1,1,5,5,No Car,NO_PREF,Si,,Si
+13,Ingeniería Industrial,7:30:00,16:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,POP,Si,,Si
+14,Arquitectura,8:00:00,12:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,NO_PREF,Si,,Si
+15,Medicina,7:00:00,14:00:00,Mujer,No,Extrovertido,5,3,1,1,Car,NO_PREF,Si,Si,
+16,Medicina,7:30:00,15:00:00,Mujer,Si,Medio,3,3,1,1,No Car,NO_PREF,Si,,Si
+17,Medicina,7:30:00,15:00:00,Hombre,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+18,Ingeniería Informática,9:00:00,17:00:00,Hombre,No,Medio,4,4,5,1,No Car,"POP, ELECTRONIC, ROCK",Si,,Si
+19,Medicina,7:30:00,16:00:00,Mujer,No,Extrovertido,1,5,5,1,No Car,NO_PREF,Si,,Si
+20,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,7,3,5,Car,NO_PREF,Si,Si,
+21,Medicina,7:30:00,13:00:00,Mujer,No,Medio,10,3,6,2,Car,"NO_PREF, POP, REGGAE",Si,Si,
+22,Medicina,7:30:00,13:00:00,Mujer,No,Medio,10,4,4,1,Car,NO_PREF,Si,Si,
+23,Ingeniería Informática,9:00:00,18:35:00,Hombre,No,Medio,10,1,1,1,No Car,"POP, ROCK",Si,,Si
+24,Ingeniería Informática,9:00:00,14:00:00,Hombre,No,Medio,1,2,1,1,Car,ROCK,Si,Si,
+25,Arquitectura,9:00:00,17:30:00,Mujer,No,Medio,1,1,8,1,Car,"TECHNO, ROCK, REGGAE",Si,Si,
+26,Ingeniería ELECTRONIC,7:30:00,17:00:00,Hombre,No,Medio,8,5,5,1,Car,"TECHNO, ELECTRONIC, ROCK, METAL, RAP, SILENCE",Si,Si,
+27,Medicina,7:30:00,17:00:00,Hombre,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+28,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,3,1,3,1,No Car,"POP, ROCK, METAL, REGGAE",Si,,Si
+29,Análisis de Sistema,18:00:00,21:45:00,Hombre,No,Medio,8,3,1,1,Car,"POP, ELECTRONIC, RAP, REGGAETON, TRAP",Si,Si,
+30,Medicina,7:15:00,18:00:00,Mujer,No,Medio,5,2,5,3,No Car,POP,Si,,Si
+31,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,10,6,7,1,Car,NO_PREF,Si,Si,
+32,Medicina,8:00:00,16:45:00,Mujer,No,Extrovertido,7,5,4,1,Car,NO_PREF,No,No,
+33,Medicina,7:30:00,17:30:00,Hombre,No,Medio,5,5,8,1,Car,"POP, ELECTRONIC, ROCK, REGGAETON, Funk brasileño",Si,Si,
+34,Ingeniería Civil,9:00:00,18:00:00,Hombre,Si,Medio,2,6,4,1,No Car,NO_PREF,Si,,Si
+35,Ingeniería ELECTRONIC,9:10:00,12:10:00,Hombre,No,Medio,4,1,1,1,Car,"ELECTRONIC, ROCK, RAP, REGGAETON, TRAP",Si,Si,
+36,Medicina,7:00:00,17:45:00,Mujer,No,Medio,8,6,1,1,Car,NO_PREF,Si,Si,
+37,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,5,1,1,Car,"POP, ROCK, Cumbia, REGGAETON, Funk brasileño",Si,Si,
+38,Medicina,7:30:00,12:00:00,Mujer,No,Medio,9,10,10,1,No Car,"POP, REGGAETON",Si,,Si
+39,Medicina,7:00:00,13:00:00,Mujer,No,Medio,5,1,1,1,Car,NO_PREF,Si,Si,
+40,Ingeniería Informática,7:30:00,15:30:00,Mujer,No,Medio,10,1,5,5,Car,POP,Si,Si,
+41,Ingeniería ELECTRONIC,13:45:00,19:00:00,Hombre,No,Medio,5,5,10,1,No Car,ROCK,Si,,Si
+42,Medicina,7:30:00,12:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+43,Medicina,7:30:00,11:00:00,Hombre,Si,Medio,4,2,3,1,Car,NO_PREF,Si,Si,
+44,Administración de Empresas,19:00:00,21:50:00,Mujer,No,Medio,10,1,5,3,Car,"POP, REGGAETON",Si,Si,
+45,Medicina,7:30:00,17:30:00,Mujer,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+46,Ingeniería Informática,8:30:00,17:30:00,Hombre,No,Extrovertido,10,8,2,2,No Car,SILENCE,Si,Si,
+47,Comercio Internacional,18:30:00,22:10:00,Hombre,No,Medio,1,1,1,1,No Car,"POP, ROCK, METAL, REGGAE",Si,,Si
+48,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Extrovertido,7,1,1,1,Car,"NO_PREF, POP, ELECTRONIC, REGGAETON, TRAP",No,No,
+49,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,"POP, TECHNO",Si,Si,
+50,Administración de Empresas,19:00:00,21:00:00,Mujer,No,Extrovertido,6,8,5,4,Car,"POP, ROCK",No,No,
+52,Ingeniería Informática,9:00:00,15:00:00,Hombre,No,Medio,7,4,1,1,Car,NO_PREF,Si,Si,
+53,Ingeniería Industrial,13:20:00,17:45:00,Hombre,No,Medio,5,8,3,1,No Car,"NO_PREF, TECHNO, ELECTRONIC",Si,,Si
+54,Ciencias Contables,18:30:00,22:10:00,Mujer,No,Medio,1,1,1,1,Car,TRAP,Si,Si,
+55,Ingeniería Civil,7:15:00,11:00:00,Mujer,No,Medio,3,1,1,2,Car,POP,Si,Si,
+56,Ingeniería Civil,13:00:00,17:30:00,Mujer,No,Extrovertido,1,5,1,1,No Car,"POP, ELECTRONIC, ROCK, REGGAE, Cumbia, REGGAETON, TRAP",Si,,Si
+57,Ingeniería Civil,7:30:00,14:00:00,Mujer,No,Extrovertido,10,6,6,1,Car,REGGAETON,Si,Si,
+58,Ingeniería Civil,13:00:00,17:30:00,Mujer,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+59,Ingeniería Civil,10:50:00,19:30:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+60,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+61,Ingeniería Civil,12:00:00,17:00:00,Mujer,No,Medio,10,1,5,1,No Car,ROCK,No,,No
+62,Medicina,9:00:00,15:00:00,Hombre,No,Medio,5,3,6,1,Car,ROCK,Si,Si,
+63,Ingeniería Civil,9:00:00,19:00:00,Hombre,Si,Extrovertido,1,5,1,1,Car,NO_PREF,No,No,
+64,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+65,Diseño Industrial,17:40:00,22:00:00,Mujer,No,Introvertido,6,5,10,9,Car,POP,Si,Si,
+67,Arquitectura,9:00:00,17:00:00,Mujer,No,Medio,9,1,1,1,Car,NO_PREF,Si,Si,
+68,Ingeniería Civil,13:00:00,19:00:00,Hombre,Si,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+69,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,6,6,2,5,Car,NO_PREF,Si,Si,
+70,Análisis de Sistema,18:15:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+71,Administración de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,1,1,1,Car,NO_PREF,Si,Si,
+72,Arquitectura,13:00:00,18:30:00,Mujer,No,Medio,1,1,10,1,No Car,ROCK,Si,,Si
+74,Ingeniería Industrial,7:30:00,18:30:00,Mujer,No,Medio,8,1,1,1,Car,NO_PREF,Si,Si,
+75,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,4,5,2,5,Car,"NO_PREF, POP, TECHNO, ELECTRONIC, RAP",Si,Si,
+76,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,8,1,1,1,No Car,NO_PREF,Si,,Si
+77,Administración de Empresas,18:55:00,22:00:00,Hombre,No,Extrovertido,7,6,5,1,Car,"ROCK, Cumbia, REGGAETON",Si,Si,
+78,Ciencias Contables,18:30:00,22:30:00,Mujer,No,Medio,3,1,1,2,No Car,NO_PREF,Si,,Si
+79,Comercio Internacional,18:30:00,22:15:00,Mujer,No,Extrovertido,10,1,1,1,No Car,REGGAETON,Si,,Si
+80,Ingeniería Industrial,7:30:00,16:00:00,Mujer,No,Medio,1,5,3,8,Car,NO_PREF,Si,Si,
+81,Ciencias Contables,18:20:00,22:00:00,Mujer,No,Medio,7,4,1,1,Car,NO_PREF,Si,Si,
+82,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,3,4,7,1,Car,"POP, ROCK, METAL, RAP, REGGAETON",Si,Si,
+83,Fonoaudiología,8:00:00,12:00:00,Mujer,No,Medio,8,1,1,1,Car,"NO_PREF, POP",Si,Si,
+85,Ingeniería ELECTRONIC,13:00:00,18:00:00,Mujer,No,Extrovertido,3,8,1,1,No Car,NO_PREF,Si,,Si
+86,Ingeniería Civil,9:00:00,18:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+87,Ingeniería Informática,9:00:00,15:30:00,Hombre,No,Medio,8,3,6,3,Car,"POP, ROCK, METAL",Si,Si,
+88,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Introvertido,6,2,3,1,Car,"TECHNO, Cumbia, REGGAETON",Si,Si,
+89,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,3,1,Car,NO_PREF,Si,Si,
+91,Medicina,7:00:00,14:00:00,Hombre,No,Extrovertido,10,10,5,1,Car,ROCK,Si,Si,
+93,Ingeniería Civil,9:00:00,17:00:00,Hombre,No,Medio,3,1,1,1,Car,"POP, TECHNO, ELECTRONIC, ROCK, RAP, REGGAE, Cumbia, TRAP",Si,Si,
+94,Ingeniería Civil,9:00:00,16:00:00,Hombre,Si,Extrovertido,1,8,9,1,Car,"ROCK, METAL, REGGAE",Si,Si,
+95,Ingeniería Industrial,13:00:00,20:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,"POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP",Si,,Si
+96,Ingeniería ELECTRONIC,13:00:00,19:00:00,Hombre,No,Extrovertido,10,1,5,1,Car,"POP, ROCK, METAL",Si,Si,
+97,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Medio,10,3,5,1,Car,"ELECTRONIC, REGGAETON",Si,Si,
+98,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,2,2,1,2,No Car,NO_PREF,Si,,Si
+99,Economía,18:30:00,22:00:00,Hombre,No,Medio,5,1,1,1,Car,NO_PREF,Si,Si,
+100,Marketing,19:00:00,21:30:00,Hombre,Si,Extrovertido,4,7,6,3,Car,"POP, TECHNO, ELECTRONIC, Cumbia, REGGAETON, TRAP, Funk brasileño",Si,Si,
+103,Economía,18:30:00,22:30:00,Hombre,No,Medio,1,10,1,1,Car,"POP, ROCK, RAP, REGGAE, REGGAETON, TRAP",Si,Si,
+104,Ingeniería Civil,15:00:00,18:30:00,Mujer,No,Extrovertido,7,5,6,9,No Car,"TECHNO, ROCK, METAL",Si,,Si
+106,Arquitectura,19:11:00,20:11:00,Hombre,No,Medio,3,3,3,1,No Car,"ROCK, RAP",Si,,Si
+110,Ingeniería ELECTRONIC,9:00:00,17:00:00,Hombre,No,Extrovertido,1,5,4,3,No Car,NO_PREF,Si,,Si
+112,Administración de Empresas,18:30:00,21:30:00,Mujer,No,Medio,10,4,1,6,No Car,NO_PREF,Si,,Si
+113,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,"POP, REGGAETON",Si,Si,
 114,Ciencias Contables,18:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,Cumbia,Si,,Si
-115,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-116,Arquitectura,8:00:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"No preferencia, Reggae, Reggaeton, Trap, Funk brasileño",Si,Si,
-117,Arquitectura,7:30:00,16:00:00,Mujer,No,Extrovertido,7,6,8,1,Car,No preferencia,Si,Si,
-118,Ingeniería Civil,9:00:00,18:30:00,Hombre,No,Extrovertido,5,7,5,3,No Car,No preferencia,Si,,Si
-120,Ingeniería Industrial,7:30:00,11:00:00,Mujer,No,Medio,2,3,2,2,No Car,No preferencia,Si,,Si
-121,Ingeniería Civil,9:00:00,14:00:00,Mujer,No,Extrovertido,1,1,2,8,No Car,No preferencia,Si,,Si
-122,Ingeniería Ambiental,9:10:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Otro",Si,Si,
-123,Análisis de Sistema,18:00:00,21:45:00,Hombre,No,Medio,1,1,3,1,Car,"Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
-124,Ingeniería Ambiental,9:00:00,16:00:00,Mujer,Si,Medio,1,6,1,1,No Car,"Pop, Techno, Electrónica, Reggae, Reggaeton",Si,,Si
-125,Ciencias Contables,18:30:00,21:30:00,Mujer,No,Medio,10,5,5,8,Car,No preferencia,Si,Si,
-126,Economía,18:30:00,22:00:00,Hombre,Si,Medio,1,8,2,1,Car,No preferencia,Si,Si,
-127,Economía,18:30:00,21:30:00,Mujer,No,Medio,5,5,7,5,No Car,No preferencia,Si,,Si
-128,Ingeniería Industrial,10:40:00,16:00:00,Hombre,No,Medio,10,10,10,10,No Car,No preferencia,Si,,Si
-132,Nutrición,12:30:00,17:00:00,Mujer,No,Medio,5,5,1,1,No Car,"Pop, Reggaeton, Trap, Otro",Si,,Si
-133,Economía,19:00:00,22:00:00,Hombre,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
-134,Nutrición,12:30:00,17:00:00,Mujer,No,Medio,10,5,5,2,No Car,Pop,Si,,Si
-135,Nutrición,12:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap",Si,,Si
-137,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Medio,3,1,1,1,Car,Pop,No,No,
-138,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,5,2,2,2,No Car,"Rock, Rap/Hip-Hop, Trap",Si,,Si
-139,Ingeniería Industrial,10:30:00,22:00:00,Mujer,No,Medio,4,3,1,2,No Car,No preferencia,Si,,Si
-140,Diseño Industrial,18:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,Car,No preferencia,Si,Si,
-141,Arquitectura,8:00:00,17:30:00,Mujer,No,Extrovertido,8,1,1,1,Car,No preferencia,Si,Si,
-142,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Medio,5,6,6,1,Car,No preferencia,Si,Si,
-143,Ingeniería Civil,13:00:00,17:00:00,Mujer,No,Medio,3,1,1,1,No Car,"Reggaeton, Trap",Si,,Si
-144,Ingeniería Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,4,3,1,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
-145,Arquitectura,9:00:00,18:00:00,Mujer,No,Extrovertido,8,5,1,4,Car,No preferencia,Si,Si,
-146,Ingeniería Civil,9:00:00,17:00:00,Hombre,Si,Medio,1,3,1,1,No Car,No preferencia,Si,,Si
-147,Análisis de Sistema,18:00:00,21:30:00,Hombre,No,Medio,1,3,1,1,No Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Trap, Otro",Si,,Si
-148,Ingeniería Civil,10:00:00,18:00:00,Mujer,No,Medio,10,5,4,5,Car,"No preferencia, Otro",Si,Si,
-149,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Medio,1,4,1,1,No Car,No preferencia,Si,,Si
-150,Ingeniería Industrial,7:30:00,15:00:00,Hombre,No,Extrovertido,6,9,1,1,Car,No preferencia,Si,Si,
-152,Ingeniería Electrónica,8:00:00,16:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-153,Ingeniería Civil,7:30:00,19:00:00,Mujer,No,Medio,10,6,5,4,Car,No preferencia,No,No,
-155,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,10,2,2,2,Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggaeton",Si,Si,
-156,Ingeniería Civil,8:00:00,17:00:00,Hombre,No,Extrovertido,10,6,1,1,No Car,No preferencia,Si,,Si
-157,Análisis de Sistema,18:15:00,22:00:00,Hombre,No,Medio,8,5,1,1,Car,No preferencia,Si,Si,
-158,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,5,1,1,6,No Car,No preferencia,Si,,Si
-159,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-160,Ingeniería Civil,13:00:00,17:45:00,Hombre,No,Medio,8,4,1,1,Car,No preferencia,Si,Si,
-161,Diseño Gráfico,17:30:00,22:00:00,Hombre,Si,Extrovertido,2,6,6,6,Car,"Pop, Techno, Electrónica, Rap/Hip-Hop, Reggaeton, Trap",No,No,
-162,Ingeniería Ambiental,10:45:00,18:00:00,Mujer,No,Medio,10,5,6,9,Car,"Pop, Rock, Reggae, Cumbia, Reggaeton, Trap, Otro",Si,Si,
-163,Arquitectura,15:00:00,19:00:00,Mujer,No,Extrovertido,5,7,1,1,No Car,"Pop, Techno, Electrónica, Rock",Si,,Si
-164,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,1,5,3,4,Car,"Pop, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
-165,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Extrovertido,8,1,1,1,No Car,No preferencia,Si,,Si
-166,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,10,6,1,3,Car,"No preferencia, Pop, Rap/Hip-Hop, Reggae",Si,Si,
-167,Nutrición,11:00:00,17:00:00,Mujer,No,Medio,10,8,8,10,Car,No preferencia,Si,Si,
-168,Ciencias Contables,18:30:00,22:10:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-169,Ingeniería Civil,7:30:00,16:00:00,Mujer,No,Medio,1,5,1,1,Car,No preferencia,Si,Si,
-170,Arquitectura,8:00:00,17:00:00,Mujer,No,Medio,3,5,5,1,Car,"Pop, Electrónica, Reggaeton, Trap, Otro",Si,Si,
-171,Ingeniería Civil,13:30:00,18:00:00,Hombre,No,Medio,1,5,5,6,Car,"Rock, Reggae, Reggaeton, Trap",Si,Si,
-172,Administración de Empresas,19:00:00,22:15:00,Mujer,No,Medio,2,1,1,1,Car,No preferencia,Si,Si,
-174,Ingeniería Civil,7:30:00,21:00:00,Mujer,No,Extrovertido,3,2,1,1,No Car,No preferencia,Si,,Si
-175,Arquitectura,13:00:00,18:30:00,Hombre,Si,Medio,3,4,3,3,Car,No preferencia,Si,Si,
-176,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,8,1,7,9,Car,Pop,Si,Si,
-178,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,4,4,2,1,Car,"No preferencia, Techno, Electrónica, Reggaeton",Si,Si,
-179,Ingeniería Civil,14:00:00,18:00:00,Mujer,No,Medio,9,6,5,2,Car,No preferencia,Si,Si,
-180,Ingeniería Civil,7:30:00,16:45:00,Mujer,No,Medio,3,1,1,1,No Car,No preferencia,Si,,Si
-181,Medicina,7:30:00,17:00:00,Mujer,No,Medio,7,5,1,1,Car,No preferencia,No,No,
-182,Ciencias Contables,18:40:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-183,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,No preferencia,Si,,Si
-185,Ingeniería Industrial,9:00:00,18:00:00,Mujer,No,Medio,7,1,1,2,No Car,No preferencia,Si,,Si
-187,Ingeniería Industrial,10:40:00,18:00:00,Hombre,No,Medio,1,1,3,1,No Car,Otro,Si,,Si
-188,Ingeniería Industrial,8:00:00,20:00:00,Mujer,Si,Extrovertido,4,9,10,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
-189,Marketing,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-191,Medicina,7:30:00,12:30:00,Mujer,Si,Extrovertido,1,5,1,7,No Car,Otro,Si,,Si
-192,Administración de Empresas,19:00:00,21:50:00,Hombre,Si,Medio,1,5,4,1,Car,"No preferencia, Pop, Reggaeton, Otro",Si,Si,
-193,Medicina,7:30:00,14:00:00,Mujer,No,Extrovertido,3,7,6,2,Car,"Pop, Rock, Otro",Si,Si,
-194,Economía,18:20:00,22:00:00,Hombre,No,Extrovertido,3,5,5,1,Car,"Reggaeton, Trap, Prefiero ir en silencio",Si,Si,
-195,Ingeniería Civil,8:00:00,14:00:00,Hombre,No,Extrovertido,4,6,2,1,Car,No preferencia,Si,Si,
-196,Economía,18:50:00,21:50:00,Hombre,No,Medio,1,1,4,1,No Car,No preferencia,Si,,Si
-197,Ingeniería Electrónica,13:00:00,19:00:00,Mujer,No,Introvertido,3,5,6,2,Car,"Pop, Techno, Electrónica, Rock, Reggae",No,No,
-199,Economía,8:00:00,12:00:00,Hombre,No,Medio,3,5,2,1,Car,Prefiero ir en silencio,No,No,
-200,Administración de Empresas,18:30:00,22:00:00,Hombre,No,Extrovertido,10,10,9,10,Car,"No preferencia, Reggaeton",Si,Si,
-201,Ingeniería Civil,10:45:00,17:00:00,Mujer,No,Extrovertido,5,7,10,1,Car,Reggaeton,Si,Si,
-202,Ingeniería Informática,13:00:00,14:30:00,Hombre,No,Extrovertido,8,1,1,1,Car,No preferencia,Si,Si,
-203,Ingeniería Electrónica,13:00:00,17:00:00,Mujer,No,Medio,6,1,1,1,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggae, Reggaeton, Trap, Otro",Si,Si,
-205,Ingeniería Civil,9:00:00,19:00:00,Mujer,No,Medio,5,7,1,1,No Car,No preferencia,Si,,Si
-206,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Extrovertido,5,7,4,6,No Car,No preferencia,Si,,Si
-207,Comercio Internacional,18:30:00,22:15:00,Mujer,No,Extrovertido,5,3,3,1,Car,"Pop, Electrónica, Reggaeton",Si,Si,
-208,Ingeniería Civil,14:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-209,Economía,18:30:00,22:00:00,Mujer,No,Medio,5,3,1,4,No Car,No preferencia,Si,,Si
-211,Arquitectura,13:00:00,13:30:00,Mujer,No,Medio,9,5,1,2,Car,No preferencia,Si,Si,
-213,Marketing,18:30:00,21:40:00,Mujer,No,Medio,10,1,6,1,Car,"Pop, Rock, Rap/Hip-Hop, Otro",Si,Si,
-215,Ingeniería Industrial,7:40:00,12:15:00,Hombre,No,Medio,1,1,1,1,No Car,Rock,Si,,Si
-218,Ingeniería Electrónica,7:30:00,16:00:00,Hombre,No,Medio,1,3,1,1,No Car,Prefiero ir en silencio,Si,,Si
-220,Ingeniería Civil,7:30:00,16:00:00,Hombre,Si,Extrovertido,1,8,1,1,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggaeton, Trap, Otro",Si,Si,
-221,Marketing,18:00:00,22:15:00,Mujer,Si,Extrovertido,1,5,8,1,Car,"Pop, Reggaeton",Si,Si,
-223,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,5,1,1,No Car,Pop,Si,,Si
-224,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
-225,Medicina,7:30:00,15:00:00,Hombre,No,Medio,8,3,1,1,Car,"Pop, Techno, Electrónica, Rock, Reggae",Si,Si,
-227,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-228,Análisis de Sistema,17:50:00,22:00:00,Mujer,No,Introvertido,1,1,1,1,No Car,Pop,Si,,Si
-229,Fonoaudiología,7:30:00,11:30:00,Mujer,No,Medio,10,10,1,1,Car,No preferencia,No,No,
-231,Administración de Empresas,18:00:00,21:30:00,Hombre,No,Medio,5,7,3,1,No Car,No preferencia,Si,,Si
-232,Ciencias Contables,19:00:00,22:10:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-233,Medicina,15:08:00,21:25:00,Hombre,No,Extrovertido,10,9,1,1,Car,No preferencia,No,No,
-235,Arquitectura,7:15:00,18:30:00,Mujer,No,Medio,1,6,6,2,No Car,"Rap/Hip-Hop, Reggaeton",No,,No
-236,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,8,4,6,8,No Car,Prefiero ir en silencio,No,,No
-239,Medicina,7:30:00,17:30:00,Mujer,No,Medio,7,7,3,5,No Car,Pop,Si,,Si
-240,Ingeniería Civil,7:00:00,13:50:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-241,Marketing,18:30:00,22:00:00,Mujer,Si,Extrovertido,10,10,10,6,Car,No preferencia,Si,Si,
-242,Medicina,7:30:00,12:00:00,Hombre,No,Extrovertido,10,1,5,5,Car,"Pop, Rock, Reggae",Si,Si,
-243,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,1,5,5,1,Car,No preferencia,Si,Si,
-244,Marketing,18:30:00,22:00:00,Mujer,No,Medio,4,8,3,1,No Car,Pop,Si,,Si
-245,Arquitectura,8:00:00,17:00:00,Mujer,No,Extrovertido,6,10,1,1,Car,No preferencia,Si,Si,
-246,Arquitectura,8:30:00,17:00:00,Mujer,No,Extrovertido,10,5,5,5,No Car,"Pop, Reggaeton",Si,,Si
-247,Ingeniería Civil,7:30:00,14:30:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,No,No,
-248,Fonoaudiología,7:30:00,18:30:00,Mujer,No,Medio,10,10,10,1,No Car,"Reggaeton, Funk brasileño, Otro",No,,No
-249,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,10,2,5,8,Car,Otro,Si,Si,
-250,Arquitectura,8:00:00,17:00:00,Hombre,No,Medio,10,7,8,1,Car,No preferencia,Si,Si,
-251,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-252,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,2,2,1,1,No Car,Rock,Si,,Si
-253,Ingeniería Industrial,7:30:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
-254,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-255,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
-256,Fonoaudiología,7:30:00,10:40:00,Mujer,No,Medio,5,4,2,6,No Car,No preferencia,Si,,Si
-257,Ingeniería Civil,7:03:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,No Car,No preferencia,Si,,Si
-258,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Medio,3,1,1,1,No Car,"Pop, Rock, Reggaeton",Si,,Si
-259,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-260,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-262,Fonoaudiología,7:30:00,11:30:00,Mujer,No,Medio,3,4,1,1,Car,No preferencia,Si,Si,
-263,Ingeniería Civil,9:00:00,16:00:00,Hombre,Si,Medio,1,5,10,1,Car,No preferencia,Si,Si,
-264,Ingeniería Industrial,9:00:00,13:00:00,Hombre,Si,Medio,1,1,10,1,Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop",Si,Si,
-265,Análisis de Sistema,18:15:00,22:00:00,Hombre,No,Medio,1,5,1,1,No Car,"No preferencia, Pop, Rock",Si,,Si
-268,Arquitectura,8:00:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"Pop, Electrónica, Reggaeton, Trap, Funk brasileño, Otro",Si,,Si
-269,Economía,18:30:00,21:00:00,Hombre,No,Extrovertido,4,1,1,1,No Car,"Rock, Rap/Hip-Hop, Reggae, Trap",Si,,Si
-270,Ingeniería Civil,7:30:00,17:00:00,Mujer,No,Medio,3,1,1,5,Car,No preferencia,Si,Si,
-272,Ciencias Contables,18:20:00,22:00:00,Mujer,No,Extrovertido,3,3,2,4,Car,No preferencia,Si,Si,
-273,Economía,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,Otro,Si,Si,
-274,Administración de Empresas,19:00:00,21:45:00,Mujer,No,Extrovertido,5,3,1,1,Car,"Pop, Electrónica, Reggaeton",Si,Si,
-275,Ingeniería Civil,10:45:00,17:00:00,Mujer,Si,Extrovertido,1,6,5,1,Car,"Pop, Techno, Rap/Hip-Hop, Reggae, Trap",Si,Si,
-277,Administración de Empresas,18:00:00,22:00:00,Hombre,Si,Medio,1,4,3,1,Car,Rock,No,No,
-278,Economía,18:30:00,22:00:00,Hombre,Si,Medio,1,6,1,1,Car,No preferencia,Si,Si,
-279,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,10,5,4,7,No Car,Pop,Si,,Si
-280,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-281,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,5,5,1,1,Car,No preferencia,No,No,
-282,Ingeniería Civil,9:00:00,18:00:00,Mujer,No,Extrovertido,2,1,1,1,No Car,No preferencia,Si,,Si
-283,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,10,5,5,10,Car,"No preferencia, Pop, Reggaeton, Trap",Si,Si,
-284,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,6,7,8,5,Car,"Pop, Electrónica, Reggaeton",Si,Si,
-285,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,8,6,3,3,Car,"Pop, Electrónica, Rap/Hip-Hop, Reggae, Reggaeton",Si,Si,
-287,Fonoaudiología,7:30:00,18:40:00,Mujer,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
-288,Administración de Empresas,19:00:00,22:00:00,Mujer,Si,Extrovertido,1,5,1,1,No Car,No preferencia,Si,,Si
-289,Administración de Empresas,19:00:00,22:30:00,Hombre,No,Extrovertido,10,7,1,1,Car,No preferencia,Si,Si,
-290,Administración de Empresas,18:30:00,21:45:00,Mujer,No,Medio,6,1,5,5,Car,No preferencia,Si,Si,
-291,Medicina,7:30:00,17:00:00,Hombre,Si,Extrovertido,1,5,1,1,No Car,No preferencia,Si,,Si
-292,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,7,1,1,1,Car,No preferencia,Si,Si,
-293,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,7,10,7,1,Car,"Pop, Electrónica, Rock, Metal, Rap/Hip-Hop",Si,Si,
-294,Economía,18:00:00,22:10:00,Hombre,No,Extrovertido,5,5,1,1,No Car,No preferencia,Si,,Si
-295,Administración de Empresas,18:30:00,22:15:00,Mujer,Si,Medio,3,5,2,1,No Car,No preferencia,Si,,Si
-296,Ingeniería Ambiental,8:00:00,20:00:00,Hombre,No,Medio,9,7,5,2,Car,"Pop, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Reggaeton, Trap",Si,Si,
-298,Economía,18:30:00,22:00:00,Hombre,No,Medio,10,5,1,1,Car,"No preferencia, Prefiero ir en silencio",Si,Si,
-299,Ingeniería Industrial,7:00:00,16:00:00,Mujer,No,Extrovertido,5,1,10,1,No Car,"No preferencia, Pop, Cumbia, Reggaeton, Prefiero ir en silencio",Si,,Si
-300,Ingeniería Industrial,15:00:00,21:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-301,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,6,7,1,Car,Pop,Si,Si,
-302,Medicina,7:30:00,12:50:00,Mujer,No,Extrovertido,8,8,1,5,No Car,No preferencia,Si,,Si
-303,Medicina,9:30:00,20:50:00,Hombre,No,Extrovertido,5,1,1,1,Car,No preferencia,Si,Si,
-306,Comercio Internacional,18:15:00,22:15:00,Mujer,No,Medio,3,5,2,2,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Cumbia, Reggaeton",Si,Si,
-307,Economía,18:30:00,22:00:00,Hombre,Si,Extrovertido,1,5,1,1,Car,No preferencia,Si,Si,
-308,Fonoaudiología,8:00:00,11:30:00,Mujer,No,Medio,10,1,1,1,No Car,No preferencia,Si,,Si
-310,Economía,18:30:00,22:00:00,Hombre,No,Medio,8,3,6,1,Car,"Rock, Otro",Si,Si,
-311,Ingeniería Informática,7:00:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-312,Ingeniería Civil,8:00:00,18:00:00,Mujer,No,Medio,9,2,2,1,No Car,No preferencia,Si,,Si
-313,Medicina,7:30:00,14:00:00,Mujer,No,Extrovertido,1,5,5,7,No Car,Pop,Si,,Si
-314,Medicina,7:30:00,15:00:00,Hombre,No,Medio,4,1,1,1,Car,No preferencia,Si,Si,
-315,Diseño Gráfico,18:00:00,22:00:00,Mujer,No,Extrovertido,6,1,1,1,No Car,"Pop, Electrónica, Rock, Metal, Reggaeton, Trap",Si,,Si
-316,Ciencias Contables,19:00:00,22:15:00,Hombre,No,Extrovertido,4,10,4,1,Car,Trap,Si,Si,
-317,Medicina,7:30:00,18:30:00,Mujer,Si,Medio,1,7,1,1,Car,Rock,Si,Si,
-318,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Medio,7,5,5,1,No Car,No preferencia,Si,,Si
-320,Ingeniería Civil,7:30:00,12:00:00,Mujer,Si,Extrovertido,1,4,6,1,No Car,Pop,Si,,Si
-321,Administración de Empresas,18:30:00,22:00:00,Mujer,Si,Extrovertido,1,3,1,6,No Car,No preferencia,Si,,Si
-322,Comercio Internacional,18:30:00,21:30:00,Mujer,No,Extrovertido,10,5,1,1,No Car,No preferencia,Si,,Si
-324,Medicina,11:00:00,16:00:00,Mujer,No,Medio,8,8,9,5,Car,Reggaeton,Si,Si,
-326,Medicina,7:30:00,17:30:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-328,Ingeniería Civil,7:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-330,Ingeniería Civil,7:30:00,18:00:00,Mujer,Si,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-331,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,Techno,Si,,Si
-334,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,10,10,10,10,No Car,No preferencia,Si,,Si
-336,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
-337,Análisis de Sistema,18:00:00,22:10:00,Hombre,No,Medio,1,1,10,1,Car,"Pop, Rock, Metal",No,No,
-340,Ingeniería Civil,13:00:00,18:00:00,Mujer,Si,Medio,1,8,10,1,Car,Rock,Si,Si,
-341,Fonoaudiología,7:30:00,12:15:00,Mujer,No,Extrovertido,10,10,10,10,No Car,No preferencia,Si,,Si
-342,Administración de Empresas,18:00:00,22:00:00,Hombre,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
-343,Análisis de Sistema,18:15:00,22:15:00,Hombre,Si,Medio,1,1,8,1,Car,Techno,Si,Si,
-344,Medicina,8:00:00,12:00:00,Mujer,No,Medio,5,5,5,5,Car,No preferencia,No,No,
-346,Ingeniería Civil,13:00:00,22:00:00,Mujer,No,Medio,9,5,5,5,Car,No preferencia,No,No,
-347,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-348,Ingeniería Civil,9:15:00,17:00:00,Mujer,No,Medio,3,4,1,1,Car,No preferencia,Si,Si,
-350,Administración de Empresas,18:00:00,22:00:00,Hombre,Si,Extrovertido,2,3,4,1,Car,Reggaeton,Si,Si,
-351,Medicina,7:30:00,20:00:00,Mujer,No,Extrovertido,7,6,5,1,No Car,Reggaeton,Si,,Si
-352,Diseño Gráfico,17:30:00,21:20:00,Mujer,No,Medio,7,10,10,4,Car,"Pop, Electrónica, Rock, Rap/Hip-Hop, Otro",No,No,
-353,Medicina,7:30:00,12:00:00,Mujer,No,Medio,4,6,1,8,Car,No preferencia,Si,Si,
-354,Medicina,8:00:00,18:00:00,Hombre,No,Introvertido,10,5,6,1,Car,Otro,Si,Si,
-355,Arquitectura,7:00:00,17:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-357,Ingeniería Civil,13:00:00,18:00:00,Hombre,No,Medio,5,3,2,1,Car,No preferencia,Si,Si,
-358,Ciencias Contables,18:30:00,22:10:00,Hombre,No,Extrovertido,8,1,5,1,Car,Rock,Si,Si,
-359,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,9,1,10,No Car,No preferencia,Si,,Si
-361,Marketing,18:30:00,22:00:00,Hombre,No,Medio,9,3,3,1,Car,"Pop, Electrónica, Rock, Reggaeton, Trap, Otro",Si,Si,
-362,Medicina,7:30:00,12:30:00,Hombre,No,Extrovertido,10,1,1,1,No Car,No preferencia,Si,,Si
-363,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,5,1,1,1,No Car,No preferencia,Si,,Si
-364,Ingeniería Civil,9:00:00,17:45:00,Hombre,Si,Extrovertido,1,1,4,1,Car,No preferencia,Si,Si,
-365,Ingeniería Industrial,10:00:00,16:00:00,Hombre,No,Medio,10,5,5,5,No Car,Pop,Si,,Si
-366,Arquitectura,8:00:00,18:00:00,Mujer,No,Medio,1,3,1,1,Car,No preferencia,Si,Si,
-367,Ingeniería Informática,9:00:00,16:00:00,Hombre,No,Extrovertido,8,1,5,1,Car,"Pop, Metal, Reggae",Si,Si,
-368,Medicina,7:30:00,14:00:00,Mujer,No,Medio,7,9,10,10,Car,"Pop, Reggae, Cumbia, Reggaeton, Trap",Si,Si,
-370,Medicina,7:30:00,15:00:00,Mujer,No,Medio,8,5,1,1,No Car,No preferencia,Si,,Si
-374,Medicina,7:30:00,16:00:00,Hombre,No,Medio,10,1,5,1,Car,No preferencia,Si,Si,
-377,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,10,1,1,1,Car,Otro,Si,Si,
-378,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,1,1,1,Car,"Pop, Electrónica, Rock, Metal, Reggae, Reggaeton, Funk brasileño",Si,Si,
-379,Ingeniería Industrial,7:30:00,18:20:00,Mujer,No,Medio,5,5,2,2,No Car,"Pop, Electrónica, Rock, Reggaeton",Si,,Si
-380,Comercio Internacional,17:30:00,22:00:00,Hombre,Si,Extrovertido,3,7,3,1,No Car,No preferencia,Si,,Si
-381,Medicina,7:30:00,12:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,No preferencia,Si,Si,
-382,Fonoaudiología,7:30:00,14:15:00,Mujer,Si,Extrovertido,1,5,1,5,Car,"No preferencia, Pop, Rock, Reggaeton, Otro",Si,Si,
-383,Economía,18:30:00,22:00:00,Hombre,No,Introvertido,10,10,1,1,No Car,Prefiero ir en silencio,Si,,Si
-386,Medicina,10:00:00,17:00:00,Mujer,No,Medio,10,4,4,8,Car,No preferencia,Si,Si,
-387,Arquitectura,8:30:00,17:30:00,Mujer,No,Medio,7,3,5,3,Car,Pop,Si,Si,
-389,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Extrovertido,7,5,7,5,Car,"Pop, Rock, Cumbia, Reggaeton",Si,Si,
-390,Ingeniería Civil,7:30:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,No Car,No preferencia,Si,,Si
-391,Ingeniería Informática,13:00:00,17:00:00,Hombre,No,Medio,10,5,5,1,Car,No preferencia,Si,Si,
-392,Medicina,10:00:00,16:30:00,Hombre,No,Extrovertido,3,7,1,1,Car,No preferencia,Si,Si,
-393,Ingeniería Industrial,9:30:00,17:00:00,Hombre,No,Medio,3,3,1,1,No Car,No preferencia,Si,,Si
-394,Comercio Internacional,18:30:00,22:30:00,Mujer,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-395,Marketing,19:00:00,22:00:00,Mujer,No,Extrovertido,7,1,3,4,Car,"No preferencia, Pop, Reggaeton, Trap, Funk brasileño",Si,Si,
-396,Ingeniería Civil,7:30:00,17:00:00,Mujer,No,Medio,5,5,5,1,No Car,No preferencia,No,,No
-399,Medicina,7:00:00,12:00:00,Mujer,No,Medio,7,7,7,9,Car,No preferencia,Si,Si,
-400,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,5,10,Car,No preferencia,Si,Si,
-401,Fonoaudiología,7:30:00,13:30:00,Mujer,No,Medio,5,4,1,1,No Car,No preferencia,Si,,Si
-403,Ciencias Contables,19:00:00,22:00:00,Mujer,Si,Medio,3,4,4,8,Car,No preferencia,Si,Si,
-404,Ingeniería Civil,9:00:00,17:00:00,Hombre,Si,Extrovertido,1,7,1,1,Car,No preferencia,Si,Si,
-405,Análisis de Sistema,17:30:00,22:00:00,Mujer,No,Medio,9,4,3,3,No Car,"Pop, Rock",No,,No
-406,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Medio,7,7,5,5,Car,"Reggaeton, Trap",Si,Si,
-408,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,6,2,1,3,Car,Otro,Si,Si,
-409,Análisis de Sistema,18:45:00,21:30:00,Hombre,No,Medio,10,5,7,5,Car,No preferencia,Si,Si,
-410,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,3,3,3,2,Car,No preferencia,No,No,
-411,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,Reggaeton,Si,,Si
-412,Ingeniería Civil,9:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-413,Medicina,7:30:00,13:30:00,Mujer,No,Extrovertido,8,5,5,6,No Car,No preferencia,Si,,Si
-415,Medicina,8:00:00,19:00:00,Mujer,No,Medio,8,10,1,1,Car,No preferencia,Si,Si,
-418,Medicina,7:30:00,14:00:00,Mujer,No,Medio,10,1,4,1,No Car,No preferencia,Si,,Si
-419,Marketing,18:30:00,21:50:00,Mujer,No,Medio,1,7,1,1,Car,"Pop, Prefiero ir en silencio",Si,Si,
-420,Economía,18:30:00,22:30:00,Mujer,No,Medio,5,8,1,2,Car,Pop,Si,Si,
-421,Medicina,7:30:00,12:00:00,Hombre,No,Medio,5,7,1,1,No Car,Otro,Si,,Si
-422,Medicina,7:30:00,15:00:00,Mujer,No,Extrovertido,1,7,5,1,Car,"No preferencia, Pop, Electrónica, Cumbia, Reggaeton, Otro",Si,Si,
-425,Marketing,18:20:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-426,Medicina,13:00:00,18:30:00,Mujer,No,Medio,6,1,4,6,Car,Reggaeton,Si,Si,
-427,Medicina,7:30:00,12:15:00,Mujer,No,Extrovertido,1,1,1,1,No Car,Reggaeton,Si,,Si
-428,Ingeniería Civil,8:00:00,19:30:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-429,Ingeniería Industrial,7:30:00,16:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-430,Ingeniería Civil,13:00:00,18:00:00,Hombre,No,Medio,5,1,2,1,Car,"Pop, Rap/Hip-Hop, Reggae",Si,Si,
-431,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,9,7,5,1,No Car,"Pop, Rap/Hip-Hop, Reggae, Reggaeton, Funk brasileño",Si,,Si
-432,Medicina,7:30:00,12:30:00,Mujer,No,Medio,6,5,9,1,No Car,Otro,Si,,Si
-433,Ingeniería Civil,9:00:00,16:00:00,Mujer,No,Introvertido,4,7,7,2,Car,Reggaeton,Si,Si,
-434,Medicina,7:30:00,16:45:00,Mujer,No,Introvertido,5,1,1,1,No Car,Pop,Si,,Si
-435,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,8,10,8,6,Car,"Pop, Otro",Si,Si,
-436,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,9,1,1,1,No Car,"Pop, Techno, Electrónica, Rock",Si,,Si
-437,Comercio Internacional,7:00:00,13:00:00,Hombre,No,Medio,7,1,1,1,Car,"No preferencia, Reggaeton, Trap",Si,Si,
-439,Arquitectura,13:00:00,17:00:00,Mujer,No,Medio,8,1,1,5,Car,"Pop, Rock, Reggaeton",Si,Si,
-440,Medicina,7:15:00,18:00:00,Mujer,No,Medio,2,2,5,3,Car,"Pop, Techno, Electrónica, Rock, Reggae, Cumbia, Reggaeton",Si,Si,
-441,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,1,1,1,Car,"Electrónica, Reggae, Reggaeton",Si,Si,
-443,Medicina,8:00:00,17:00:00,Hombre,No,Medio,1,7,1,1,No Car,No preferencia,Si,,Si
-444,Marketing,18:00:00,22:30:00,Mujer,No,Extrovertido,10,6,10,10,Car,"Pop, Techno, Reggaeton",Si,Si,
-445,Ingeniería Civil,7:30:00,19:15:00,Hombre,No,Medio,6,5,1,1,No Car,Otro,Si,,Si
-446,Medicina,7:00:00,18:00:00,Hombre,No,Medio,5,1,1,1,No Car,"Pop, Electrónica, Rock, Metal, Otro",Si,,Si
-448,Medicina,7:30:00,17:00:00,Mujer,No,Extrovertido,5,7,2,2,No Car,"No preferencia, Pop, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño",Si,,Si
-449,Medicina,7:30:00,17:00:00,Mujer,No,Medio,5,5,2,2,No Car,No preferencia,Si,,Si
-450,Ciencias Contables,8:00:00,12:10:00,Mujer,No,Extrovertido,4,3,2,2,No Car,"Electrónica, Reggaeton",Si,,Si
-452,Medicina,7:30:00,13:00:00,Mujer,No,Extrovertido,10,5,4,3,Car,"Pop, Otro",Si,Si,
-455,Administración de Empresas,19:00:00,21:50:00,Hombre,No,Extrovertido,10,5,4,1,Car,"No preferencia, Pop, Electrónica",Si,Si,
-457,Economía,18:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,Pop,Si,,Si
-462,Medicina,7:00:00,12:00:00,Mujer,No,Medio,3,1,1,1,Car,"Rock, Metal, Otro",No,No,
-463,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,3,8,5,2,Car,No preferencia,Si,Si,
-464,Medicina,7:30:00,13:00:00,Mujer,No,Extrovertido,1,1,4,1,Car,"No preferencia, Pop, Reggaeton",Si,Si,
-465,Ingeniería Civil,10:00:00,17:00:00,Hombre,No,Medio,7,6,1,1,Car,No preferencia,Si,Si,
-466,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Extrovertido,1,3,1,1,No Car,No preferencia,Si,,Si
-467,Medicina,7:30:00,15:00:00,Mujer,No,Extrovertido,7,2,1,3,Car,Pop,Si,Si,
-469,Ingeniería Civil,7:30:00,15:00:00,Hombre,No,Extrovertido,6,4,1,1,No Car,No preferencia,Si,,Si
-470,Medicina,7:30:00,15:00:00,Mujer,No,Medio,9,2,1,8,Car,"No preferencia, Pop, Rock",Si,Si,
-471,Fonoaudiología,7:30:00,12:40:00,Mujer,No,Medio,5,1,1,1,No Car,No preferencia,Si,,Si
-473,Ingeniería Civil,9:00:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,Car,No preferencia,Si,Si,
-474,Medicina,7:30:00,13:00:00,Mujer,No,Medio,1,1,6,1,No Car,"Pop, Rock, Otro",Si,,Si
-475,Comercio Internacional,20:30:00,22:00:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-476,Medicina,8:00:00,17:00:00,Mujer,No,Medio,10,8,1,5,No Car,No preferencia,Si,,Si
-478,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,8,3,1,Car,"No preferencia, Pop, Electrónica, Rock, Metal, Reggaeton",Si,Si,
-479,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,5,1,1,No Car,No preferencia,Si,,Si
-480,Medicina,10:00:00,17:00:00,Mujer,No,Introvertido,8,1,1,4,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop",Si,Si,
-483,Marketing,19:00:00,22:00:00,Mujer,No,Medio,10,5,3,5,Car,"Pop, Reggaeton, Trap, Funk brasileño",Si,Si,
-484,Administración de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,3,7,4,4,Car,No preferencia,Si,Si,
-485,Medicina,9:00:00,16:00:00,Hombre,No,Extrovertido,10,1,5,1,Car,No preferencia,Si,Si,
-486,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,6,1,1,1,No Car,No preferencia,Si,,Si
-487,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,4,1,No Car,"Pop, Techno, Electrónica",Si,,Si
-488,Diseño Industrial,18:30:00,21:30:00,Mujer,No,Extrovertido,9,8,1,1,No Car,No preferencia,Si,,Si
-489,Ingeniería Industrial,14:30:00,19:00:00,Hombre,No,Extrovertido,7,9,2,2,Car,Reggaeton,Si,Si,
-491,Ingeniería Ambiental,18:00:00,22:00:00,Hombre,Si,Medio,5,7,5,5,Car,Reggaeton,Si,Si,
-492,Ingeniería Civil,7:30:00,21:00:00,Hombre,No,Extrovertido,1,5,1,1,No Car,"Pop, Electrónica, Cumbia, Reggaeton, Trap, Otro",Si,,Si
-493,Diseño Industrial,8:00:00,11:00:00,Hombre,Si,Medio,1,1,1,1,No Car,No preferencia,Si,,Si
-494,Medicina,7:30:00,15:00:00,Mujer,No,Medio,8,1,7,1,No Car,"Pop, Rock, Rap/Hip-Hop, Reggae",Si,,Si
-495,Ingeniería Civil,13:15:00,18:30:00,Hombre,No,Medio,10,10,10,10,Car,No preferencia,Si,Si,
-496,Ingeniería Civil,7:30:00,18:30:00,Hombre,Si,Extrovertido,5,1,1,1,Car,Rock,Si,Si,
-500,Ciencias Contables,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,5,5,1,No Car,No preferencia,Si,,Si
-501,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,4,7,8,7,Car,"No preferencia, Reggaeton",Si,Si,
-503,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-505,Economía,9:00:00,16:00:00,Hombre,No,Extrovertido,7,9,1,1,No Car,Reggaeton,Si,,Si
-506,Economía,18:30:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-507,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,4,5,5,6,Car,"No preferencia, Otro",Si,Si,
-508,Ingeniería Civil,7:00:00,17:00:00,Mujer,No,Extrovertido,10,5,1,8,No Car,Electrónica,Si,,Si
-509,Administración de Empresas,18:30:00,21:30:00,Mujer,No,Medio,5,6,6,8,Car,No preferencia,Si,Si,
-513,Medicina,12:00:00,16:00:00,Hombre,Si,Medio,4,5,1,1,Car,No preferencia,Si,Si,
-514,Ingeniería Ambiental,8:30:00,19:15:00,Hombre,No,Introvertido,1,5,1,1,No Car,"Pop, Electrónica, Rap/Hip-Hop",Si,,Si
-515,Economía,18:30:00,21:30:00,Mujer,Si,Extrovertido,1,6,1,1,Car,No preferencia,Si,Si,
-516,Ciencias Contables,19:00:00,22:15:00,Hombre,No,Medio,1,3,3,1,Car,No preferencia,Si,Si,
-517,Medicina,7:30:00,12:00:00,Mujer,No,Medio,1,1,1,1,No Car,Pop,Si,,Si
-518,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,8,10,1,1,No Car,Electrónica,Si,,Si
-519,Economía,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-520,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,3,1,1,1,Car,No preferencia,Si,Si,
-521,Ingeniería Civil,10:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-523,Medicina,7:30:00,18:30:00,Hombre,No,Extrovertido,10,1,1,5,Car,No preferencia,Si,Si,
-525,Ciencias Contables,8:00:00,12:00:00,Mujer,No,Medio,1,5,8,1,No Car,Otro,No,,No
-526,Marketing,17:00:00,22:00:00,Mujer,No,Extrovertido,10,10,10,1,Car,Pop,No,No,
-529,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,3,7,3,3,No Car,No preferencia,Si,,Si
-530,Ingeniería Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,3,5,1,2,Car,Reggaeton,Si,Si,
-531,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,10,5,5,8,Car,No preferencia,No,No,
-532,Administración de Empresas,7:30:00,12:00:00,Hombre,No,Medio,10,5,10,1,No Car,"Cumbia, Reggaeton, Trap, Prefiero ir en silencio",Si,,Si
-533,Administración de Empresas,19:00:00,21:55:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-534,Comercio Internacional,18:30:00,22:05:00,Mujer,No,Extrovertido,1,3,1,4,Car,No preferencia,Si,Si,
-536,Marketing,18:00:00,22:15:00,Hombre,Si,Extrovertido,8,3,8,1,Car,"Rock, Cumbia, Reggaeton, Trap",Si,Si,
-537,Ingeniería Industrial,14:30:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"Pop, Techno, Electrónica, Rock, Reggaeton",Si,Si,
-538,Ciencias Contables,19:30:00,21:40:00,Mujer,No,Medio,6,1,3,1,No Car,"Pop, Rock, Reggae, Otro",Si,,Si
-539,Ingeniería Informática,14:30:00,17:00:00,Mujer,No,Extrovertido,10,5,10,1,Car,"Rock, Metal, Prefiero ir en silencio",Si,Si,
-540,Administración de Empresas,18:50:00,22:00:00,Mujer,No,Introvertido,5,4,1,10,Car,No preferencia,Si,Si,
-541,Análisis de Sistema,19:00:00,21:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-543,Economía,18:00:00,22:00:00,Hombre,Si,Medio,3,4,7,1,Car,"Techno, Rap/Hip-Hop, Reggaeton, Trap",Si,Si,
-544,Fonoaudiología,7:30:00,18:00:00,Mujer,No,Medio,6,10,7,1,Car,"Pop, Electrónica, Reggaeton, Trap, Funk brasileño",Si,Si,
-545,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Medio,9,3,3,3,Car,No preferencia,Si,Si,
-546,Ciencias Contables,19:00:00,22:15:00,Mujer,No,Extrovertido,5,1,1,1,Car,"No preferencia, Pop, Reggaeton",Si,Si,
-547,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,"Reggae, Otro",Si,,Si
-549,Ingeniería Informática,13:00:00,18:00:00,Hombre,No,Medio,3,3,8,1,No Car,"Pop, Rock, Prefiero ir en silencio",Si,,Si
-550,Ingeniería Informática,14:00:00,19:00:00,Hombre,No,Medio,10,3,10,9,No Car,"Rock, Metal",Si,,Si
-552,Economía,18:30:00,22:10:00,Hombre,No,Extrovertido,4,1,1,1,No Car,Prefiero ir en silencio,Si,,Si
-553,Marketing,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,Reggaeton,Si,Si,
-554,Administración de Empresas,19:00:00,21:50:00,Mujer,No,Extrovertido,1,10,7,10,Car,"No preferencia, Pop, Reggae",Si,Si,
-555,Ciencias Contables,18:30:00,22:20:00,Mujer,No,Medio,6,4,3,2,Car,No preferencia,Si,Si,
-556,Comercio Internacional,19:15:00,21:50:00,Mujer,No,Medio,1,6,7,1,Car,"Pop, Electrónica, Cumbia, Reggaeton, Trap, Otro",Si,Si,
-557,Marketing,18:50:00,21:00:00,Mujer,No,Extrovertido,7,3,3,4,Car,No preferencia,Si,Si,
-558,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,1,5,1,1,Car,"Pop, Electrónica, Rap/Hip-Hop, Cumbia, Reggaeton, Trap, Funk brasileño, Prefiero ir en silencio",No,No,
-559,Marketing,19:00:00,22:00:00,Mujer,No,Medio,4,9,8,1,Car,"No preferencia, Pop, Rock, Rap/Hip-Hop, Reggaeton",Si,Si,
-560,Ciencias Contables,19:00:00,22:15:00,Mujer,No,Extrovertido,9,10,6,2,Car,"Pop, Reggaeton, Funk brasileño",Si,Si,
-561,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,1,1,10,1,Car,"Reggaeton, Trap",No,No,
-562,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,1,1,Car,No preferencia,Si,Si,
-563,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,7,6,1,1,Car,No preferencia,Si,Si,
-565,Medicina,7:00:00,17:00:00,Hombre,No,Extrovertido,6,1,1,1,No Car,"Rock, Reggaeton, Funk brasileño, Otro",Si,,Si
-566,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,4,1,1,1,Car,No preferencia,Si,Si,
-567,Marketing,19:00:00,22:00:00,Hombre,Si,Extrovertido,3,3,6,1,No Car,"Techno, Rap/Hip-Hop, Reggae, Trap",Si,,Si
-568,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,10,5,3,4,Car,Otro,No,No,
-569,Medicina,7:30:00,16:30:00,Mujer,No,Medio,9,6,3,5,Car,"No preferencia, Rock",Si,Si,
-570,Medicina,7:30:00,15:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
-571,Medicina,7:30:00,13:30:00,Mujer,No,Extrovertido,10,5,1,1,No Car,No preferencia,Si,,Si
-572,Medicina,7:15:00,16:15:00,Mujer,No,Medio,1,3,1,5,Car,No preferencia,Si,Si,
-573,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,7,7,1,1,Car,No preferencia,Si,Si,
-574,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,5,1,4,1,Car,Rock,Si,Si,
-575,Medicina,7:00:00,13:00:00,Mujer,No,Medio,10,5,5,1,Car,Pop,Si,Si,
-576,Ciencias Contables,18:30:00,22:00:00,Hombre,Si,Extrovertido,2,8,6,1,Car,No preferencia,Si,Si,
-577,Comercio Internacional,18:35:00,22:15:00,Mujer,No,Extrovertido,6,3,1,1,No Car,No preferencia,Si,,Si
-578,Medicina,7:30:00,13:00:00,Mujer,No,Introvertido,7,1,1,6,No Car,Prefiero ir en silencio,Si,,Si
-580,Medicina,7:30:00,20:00:00,Mujer,No,Medio,10,1,5,1,Car,Otro,Si,Si,
-581,Medicina,22:00:00,22:30:00,Hombre,Si,Introvertido,10,10,10,8,Car,Trap,No,No,
-582,Medicina,7:30:00,13:00:00,Mujer,No,Medio,3,1,1,1,Car,"Pop, Rock, Metal, Rap/Hip-Hop",Si,Si,
-584,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,1,6,1,2,Car,Reggaeton,Si,Si,
-586,Medicina,8:00:00,17:00:00,Mujer,No,Medio,1,1,1,4,No Car,"No preferencia, Otro, Prefiero ir en silencio",Si,,Si
-587,Ingeniería Industrial,9:00:00,18:00:00,Hombre,No,Extrovertido,7,1,1,1,No Car,"No preferencia, Prefiero ir en silencio",Si,,Si
-588,Medicina,7:30:00,12:30:00,Mujer,Si,Extrovertido,1,1,1,7,No Car,No preferencia,Si,,Si
-589,Ingeniería Industrial,7:30:00,17:00:00,Mujer,No,Medio,4,4,5,1,Car,No preferencia,Si,Si,
-591,Medicina,7:30:00,12:30:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,Si,
-592,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,5,1,1,1,Car,No preferencia,Si,Si,
-593,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,4,2,Car,"Techno, Electrónica, Reggaeton, Trap",Si,Si,
-595,Ciencias Contables,18:00:00,21:00:00,Mujer,No,Introvertido,1,2,2,1,Car,"Cumbia, Reggaeton",Si,Si,
-599,Ingeniería Electrónica,7:30:00,12:00:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-601,Marketing,19:00:00,22:10:00,Mujer,No,Medio,10,10,5,9,Car,"Pop, Reggaeton, Otro, Prefiero ir en silencio",Si,Si,
-602,Marketing,19:00:00,22:00:00,Hombre,No,Medio,1,4,3,1,No Car,"Pop, Electrónica, Rock",Si,,Si
-603,Comercio Internacional,19:00:00,22:00:00,Hombre,Si,Medio,1,7,5,1,Car,"Pop, Rock, Metal, Rap/Hip-Hop, Reggae, Trap",Si,Si,
-604,Economía,8:00:00,12:00:00,Mujer,No,Medio,6,1,1,1,Car,No preferencia,Si,Si,
-605,Economía,18:40:00,22:00:00,Mujer,No,Medio,1,3,1,1,No Car,"Pop, Techno, Electrónica, Rock, Reggae, Cumbia, Reggaeton",Si,,Si
-606,Comercio Internacional,19:30:00,23:00:00,Mujer,No,Extrovertido,2,10,2,1,Car,No preferencia,Si,Si,
-607,Administración de Empresas,18:30:00,22:30:00,Hombre,Si,Medio,1,5,1,1,Car,No preferencia,Si,Si,
-608,Economía,18:30:00,21:30:00,Mujer,Si,Medio,1,5,1,1,Car,No preferencia,Si,Si,
-609,Ciencias Contables,18:00:00,22:30:00,Hombre,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-610,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,"Pop, Techno, Electrónica, Rock, Rap/Hip-Hop, Reggaeton, Trap",No,No,
-611,Economía,19:00:00,22:00:00,Hombre,No,Medio,3,3,1,1,Car,"No preferencia, Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae",Si,Si,
-612,Medicina,7:30:00,13:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,"Rock, Metal",Si,Si,
-614,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,4,4,7,Car,"No preferencia, Otro",Si,Si,
-615,Medicina,7:00:00,14:00:00,Hombre,No,Extrovertido,1,4,4,1,Car,No preferencia,Si,Si,
-616,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Extrovertido,1,1,5,1,Car,"Rap/Hip-Hop, Reggaeton, Trap, Funk brasileño",Si,Si,
-617,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,Pop,Si,Si,
-618,Marketing,18:30:00,22:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-620,Diseño Industrial,18:15:00,22:15:00,Mujer,No,Medio,1,2,1,1,Car,"No preferencia, Reggaeton",Si,Si,
-621,Economía,18:20:00,22:00:00,Mujer,No,Medio,3,3,3,1,Car,No preferencia,Si,Si,
-622,Ingeniería Civil,7:30:00,18:00:00,Mujer,No,Medio,5,5,5,1,No Car,No preferencia,Si,,Si
-623,Medicina,7:00:00,17:30:00,Mujer,No,Introvertido,8,6,7,7,No Car,"Pop, Otro, Prefiero ir en silencio",No,,No
-624,Medicina,7:00:00,16:00:00,Hombre,No,Extrovertido,10,7,10,10,Car,No preferencia,Si,Si,
-625,Ingeniería Electrónica,9:00:00,17:00:00,Hombre,No,Extrovertido,7,3,2,1,Car,No preferencia,Si,Si,
-627,Ingeniería Electrónica,7:30:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"No preferencia, Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño, Otro, Prefiero ir en silencio",No,No,
-629,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,10,3,1,1,Car,Rock,Si,Si,
-630,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"Pop, Rock, Reggaeton",Si,Si,
-631,Marketing,18:50:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,No preferencia,Si,,Si
-632,Administración de Empresas,18:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,Otro,Si,Si,
-633,Economía,18:15:00,22:00:00,Mujer,No,Extrovertido,7,1,1,1,Car,"Pop, Electrónica, Reggaeton, Funk brasileño",Si,Si,
-634,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Medio,4,1,1,1,No Car,"Techno, Electrónica, Rock",Si,,Si
-635,Marketing,19:00:00,22:00:00,Mujer,No,Medio,8,2,2,5,Car,No preferencia,No,No,
-636,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,10,4,4,1,No Car,"Pop, Techno, Electrónica, Reggaeton",Si,Si,
-637,Administración de Empresas,18:40:00,22:00:00,Mujer,No,Medio,5,10,2,1,No Car,No preferencia,Si,,Si
-638,Comercio Internacional,18:30:00,21:30:00,Hombre,Si,Extrovertido,1,4,1,1,Car,No preferencia,Si,Si,
-639,Economía,18:30:00,22:00:00,Mujer,No,Medio,5,1,1,1,Car,"No preferencia, Pop, Rock",Si,Si,
-640,Marketing,18:45:00,22:30:00,Mujer,No,Extrovertido,10,10,1,1,Car,"Pop, Reggaeton, Trap",Si,Si,
-643,Comercio Internacional,18:30:00,21:45:00,Mujer,Si,Medio,1,4,6,1,Car,"Pop, Rap/Hip-Hop, Reggaeton",Si,Si,
-644,Marketing,19:00:00,22:00:00,Mujer,No,Extrovertido,3,1,1,1,Car,No preferencia,No,No,
-645,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,Pop,Si,Si,
-646,Economía,18:15:00,22:00:00,Mujer,No,Medio,7,5,1,1,Car,No preferencia,No,No,
-647,Ingeniería Industrial,14:30:00,20:00:00,Mujer,No,Extrovertido,3,3,4,3,Car,Reggaeton,Si,Si,
-650,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"Pop, Rock, Reggae, Reggaeton",Si,Si,
-653,Diseño Gráfico,18:00:00,20:00:00,Mujer,Si,Medio,4,7,1,1,Car,Otro,Si,Si,
-655,Ingeniería Civil,14:00:00,19:00:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
-657,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,5,5,6,3,Car,No preferencia,Si,Si,
-658,Ciencias Contables,19:00:00,21:30:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,No,No,
-659,Medicina,8:00:00,17:00:00,Mujer,No,Medio,9,6,2,2,Car,No preferencia,Si,Si,
-660,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-661,Fonoaudiología,7:00:00,16:00:00,Mujer,No,Extrovertido,5,5,5,5,No Car,No preferencia,Si,,Si
-662,Medicina,7:30:00,12:30:00,Mujer,No,Extrovertido,10,6,5,1,No Car,"Pop, Reggae, Reggaeton, Otro, Prefiero ir en silencio",Si,Si,
-663,Economía,18:30:00,22:00:00,Mujer,No,Medio,3,3,3,3,No Car,No preferencia,Si,,Si
-664,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,6,4,4,4,Car,No preferencia,Si,Si,
-665,Diseño Industrial,18:15:00,22:00:00,Mujer,No,Extrovertido,8,4,3,5,Car,No preferencia,Si,Si,
-667,Economía,18:30:00,22:30:00,Mujer,No,Medio,10,1,5,2,No Car,Rock,Si,,Si
-669,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,8,5,4,2,Car,"No preferencia, Pop, Techno, Electrónica, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño, Prefiero ir en silencio",Si,Si,
-670,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,No Car,No preferencia,Si,,Si
-671,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,6,8,6,No Car,"No preferencia, Pop, Reggae, Cumbia, Reggaeton, Otro",Si,,Si
-673,Análisis de Sistema,18:20:00,22:00:00,Mujer,No,Medio,1,2,1,1,No Car,Prefiero ir en silencio,Si,,Si
-674,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,4,1,3,Car,No preferencia,Si,Si,
-676,Arquitectura,13:00:00,14:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,No preferencia,Si,,Si
-677,Economía,18:30:00,21:00:00,Mujer,No,Extrovertido,3,3,3,1,No Car,"No preferencia, Pop, Electrónica, Reggaeton, Funk brasileño",Si,,Si
-678,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,10,6,5,6,No Car,No preferencia,Si,,Si
-680,Medicina,7:30:00,17:00:00,Hombre,No,Medio,9,7,1,1,Car,Otro,No,No,
-681,Medicina,6:30:00,19:30:00,Mujer,No,Extrovertido,10,7,7,7,Car,No preferencia,Si,Si,
-682,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-684,Medicina,8:00:00,15:00:00,Mujer,Si,Medio,4,5,2,3,Car,"No preferencia, Pop, Rock, Reggaeton",Si,Si,
-685,Ingeniería Informática,13:30:00,17:30:00,Hombre,No,Medio,5,1,1,1,No Car,No preferencia,Si,,Si
-686,Ingeniería Informática,13:00:00,19:00:00,Mujer,No,Medio,7,1,3,1,Car,"No preferencia, Rock, Otro",Si,Si,
-687,Diseño Industrial,18:30:00,21:00:00,Hombre,No,Medio,10,3,10,1,No Car,"Pop, Rock, Otro",Si,,Si
-688,Ingeniería Electrónica,9:10:00,16:00:00,Hombre,Si,Extrovertido,5,10,10,1,Car,"Techno, Electrónica, Rock, Rap/Hip-Hop",Si,Si,
-690,Medicina,7:30:00,18:30:00,Mujer,No,Medio,7,4,1,1,No Car,No preferencia,Si,,Si
-691,Medicina,8:30:00,19:50:00,Hombre,No,Extrovertido,5,3,1,1,Car,No preferencia,Si,Si,
-692,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,4,1,9,1,Car,"Pop, Electrónica, Rock, Metal, Rap/Hip-Hop, Trap",Si,Si,
-694,Medicina,7:30:00,17:00:00,Mujer,No,Medio,8,1,1,1,Car,No preferencia,Si,Si,
-695,Medicina,7:30:00,17:00:00,Hombre,No,Medio,1,1,1,1,Car,"No preferencia, Pop, Techno, Electrónica, Rock, Metal, Trap, Otro",Si,Si,
-696,Medicina,7:00:00,13:00:00,Hombre,No,Introvertido,5,1,1,1,Car,No preferencia,Si,Si,
-697,Medicina,7:20:00,12:00:00,Mujer,No,Extrovertido,9,4,6,6,Car,No preferencia,Si,Si,
-699,Ingeniería Informática,7:30:00,17:00:00,Hombre,Si,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-700,Fonoaudiología,8:00:00,12:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,Pop,Si,Si,
-701,Arquitectura,13:30:00,17:00:00,Hombre,No,Introvertido,3,3,8,3,Car,No preferencia,Si,Si,
-702,Medicina,7:30:00,17:00:00,Mujer,No,Medio,4,5,8,10,No Car,No preferencia,No,,No
-703,Medicina,7:30:00,12:00:00,Mujer,No,Medio,7,1,1,1,Car,"Pop, Otro",Si,Si,
-704,Economía,18:30:00,21:30:00,Mujer,No,Medio,7,7,1,1,Car,"Pop, Rock, Prefiero ir en silencio",Si,Si,
-705,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,1,8,2,1,No Car,"Reggaeton, Trap, Funk brasileño",Si,,Si
-706,Medicina,7:30:00,13:00:00,Mujer,No,Introvertido,1,4,1,1,Car,No preferencia,Si,Si,
-707,Ingeniería Ambiental,7:30:00,16:00:00,Mujer,No,Extrovertido,9,1,1,4,Car,No preferencia,Si,Si,
-708,Ingeniería Ambiental,8:20:00,12:00:00,Mujer,No,Medio,9,1,1,1,No Car,"Pop, Electrónica",Si,,Si
-709,Medicina,13:00:00,18:20:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-710,Ingeniería Civil,10:00:00,19:30:00,Mujer,No,Medio,6,1,1,6,Car,No preferencia,Si,Si,
-713,Ingeniería Informática,9:00:00,14:00:00,Hombre,No,Medio,10,5,4,1,Car,"Pop, Techno, Electrónica, Rock, Metal, Reggae",Si,Si,
-714,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,7,3,9,3,Car,Rock,Si,Si,
-715,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,1,1,Car,Otro,Si,Si,
-716,Economía,18:30:00,22:00:00,Mujer,No,Extrovertido,4,1,4,1,Car,"Pop, Electrónica, Rock",Si,Si,
-717,Medicina,13:00:00,17:30:00,Mujer,No,Medio,10,1,1,1,No Car,No preferencia,Si,,Si
-719,Medicina,8:00:00,15:00:00,Mujer,No,Medio,9,3,3,3,Car,No preferencia,Si,Si,
-720,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,1,1,1,No Car,Pop,Si,,Si
-721,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,5,5,1,Car,No preferencia,Si,Si,
-722,Medicina,7:30:00,17:00:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Trap",Si,,Si
-723,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
-725,Marketing,19:00:00,22:20:00,Mujer,Si,Medio,5,1,7,1,Car,"Pop, Techno, Rap/Hip-Hop, Reggaeton, Trap, Funk brasileño",Si,Si,
-726,Diseño Gráfico,18:00:00,21:00:00,Mujer,No,Medio,10,5,1,1,Car,No preferencia,Si,Si,
-728,Economía,18:30:00,21:45:00,Mujer,No,Medio,5,4,5,6,Car,Pop,Si,Si,
-729,Ingeniería Civil,10:30:00,19:15:00,Mujer,No,Medio,4,7,5,4,Car,No preferencia,Si,Si,
-730,Administración de Empresas,18:00:00,22:30:00,Mujer,No,Medio,10,7,8,1,Car,Rock,Si,Si,
-733,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,2,1,7,No Car,"Pop, Otro",Si,,Si
-734,Ingeniería Informática,9:10:00,18:30:00,Hombre,No,Medio,3,3,1,1,Car,"Pop, Otro",No,No,
-736,Medicina,7:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"Pop, Electrónica, Reggaeton",Si,,Si
-738,Análisis de Sistema,18:00:00,21:30:00,Hombre,No,Extrovertido,1,7,5,1,No Car,No preferencia,Si,,Si
-739,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,6,5,3,No Car,Prefiero ir en silencio,No,,No
-740,Marketing,19:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,Car,No preferencia,Si,Si,
-741,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,5,1,Car,No preferencia,Si,Si,
-742,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Extrovertido,2,6,6,5,Car,Otro,Si,Si,
-744,Ciencias Contables,18:00:00,22:15:00,Mujer,No,Extrovertido,10,10,5,10,Car,No preferencia,Si,Si,
-745,Ingeniería Industrial,9:00:00,17:00:00,Hombre,No,Extrovertido,5,3,4,1,Car,No preferencia,Si,Si,
-747,Administración de Empresas,8:00:00,12:00:00,Hombre,No,Medio,10,10,1,1,No Car,Otro,Si,Si,
-748,Medicina,7:30:00,16:30:00,Hombre,No,Medio,5,3,1,1,Car,No preferencia,Si,Si,
-749,Economía,18:00:00,22:00:00,Hombre,No,Medio,10,1,1,1,Car,No preferencia,Si,Si,
-750,Medicina,6:15:00,18:50:00,Hombre,No,Extrovertido,5,3,1,1,Car,"Pop, Rock, Metal",Si,Si,
-751,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,Metal,Si,Si,
-752,Ingeniería Civil,7:30:00,17:30:00,Hombre,No,Extrovertido,1,3,6,3,Car,"No preferencia, Rock",Si,Si,
-754,Ingeniería Civil,13:00:00,20:00:00,Mujer,No,Medio,6,1,1,5,Car,No preferencia,Si,Si,
-755,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,10,8,7,7,Car,"Pop, Rock",Si,Si,
-756,Medicina,6:00:00,14:00:00,Hombre,No,Medio,1,1,1,1,Car,No preferencia,Si,Si,
-760,Diseño Gráfico,19:00:00,22:00:00,Hombre,No,Extrovertido,5,3,1,1,No Car,No preferencia,Si,,Si
-761,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,6,1,1,1,No Car,No preferencia,Si,,Si
-764,Medicina,7:30:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"No preferencia, Pop, Electrónica, Rock, Reggaeton, Trap, Otro",Si,,Si
-765,Economía,18:30:00,22:30:00,Mujer,No,Medio,9,6,10,1,Car,"No preferencia, Pop, Reggaeton, Otro",Si,Si,
-766,Ciencias Contables,8:00:00,17:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,No preferencia,Si,Si,
-767,Medicina,7:30:00,16:00:00,Mujer,No,Medio,3,5,10,4,Car,"Pop, Rap/Hip-Hop, Reggaeton",Si,Si,
-768,Comercio Internacional,18:00:00,22:30:00,Mujer,No,Medio,8,4,5,7,No Car,No preferencia,No,,No
-769,Ingeniería Electrónica,13:00:00,18:30:00,Hombre,No,Medio,10,1,1,1,No Car,No preferencia,Si,,Si
-770,Ingeniería Informática,8:00:00,18:00:00,Mujer,No,Medio,7,4,4,1,Car,"Pop, Otro",Si,Si,
-771,Medicina,7:30:00,16:30:00,Mujer,No,Medio,1,8,1,1,Car,No preferencia,Si,Si,
-773,Ciencias Contables,18:15:00,22:00:00,Mujer,No,Medio,7,5,5,1,Car,No preferencia,Si,Si,
-775,Análisis de Sistema,18:20:00,22:00:00,Hombre,No,Medio,7,5,2,1,No Car,Rock,Si,,Si
-776,Ingeniería Electrónica,8:15:00,13:00:00,Hombre,No,Introvertido,8,1,10,1,No Car,"Rock, Metal",Si,,Si
-777,Análisis de Sistema,18:15:00,21:50:00,Mujer,No,Medio,3,1,1,1,Car,No preferencia,Si,Si,
-779,Medicina,8:00:00,12:00:00,Mujer,No,Medio,1,5,4,1,No Car,Reggaeton,Si,,Si
-780,Ingeniería Civil,7:30:00,18:00:00,Hombre,Si,Medio,1,1,1,1,Car,"No preferencia, Pop, Techno, Electrónica, Rock, Metal, Rap/Hip-Hop, Reggae, Cumbia, Reggaeton, Trap, Funk brasileño, Otro, Prefiero ir en silencio",Si,Si,
-781,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,3,1,1,1,No Car,No preferencia,Si,,Si
-782,Ingeniería Civil,7:30:00,18:00:00,Hombre,No,Extrovertido,5,2,1,1,Car,"No preferencia, Otro, Prefiero ir en silencio",Si,Si,
+115,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+116,Arquitectura,8:00:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"NO_PREF, REGGAE, REGGAETON, TRAP, Funk brasileño",Si,Si,
+117,Arquitectura,7:30:00,16:00:00,Mujer,No,Extrovertido,7,6,8,1,Car,NO_PREF,Si,Si,
+118,Ingeniería Civil,9:00:00,18:30:00,Hombre,No,Extrovertido,5,7,5,3,No Car,NO_PREF,Si,,Si
+120,Ingeniería Industrial,7:30:00,11:00:00,Mujer,No,Medio,2,3,2,2,No Car,NO_PREF,Si,,Si
+121,Ingeniería Civil,9:00:00,14:00:00,Mujer,No,Extrovertido,1,1,2,8,No Car,NO_PREF,Si,,Si
+122,Ingeniería Ambiental,9:10:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,"POP, ROCK, RAP, REGGAE, Cumbia, REGGAETON, TRAP",Si,Si,
+123,Análisis de Sistema,18:00:00,21:45:00,Hombre,No,Medio,1,1,3,1,Car,"POP, ROCK, RAP, REGGAETON, TRAP",Si,Si,
+124,Ingeniería Ambiental,9:00:00,16:00:00,Mujer,Si,Medio,1,6,1,1,No Car,"POP, TECHNO, ELECTRONIC, REGGAE, REGGAETON",Si,,Si
+125,Ciencias Contables,18:30:00,21:30:00,Mujer,No,Medio,10,5,5,8,Car,NO_PREF,Si,Si,
+126,Economía,18:30:00,22:00:00,Hombre,Si,Medio,1,8,2,1,Car,NO_PREF,Si,Si,
+127,Economía,18:30:00,21:30:00,Mujer,No,Medio,5,5,7,5,No Car,NO_PREF,Si,,Si
+128,Ingeniería Industrial,10:40:00,16:00:00,Hombre,No,Medio,10,10,10,10,No Car,NO_PREF,Si,,Si
+132,Nutrición,12:30:00,17:00:00,Mujer,No,Medio,5,5,1,1,No Car,"POP, REGGAETON, TRAP",Si,,Si
+133,Economía,19:00:00,22:00:00,Hombre,No,Medio,5,1,1,1,Car,NO_PREF,Si,Si,
+134,Nutrición,12:30:00,17:00:00,Mujer,No,Medio,10,5,5,2,No Car,POP,Si,,Si
+135,Nutrición,12:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"NO_PREF, POP, ROCK, RAP, REGGAE, REGGAETON, TRAP",Si,,Si
+137,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Medio,3,1,1,1,Car,POP,No,No,
+138,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,5,2,2,2,No Car,"ROCK, RAP, TRAP",Si,,Si
+139,Ingeniería Industrial,10:30:00,22:00:00,Mujer,No,Medio,4,3,1,2,No Car,NO_PREF,Si,,Si
+140,Diseño Industrial,18:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,Car,NO_PREF,Si,Si,
+141,Arquitectura,8:00:00,17:30:00,Mujer,No,Extrovertido,8,1,1,1,Car,NO_PREF,Si,Si,
+142,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Medio,5,6,6,1,Car,NO_PREF,Si,Si,
+143,Ingeniería Civil,13:00:00,17:00:00,Mujer,No,Medio,3,1,1,1,No Car,"REGGAETON, TRAP",Si,,Si
+144,Ingeniería Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,4,3,1,1,No Car,"POP, ROCK, REGGAETON",Si,,Si
+145,Arquitectura,9:00:00,18:00:00,Mujer,No,Extrovertido,8,5,1,4,Car,NO_PREF,Si,Si,
+146,Ingeniería Civil,9:00:00,17:00:00,Hombre,Si,Medio,1,3,1,1,No Car,NO_PREF,Si,,Si
+147,Análisis de Sistema,18:00:00,21:30:00,Hombre,No,Medio,1,3,1,1,No Car,"POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP, REGGAE, TRAP",Si,,Si
+148,Ingeniería Civil,10:00:00,18:00:00,Mujer,No,Medio,10,5,4,5,Car,NO_PREF,Si,Si,
+149,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Medio,1,4,1,1,No Car,NO_PREF,Si,,Si
+150,Ingeniería Industrial,7:30:00,15:00:00,Hombre,No,Extrovertido,6,9,1,1,Car,NO_PREF,Si,Si,
+152,Ingeniería ELECTRONIC,8:00:00,16:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+153,Ingeniería Civil,7:30:00,19:00:00,Mujer,No,Medio,10,6,5,4,Car,NO_PREF,No,No,
+155,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,10,2,2,2,Car,"POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP, REGGAETON",Si,Si,
+156,Ingeniería Civil,8:00:00,17:00:00,Hombre,No,Extrovertido,10,6,1,1,No Car,NO_PREF,Si,,Si
+157,Análisis de Sistema,18:15:00,22:00:00,Hombre,No,Medio,8,5,1,1,Car,NO_PREF,Si,Si,
+158,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,5,1,1,6,No Car,NO_PREF,Si,,Si
+159,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+160,Ingeniería Civil,13:00:00,17:45:00,Hombre,No,Medio,8,4,1,1,Car,NO_PREF,Si,Si,
+161,Diseño Gráfico,17:30:00,22:00:00,Hombre,Si,Extrovertido,2,6,6,6,Car,"POP, TECHNO, ELECTRONIC, RAP, REGGAETON, TRAP",No,No,
+162,Ingeniería Ambiental,10:45:00,18:00:00,Mujer,No,Medio,10,5,6,9,Car,"POP, ROCK, REGGAE, Cumbia, REGGAETON, TRAP",Si,Si,
+163,Arquitectura,15:00:00,19:00:00,Mujer,No,Extrovertido,5,7,1,1,No Car,"POP, TECHNO, ELECTRONIC, ROCK",Si,,Si
+164,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,1,5,3,4,Car,"POP, RAP, REGGAETON, TRAP",Si,Si,
+165,Ingeniería Civil,13:00:00,19:00:00,Mujer,No,Extrovertido,8,1,1,1,No Car,NO_PREF,Si,,Si
+166,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,10,6,1,3,Car,"NO_PREF, POP, RAP, REGGAE",Si,Si,
+167,Nutrición,11:00:00,17:00:00,Mujer,No,Medio,10,8,8,10,Car,NO_PREF,Si,Si,
+168,Ciencias Contables,18:30:00,22:10:00,Mujer,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+169,Ingeniería Civil,7:30:00,16:00:00,Mujer,No,Medio,1,5,1,1,Car,NO_PREF,Si,Si,
+170,Arquitectura,8:00:00,17:00:00,Mujer,No,Medio,3,5,5,1,Car,"POP, ELECTRONIC, REGGAETON, TRAP",Si,Si,
+171,Ingeniería Civil,13:30:00,18:00:00,Hombre,No,Medio,1,5,5,6,Car,"ROCK, REGGAE, REGGAETON, TRAP",Si,Si,
+172,Administración de Empresas,19:00:00,22:15:00,Mujer,No,Medio,2,1,1,1,Car,NO_PREF,Si,Si,
+174,Ingeniería Civil,7:30:00,21:00:00,Mujer,No,Extrovertido,3,2,1,1,No Car,NO_PREF,Si,,Si
+175,Arquitectura,13:00:00,18:30:00,Hombre,Si,Medio,3,4,3,3,Car,NO_PREF,Si,Si,
+176,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,8,1,7,9,Car,POP,Si,Si,
+178,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,4,4,2,1,Car,"NO_PREF, TECHNO, ELECTRONIC, REGGAETON",Si,Si,
+179,Ingeniería Civil,14:00:00,18:00:00,Mujer,No,Medio,9,6,5,2,Car,NO_PREF,Si,Si,
+180,Ingeniería Civil,7:30:00,16:45:00,Mujer,No,Medio,3,1,1,1,No Car,NO_PREF,Si,,Si
+181,Medicina,7:30:00,17:00:00,Mujer,No,Medio,7,5,1,1,Car,NO_PREF,No,No,
+182,Ciencias Contables,18:40:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+183,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,NO_PREF,Si,,Si
+185,Ingeniería Industrial,9:00:00,18:00:00,Mujer,No,Medio,7,1,1,2,No Car,NO_PREF,Si,,Si
+187,Ingeniería Industrial,10:40:00,18:00:00,Hombre,No,Medio,1,1,3,1,No Car,NO_PREF,Si,,Si
+188,Ingeniería Industrial,8:00:00,20:00:00,Mujer,Si,Extrovertido,4,9,10,1,No Car,"POP, ROCK, REGGAETON",Si,,Si
+189,Marketing,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+191,Medicina,7:30:00,12:30:00,Mujer,Si,Extrovertido,1,5,1,7,No Car,NO_PREF,Si,,Si
+192,Administración de Empresas,19:00:00,21:50:00,Hombre,Si,Medio,1,5,4,1,Car,"NO_PREF, POP, REGGAETON",Si,Si,
+193,Medicina,7:30:00,14:00:00,Mujer,No,Extrovertido,3,7,6,2,Car,"POP, ROCK",Si,Si,
+194,Economía,18:20:00,22:00:00,Hombre,No,Extrovertido,3,5,5,1,Car,"REGGAETON, TRAP, SILENCE",Si,Si,
+195,Ingeniería Civil,8:00:00,14:00:00,Hombre,No,Extrovertido,4,6,2,1,Car,NO_PREF,Si,Si,
+196,Economía,18:50:00,21:50:00,Hombre,No,Medio,1,1,4,1,No Car,NO_PREF,Si,,Si
+197,Ingeniería ELECTRONIC,13:00:00,19:00:00,Mujer,No,Introvertido,3,5,6,2,Car,"POP, TECHNO, ELECTRONIC, ROCK, REGGAE",No,No,
+199,Economía,8:00:00,12:00:00,Hombre,No,Medio,3,5,2,1,Car,SILENCE,No,No,
+200,Administración de Empresas,18:30:00,22:00:00,Hombre,No,Extrovertido,10,10,9,10,Car,"NO_PREF, REGGAETON",Si,Si,
+201,Ingeniería Civil,10:45:00,17:00:00,Mujer,No,Extrovertido,5,7,10,1,Car,REGGAETON,Si,Si,
+202,Ingeniería Informática,13:00:00,14:30:00,Hombre,No,Extrovertido,8,1,1,1,Car,NO_PREF,Si,Si,
+203,Ingeniería ELECTRONIC,13:00:00,17:00:00,Mujer,No,Medio,6,1,1,1,Car,"NO_PREF, POP, ROCK, RAP, REGGAE, REGGAETON, TRAP",Si,Si,
+205,Ingeniería Civil,9:00:00,19:00:00,Mujer,No,Medio,5,7,1,1,No Car,NO_PREF,Si,,Si
+206,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Extrovertido,5,7,4,6,No Car,NO_PREF,Si,,Si
+207,Comercio Internacional,18:30:00,22:15:00,Mujer,No,Extrovertido,5,3,3,1,Car,"POP, ELECTRONIC, REGGAETON",Si,Si,
+208,Ingeniería Civil,14:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+209,Economía,18:30:00,22:00:00,Mujer,No,Medio,5,3,1,4,No Car,NO_PREF,Si,,Si
+211,Arquitectura,13:00:00,13:30:00,Mujer,No,Medio,9,5,1,2,Car,NO_PREF,Si,Si,
+213,Marketing,18:30:00,21:40:00,Mujer,No,Medio,10,1,6,1,Car,"POP, ROCK, RAP",Si,Si,
+215,Ingeniería Industrial,7:40:00,12:15:00,Hombre,No,Medio,1,1,1,1,No Car,ROCK,Si,,Si
+218,Ingeniería ELECTRONIC,7:30:00,16:00:00,Hombre,No,Medio,1,3,1,1,No Car,SILENCE,Si,,Si
+220,Ingeniería Civil,7:30:00,16:00:00,Hombre,Si,Extrovertido,1,8,1,1,Car,"NO_PREF, POP, ROCK, RAP, REGGAETON, TRAP",Si,Si,
+221,Marketing,18:00:00,22:15:00,Mujer,Si,Extrovertido,1,5,8,1,Car,"POP, REGGAETON",Si,Si,
+223,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,5,1,1,No Car,POP,Si,,Si
+224,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,5,1,1,1,Car,NO_PREF,Si,Si,
+225,Medicina,7:30:00,15:00:00,Hombre,No,Medio,8,3,1,1,Car,"POP, TECHNO, ELECTRONIC, ROCK, REGGAE",Si,Si,
+227,Ingeniería Civil,13:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+228,Análisis de Sistema,17:50:00,22:00:00,Mujer,No,Introvertido,1,1,1,1,No Car,POP,Si,,Si
+229,Fonoaudiología,7:30:00,11:30:00,Mujer,No,Medio,10,10,1,1,Car,NO_PREF,No,No,
+231,Administración de Empresas,18:00:00,21:30:00,Hombre,No,Medio,5,7,3,1,No Car,NO_PREF,Si,,Si
+232,Ciencias Contables,19:00:00,22:10:00,Mujer,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+233,Medicina,15:08:00,21:25:00,Hombre,No,Extrovertido,10,9,1,1,Car,NO_PREF,No,No,
+235,Arquitectura,7:15:00,18:30:00,Mujer,No,Medio,1,6,6,2,No Car,"RAP, REGGAETON",No,,No
+236,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,8,4,6,8,No Car,SILENCE,No,,No
+239,Medicina,7:30:00,17:30:00,Mujer,No,Medio,7,7,3,5,No Car,POP,Si,,Si
+240,Ingeniería Civil,7:00:00,13:50:00,Mujer,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+241,Marketing,18:30:00,22:00:00,Mujer,Si,Extrovertido,10,10,10,6,Car,NO_PREF,Si,Si,
+242,Medicina,7:30:00,12:00:00,Hombre,No,Extrovertido,10,1,5,5,Car,"POP, ROCK, REGGAE",Si,Si,
+243,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,1,5,5,1,Car,NO_PREF,Si,Si,
+244,Marketing,18:30:00,22:00:00,Mujer,No,Medio,4,8,3,1,No Car,POP,Si,,Si
+245,Arquitectura,8:00:00,17:00:00,Mujer,No,Extrovertido,6,10,1,1,Car,NO_PREF,Si,Si,
+246,Arquitectura,8:30:00,17:00:00,Mujer,No,Extrovertido,10,5,5,5,No Car,"POP, REGGAETON",Si,,Si
+247,Ingeniería Civil,7:30:00,14:30:00,Hombre,No,Medio,10,1,1,1,Car,NO_PREF,No,No,
+248,Fonoaudiología,7:30:00,18:30:00,Mujer,No,Medio,10,10,10,1,No Car,"REGGAETON, Funk brasileño",No,,No
+249,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,10,2,5,8,Car,NO_PREF,Si,Si,
+250,Arquitectura,8:00:00,17:00:00,Hombre,No,Medio,10,7,8,1,Car,NO_PREF,Si,Si,
+251,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+252,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Medio,2,2,1,1,No Car,ROCK,Si,,Si
+253,Ingeniería Industrial,7:30:00,18:00:00,Mujer,No,Extrovertido,5,1,1,1,Car,NO_PREF,Si,Si,
+254,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+255,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+256,Fonoaudiología,7:30:00,10:40:00,Mujer,No,Medio,5,4,2,6,No Car,NO_PREF,Si,,Si
+257,Ingeniería Civil,7:03:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,No Car,NO_PREF,Si,,Si
+258,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Medio,3,1,1,1,No Car,"POP, ROCK, REGGAETON",Si,,Si
+259,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+260,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+262,Fonoaudiología,7:30:00,11:30:00,Mujer,No,Medio,3,4,1,1,Car,NO_PREF,Si,Si,
+263,Ingeniería Civil,9:00:00,16:00:00,Hombre,Si,Medio,1,5,10,1,Car,NO_PREF,Si,Si,
+264,Ingeniería Industrial,9:00:00,13:00:00,Hombre,Si,Medio,1,1,10,1,Car,"POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP",Si,Si,
+265,Análisis de Sistema,18:15:00,22:00:00,Hombre,No,Medio,1,5,1,1,No Car,"NO_PREF, POP, ROCK",Si,,Si
+268,Arquitectura,8:00:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"POP, ELECTRONIC, REGGAETON, TRAP, Funk brasileño",Si,,Si
+269,Economía,18:30:00,21:00:00,Hombre,No,Extrovertido,4,1,1,1,No Car,"ROCK, RAP, REGGAE, TRAP",Si,,Si
+270,Ingeniería Civil,7:30:00,17:00:00,Mujer,No,Medio,3,1,1,5,Car,NO_PREF,Si,Si,
+272,Ciencias Contables,18:20:00,22:00:00,Mujer,No,Extrovertido,3,3,2,4,Car,NO_PREF,Si,Si,
+273,Economía,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+274,Administración de Empresas,19:00:00,21:45:00,Mujer,No,Extrovertido,5,3,1,1,Car,"POP, ELECTRONIC, REGGAETON",Si,Si,
+275,Ingeniería Civil,10:45:00,17:00:00,Mujer,Si,Extrovertido,1,6,5,1,Car,"POP, TECHNO, RAP, REGGAE, TRAP",Si,Si,
+277,Administración de Empresas,18:00:00,22:00:00,Hombre,Si,Medio,1,4,3,1,Car,ROCK,No,No,
+278,Economía,18:30:00,22:00:00,Hombre,Si,Medio,1,6,1,1,Car,NO_PREF,Si,Si,
+279,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,10,5,4,7,No Car,POP,Si,,Si
+280,Arquitectura,13:00:00,19:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+281,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,5,5,1,1,Car,NO_PREF,No,No,
+282,Ingeniería Civil,9:00:00,18:00:00,Mujer,No,Extrovertido,2,1,1,1,No Car,NO_PREF,Si,,Si
+283,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,10,5,5,10,Car,"NO_PREF, POP, REGGAETON, TRAP",Si,Si,
+284,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,6,7,8,5,Car,"POP, ELECTRONIC, REGGAETON",Si,Si,
+285,Arquitectura,13:00:00,18:00:00,Mujer,No,Medio,8,6,3,3,Car,"POP, ELECTRONIC, RAP, REGGAE, REGGAETON",Si,Si,
+287,Fonoaudiología,7:30:00,18:40:00,Mujer,No,Medio,5,5,5,5,No Car,NO_PREF,Si,,Si
+288,Administración de Empresas,19:00:00,22:00:00,Mujer,Si,Extrovertido,1,5,1,1,No Car,NO_PREF,Si,,Si
+289,Administración de Empresas,19:00:00,22:30:00,Hombre,No,Extrovertido,10,7,1,1,Car,NO_PREF,Si,Si,
+290,Administración de Empresas,18:30:00,21:45:00,Mujer,No,Medio,6,1,5,5,Car,NO_PREF,Si,Si,
+291,Medicina,7:30:00,17:00:00,Hombre,Si,Extrovertido,1,5,1,1,No Car,NO_PREF,Si,,Si
+292,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,7,1,1,1,Car,NO_PREF,Si,Si,
+293,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,7,10,7,1,Car,"POP, ELECTRONIC, ROCK, METAL, RAP",Si,Si,
+294,Economía,18:00:00,22:10:00,Hombre,No,Extrovertido,5,5,1,1,No Car,NO_PREF,Si,,Si
+295,Administración de Empresas,18:30:00,22:15:00,Mujer,Si,Medio,3,5,2,1,No Car,NO_PREF,Si,,Si
+296,Ingeniería Ambiental,8:00:00,20:00:00,Hombre,No,Medio,9,7,5,2,Car,"POP, ELECTRONIC, ROCK, METAL, RAP, REGGAE, REGGAETON, TRAP",Si,Si,
+298,Economía,18:30:00,22:00:00,Hombre,No,Medio,10,5,1,1,Car,"NO_PREF, SILENCE",Si,Si,
+299,Ingeniería Industrial,7:00:00,16:00:00,Mujer,No,Extrovertido,5,1,10,1,No Car,"NO_PREF, POP, Cumbia, REGGAETON, SILENCE",Si,,Si
+300,Ingeniería Industrial,15:00:00,21:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+301,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,6,7,1,Car,POP,Si,Si,
+302,Medicina,7:30:00,12:50:00,Mujer,No,Extrovertido,8,8,1,5,No Car,NO_PREF,Si,,Si
+303,Medicina,9:30:00,20:50:00,Hombre,No,Extrovertido,5,1,1,1,Car,NO_PREF,Si,Si,
+306,Comercio Internacional,18:15:00,22:15:00,Mujer,No,Medio,3,5,2,2,Car,"NO_PREF, POP, ROCK, RAP, Cumbia, REGGAETON",Si,Si,
+307,Economía,18:30:00,22:00:00,Hombre,Si,Extrovertido,1,5,1,1,Car,NO_PREF,Si,Si,
+308,Fonoaudiología,8:00:00,11:30:00,Mujer,No,Medio,10,1,1,1,No Car,NO_PREF,Si,,Si
+310,Economía,18:30:00,22:00:00,Hombre,No,Medio,8,3,6,1,Car,ROCK,Si,Si,
+311,Ingeniería Informática,7:00:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+312,Ingeniería Civil,8:00:00,18:00:00,Mujer,No,Medio,9,2,2,1,No Car,NO_PREF,Si,,Si
+313,Medicina,7:30:00,14:00:00,Mujer,No,Extrovertido,1,5,5,7,No Car,POP,Si,,Si
+314,Medicina,7:30:00,15:00:00,Hombre,No,Medio,4,1,1,1,Car,NO_PREF,Si,Si,
+315,Diseño Gráfico,18:00:00,22:00:00,Mujer,No,Extrovertido,6,1,1,1,No Car,"POP, ELECTRONIC, ROCK, METAL, REGGAETON, TRAP",Si,,Si
+316,Ciencias Contables,19:00:00,22:15:00,Hombre,No,Extrovertido,4,10,4,1,Car,TRAP,Si,Si,
+317,Medicina,7:30:00,18:30:00,Mujer,Si,Medio,1,7,1,1,Car,ROCK,Si,Si,
+318,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Medio,7,5,5,1,No Car,NO_PREF,Si,,Si
+320,Ingeniería Civil,7:30:00,12:00:00,Mujer,Si,Extrovertido,1,4,6,1,No Car,POP,Si,,Si
+321,Administración de Empresas,18:30:00,22:00:00,Mujer,Si,Extrovertido,1,3,1,6,No Car,NO_PREF,Si,,Si
+322,Comercio Internacional,18:30:00,21:30:00,Mujer,No,Extrovertido,10,5,1,1,No Car,NO_PREF,Si,,Si
+324,Medicina,11:00:00,16:00:00,Mujer,No,Medio,8,8,9,5,Car,REGGAETON,Si,Si,
+326,Medicina,7:30:00,17:30:00,Hombre,Si,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+328,Ingeniería Civil,7:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+330,Ingeniería Civil,7:30:00,18:00:00,Mujer,Si,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+331,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,TECHNO,Si,,Si
+334,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,10,10,10,10,No Car,NO_PREF,Si,,Si
+336,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+337,Análisis de Sistema,18:00:00,22:10:00,Hombre,No,Medio,1,1,10,1,Car,"POP, ROCK, METAL",No,No,
+340,Ingeniería Civil,13:00:00,18:00:00,Mujer,Si,Medio,1,8,10,1,Car,ROCK,Si,Si,
+341,Fonoaudiología,7:30:00,12:15:00,Mujer,No,Extrovertido,10,10,10,10,No Car,NO_PREF,Si,,Si
+342,Administración de Empresas,18:00:00,22:00:00,Hombre,No,Medio,5,5,5,5,No Car,NO_PREF,Si,,Si
+343,Análisis de Sistema,18:15:00,22:15:00,Hombre,Si,Medio,1,1,8,1,Car,TECHNO,Si,Si,
+344,Medicina,8:00:00,12:00:00,Mujer,No,Medio,5,5,5,5,Car,NO_PREF,No,No,
+346,Ingeniería Civil,13:00:00,22:00:00,Mujer,No,Medio,9,5,5,5,Car,NO_PREF,No,No,
+347,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+348,Ingeniería Civil,9:15:00,17:00:00,Mujer,No,Medio,3,4,1,1,Car,NO_PREF,Si,Si,
+350,Administración de Empresas,18:00:00,22:00:00,Hombre,Si,Extrovertido,2,3,4,1,Car,REGGAETON,Si,Si,
+351,Medicina,7:30:00,20:00:00,Mujer,No,Extrovertido,7,6,5,1,No Car,REGGAETON,Si,,Si
+352,Diseño Gráfico,17:30:00,21:20:00,Mujer,No,Medio,7,10,10,4,Car,"POP, ELECTRONIC, ROCK, RAP",No,No,
+353,Medicina,7:30:00,12:00:00,Mujer,No,Medio,4,6,1,8,Car,NO_PREF,Si,Si,
+354,Medicina,8:00:00,18:00:00,Hombre,No,Introvertido,10,5,6,1,Car,NO_PREF,Si,Si,
+355,Arquitectura,7:00:00,17:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+357,Ingeniería Civil,13:00:00,18:00:00,Hombre,No,Medio,5,3,2,1,Car,NO_PREF,Si,Si,
+358,Ciencias Contables,18:30:00,22:10:00,Hombre,No,Extrovertido,8,1,5,1,Car,ROCK,Si,Si,
+359,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,9,1,10,No Car,NO_PREF,Si,,Si
+361,Marketing,18:30:00,22:00:00,Hombre,No,Medio,9,3,3,1,Car,"POP, ELECTRONIC, ROCK, REGGAETON, TRAP",Si,Si,
+362,Medicina,7:30:00,12:30:00,Hombre,No,Extrovertido,10,1,1,1,No Car,NO_PREF,Si,,Si
+363,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,5,1,1,1,No Car,NO_PREF,Si,,Si
+364,Ingeniería Civil,9:00:00,17:45:00,Hombre,Si,Extrovertido,1,1,4,1,Car,NO_PREF,Si,Si,
+365,Ingeniería Industrial,10:00:00,16:00:00,Hombre,No,Medio,10,5,5,5,No Car,POP,Si,,Si
+366,Arquitectura,8:00:00,18:00:00,Mujer,No,Medio,1,3,1,1,Car,NO_PREF,Si,Si,
+367,Ingeniería Informática,9:00:00,16:00:00,Hombre,No,Extrovertido,8,1,5,1,Car,"POP, METAL, REGGAE",Si,Si,
+368,Medicina,7:30:00,14:00:00,Mujer,No,Medio,7,9,10,10,Car,"POP, REGGAE, Cumbia, REGGAETON, TRAP",Si,Si,
+370,Medicina,7:30:00,15:00:00,Mujer,No,Medio,8,5,1,1,No Car,NO_PREF,Si,,Si
+374,Medicina,7:30:00,16:00:00,Hombre,No,Medio,10,1,5,1,Car,NO_PREF,Si,Si,
+377,Ingeniería Civil,13:00:00,18:00:00,Mujer,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+378,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,1,1,1,Car,"POP, ELECTRONIC, ROCK, METAL, REGGAE, REGGAETON, Funk brasileño",Si,Si,
+379,Ingeniería Industrial,7:30:00,18:20:00,Mujer,No,Medio,5,5,2,2,No Car,"POP, ELECTRONIC, ROCK, REGGAETON",Si,,Si
+380,Comercio Internacional,17:30:00,22:00:00,Hombre,Si,Extrovertido,3,7,3,1,No Car,NO_PREF,Si,,Si
+381,Medicina,7:30:00,12:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,NO_PREF,Si,Si,
+382,Fonoaudiología,7:30:00,14:15:00,Mujer,Si,Extrovertido,1,5,1,5,Car,"NO_PREF, POP, ROCK, REGGAETON",Si,Si,
+383,Economía,18:30:00,22:00:00,Hombre,No,Introvertido,10,10,1,1,No Car,SILENCE,Si,,Si
+386,Medicina,10:00:00,17:00:00,Mujer,No,Medio,10,4,4,8,Car,NO_PREF,Si,Si,
+387,Arquitectura,8:30:00,17:30:00,Mujer,No,Medio,7,3,5,3,Car,POP,Si,Si,
+389,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Extrovertido,7,5,7,5,Car,"POP, ROCK, Cumbia, REGGAETON",Si,Si,
+390,Ingeniería Civil,7:30:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,No Car,NO_PREF,Si,,Si
+391,Ingeniería Informática,13:00:00,17:00:00,Hombre,No,Medio,10,5,5,1,Car,NO_PREF,Si,Si,
+392,Medicina,10:00:00,16:30:00,Hombre,No,Extrovertido,3,7,1,1,Car,NO_PREF,Si,Si,
+393,Ingeniería Industrial,9:30:00,17:00:00,Hombre,No,Medio,3,3,1,1,No Car,NO_PREF,Si,,Si
+394,Comercio Internacional,18:30:00,22:30:00,Mujer,Si,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+395,Marketing,19:00:00,22:00:00,Mujer,No,Extrovertido,7,1,3,4,Car,"NO_PREF, POP, REGGAETON, TRAP, Funk brasileño",Si,Si,
+396,Ingeniería Civil,7:30:00,17:00:00,Mujer,No,Medio,5,5,5,1,No Car,NO_PREF,No,,No
+399,Medicina,7:00:00,12:00:00,Mujer,No,Medio,7,7,7,9,Car,NO_PREF,Si,Si,
+400,Marketing,18:30:00,22:00:00,Mujer,No,Medio,10,1,5,10,Car,NO_PREF,Si,Si,
+401,Fonoaudiología,7:30:00,13:30:00,Mujer,No,Medio,5,4,1,1,No Car,NO_PREF,Si,,Si
+403,Ciencias Contables,19:00:00,22:00:00,Mujer,Si,Medio,3,4,4,8,Car,NO_PREF,Si,Si,
+404,Ingeniería Civil,9:00:00,17:00:00,Hombre,Si,Extrovertido,1,7,1,1,Car,NO_PREF,Si,Si,
+405,Análisis de Sistema,17:30:00,22:00:00,Mujer,No,Medio,9,4,3,3,No Car,"POP, ROCK",No,,No
+406,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Medio,7,7,5,5,Car,"REGGAETON, TRAP",Si,Si,
+408,Arquitectura,9:00:00,18:00:00,Mujer,No,Medio,6,2,1,3,Car,NO_PREF,Si,Si,
+409,Análisis de Sistema,18:45:00,21:30:00,Hombre,No,Medio,10,5,7,5,Car,NO_PREF,Si,Si,
+410,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,3,3,3,2,Car,NO_PREF,No,No,
+411,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Extrovertido,5,1,1,1,No Car,REGGAETON,Si,,Si
+412,Ingeniería Civil,9:00:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+413,Medicina,7:30:00,13:30:00,Mujer,No,Extrovertido,8,5,5,6,No Car,NO_PREF,Si,,Si
+415,Medicina,8:00:00,19:00:00,Mujer,No,Medio,8,10,1,1,Car,NO_PREF,Si,Si,
+418,Medicina,7:30:00,14:00:00,Mujer,No,Medio,10,1,4,1,No Car,NO_PREF,Si,,Si
+419,Marketing,18:30:00,21:50:00,Mujer,No,Medio,1,7,1,1,Car,"POP, SILENCE",Si,Si,
+420,Economía,18:30:00,22:30:00,Mujer,No,Medio,5,8,1,2,Car,POP,Si,Si,
+421,Medicina,7:30:00,12:00:00,Hombre,No,Medio,5,7,1,1,No Car,NO_PREF,Si,,Si
+422,Medicina,7:30:00,15:00:00,Mujer,No,Extrovertido,1,7,5,1,Car,"NO_PREF, POP, ELECTRONIC, Cumbia, REGGAETON",Si,Si,
+425,Marketing,18:20:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+426,Medicina,13:00:00,18:30:00,Mujer,No,Medio,6,1,4,6,Car,REGGAETON,Si,Si,
+427,Medicina,7:30:00,12:15:00,Mujer,No,Extrovertido,1,1,1,1,No Car,REGGAETON,Si,,Si
+428,Ingeniería Civil,8:00:00,19:30:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+429,Ingeniería Industrial,7:30:00,16:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+430,Ingeniería Civil,13:00:00,18:00:00,Hombre,No,Medio,5,1,2,1,Car,"POP, RAP, REGGAE",Si,Si,
+431,Ingeniería Civil,13:00:00,18:30:00,Mujer,No,Medio,9,7,5,1,No Car,"POP, RAP, REGGAE, REGGAETON, Funk brasileño",Si,,Si
+432,Medicina,7:30:00,12:30:00,Mujer,No,Medio,6,5,9,1,No Car,NO_PREF,Si,,Si
+433,Ingeniería Civil,9:00:00,16:00:00,Mujer,No,Introvertido,4,7,7,2,Car,REGGAETON,Si,Si,
+434,Medicina,7:30:00,16:45:00,Mujer,No,Introvertido,5,1,1,1,No Car,POP,Si,,Si
+435,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,8,10,8,6,Car,POP,Si,Si,
+436,Medicina,7:30:00,12:00:00,Mujer,No,Extrovertido,9,1,1,1,No Car,"POP, TECHNO, ELECTRONIC, ROCK",Si,,Si
+437,Comercio Internacional,7:00:00,13:00:00,Hombre,No,Medio,7,1,1,1,Car,"NO_PREF, REGGAETON, TRAP",Si,Si,
+439,Arquitectura,13:00:00,17:00:00,Mujer,No,Medio,8,1,1,5,Car,"POP, ROCK, REGGAETON",Si,Si,
+440,Medicina,7:15:00,18:00:00,Mujer,No,Medio,2,2,5,3,Car,"POP, TECHNO, ELECTRONIC, ROCK, REGGAE, Cumbia, REGGAETON",Si,Si,
+441,Medicina,7:30:00,12:00:00,Mujer,No,Medio,10,1,1,1,Car,"ELECTRONIC, REGGAE, REGGAETON",Si,Si,
+443,Medicina,8:00:00,17:00:00,Hombre,No,Medio,1,7,1,1,No Car,NO_PREF,Si,,Si
+444,Marketing,18:00:00,22:30:00,Mujer,No,Extrovertido,10,6,10,10,Car,"POP, TECHNO, REGGAETON",Si,Si,
+445,Ingeniería Civil,7:30:00,19:15:00,Hombre,No,Medio,6,5,1,1,No Car,NO_PREF,Si,,Si
+446,Medicina,7:00:00,18:00:00,Hombre,No,Medio,5,1,1,1,No Car,"POP, ELECTRONIC, ROCK, METAL",Si,,Si
+448,Medicina,7:30:00,17:00:00,Mujer,No,Extrovertido,5,7,2,2,No Car,"NO_PREF, POP, ROCK, METAL, RAP, REGGAE, Cumbia, REGGAETON, TRAP, Funk brasileño",Si,,Si
+449,Medicina,7:30:00,17:00:00,Mujer,No,Medio,5,5,2,2,No Car,NO_PREF,Si,,Si
+450,Ciencias Contables,8:00:00,12:10:00,Mujer,No,Extrovertido,4,3,2,2,No Car,"ELECTRONIC, REGGAETON",Si,,Si
+452,Medicina,7:30:00,13:00:00,Mujer,No,Extrovertido,10,5,4,3,Car,POP,Si,Si,
+455,Administración de Empresas,19:00:00,21:50:00,Hombre,No,Extrovertido,10,5,4,1,Car,"NO_PREF, POP, ELECTRONIC",Si,Si,
+457,Economía,18:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,No Car,POP,Si,,Si
+462,Medicina,7:00:00,12:00:00,Mujer,No,Medio,3,1,1,1,Car,"ROCK, METAL",No,No,
+463,Ciencias Contables,18:30:00,22:00:00,Mujer,No,Extrovertido,3,8,5,2,Car,NO_PREF,Si,Si,
+464,Medicina,7:30:00,13:00:00,Mujer,No,Extrovertido,1,1,4,1,Car,"NO_PREF, POP, REGGAETON",Si,Si,
+465,Ingeniería Civil,10:00:00,17:00:00,Hombre,No,Medio,7,6,1,1,Car,NO_PREF,Si,Si,
+466,Ingeniería Civil,13:00:00,19:00:00,Hombre,No,Extrovertido,1,3,1,1,No Car,NO_PREF,Si,,Si
+467,Medicina,7:30:00,15:00:00,Mujer,No,Extrovertido,7,2,1,3,Car,POP,Si,Si,
+469,Ingeniería Civil,7:30:00,15:00:00,Hombre,No,Extrovertido,6,4,1,1,No Car,NO_PREF,Si,,Si
+470,Medicina,7:30:00,15:00:00,Mujer,No,Medio,9,2,1,8,Car,"NO_PREF, POP, ROCK",Si,Si,
+471,Fonoaudiología,7:30:00,12:40:00,Mujer,No,Medio,5,1,1,1,No Car,NO_PREF,Si,,Si
+473,Ingeniería Civil,9:00:00,17:45:00,Mujer,No,Extrovertido,10,1,1,1,Car,NO_PREF,Si,Si,
+474,Medicina,7:30:00,13:00:00,Mujer,No,Medio,1,1,6,1,No Car,"POP, ROCK",Si,,Si
+475,Comercio Internacional,20:30:00,22:00:00,Hombre,Si,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+476,Medicina,8:00:00,17:00:00,Mujer,No,Medio,10,8,1,5,No Car,NO_PREF,Si,,Si
+478,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,8,3,1,Car,"NO_PREF, POP, ELECTRONIC, ROCK, METAL, REGGAETON",Si,Si,
+479,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,5,1,1,No Car,NO_PREF,Si,,Si
+480,Medicina,10:00:00,17:00:00,Mujer,No,Introvertido,8,1,1,4,Car,"NO_PREF, POP, ROCK, RAP",Si,Si,
+483,Marketing,19:00:00,22:00:00,Mujer,No,Medio,10,5,3,5,Car,"POP, REGGAETON, TRAP, Funk brasileño",Si,Si,
+484,Administración de Empresas,19:00:00,22:00:00,Hombre,Si,Extrovertido,3,7,4,4,Car,NO_PREF,Si,Si,
+485,Medicina,9:00:00,16:00:00,Hombre,No,Extrovertido,10,1,5,1,Car,NO_PREF,Si,Si,
+486,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,6,1,1,1,No Car,NO_PREF,Si,,Si
+487,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,4,1,No Car,"POP, TECHNO, ELECTRONIC",Si,,Si
+488,Diseño Industrial,18:30:00,21:30:00,Mujer,No,Extrovertido,9,8,1,1,No Car,NO_PREF,Si,,Si
+489,Ingeniería Industrial,14:30:00,19:00:00,Hombre,No,Extrovertido,7,9,2,2,Car,REGGAETON,Si,Si,
+491,Ingeniería Ambiental,18:00:00,22:00:00,Hombre,Si,Medio,5,7,5,5,Car,REGGAETON,Si,Si,
+492,Ingeniería Civil,7:30:00,21:00:00,Hombre,No,Extrovertido,1,5,1,1,No Car,"POP, ELECTRONIC, Cumbia, REGGAETON, TRAP",Si,,Si
+493,Diseño Industrial,8:00:00,11:00:00,Hombre,Si,Medio,1,1,1,1,No Car,NO_PREF,Si,,Si
+494,Medicina,7:30:00,15:00:00,Mujer,No,Medio,8,1,7,1,No Car,"POP, ROCK, RAP, REGGAE",Si,,Si
+495,Ingeniería Civil,13:15:00,18:30:00,Hombre,No,Medio,10,10,10,10,Car,NO_PREF,Si,Si,
+496,Ingeniería Civil,7:30:00,18:30:00,Hombre,Si,Extrovertido,5,1,1,1,Car,ROCK,Si,Si,
+500,Ciencias Contables,19:00:00,22:00:00,Hombre,Si,Extrovertido,5,5,5,1,No Car,NO_PREF,Si,,Si
+501,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,4,7,8,7,Car,"NO_PREF, REGGAETON",Si,Si,
+503,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+505,Economía,9:00:00,16:00:00,Hombre,No,Extrovertido,7,9,1,1,No Car,REGGAETON,Si,,Si
+506,Economía,18:30:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+507,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,4,5,5,6,Car,NO_PREF,Si,Si,
+508,Ingeniería Civil,7:00:00,17:00:00,Mujer,No,Extrovertido,10,5,1,8,No Car,ELECTRONIC,Si,,Si
+509,Administración de Empresas,18:30:00,21:30:00,Mujer,No,Medio,5,6,6,8,Car,NO_PREF,Si,Si,
+513,Medicina,12:00:00,16:00:00,Hombre,Si,Medio,4,5,1,1,Car,NO_PREF,Si,Si,
+514,Ingeniería Ambiental,8:30:00,19:15:00,Hombre,No,Introvertido,1,5,1,1,No Car,"POP, ELECTRONIC, RAP",Si,,Si
+515,Economía,18:30:00,21:30:00,Mujer,Si,Extrovertido,1,6,1,1,Car,NO_PREF,Si,Si,
+516,Ciencias Contables,19:00:00,22:15:00,Hombre,No,Medio,1,3,3,1,Car,NO_PREF,Si,Si,
+517,Medicina,7:30:00,12:00:00,Mujer,No,Medio,1,1,1,1,No Car,POP,Si,,Si
+518,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,8,10,1,1,No Car,ELECTRONIC,Si,,Si
+519,Economía,18:30:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+520,Medicina,7:30:00,17:30:00,Mujer,No,Extrovertido,3,1,1,1,Car,NO_PREF,Si,Si,
+521,Ingeniería Civil,10:00:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+523,Medicina,7:30:00,18:30:00,Hombre,No,Extrovertido,10,1,1,5,Car,NO_PREF,Si,Si,
+525,Ciencias Contables,8:00:00,12:00:00,Mujer,No,Medio,1,5,8,1,No Car,NO_PREF,No,,No
+526,Marketing,17:00:00,22:00:00,Mujer,No,Extrovertido,10,10,10,1,Car,POP,No,No,
+529,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,3,7,3,3,No Car,NO_PREF,Si,,Si
+530,Ingeniería Civil,9:00:00,17:00:00,Mujer,No,Extrovertido,3,5,1,2,Car,REGGAETON,Si,Si,
+531,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,10,5,5,8,Car,NO_PREF,No,No,
+532,Administración de Empresas,7:30:00,12:00:00,Hombre,No,Medio,10,5,10,1,No Car,"Cumbia, REGGAETON, TRAP, SILENCE",Si,,Si
+533,Administración de Empresas,19:00:00,21:55:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+534,Comercio Internacional,18:30:00,22:05:00,Mujer,No,Extrovertido,1,3,1,4,Car,NO_PREF,Si,Si,
+536,Marketing,18:00:00,22:15:00,Hombre,Si,Extrovertido,8,3,8,1,Car,"ROCK, Cumbia, REGGAETON, TRAP",Si,Si,
+537,Ingeniería Industrial,14:30:00,18:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"POP, TECHNO, ELECTRONIC, ROCK, REGGAETON",Si,Si,
+538,Ciencias Contables,19:30:00,21:40:00,Mujer,No,Medio,6,1,3,1,No Car,"POP, ROCK, REGGAE",Si,,Si
+539,Ingeniería Informática,14:30:00,17:00:00,Mujer,No,Extrovertido,10,5,10,1,Car,"ROCK, METAL, SILENCE",Si,Si,
+540,Administración de Empresas,18:50:00,22:00:00,Mujer,No,Introvertido,5,4,1,10,Car,NO_PREF,Si,Si,
+541,Análisis de Sistema,19:00:00,21:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+543,Economía,18:00:00,22:00:00,Hombre,Si,Medio,3,4,7,1,Car,"TECHNO, RAP, REGGAETON, TRAP",Si,Si,
+544,Fonoaudiología,7:30:00,18:00:00,Mujer,No,Medio,6,10,7,1,Car,"POP, ELECTRONIC, REGGAETON, TRAP, Funk brasileño",Si,Si,
+545,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Medio,9,3,3,3,Car,NO_PREF,Si,Si,
+546,Ciencias Contables,19:00:00,22:15:00,Mujer,No,Extrovertido,5,1,1,1,Car,"NO_PREF, POP, REGGAETON",Si,Si,
+547,Medicina,8:00:00,18:30:00,Mujer,No,Medio,1,1,5,1,No Car,REGGAE,Si,,Si
+549,Ingeniería Informática,13:00:00,18:00:00,Hombre,No,Medio,3,3,8,1,No Car,"POP, ROCK, SILENCE",Si,,Si
+550,Ingeniería Informática,14:00:00,19:00:00,Hombre,No,Medio,10,3,10,9,No Car,"ROCK, METAL",Si,,Si
+552,Economía,18:30:00,22:10:00,Hombre,No,Extrovertido,4,1,1,1,No Car,SILENCE,Si,,Si
+553,Marketing,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,REGGAETON,Si,Si,
+554,Administración de Empresas,19:00:00,21:50:00,Mujer,No,Extrovertido,1,10,7,10,Car,"NO_PREF, POP, REGGAE",Si,Si,
+555,Ciencias Contables,18:30:00,22:20:00,Mujer,No,Medio,6,4,3,2,Car,NO_PREF,Si,Si,
+556,Comercio Internacional,19:15:00,21:50:00,Mujer,No,Medio,1,6,7,1,Car,"POP, ELECTRONIC, Cumbia, REGGAETON, TRAP",Si,Si,
+557,Marketing,18:50:00,21:00:00,Mujer,No,Extrovertido,7,3,3,4,Car,NO_PREF,Si,Si,
+558,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,1,5,1,1,Car,"POP, ELECTRONIC, RAP, Cumbia, REGGAETON, TRAP, Funk brasileño, SILENCE",No,No,
+559,Marketing,19:00:00,22:00:00,Mujer,No,Medio,4,9,8,1,Car,"NO_PREF, POP, ROCK, RAP, REGGAETON",Si,Si,
+560,Ciencias Contables,19:00:00,22:15:00,Mujer,No,Extrovertido,9,10,6,2,Car,"POP, REGGAETON, Funk brasileño",Si,Si,
+561,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,1,1,10,1,Car,"REGGAETON, TRAP",No,No,
+562,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,1,1,Car,NO_PREF,Si,Si,
+563,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Extrovertido,7,6,1,1,Car,NO_PREF,Si,Si,
+565,Medicina,7:00:00,17:00:00,Hombre,No,Extrovertido,6,1,1,1,No Car,"ROCK, REGGAETON, Funk brasileño",Si,,Si
+566,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,4,1,1,1,Car,NO_PREF,Si,Si,
+567,Marketing,19:00:00,22:00:00,Hombre,Si,Extrovertido,3,3,6,1,No Car,"TECHNO, RAP, REGGAE, TRAP",Si,,Si
+568,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,10,5,3,4,Car,NO_PREF,No,No,
+569,Medicina,7:30:00,16:30:00,Mujer,No,Medio,9,6,3,5,Car,"NO_PREF, ROCK",Si,Si,
+570,Medicina,7:30:00,15:00:00,Mujer,No,Medio,5,1,1,1,Car,NO_PREF,Si,Si,
+571,Medicina,7:30:00,13:30:00,Mujer,No,Extrovertido,10,5,1,1,No Car,NO_PREF,Si,,Si
+572,Medicina,7:15:00,16:15:00,Mujer,No,Medio,1,3,1,5,Car,NO_PREF,Si,Si,
+573,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,7,7,1,1,Car,NO_PREF,Si,Si,
+574,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,5,1,4,1,Car,ROCK,Si,Si,
+575,Medicina,7:00:00,13:00:00,Mujer,No,Medio,10,5,5,1,Car,POP,Si,Si,
+576,Ciencias Contables,18:30:00,22:00:00,Hombre,Si,Extrovertido,2,8,6,1,Car,NO_PREF,Si,Si,
+577,Comercio Internacional,18:35:00,22:15:00,Mujer,No,Extrovertido,6,3,1,1,No Car,NO_PREF,Si,,Si
+578,Medicina,7:30:00,13:00:00,Mujer,No,Introvertido,7,1,1,6,No Car,SILENCE,Si,,Si
+580,Medicina,7:30:00,20:00:00,Mujer,No,Medio,10,1,5,1,Car,NO_PREF,Si,Si,
+581,Medicina,22:00:00,22:30:00,Hombre,Si,Introvertido,10,10,10,8,Car,TRAP,No,No,
+582,Medicina,7:30:00,13:00:00,Mujer,No,Medio,3,1,1,1,Car,"POP, ROCK, METAL, RAP",Si,Si,
+584,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,1,6,1,2,Car,REGGAETON,Si,Si,
+586,Medicina,8:00:00,17:00:00,Mujer,No,Medio,1,1,1,4,No Car,"NO_PREF, SILENCE",Si,,Si
+587,Ingeniería Industrial,9:00:00,18:00:00,Hombre,No,Extrovertido,7,1,1,1,No Car,"NO_PREF, SILENCE",Si,,Si
+588,Medicina,7:30:00,12:30:00,Mujer,Si,Extrovertido,1,1,1,7,No Car,NO_PREF,Si,,Si
+589,Ingeniería Industrial,7:30:00,17:00:00,Mujer,No,Medio,4,4,5,1,Car,NO_PREF,Si,Si,
+591,Medicina,7:30:00,12:30:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,Si,
+592,Comercio Internacional,18:30:00,22:00:00,Mujer,No,Medio,5,1,1,1,Car,NO_PREF,Si,Si,
+593,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,4,2,Car,"TECHNO, ELECTRONIC, REGGAETON, TRAP",Si,Si,
+595,Ciencias Contables,18:00:00,21:00:00,Mujer,No,Introvertido,1,2,2,1,Car,"Cumbia, REGGAETON",Si,Si,
+599,Ingeniería ELECTRONIC,7:30:00,12:00:00,Hombre,Si,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+601,Marketing,19:00:00,22:10:00,Mujer,No,Medio,10,10,5,9,Car,"POP, REGGAETON, SILENCE",Si,Si,
+602,Marketing,19:00:00,22:00:00,Hombre,No,Medio,1,4,3,1,No Car,"POP, ELECTRONIC, ROCK",Si,,Si
+603,Comercio Internacional,19:00:00,22:00:00,Hombre,Si,Medio,1,7,5,1,Car,"POP, ROCK, METAL, RAP, REGGAE, TRAP",Si,Si,
+604,Economía,8:00:00,12:00:00,Mujer,No,Medio,6,1,1,1,Car,NO_PREF,Si,Si,
+605,Economía,18:40:00,22:00:00,Mujer,No,Medio,1,3,1,1,No Car,"POP, TECHNO, ELECTRONIC, ROCK, REGGAE, Cumbia, REGGAETON",Si,,Si
+606,Comercio Internacional,19:30:00,23:00:00,Mujer,No,Extrovertido,2,10,2,1,Car,NO_PREF,Si,Si,
+607,Administración de Empresas,18:30:00,22:30:00,Hombre,Si,Medio,1,5,1,1,Car,NO_PREF,Si,Si,
+608,Economía,18:30:00,21:30:00,Mujer,Si,Medio,1,5,1,1,Car,NO_PREF,Si,Si,
+609,Ciencias Contables,18:00:00,22:30:00,Hombre,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+610,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,"POP, TECHNO, ELECTRONIC, ROCK, RAP, REGGAETON, TRAP",No,No,
+611,Economía,19:00:00,22:00:00,Hombre,No,Medio,3,3,1,1,Car,"NO_PREF, POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP, REGGAE",Si,Si,
+612,Medicina,7:30:00,13:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,"ROCK, METAL",Si,Si,
+614,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,4,4,7,Car,NO_PREF,Si,Si,
+615,Medicina,7:00:00,14:00:00,Hombre,No,Extrovertido,1,4,4,1,Car,NO_PREF,Si,Si,
+616,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Extrovertido,1,1,5,1,Car,"RAP, REGGAETON, TRAP, Funk brasileño",Si,Si,
+617,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,1,1,1,Car,POP,Si,Si,
+618,Marketing,18:30:00,22:00:00,Hombre,Si,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+620,Diseño Industrial,18:15:00,22:15:00,Mujer,No,Medio,1,2,1,1,Car,"NO_PREF, REGGAETON",Si,Si,
+621,Economía,18:20:00,22:00:00,Mujer,No,Medio,3,3,3,1,Car,NO_PREF,Si,Si,
+622,Ingeniería Civil,7:30:00,18:00:00,Mujer,No,Medio,5,5,5,1,No Car,NO_PREF,Si,,Si
+623,Medicina,7:00:00,17:30:00,Mujer,No,Introvertido,8,6,7,7,No Car,"POP, SILENCE",No,,No
+624,Medicina,7:00:00,16:00:00,Hombre,No,Extrovertido,10,7,10,10,Car,NO_PREF,Si,Si,
+625,Ingeniería ELECTRONIC,9:00:00,17:00:00,Hombre,No,Extrovertido,7,3,2,1,Car,NO_PREF,Si,Si,
+627,Ingeniería ELECTRONIC,7:30:00,17:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"NO_PREF, POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP, REGGAE, Cumbia, REGGAETON, TRAP, Funk brasileño, SILENCE",No,No,
+629,Ciencias Contables,19:00:00,22:00:00,Hombre,No,Extrovertido,10,3,1,1,Car,ROCK,Si,Si,
+630,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"POP, ROCK, REGGAETON",Si,Si,
+631,Marketing,18:50:00,22:00:00,Mujer,No,Extrovertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+632,Administración de Empresas,18:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+633,Economía,18:15:00,22:00:00,Mujer,No,Extrovertido,7,1,1,1,Car,"POP, ELECTRONIC, REGGAETON, Funk brasileño",Si,Si,
+634,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Medio,4,1,1,1,No Car,"TECHNO, ELECTRONIC, ROCK",Si,,Si
+635,Marketing,19:00:00,22:00:00,Mujer,No,Medio,8,2,2,5,Car,NO_PREF,No,No,
+636,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,10,4,4,1,No Car,"POP, TECHNO, ELECTRONIC, REGGAETON",Si,Si,
+637,Administración de Empresas,18:40:00,22:00:00,Mujer,No,Medio,5,10,2,1,No Car,NO_PREF,Si,,Si
+638,Comercio Internacional,18:30:00,21:30:00,Hombre,Si,Extrovertido,1,4,1,1,Car,NO_PREF,Si,Si,
+639,Economía,18:30:00,22:00:00,Mujer,No,Medio,5,1,1,1,Car,"NO_PREF, POP, ROCK",Si,Si,
+640,Marketing,18:45:00,22:30:00,Mujer,No,Extrovertido,10,10,1,1,Car,"POP, REGGAETON, TRAP",Si,Si,
+643,Comercio Internacional,18:30:00,21:45:00,Mujer,Si,Medio,1,4,6,1,Car,"POP, RAP, REGGAETON",Si,Si,
+644,Marketing,19:00:00,22:00:00,Mujer,No,Extrovertido,3,1,1,1,Car,NO_PREF,No,No,
+645,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,8,1,1,Car,POP,Si,Si,
+646,Economía,18:15:00,22:00:00,Mujer,No,Medio,7,5,1,1,Car,NO_PREF,No,No,
+647,Ingeniería Industrial,14:30:00,20:00:00,Mujer,No,Extrovertido,3,3,4,3,Car,REGGAETON,Si,Si,
+650,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,"POP, ROCK, REGGAE, REGGAETON",Si,Si,
+653,Diseño Gráfico,18:00:00,20:00:00,Mujer,Si,Medio,4,7,1,1,Car,NO_PREF,Si,Si,
+655,Ingeniería Civil,14:00:00,19:00:00,Mujer,No,Medio,8,1,1,1,Car,NO_PREF,Si,Si,
+657,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,5,5,6,3,Car,NO_PREF,Si,Si,
+658,Ciencias Contables,19:00:00,21:30:00,Mujer,No,Medio,10,1,1,1,Car,NO_PREF,No,No,
+659,Medicina,8:00:00,17:00:00,Mujer,No,Medio,9,6,2,2,Car,NO_PREF,Si,Si,
+660,Ciencias Contables,19:00:00,22:00:00,Mujer,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+661,Fonoaudiología,7:00:00,16:00:00,Mujer,No,Extrovertido,5,5,5,5,No Car,NO_PREF,Si,,Si
+662,Medicina,7:30:00,12:30:00,Mujer,No,Extrovertido,10,6,5,1,No Car,"POP, REGGAE, REGGAETON, SILENCE",Si,Si,
+663,Economía,18:30:00,22:00:00,Mujer,No,Medio,3,3,3,3,No Car,NO_PREF,Si,,Si
+664,Administración de Empresas,19:00:00,22:00:00,Hombre,No,Extrovertido,6,4,4,4,Car,NO_PREF,Si,Si,
+665,Diseño Industrial,18:15:00,22:00:00,Mujer,No,Extrovertido,8,4,3,5,Car,NO_PREF,Si,Si,
+667,Economía,18:30:00,22:30:00,Mujer,No,Medio,10,1,5,2,No Car,ROCK,Si,,Si
+669,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,8,5,4,2,Car,"NO_PREF, POP, TECHNO, ELECTRONIC, REGGAE, Cumbia, REGGAETON, TRAP, Funk brasileño, SILENCE",Si,Si,
+670,Administración de Empresas,19:00:00,22:00:00,Mujer,No,Medio,5,5,5,5,No Car,NO_PREF,Si,,Si
+671,Medicina,7:30:00,12:30:00,Mujer,No,Medio,7,6,8,6,No Car,"NO_PREF, POP, REGGAE, Cumbia, REGGAETON",Si,,Si
+673,Análisis de Sistema,18:20:00,22:00:00,Mujer,No,Medio,1,2,1,1,No Car,SILENCE,Si,,Si
+674,Medicina,7:30:00,16:00:00,Mujer,No,Medio,10,4,1,3,Car,NO_PREF,Si,Si,
+676,Arquitectura,13:00:00,14:00:00,Hombre,No,Introvertido,1,1,1,1,No Car,NO_PREF,Si,,Si
+677,Economía,18:30:00,21:00:00,Mujer,No,Extrovertido,3,3,3,1,No Car,"NO_PREF, POP, ELECTRONIC, REGGAETON, Funk brasileño",Si,,Si
+678,Fonoaudiología,7:30:00,12:00:00,Mujer,No,Medio,10,6,5,6,No Car,NO_PREF,Si,,Si
+680,Medicina,7:30:00,17:00:00,Hombre,No,Medio,9,7,1,1,Car,NO_PREF,No,No,
+681,Medicina,6:30:00,19:30:00,Mujer,No,Extrovertido,10,7,7,7,Car,NO_PREF,Si,Si,
+682,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+684,Medicina,8:00:00,15:00:00,Mujer,Si,Medio,4,5,2,3,Car,"NO_PREF, POP, ROCK, REGGAETON",Si,Si,
+685,Ingeniería Informática,13:30:00,17:30:00,Hombre,No,Medio,5,1,1,1,No Car,NO_PREF,Si,,Si
+686,Ingeniería Informática,13:00:00,19:00:00,Mujer,No,Medio,7,1,3,1,Car,"NO_PREF, ROCK",Si,Si,
+687,Diseño Industrial,18:30:00,21:00:00,Hombre,No,Medio,10,3,10,1,No Car,"POP, ROCK",Si,,Si
+688,Ingeniería ELECTRONIC,9:10:00,16:00:00,Hombre,Si,Extrovertido,5,10,10,1,Car,"TECHNO, ELECTRONIC, ROCK, RAP",Si,Si,
+690,Medicina,7:30:00,18:30:00,Mujer,No,Medio,7,4,1,1,No Car,NO_PREF,Si,,Si
+691,Medicina,8:30:00,19:50:00,Hombre,No,Extrovertido,5,3,1,1,Car,NO_PREF,Si,Si,
+692,Economía,18:30:00,22:00:00,Hombre,No,Extrovertido,4,1,9,1,Car,"POP, ELECTRONIC, ROCK, METAL, RAP, TRAP",Si,Si,
+694,Medicina,7:30:00,17:00:00,Mujer,No,Medio,8,1,1,1,Car,NO_PREF,Si,Si,
+695,Medicina,7:30:00,17:00:00,Hombre,No,Medio,1,1,1,1,Car,"NO_PREF, POP, TECHNO, ELECTRONIC, ROCK, METAL, TRAP",Si,Si,
+696,Medicina,7:00:00,13:00:00,Hombre,No,Introvertido,5,1,1,1,Car,NO_PREF,Si,Si,
+697,Medicina,7:20:00,12:00:00,Mujer,No,Extrovertido,9,4,6,6,Car,NO_PREF,Si,Si,
+699,Ingeniería Informática,7:30:00,17:00:00,Hombre,Si,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+700,Fonoaudiología,8:00:00,12:00:00,Mujer,No,Extrovertido,1,1,1,1,Car,POP,Si,Si,
+701,Arquitectura,13:30:00,17:00:00,Hombre,No,Introvertido,3,3,8,3,Car,NO_PREF,Si,Si,
+702,Medicina,7:30:00,17:00:00,Mujer,No,Medio,4,5,8,10,No Car,NO_PREF,No,,No
+703,Medicina,7:30:00,12:00:00,Mujer,No,Medio,7,1,1,1,Car,POP,Si,Si,
+704,Economía,18:30:00,21:30:00,Mujer,No,Medio,7,7,1,1,Car,"POP, ROCK, SILENCE",Si,Si,
+705,Economía,18:30:00,22:15:00,Hombre,No,Extrovertido,1,8,2,1,No Car,"REGGAETON, TRAP, Funk brasileño",Si,,Si
+706,Medicina,7:30:00,13:00:00,Mujer,No,Introvertido,1,4,1,1,Car,NO_PREF,Si,Si,
+707,Ingeniería Ambiental,7:30:00,16:00:00,Mujer,No,Extrovertido,9,1,1,4,Car,NO_PREF,Si,Si,
+708,Ingeniería Ambiental,8:20:00,12:00:00,Mujer,No,Medio,9,1,1,1,No Car,"POP, ELECTRONIC",Si,,Si
+709,Medicina,13:00:00,18:20:00,Mujer,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+710,Ingeniería Civil,10:00:00,19:30:00,Mujer,No,Medio,6,1,1,6,Car,NO_PREF,Si,Si,
+713,Ingeniería Informática,9:00:00,14:00:00,Hombre,No,Medio,10,5,4,1,Car,"POP, TECHNO, ELECTRONIC, ROCK, METAL, REGGAE",Si,Si,
+714,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,7,3,9,3,Car,ROCK,Si,Si,
+715,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+716,Economía,18:30:00,22:00:00,Mujer,No,Extrovertido,4,1,4,1,Car,"POP, ELECTRONIC, ROCK",Si,Si,
+717,Medicina,13:00:00,17:30:00,Mujer,No,Medio,10,1,1,1,No Car,NO_PREF,Si,,Si
+719,Medicina,8:00:00,15:00:00,Mujer,No,Medio,9,3,3,3,Car,NO_PREF,Si,Si,
+720,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,1,1,1,No Car,POP,Si,,Si
+721,Economía,18:30:00,22:00:00,Mujer,No,Medio,10,5,5,1,Car,NO_PREF,Si,Si,
+722,Medicina,7:30:00,17:00:00,Hombre,No,Medio,1,1,1,1,No Car,"POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP, TRAP",Si,,Si
+723,Medicina,7:30:00,15:00:00,Mujer,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+725,Marketing,19:00:00,22:20:00,Mujer,Si,Medio,5,1,7,1,Car,"POP, TECHNO, RAP, REGGAETON, TRAP, Funk brasileño",Si,Si,
+726,Diseño Gráfico,18:00:00,21:00:00,Mujer,No,Medio,10,5,1,1,Car,NO_PREF,Si,Si,
+728,Economía,18:30:00,21:45:00,Mujer,No,Medio,5,4,5,6,Car,POP,Si,Si,
+729,Ingeniería Civil,10:30:00,19:15:00,Mujer,No,Medio,4,7,5,4,Car,NO_PREF,Si,Si,
+730,Administración de Empresas,18:00:00,22:30:00,Mujer,No,Medio,10,7,8,1,Car,ROCK,Si,Si,
+733,Medicina,8:00:00,16:00:00,Mujer,No,Medio,10,2,1,7,No Car,POP,Si,,Si
+734,Ingeniería Informática,9:10:00,18:30:00,Hombre,No,Medio,3,3,1,1,Car,POP,No,No,
+736,Medicina,7:30:00,16:00:00,Hombre,No,Medio,1,1,1,1,No Car,"POP, ELECTRONIC, REGGAETON",Si,,Si
+738,Análisis de Sistema,18:00:00,21:30:00,Hombre,No,Extrovertido,1,7,5,1,No Car,NO_PREF,Si,,Si
+739,Medicina,7:30:00,16:00:00,Mujer,No,Medio,6,6,5,3,No Car,SILENCE,No,,No
+740,Marketing,19:00:00,22:30:00,Mujer,No,Extrovertido,1,1,1,1,Car,NO_PREF,Si,Si,
+741,Marketing,18:30:00,22:00:00,Mujer,No,Extrovertido,1,5,5,1,Car,NO_PREF,Si,Si,
+742,Comercio Internacional,18:30:00,22:00:00,Hombre,No,Extrovertido,2,6,6,5,Car,NO_PREF,Si,Si,
+744,Ciencias Contables,18:00:00,22:15:00,Mujer,No,Extrovertido,10,10,5,10,Car,NO_PREF,Si,Si,
+745,Ingeniería Industrial,9:00:00,17:00:00,Hombre,No,Extrovertido,5,3,4,1,Car,NO_PREF,Si,Si,
+747,Administración de Empresas,8:00:00,12:00:00,Hombre,No,Medio,10,10,1,1,No Car,NO_PREF,Si,Si,
+748,Medicina,7:30:00,16:30:00,Hombre,No,Medio,5,3,1,1,Car,NO_PREF,Si,Si,
+749,Economía,18:00:00,22:00:00,Hombre,No,Medio,10,1,1,1,Car,NO_PREF,Si,Si,
+750,Medicina,6:15:00,18:50:00,Hombre,No,Extrovertido,5,3,1,1,Car,"POP, ROCK, METAL",Si,Si,
+751,Comercio Internacional,19:00:00,22:00:00,Hombre,No,Extrovertido,1,1,1,1,Car,METAL,Si,Si,
+752,Ingeniería Civil,7:30:00,17:30:00,Hombre,No,Extrovertido,1,3,6,3,Car,"NO_PREF, ROCK",Si,Si,
+754,Ingeniería Civil,13:00:00,20:00:00,Mujer,No,Medio,6,1,1,5,Car,NO_PREF,Si,Si,
+755,Administración de Empresas,18:30:00,22:00:00,Mujer,No,Medio,10,8,7,7,Car,"POP, ROCK",Si,Si,
+756,Medicina,6:00:00,14:00:00,Hombre,No,Medio,1,1,1,1,Car,NO_PREF,Si,Si,
+760,Diseño Gráfico,19:00:00,22:00:00,Hombre,No,Extrovertido,5,3,1,1,No Car,NO_PREF,Si,,Si
+761,Comercio Internacional,19:00:00,22:00:00,Mujer,No,Medio,6,1,1,1,No Car,NO_PREF,Si,,Si
+764,Medicina,7:30:00,15:00:00,Mujer,No,Medio,1,1,1,1,No Car,"NO_PREF, POP, ELECTRONIC, ROCK, REGGAETON, TRAP",Si,,Si
+765,Economía,18:30:00,22:30:00,Mujer,No,Medio,9,6,10,1,Car,"NO_PREF, POP, REGGAETON",Si,Si,
+766,Ciencias Contables,8:00:00,17:00:00,Hombre,No,Extrovertido,10,1,1,1,Car,NO_PREF,Si,Si,
+767,Medicina,7:30:00,16:00:00,Mujer,No,Medio,3,5,10,4,Car,"POP, RAP, REGGAETON",Si,Si,
+768,Comercio Internacional,18:00:00,22:30:00,Mujer,No,Medio,8,4,5,7,No Car,NO_PREF,No,,No
+769,Ingeniería ELECTRONIC,13:00:00,18:30:00,Hombre,No,Medio,10,1,1,1,No Car,NO_PREF,Si,,Si
+770,Ingeniería Informática,8:00:00,18:00:00,Mujer,No,Medio,7,4,4,1,Car,POP,Si,Si,
+771,Medicina,7:30:00,16:30:00,Mujer,No,Medio,1,8,1,1,Car,NO_PREF,Si,Si,
+773,Ciencias Contables,18:15:00,22:00:00,Mujer,No,Medio,7,5,5,1,Car,NO_PREF,Si,Si,
+775,Análisis de Sistema,18:20:00,22:00:00,Hombre,No,Medio,7,5,2,1,No Car,ROCK,Si,,Si
+776,Ingeniería ELECTRONIC,8:15:00,13:00:00,Hombre,No,Introvertido,8,1,10,1,No Car,"ROCK, METAL",Si,,Si
+777,Análisis de Sistema,18:15:00,21:50:00,Mujer,No,Medio,3,1,1,1,Car,NO_PREF,Si,Si,
+779,Medicina,8:00:00,12:00:00,Mujer,No,Medio,1,5,4,1,No Car,REGGAETON,Si,,Si
+780,Ingeniería Civil,7:30:00,18:00:00,Hombre,Si,Medio,1,1,1,1,Car,"NO_PREF, POP, TECHNO, ELECTRONIC, ROCK, METAL, RAP, REGGAE, Cumbia, REGGAETON, TRAP, Funk brasileño, SILENCE",Si,Si,
+781,Fonoaudiología,7:30:00,11:00:00,Mujer,No,Medio,3,1,1,1,No Car,NO_PREF,Si,,Si
+782,Ingeniería Civil,7:30:00,18:00:00,Hombre,No,Extrovertido,5,2,1,1,Car,"NO_PREF, SILENCE",Si,Si,

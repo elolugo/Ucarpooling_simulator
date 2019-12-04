@@ -6,7 +6,16 @@ import datetime
 import settings
 import random
 
+from termcolor import colored
 
+def warning_message(message):
+    print(colored(message, "yellow"))
+
+def error_message(message):
+    print(colored(message, "red"))
+
+def success_message(message):
+    print(colored(message, "green"))
 
 
 def get_alumni_sapientia(row):
