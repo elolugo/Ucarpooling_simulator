@@ -32,25 +32,6 @@ primero incializar las bases de datos y poblarlas con datos de las personas
 │   README.md
 │   requirements.txt
 │   settings.py
-│   __init__.py
-│
-├───.idea
-│   │   dataSources.local.xml
-│   │   dataSources.xml
-│   │   markdown-navigator-enh.xml
-│   │   markdown-navigator.xml
-│   │   misc.xml
-│   │   modules.xml
-│   │   sqldialects.xml
-│   │   Ucarpooling_simulator.iml
-│   │   vcs.xml
-│   │   workspace.xml
-│   │
-│   ├───dataSources
-│   │       c842a4ce-51f3-46ab-b6c3-a7e0bba80d9d.xml
-│   │
-│   └───inspectionProfiles
-│           profiles_settings.xml
 │
 ├───assign_personality
 │   │   Workbook_form_data.twb
@@ -76,12 +57,8 @@ primero incializar las bases de datos y poblarlas con datos de las personas
 │           Sapientia_data.csv
 │
 ├───orchestrator
-│       uploader_user.py
-│       uploader_user_itinerary.py
-│
-└───__pycache__
-        helper.cpython-37.pyc
-        settings.cpython-37.pyc
+      uploader_user.py
+       uploader_user_itinerary.py
 ```
 
 
