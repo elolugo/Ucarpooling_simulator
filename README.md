@@ -25,13 +25,13 @@ primero incializar las bases de datos y poblarlas con datos de las personas
 ## Estrucura del proyecto
 ```bash
 │   .gitignore
-│   alumni.sqlite3
-│   createdb.py
-│   helper.py
 │   LICENSE.md
 │   README.md
 │   requirements.txt
+│   alumni.sqlite3
 │   settings.py
+│   helper.py
+│   createdb.py
 │
 ├───assign_personality
 │   │   Workbook_form_data.twb
@@ -56,9 +56,9 @@ primero incializar las bases de datos y poblarlas con datos de las personas
 │           Form_data.csv
 │           Sapientia_data.csv
 │
-├───orchestrator
+└───orchestrator
       uploader_user.py
-       uploader_user_itinerary.py
+      uploader_user_itinerary.py
 ```
 
 
