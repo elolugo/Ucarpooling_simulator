@@ -18,6 +18,8 @@ Mejor si se trabajo con pip
 
 ## Guia de uso
 
+### Preparacion de datos
+
 Asegurarse que los datos fuente no tienen erores y estan en el formato correcto
 
 `python assign_personality/scripts/check_integrity_file.py`

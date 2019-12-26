@@ -152,15 +152,6 @@ def populate_itinerary_database():
 
         cursorObj = con.cursor()
 
-        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_ITINERARY)
-        cursorObj.execute(
-            "CREATE TABLE " + settings.DATABASE_TABLE_ITINERARY + "(uuid integer PRIMARY KEY, "
-                                                                  "latitude real, "
-                                                                  "longitude real, "
-                                                                  "time_of_arrival text, "
-                                                                  "time_of_departure text)")
-
-        con.commit()
 
     except Error:
 

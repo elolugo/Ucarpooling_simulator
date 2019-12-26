@@ -53,11 +53,7 @@ def populate_smoker_database():
 
         cursorObj = con.cursor()
 
-        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_SMOKER)
-        cursorObj.execute(
-            "CREATE TABLE " + settings.DATABASE_TABLE_SMOKER + "(uuid integer PRIMARY KEY, smoker text)")
 
-        con.commit()
 
     except Error:
 

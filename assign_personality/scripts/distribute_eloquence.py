@@ -53,12 +53,6 @@ def populate_eloquence_database():
 
         cursorObj = con.cursor()
 
-        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_ELOQUENCE)
-        cursorObj.execute(
-            "CREATE TABLE " + settings.DATABASE_TABLE_ELOQUENCE + "(uuid integer PRIMARY KEY, eloquence_level text)")
-
-        con.commit()
-
     except Error:
 
         print(Error)

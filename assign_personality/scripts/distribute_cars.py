@@ -53,12 +53,6 @@ def populate_cars_database():
 
         cursorObj = con.cursor()
 
-        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_CARS)
-        cursorObj.execute(
-            "CREATE TABLE " + settings.DATABASE_TABLE_CARS + "(uuid integer PRIMARY KEY, transport text)")
-
-        con.commit()
-
     except Error:
 
         print(Error)
