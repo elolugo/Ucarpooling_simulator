@@ -20,6 +20,11 @@ def sql_connection():
 
 
 def create_tables(con):
+    """
+    Deletes all the tables.
+    Erase everything and start from scratch with only the alumni database populated
+    """
+
     print("=================================CREATING TABLES======================")
     cursorObj = con.cursor()
 
