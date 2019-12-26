@@ -18,9 +18,41 @@ Mejor si se trabajo con pip
 
 ## Guia de uso
 
-primero incializar las bases de datos y poblarlas con datos de las personas
+Asegurarse que los datos fuente no tienen erores y estan en el formato correcto
+
+`python assign_personality/scripts/check_integrity_file.py`
+
+Incializar las bases de datos, eliminando cualquier rastro y poblarlas con datos iniciales de las personas
 
 `python createdb.py`
+
+### Asignacion de variables
+
+Las personas estan listas para ser asignadas su itinerario y personalidad, para elegir cual variable asignar se pueden ejecutar cualquiera de los scripts:
+
+Para asignar la distribucion de vehiculos:
+
+- `python assign_personality/scripts/distribute_cars.py`
+
+Para asignar la distribucion de itinerarios (Hora de llegada y origen):
+
+- `python assign_personality/scripts/distribute_itinerary.py`
+
+Para asignar el nivel de elocuencia:
+
+- `python assign_personality/scripts/distribute_eloquence.py`
+
+Para asignar los gustos musicales:
+
+- `python assign_personality/scripts/distribute_music.py`
+
+Para asignar las personas fumadoras:
+
+- `python assign_personality/scripts/distribute_smoker.py`
+
+### Simulador
+
+Para ejecutar el simulador se debe de crear primero los usuarios
 
 ## Estrucura del proyecto
 ```bash

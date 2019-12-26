@@ -6,6 +6,7 @@ from sqlite3 import Error
 from termcolor import colored
 
 import settings
+import helper
 
 def sql_connection():
     try:
@@ -25,7 +26,7 @@ def create_tables(con):
     Erase everything and start from scratch with only the alumni database populated
     """
 
-    print("=================================CREATING TABLES======================")
+    print("=================================CREATING TABLES=========================")
     cursorObj = con.cursor()
 
     try:
@@ -39,46 +40,45 @@ def create_tables(con):
         cursorObj.execute(
             "CREATE TABLE alumni(uuid integer PRIMARY KEY, sex text, career text)")
         con.commit()
-        print("Created alumni database")
+        helper.success_message("Created alumni database")
 
         """
         Table for car data
         """
         cursorObj.execute('drop table if exists alumni_cars')
         con.commit()
-        print("Deleted cars database")
+        helper.success_message("Deleted cars database")
 
         """
         Table for eloquence data
         """
         cursorObj.execute('drop table if exists alumni_eloquence')
         con.commit()
-        print("Deleted eloquence database")
+        helper.success_message("Deleted eloquence database")
 
         """
         Table for itinerary data
         """
         cursorObj.execute('drop table if exists alumni_itinerary')
         con.commit()
-        print("Deleted itinerary database")
+        helper.success_message("Deleted itinerary database")
 
         """
         Table for smoker data
         """
         cursorObj.execute('drop table if exists alumni_smoker')
         con.commit()
-        print("Deleted smoker database")
+        helper.success_message("Deleted smoker database")
 
         """
         Table for smoker data
         """
         cursorObj.execute('drop table if exists alumni_music')
         con.commit()
-        print("Deleted music taste database")
+        helper.success_message("Deleted music taste database")
 
     except Error:
-
-        print(colored(Error, 'red'))
+        helper.error_message(Error)
 
 def populate_alumni_table(con):
     """
@@ -101,7 +101,7 @@ def populate_alumni_table(con):
 
     con.commit()
 
-    print(colored("Uploaded successfully Sapientia Data to the DB", "green"))
+    helper.success_message("Uploaded successfully Sapientia Data to the DB")
 
 if __name__ == "__main__":
     con = sql_connection()
