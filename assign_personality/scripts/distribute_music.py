@@ -53,6 +53,11 @@ def populate_music_database():
 
         cursorObj = con.cursor()
 
+        cursorObj.execute("drop table if exists " + settings.DATABASE_TABLE_MUSIC)
+        cursorObj.execute(
+            "CREATE TABLE " + settings.DATABASE_TABLE_MUSIC + "(uuid integer PRIMARY KEY, music text)")
+        con.commit()
+
 
 
     except Error:

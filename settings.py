@@ -92,12 +92,12 @@ DATABASE_TABLE_SMOKER = 'alumni_smoker'
 DATABASE_TABLE_MUSIC = 'alumni_music'
 DATABASE_TABLE_ITINERARY = 'alumni_itinerary'
 DATABASE_TABLE_AUTH = 'alumni_auth'
+DATABASE_TABLE_USER_ITINERARY = 'alumni_useritinerary'
 
 
 """Uploading to server settings"""
-SERVER_URL = 'http://127.0.0.1:54824'
-UCARPOOLING_APP_TOKEN = '9a64c15410e39ef8992e5026579b396dd1ef9212'
+SERVER_URL = 'http://127.0.0.1:56121'
+UCARPOOLING_APP_TOKEN = '6dbb6c8b9c9daeb66b64e6aaa7e8f3d338e4ac68'
 USER_URL = f'{SERVER_URL}/api/ucarpooling/users/'
-UPLOAD_USER_ITINERARY_TOKEN = 'cc15acff28e4ff7d3fe51179cbe22278073257ab'
 USER_ITINERARY_URL = f'{SERVER_URL}/api/ucarpooling/itinerary/'
 AUTH_TOKEN_URL = f'{SERVER_URL}/api/ucarpooling/auth-token/'

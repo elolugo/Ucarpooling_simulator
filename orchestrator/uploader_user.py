@@ -8,26 +8,15 @@ from pypika import Query, Table
 import settings
 import helper
 
-def create_auth_database():
-    """Create the database for storing tokens and ids"""
 
-    try:
-        con = sqlite3.connect(settings.DATABASE)
-        con.row_factory = sqlite3.Row
-
-        cursorObj = con.cursor()
-        cursorObj.execute('drop table if exists ' + settings.DATABASE_TABLE_AUTH)
-        cursorObj.execute(
-            "CREATE TABLE " + settings.DATABASE_TABLE_AUTH + "(uuid integer PRIMARY KEY, ucarpoolingprofile text, token text)")
-        con.commit()
-        helper.warning_message("Created auth database")
-
-
-    except Error:
-
-        print(Error)
-
-
+def get_eloquence_level(eloquence_in_string):
+    """Converts from string into integer"""
+    if eloquence_in_string == "Extrovertido":
+        return 3
+    elif eloquence_in_string == "Medio":
+        return 2
+    else:
+        return 1
 
 def get_token(con, cursorObj, alumni):
     """Get the tokens for each alumni created"""
@@ -61,6 +50,26 @@ def get_token(con, cursorObj, alumni):
     con.commit()
 
 
+def create_auth_database():
+    """Create the database for storing tokens and ids"""
+
+    try:
+        con = sqlite3.connect(settings.DATABASE)
+        con.row_factory = sqlite3.Row
+
+        cursorObj = con.cursor()
+        cursorObj.execute('drop table if exists ' + settings.DATABASE_TABLE_AUTH)
+        cursorObj.execute(
+            "CREATE TABLE " + settings.DATABASE_TABLE_AUTH + "(uuid integer PRIMARY KEY, ucarpoolingprofile_id text, token text)")
+        con.commit()
+        helper.warning_message("Created auth database")
+
+
+    except Error:
+
+        print(Error)
+
+
 def upload_users():
     """
     Uploads all the generated users profile to api/ucarpooling/users/
@@ -82,13 +91,14 @@ def upload_users():
             .join(Table(settings.DATABASE_TABLE_MUSIC)) \
             .on_field('uuid') \
             .select('*')\
-            .limit(5)
+            .limit(20)
 
         """Executing the query"""
         rows = cursorObj.execute(querystring.get_sql()).fetchall()
 
         """Iteraring for each row in the database for alumni"""
         for alumni in rows:
+
 
             """Building the body in a json-like format for the boy of the POST request"""
             body = {
@@ -99,7 +109,8 @@ def upload_users():
                 "ucarpoolingprofile": {
                     "sex": alumni[settings.FIELDNAME_SEX.lower()],
                     "smoker": True if alumni[settings.FIELDNAME_SMOKER.lower()] == 'Si' else False,
-                    "musicTaste": alumni[settings.FIELDNAME_MUSIC_TASTE.lower()].split(", ")
+                    "musicTaste": alumni[settings.FIELDNAME_MUSIC_TASTE.lower()].split(", "),
+                    "eloquenceLevel": get_eloquence_level(alumni[settings.FIELDNAME_ELOQUENCE.lower()])
                 }
             }
 
@@ -108,7 +119,7 @@ def upload_users():
                 settings.USER_URL,
                 json=body,
                 headers={
-                    "Authorization": f'Token {settings.UCARPOOLING_APP_TOKEN}'  # Token og the Ucarpooling app
+                    "Authorization": f'Token {settings.UCARPOOLING_APP_TOKEN}'  # Token of the Ucarpooling app
                 }
             )
 

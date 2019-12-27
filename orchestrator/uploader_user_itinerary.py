@@ -10,6 +10,38 @@ import settings
 import helper
 
 
+def create_user_itinerary_database():
+    """Create the database for storing tokens and ids"""
+
+    try:
+        con = sqlite3.connect(settings.DATABASE)
+        con.row_factory = sqlite3.Row
+
+        cursorObj = con.cursor()
+        cursorObj.execute('drop table if exists ' + settings.DATABASE_TABLE_USER_ITINERARY)
+        cursorObj.execute(
+            "CREATE TABLE " + settings.DATABASE_TABLE_USER_ITINERARY + "(uuid integer PRIMARY KEY, useritinerary_id text)")
+        con.commit()
+        helper.warning_message("Created user itinerary database")
+
+
+    except Error:
+
+        print(Error)
+
+
+def store_useritinerary_id(con, cursorObj, useritinerary_id, alumni_id):
+
+    alumni_useritinerary = Table(settings.DATABASE_TABLE_USER_ITINERARY)
+
+    querystring = Query.into(alumni_useritinerary).insert(
+        alumni_id,
+        useritinerary_id
+    )
+    cursorObj.execute(querystring.get_sql())
+    con.commit()
+
+
 def upload_users_itinerary():
     """
     Uploads all the generated users profile to api/ucarpooling/users/
@@ -31,7 +63,7 @@ def upload_users_itinerary():
             .join(Table(settings.DATABASE_TABLE_CARS)) \
             .on_field('uuid') \
             .select('*')\
-            .limit(5)
+            .limit(20)
 
         # print(querystring.get_sql())
         """Executing the query"""
@@ -42,11 +74,11 @@ def upload_users_itinerary():
 
 
             """Building the body in a json-like format for the boy of the POST request"""
-            orige = f'{alumni[settings.FIELDNAME_LATITUDE.lower()]},{alumni[settings.FIELDNAME_LONGITUDE.lower()]}'
+            origen = f'{alumni[settings.FIELDNAME_LATITUDE.lower()]},{alumni[settings.FIELDNAME_LONGITUDE.lower()]}'
             toa = f'{date.today()}T{alumni[settings.FIELDNAME_TOA.lower()]}Z'
             body = {
                 "isDriver": True if alumni[settings.FIELDNAME_TRANSPORT.lower()] == 'Car' else False,
-                "origin": orige,
+                "origin": origen,
                 "destination": "-25.324491,-57.635437",  # Uca latitude and longitude
                 "timeOfArrival": toa
             }
@@ -71,6 +103,10 @@ def upload_users_itinerary():
 
             if response.status_code == 201:
                 helper.success_message(f'Uploaded successfully itinerary for alumni {alumni[settings.FIELDNAME_UUID.lower()]}')
+
+                body_response = response.json()
+                store_useritinerary_id(con, cursorObj, body_response['id'], alumni[settings.FIELDNAME_UUID.lower()])
+
             else:
                 helper.error_message(f'Error uploading itinerary for alumni {alumni[settings.FIELDNAME_UUID.lower()]} '
                                      f'---- status code: {response.status_code}: {response.reason}')
@@ -86,4 +122,5 @@ def upload_users_itinerary():
 
 
 if __name__ == "__main__":
+    create_user_itinerary_database()
     upload_users_itinerary()
