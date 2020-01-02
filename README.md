@@ -54,7 +54,18 @@ Para asignar las personas fumadoras:
 
 ### Simulador
 
-Para ejecutar el simulador se debe de crear primero los usuarios
+Para ejecutar el simulador primero se debe configurar los tokens:
+- Algun staff del back-end
+- La app de Ucarpooling
+
+Luego se deben crear las cuentas de usuarios
+- `python orchestrator/uploader_user.py`
+
+Luego se deben crear las los itinerarios de los usuarios
+- `python orchestrator/uploader_user_itinerary.py`
+
+Por ultimo se ejecuta el simulador
+- `python orchestrator/simulator.py`
 
 ## Estrucura del proyecto
 ```bash

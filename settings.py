@@ -96,8 +96,16 @@ DATABASE_TABLE_USER_ITINERARY = 'alumni_useritinerary'
 
 
 """Uploading to server settings"""
-SERVER_URL = 'http://127.0.0.1:56121'
-UCARPOOLING_APP_TOKEN = '6dbb6c8b9c9daeb66b64e6aaa7e8f3d338e4ac68'
-USER_URL = f'{SERVER_URL}/api/ucarpooling/users/'
-USER_ITINERARY_URL = f'{SERVER_URL}/api/ucarpooling/itinerary/'
-AUTH_TOKEN_URL = f'{SERVER_URL}/api/ucarpooling/auth-token/'
+BACKEND_STAFF_TOKEN = 'c214ea8ee2f8bcb2b79f925e969198cea3e36b80'
+SERVER_URL = 'http://127.0.0.1:56943'
+API_URL = f'{SERVER_URL}/api/ucarpooling'
+UCARPOOLING_APP_TOKEN = '88c69bc717cd1c3089405e73a8bc5eb9f657d4eb'
+USER_URL = f'{API_URL}/users/'
+USER_ITINERARY_URL = f'{API_URL}/itinerary/'
+AUTH_TOKEN_URL = f'{API_URL}/auth-token/'
+CARPOOL_URL = f'{API_URL}/carpool/'
+
+"""Simulator settings"""
+TOLERANCE_PERCENTAGE = 100.0
+ACCEPTANCE_THRESHOLD = 0.5
+POOLERS_LIMIT_PER_CAR = 4

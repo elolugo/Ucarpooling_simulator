@@ -91,7 +91,7 @@ def upload_users():
             .join(Table(settings.DATABASE_TABLE_MUSIC)) \
             .on_field('uuid') \
             .select('*')\
-            .limit(20)
+            .limit(100)
 
         """Executing the query"""
         rows = cursorObj.execute(querystring.get_sql()).fetchall()
@@ -116,7 +116,7 @@ def upload_users():
 
             "POST the alumni data to the API"
             response = requests.post(
-                settings.USER_URL,
+                url=settings.USER_URL,
                 json=body,
                 headers={
                     "Authorization": f'Token {settings.UCARPOOLING_APP_TOKEN}'  # Token of the Ucarpooling app

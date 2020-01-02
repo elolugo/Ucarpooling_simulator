@@ -63,7 +63,7 @@ def upload_users_itinerary():
             .join(Table(settings.DATABASE_TABLE_CARS)) \
             .on_field('uuid') \
             .select('*')\
-            .limit(20)
+            .limit(100)
 
         # print(querystring.get_sql())
         """Executing the query"""
@@ -94,7 +94,7 @@ def upload_users_itinerary():
 
             """POST request for the itinerary"""
             response = requests.post(
-                settings.USER_ITINERARY_URL,
+                url=settings.USER_ITINERARY_URL,
                 json=body,
                 headers={
                     "Authorization": f'Token {alumni_token}'  # Token og the Ucarpooling app
