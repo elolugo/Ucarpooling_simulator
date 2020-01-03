@@ -4,6 +4,7 @@ import sqlite3
 from sqlite3 import Error
 
 from pypika import Query, Table
+from chronometer import Chronometer
 from datetime import date
 
 import settings
@@ -63,53 +64,59 @@ def upload_users_itinerary():
             .join(Table(settings.DATABASE_TABLE_CARS)) \
             .on_field('uuid') \
             .select('*')\
-            .limit(100)
+            .limit(settings.LIMIT_USERS)
 
         # print(querystring.get_sql())
         """Executing the query"""
         rows = cursorObj.execute(querystring.get_sql()).fetchall()
 
-        """Iteraring for each row in the database for alumni"""
-        for alumni in rows:
+        with Chronometer() as time_uploading:
+
+            """Iteraring for each row in the database for alumni"""
+            for alumni in rows:
 
 
-            """Building the body in a json-like format for the boy of the POST request"""
-            origen = f'{alumni[settings.FIELDNAME_LATITUDE.lower()]},{alumni[settings.FIELDNAME_LONGITUDE.lower()]}'
-            toa = f'{date.today()}T{alumni[settings.FIELDNAME_TOA.lower()]}Z'
-            body = {
-                "isDriver": True if alumni[settings.FIELDNAME_TRANSPORT.lower()] == 'Car' else False,
-                "origin": origen,
-                "destination": "-25.324491,-57.635437",  # Uca latitude and longitude
-                "timeOfArrival": toa
-            }
-
-            """Getting the token of the alumni for the POST header"""
-            querystring = Query\
-                .from_(alumni_auth)\
-                .select(alumni_auth.token)\
-                .where(alumni_auth.uuid == alumni[settings.FIELDNAME_UUID.lower()])
-
-            cursorObj.execute(querystring.get_sql())
-            alumni_token = (cursorObj.fetchone())['token']
-
-            """POST request for the itinerary"""
-            response = requests.post(
-                url=settings.USER_ITINERARY_URL,
-                json=body,
-                headers={
-                    "Authorization": f'Token {alumni_token}'  # Token og the Ucarpooling app
+                """Building the body in a json-like format for the boy of the POST request"""
+                origen = f'{alumni[settings.FIELDNAME_LATITUDE.lower()]},{alumni[settings.FIELDNAME_LONGITUDE.lower()]}'
+                toa = f'{date.today()}T{alumni[settings.FIELDNAME_TOA.lower()]}Z'
+                body = {
+                    "isDriver": True if alumni[settings.FIELDNAME_TRANSPORT.lower()] == 'Car' else False,
+                    "origin": origen,
+                    "destination": "-25.324491,-57.635437",  # Uca latitude and longitude
+                    "timeOfArrival": toa
                 }
-            )
 
-            if response.status_code == 201:
-                helper.success_message(f'Uploaded successfully itinerary for alumni {alumni[settings.FIELDNAME_UUID.lower()]}')
+                """Getting the token of the alumni for the POST header"""
+                querystring = Query\
+                    .from_(alumni_auth)\
+                    .select(alumni_auth.token)\
+                    .where(alumni_auth.uuid == alumni[settings.FIELDNAME_UUID.lower()])
 
-                body_response = response.json()
-                store_useritinerary_id(con, cursorObj, body_response['id'], alumni[settings.FIELDNAME_UUID.lower()])
+                cursorObj.execute(querystring.get_sql())
+                alumni_token = (cursorObj.fetchone())['token']
 
-            else:
-                helper.error_message(f'Error uploading itinerary for alumni {alumni[settings.FIELDNAME_UUID.lower()]} '
-                                     f'---- status code: {response.status_code}: {response.reason}')
+                """POST request for the itinerary"""
+                response = requests.post(
+                    url=settings.USER_ITINERARY_URL,
+                    json=body,
+                    headers={
+                        "Authorization": f'Token {alumni_token}'  # Token og the Ucarpooling app
+                    }
+                )
+
+                if response.status_code == 201:
+                    helper.success_message(f'Uploaded successfully itinerary for alumni {alumni[settings.FIELDNAME_UUID.lower()]}')
+
+                    body_response = response.json()
+                    store_useritinerary_id(con, cursorObj, body_response['id'], alumni[settings.FIELDNAME_UUID.lower()])
+
+                else:
+                    helper.error_message(f'Error uploading itinerary for alumni {alumni[settings.FIELDNAME_UUID.lower()]} '
+                                         f'---- status code: {response.status_code}: {response.reason}')
+
+        """Uploading ended"""
+        helper.info_message('=================UPLOADING ENDED=====================')
+        helper.detail_message('Uploading runtime: {:.3f} seconds'.format(float(time_uploading)))
 
     except Error:
 

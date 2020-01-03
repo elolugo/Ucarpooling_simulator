@@ -42,7 +42,7 @@ def get_requesters():
             .on_field('uuid') \
             .select('*') \
             .where(cars.transport == 'Car') \
-            .limit(100)
+            .limit(settings.LIMIT_USERS)
 
         """Executing the query"""
         rows = cursorObj.execute(querystring.get_sql()).fetchall()
@@ -114,52 +114,64 @@ def simulator():
     """Variables for statistics in the simulation"""
     max_time = 0
     total_time = 0
+    total_errors = 0
 
     """Get the set of people that will request a carpooling partner"""
     rows = get_requesters()
 
-    helper.warning_message(f'==============STARTING SIMULATION=====================')
+    helper.info_message(f'==============STARTING SIMULATION=====================')
 
     """Iteraring for each row in the database for alumni"""
-    for alumni in rows:
+    with Chronometer() as time_simulation:
+        for alumni in rows:
 
-        print('=========================================')
+            print('=========================================')
 
-        alumni_token = alumni['token']
-        alumni_id = alumni[settings.FIELDNAME_UUID.lower()]
-        alumni_ucarpooling_id = alumni['ucarpoolingprofile_id']
-        alumni_useritinerary_id = alumni['useritinerary_id']
+            alumni_token = alumni['token']
+            alumni_id = alumni[settings.FIELDNAME_UUID.lower()]
+            alumni_ucarpooling_id = alumni['ucarpoolingprofile_id']
+            alumni_useritinerary_id = alumni['useritinerary_id']
 
-        "GET the matches for the alumni"
-        with Chronometer() as t:
-            response = requests.get(
-                url=get_matcher_url(alumni_useritinerary_id),
-                headers={
-                    "Authorization": f'Token {alumni_token}'
-                }
-            )
+            "GET the matches for the alumni"
+            with Chronometer() as time_matching:
+                response = requests.get(
+                    url=get_matcher_url(alumni_useritinerary_id),
+                    headers={
+                        "Authorization": f'Token {alumni_token}'
+                    }
+                )
 
-        """Time statistics for the matcher of the back-end"""
-        match_time = float(t)
-        helper.warning_message('Match for {} took {:.3f} seconds'.format(alumni_id, float(t)))
-        total_time += match_time
-        max_time = match_time if max_time < match_time else max_time
+            """Time statistics for the matcher of the back-end"""
+            match_time = float(time_matching)
+            helper.detail_message('Match for {} took {:.3f} seconds'.format(alumni_id, match_time))
+            total_time += match_time
+            max_time = match_time if max_time < match_time else max_time
 
-        if response.status_code == 200:
-            body_response = response.json()
-            if body_response:
+            if response.status_code == 200:
+                body_response = response.json()
                 partners = get_carpooling_partner(body_response)
                 if partners:
                     create_carpool(alumni_ucarpooling_id, partners, alumni_useritinerary_id)
                 else:
-                    helper.warning_message(f'No pooler partners for {alumni_id}')
+                    helper.warning_message(f'{alumni_id} had matches but did not travel with poolers')
             else:
-                helper.warning_message(f'No matches for {alumni_id}')
-        elif response.status_code == 420:
-            helper.warning_message(f'{alumni_id} is already in a carpool')
-        else:
-            helper.error_message(f'Error getting matches for alumni {alumni_id} '
-                                 f'---- status code: {response.status_code}: {response.reason}')
+                """The server did not respond a good result"""
+                total_errors += 1
+                if response.status_code == 420:
+                    helper.warning_message(f'{alumni_id} is already in a carpool')
+                elif response.status_code == 204:
+                    helper.no_matches_message(f'{alumni_id} did not have any matches')
+                else:
+
+                    helper.error_message(f'Error getting matches for alumni {alumni_id} '
+                                         f'---- status code: {response.status_code}: {response.reason}')
+
+        """The simulation ended"""
+        helper.info_message('=================SIMULATION ENDED=====================')
+        helper.detail_message(f'There was a total of {total_errors} errors')
+        helper.detail_message(f'Max total match time: {max_time} seconds')
+        helper.detail_message('Simulation runtime: {:.3f} seconds'.format(float(time_simulation)))
+
 
 
 if __name__ == "__main__":

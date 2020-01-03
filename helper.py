@@ -8,14 +8,29 @@ import random
 
 from termcolor import colored
 
+
 def warning_message(message):
     print(colored(message, "yellow"))
+
 
 def error_message(message):
     print(colored(message, "red"))
 
+
 def success_message(message):
     print(colored(message, "green"))
+
+
+def detail_message(message):
+    print(colored(message, "cyan"))
+
+
+def info_message(message):
+    print(colored(message, "grey"))
+
+
+def no_matches_message(message):
+    print(colored(message, "magenta"))
 
 
 def get_alumni_sapientia(row):

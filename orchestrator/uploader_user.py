@@ -4,6 +4,7 @@ import sqlite3
 from sqlite3 import Error
 
 from pypika import Query, Table
+from chronometer import Chronometer
 
 import settings
 import helper
@@ -91,46 +92,51 @@ def upload_users():
             .join(Table(settings.DATABASE_TABLE_MUSIC)) \
             .on_field('uuid') \
             .select('*')\
-            .limit(100)
+            .limit(settings.LIMIT_USERS)
 
         """Executing the query"""
         rows = cursorObj.execute(querystring.get_sql()).fetchall()
 
         """Iteraring for each row in the database for alumni"""
-        for alumni in rows:
+        with Chronometer() as time_uploading:
+            for alumni in rows:
 
 
-            """Building the body in a json-like format for the boy of the POST request"""
-            body = {
-                "email": f"{alumni[settings.FIELDNAME_UUID.lower()]}@mail.com",
-                "password": "12345678",
-                "first_name": str(alumni[settings.FIELDNAME_UUID.lower()]),
-                "last_name": str(alumni[settings.FIELDNAME_UUID.lower()]),
-                "ucarpoolingprofile": {
-                    "sex": alumni[settings.FIELDNAME_SEX.lower()],
-                    "smoker": True if alumni[settings.FIELDNAME_SMOKER.lower()] == 'Si' else False,
-                    "musicTaste": alumni[settings.FIELDNAME_MUSIC_TASTE.lower()].split(", "),
-                    "eloquenceLevel": get_eloquence_level(alumni[settings.FIELDNAME_ELOQUENCE.lower()])
+                """Building the body in a json-like format for the boy of the POST request"""
+                body = {
+                    "email": f"{alumni[settings.FIELDNAME_UUID.lower()]}@mail.com",
+                    "password": "12345678",
+                    "first_name": str(alumni[settings.FIELDNAME_UUID.lower()]),
+                    "last_name": str(alumni[settings.FIELDNAME_UUID.lower()]),
+                    "ucarpoolingprofile": {
+                        "sex": alumni[settings.FIELDNAME_SEX.lower()],
+                        "smoker": True if alumni[settings.FIELDNAME_SMOKER.lower()] == 'Si' else False,
+                        "musicTaste": alumni[settings.FIELDNAME_MUSIC_TASTE.lower()].split(", "),
+                        "eloquenceLevel": get_eloquence_level(alumni[settings.FIELDNAME_ELOQUENCE.lower()])
+                    }
                 }
-            }
 
-            "POST the alumni data to the API"
-            response = requests.post(
-                url=settings.USER_URL,
-                json=body,
-                headers={
-                    "Authorization": f'Token {settings.UCARPOOLING_APP_TOKEN}'  # Token of the Ucarpooling app
-                }
-            )
+                "POST the alumni data to the API"
+                response = requests.post(
+                    url=settings.USER_URL,
+                    json=body,
+                    headers={
+                        "Authorization": f'Token {settings.UCARPOOLING_APP_TOKEN}'  # Token of the Ucarpooling app
+                    }
+                )
 
-            if response.status_code == 201:
-                helper.success_message(f'Uploaded successfully alumni {alumni[settings.FIELDNAME_UUID.lower()]}')
+                if response.status_code == 201:
+                    helper.success_message(f'Uploaded successfully alumni {alumni[settings.FIELDNAME_UUID.lower()]}')
 
-                get_token(con, cursorObj, alumni)
+                    get_token(con, cursorObj, alumni)
 
-            else:
-                helper.error_message(f'Error uploading alumni {alumni[settings.FIELDNAME_UUID.lower()]} '
-                                     f'---- status code: {response.status_code}: {response.reason}')
+                else:
+                    helper.error_message(f'Error uploading alumni {alumni[settings.FIELDNAME_UUID.lower()]} '
+                                         f'---- status code: {response.status_code}: {response.reason}')
+
+            """Uploading ended"""
+            helper.info_message('=================UPLOADING ENDED=====================')
+            helper.detail_message('Uploading runtime: {:.3f} seconds'.format(float(time_uploading)))
 
     except Error:
 
@@ -140,6 +146,8 @@ def upload_users():
 
         """Closing the database connection"""
         con.close()
+
+
 
 
 if __name__ == "__main__":
