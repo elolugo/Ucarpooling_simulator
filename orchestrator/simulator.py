@@ -161,6 +161,7 @@ def simulator():
                     helper.warning_message(f'{alumni_id} is already in a carpool')
                 elif response.status_code == 204:
                     helper.no_matches_message(f'{alumni_id} did not have any matches')
+                    create_carpool(alumni_ucarpooling_id, [], alumni_useritinerary_id)
                 else:
 
                     helper.error_message(f'Error getting matches for alumni {alumni_id} '
