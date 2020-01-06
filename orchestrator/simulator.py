@@ -123,9 +123,16 @@ def simulator():
 
     """Iteraring for each row in the database for alumni"""
     with Chronometer() as time_simulation:
+
+        total_row_count = len(rows)
+        row_counter = 0
+        helper.info_message(f'{total_row_count} records to check matching')
+
         for alumni in rows:
 
             print('=========================================')
+            row_counter += 1
+            helper.info_message(f'Progress: {row_counter}/{total_row_count}')
 
             alumni_token = alumni['token']
             alumni_id = alumni[settings.FIELDNAME_UUID.lower()]
