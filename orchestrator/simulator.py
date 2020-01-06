@@ -123,9 +123,16 @@ def simulator():
 
     """Iteraring for each row in the database for alumni"""
     with Chronometer() as time_simulation:
+
+        total_row_count = len(rows)
+        row_counter = 0
+        helper.info_message(f'{total_row_count} records to check matching')
+
         for alumni in rows:
 
             print('=========================================')
+            row_counter += 1
+            helper.info_message(f'Progress: {row_counter}/{total_row_count}')
 
             alumni_token = alumni['token']
             alumni_id = alumni[settings.FIELDNAME_UUID.lower()]
@@ -161,6 +168,7 @@ def simulator():
                     helper.warning_message(f'{alumni_id} is already in a carpool')
                 elif response.status_code == 204:
                     helper.no_matches_message(f'{alumni_id} did not have any matches')
+                    create_carpool(alumni_ucarpooling_id, [], alumni_useritinerary_id)
                 else:
 
                     helper.error_message(f'Error getting matches for alumni {alumni_id} '

@@ -72,6 +72,7 @@ def upload_users_itinerary():
 
         with Chronometer() as time_uploading:
 
+
             """Iteraring for each row in the database for alumni"""
             for alumni in rows:
 
