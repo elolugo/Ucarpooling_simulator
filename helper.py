@@ -5,6 +5,7 @@ Helper functions that are used throughout all files on the project
 import datetime
 import settings
 import random
+import psycopg2
 
 from termcolor import colored
 
@@ -170,3 +171,27 @@ def assign_distribution_to_alumni_data(row_reader, csv_writer, distribution, col
 
         print(option + " was not assigned to anyone")
 
+
+def connect_server_database():
+    """Returns a connection object for executing sql queris in the django database"""
+
+    database = settings.DATABASE_SMARTTRAFFIC
+    app_con = psycopg2.connect(
+        database=database["NAME"],
+        user=database["USER"],
+        password=database["PASSWORD"],
+        host=database["HOST"],
+        port=database["PORT"]
+    )
+
+    database = settings.DATABASE_MAP
+    map_con = psycopg2.connect(
+        database=database["NAME"],
+        user=database["USER"],
+        password=database["PASSWORD"],
+        host=database["HOST"],
+        port=database["PORT"]
+    )
+
+    success_message("Databases connected")
+    return {'smarttraffic': app_con, 'map': map_con}

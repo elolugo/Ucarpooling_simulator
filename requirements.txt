@@ -2,3 +2,5 @@ flake8==3.7.9
 termcolor==1.1.0
 PyPika==0.35.16
 chronometer==1.0
+requests==2.22.0
+psycopg2-binary==2.8.4

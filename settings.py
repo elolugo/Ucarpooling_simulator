@@ -84,6 +84,23 @@ DATABASE = os.path.join(
     DATABASE_NAME
 )
 
+DATABASE_SMARTTRAFFIC = {
+    "NAME": "smarttraffic",
+    "USER": "postgres",
+    "PASSWORD": "postgres",
+    "HOST": "127.0.0.1",
+    "PORT": "5432",
+}
+
+DATABASE_MAP = {
+    "NAME": "asuncion",
+    "USER": "postgres",
+    "PASSWORD": "postgres",
+    "HOST": "127.0.0.1",
+    "PORT": "5432",
+}
+
+
 """Table names for database"""
 DATABASE_TABLE_ALUMNI = 'alumni'
 DATABASE_TABLE_CARS = 'alumni_cars'
@@ -96,10 +113,10 @@ DATABASE_TABLE_USER_ITINERARY = 'alumni_useritinerary'
 
 
 """Uploading to server settings"""
-BACKEND_STAFF_TOKEN = 'c214ea8ee2f8bcb2b79f925e969198cea3e36b80'
-SERVER_URL = 'http://127.0.0.1:52679'
+BACKEND_STAFF_TOKEN = '00cc9b7f5106078fb734d998f255daf92a1628f8'
+SERVER_URL = 'http://127.0.0.1:51328'
 API_URL = f'{SERVER_URL}/api/ucarpooling'
-UCARPOOLING_APP_TOKEN = '88c69bc717cd1c3089405e73a8bc5eb9f657d4eb'
+UCARPOOLING_APP_TOKEN = 'ee27d9ae740016bfbf1a903c154eb4439b03afaa'
 USER_URL = f'{API_URL}/users/'
 USER_ITINERARY_URL = f'{API_URL}/itinerary/'
 AUTH_TOKEN_URL = f'{API_URL}/auth-token/'
