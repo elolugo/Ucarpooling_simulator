@@ -1,8 +1,8 @@
 import os
 
-
-ASSIGN_PERSONALITY_DIRECTORY = 'assign_personality'
 PROJECT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
+ASSIGN_PERSONALITY_DIRECTORY = 'assign_personality'
+REPORTS_DIRECTORY = 'reports'
 
 SOURCE_DIRECTORY = 'source_data'
 OUTPUT_DIRECTORY = 'output_data'
@@ -59,6 +59,20 @@ CSV_ASSIGNED_ITINERARY_FILE_PATH = os.path.join(
     ASSIGN_PERSONALITY_DIRECTORY,
     OUTPUT_DIRECTORY,
     'Alumnos_profiles_itinerary.csv'
+)
+
+"""Reports files path"""
+CSV_REPORT_CARS_FILE_PATH = os.path.join(
+    PROJECT_DIRECTORY,
+    REPORTS_DIRECTORY,
+    OUTPUT_DIRECTORY,
+    'cars.csv'
+)
+CSV_REPORT_DISTANCE_FILE_PATH = os.path.join(
+    PROJECT_DIRECTORY,
+    REPORTS_DIRECTORY,
+    OUTPUT_DIRECTORY,
+    'distance.csv'
 )
 
 
